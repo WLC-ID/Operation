@@ -75,7 +75,7 @@ def get_folder_size(folder_path):
             total_size += os.path.getsize(file_path)
     return total_size/1024
 
-input_dir = "./textures-compressed-639430"
+input_dir = "./textures"
 output_dir = "./textures-compressed-" + str(current_time_unix % 1000000)
 before = get_folder_size(input_dir)
 print(f"Before: {before:.2f} KB.")
