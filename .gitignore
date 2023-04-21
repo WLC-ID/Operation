@@ -2,3 +2,6 @@ Backup
 textures
 textures*
 .idea
+__pycache__
+generated-*.yml
+*.txt
