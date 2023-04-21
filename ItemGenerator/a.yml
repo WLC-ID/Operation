@@ -1,0 +1,38 @@
+DA1_001_01:
+  base:
+    material: STONE_SWORD
+    name: <#cc6e00>Stilleto <#6B6666>[<#23f108>Lvl.1<#6B6666>]
+    displayed-type: Dagger
+    attack-damage: 6.5
+    lore:
+    - "&7&o\"All who seek thrill has this one's hip"
+    - "&7&snaking it's way to every combat.\""
+    attack-speed: 3.0
+    critical-strike-chance: 10
+    critical-strike-power: 50
+    ability:
+      ability1:
+        type: BACKSTEP
+        mode: RIGHT_CLICK
+        cooldown: 5.0
+      ability2:
+        type: BACKSTAB
+        extra: 10.0
+        mode: ATTACK
+    abilities_lore:
+    - ' &6Backstep &7(&eRight Click&7)'
+    - ' &7Dash back and gain SPEED II for &e3s'
+    - ' &7Cooldown : &e5s'
+    - ' &6Backstab &7(&ePassive&7)'
+    - ' &7Deal &e10% &7&7more damage'
+    - ' &7When damaging enemy from behind'
+    lore-format: common
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    unbreakable: true
+    tier: common
+    custom-model-data: 2.0
+    revision-id: 4
