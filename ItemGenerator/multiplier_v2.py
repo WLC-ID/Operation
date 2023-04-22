@@ -77,45 +77,42 @@ def process_template(result, directory, value):
         if (type(cursor) is dict):
             cursor = cursor[section]
 
-MODIFIERDATA = input("Modifier File: ")
-if (len(MODIFIERDATA) > 0):
-    if (MODIFIERDATA.endswith('.csv') == False):
-        MODIFIERDATA += ".csv"
-    print(f"Processing {MODIFIERDATA}")
-    modifierData = []
-    with open(MODIFIERDATA, "r") as f:
-        modifierFile = csv.DictReader(f)
-        for each in modifierFile:
-            modifierData.append(each)
-    for each in modifierData:
-        ITEM_NAME = TEMPLATE_PREFIX + format(int(each['level']), '02')
-        result = copy.deepcopy(data[TEMPLATE])
-        result['level'] = int(each['level'])
-        for dir in each.keys():
-            if (dir == 'level'):
-                continue
-            process_template(result, dir, each[dir])
-        data[ITEM_NAME] = result
+FILENAME = TEMPLATE_SPLIT[0] + "_" + TEMPLATE_SPLIT[1] + ".csv"
+MODIFIERDATA = "./item/" + FILENAME
+print(f"Processing {MODIFIERDATA}")
+modifierData = []
+with open(MODIFIERDATA, "r") as f:
+    modifierFile = csv.DictReader(f)
+    for each in modifierFile:
+        modifierData.append(each)
+for each in modifierData:
+    ITEM_NAME = TEMPLATE_PREFIX + format(int(each['level']), '02')
+    result = copy.deepcopy(data[TEMPLATE])
+    result['level'] = int(each['level'])
+    for dir in each.keys():
+        if (dir == 'level'):
+            continue
+        process_template(result, dir, each[dir])
+    data[ITEM_NAME] = result
 
-LAMBDADATA = input("Lambda File: ")
-if (len(LAMBDADATA) > 0):
-    if (LAMBDADATA.endswith('.csv') == False):
-        LAMBDADATA += ".csv"
-    print(f"Processing {LAMBDADATA}")
-    lambdaData = []
-    with open(LAMBDADATA, "r") as f:
-        lambdaFile = csv.DictReader(f)
-        for each in lambdaFile:
-            lambdaData.append(each)
+LAMBDADATA = "./lambda/" + FILENAME
+if (LAMBDADATA.endswith('.csv') == False):
+    LAMBDADATA += ".csv"
+print(f"Processing {LAMBDADATA}")
+lambdaData = []
+with open(LAMBDADATA, "r") as f:
+    lambdaFile = csv.DictReader(f)
+    for each in lambdaFile:
+        lambdaData.append(each)
+for l in lambdaData:
+    fx = eval(l['function'])
+    l['function'] = fx
+for each in data:
     for l in lambdaData:
-        fx = eval(l['function'])
-        l['function'] = fx
-    for each in data:
-        for l in lambdaData:
-            process_lambda(data[each], l['directory'], l['function'], data[each]['level'])
+        process_lambda(data[each], l['directory'], l['function'], data[each]['level'])
 
 for each in data:
     del data[each]['level']
 
-with open("generated-" + str(current_time_unix % 1000000) + ".yml", "w") as f:
+with open(f"./generated/{TEMPLATE_SPLIT[0]}_{TEMPLATE_SPLIT[1]}-{str(current_time_unix % 1000000)}.yml", "w") as f:
     yaml.dump(dict(data), f, sort_keys=False)

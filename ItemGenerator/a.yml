@@ -1,31 +1,16 @@
-DA1_001_01:
+AX1_001_01:
   base:
-    material: STONE_SWORD
-    name: <#cc6e00>Stilleto <#6B6666>[<#23f108>Lvl.1<#6B6666>]
-    displayed-type: Dagger
-    attack-damage: 6.5
+    material: STONE_AXE
+    name: <#804B28>Wedged Axe <#6B6666>[<#23f108>Lvl.1<#6B6666>]
+    displayed-type: Axe
+    attack-damage: 11.5
     lore:
-    - "&7&o\"All who seek thrill has this one's hip"
-    - "&7&snaking it's way to every combat.\""
-    attack-speed: 3.0
-    critical-strike-chance: 10
-    critical-strike-power: 50
-    ability:
-      ability1:
-        type: BACKSTEP
-        mode: RIGHT_CLICK
-        cooldown: 5.0
-      ability2:
-        type: BACKSTAB
-        extra: 10.0
-        mode: ATTACK
-    abilities_lore:
-    - ' &6Backstep &7(&eRight Click&7)'
-    - ' &7Dash back and gain SPEED II for &e3s'
-    - ' &7Cooldown : &e5s'
-    - ' &6Backstab &7(&ePassive&7)'
-    - ' &7Deal &e10% &7&7more damage'
-    - ' &7When damaging enemy from behind'
+    - ' &7&o"An axe so heavy that it sinks '
+    - ' &7&ointo the ground."'
+    attack-speed: 1.2
+    critical-strike-chance: 7.0
+    critical-strike-power: 85.0
+    tier: COMMON
     lore-format: common
     disable-enchanting: true
     disable-smithing: true
@@ -33,6 +18,22 @@ DA1_001_01:
     disable-crafting: true
     disable-repairing: true
     unbreakable: true
-    tier: common
-    custom-model-data: 2.0
-    revision-id: 4
+    ability:
+      ability1:
+        type: ECHO_ATTACK
+        mode: ATTACK
+        damage-percent: 1.5
+        cooldown: 8.0
+      ability2:
+        type: STUN
+        mode: ATTACK
+        duration: 1.0
+        cooldown: 8.0
+    abilities_lore:
+    - ' &6Heavy Smash &7(&eAttack&7)'
+    - ' &7Increase the next damage dealt by &e50%'
+    - ' &7and stun target for &e1s'
+    - ' &7Cooldown : &e8s'
+    custom-model-data: 1.0
+    revision-id: 5
+    disable-interaction: true

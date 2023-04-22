@@ -5,3 +5,4 @@ textures*
 __pycache__
 generated-*.yml
 *.txt
+**/generated/*.yml
