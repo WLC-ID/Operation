@@ -1,0 +1,4 @@
+directory,function
+name,"lambda x,y: f""<#2B6B97>Broken Broadsword <#6B6666>[{color(x)}Lvl.{x}<#6B6666>]"""
+abilities_lore.2,"lambda x,y: f"" &7Cooldown : &e{y['ability@1']['cooldown']}s"""
+abilities_lore.1,"lambda x,y: f"" &7Deal &e{y['ability@1']['damage']} &7damage in a 3 radius circle"""

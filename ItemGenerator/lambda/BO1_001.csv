@@ -1,0 +1,4 @@
+directory,function
+name,"lambda x,y: f""<#8C3B05>Hunting Bow <#6B6666>[{color(x)}Lvl.{x}<#6B6666>]"""
+abilities_lore.3,"lambda x,y: f"" &7Cooldown : &e{y['ability@1']['cooldown']}s"""
+abilities_lore.2,"lambda x,y: f"" &7target hp by &e({y['ability@1']['damage']} + {int(y['ability@1']['extra'])}% * %Missing HP)"""

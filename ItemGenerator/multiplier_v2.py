@@ -45,10 +45,14 @@ TEMPLATE_PREFIX = TEMPLATE_SPLIT[0] + "_" + TEMPLATE_SPLIT[1] + "_"
 print(f"Found: {TEMPLATE_PREFIX}")
 
 def process_lambda(obj, directory, fx, level):
+    if ('ability@' in directory):
+        directory = directory.replace('ability@','ability.ability')
     process_template(obj, directory, fx(level, obj['base']))
 
 def process_template(result, directory, value):
     cursor = result['base']
+    if ('ability@' in directory):
+        directory = directory.replace('ability@','ability.ability')
     sections = directory.split(".")
     N = len(sections)
     for num, section in enumerate(sections,1):
@@ -105,6 +109,8 @@ with open(LAMBDADATA, "r") as f:
     for each in lambdaFile:
         lambdaData.append(each)
 for l in lambdaData:
+    if ('ability@' in l['function']):
+        l['function'] = l['function'].replace('ability@','ability\'][\'ability')
     fx = eval(l['function'])
     l['function'] = fx
 for each in data:

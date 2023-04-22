@@ -1,5 +1,6 @@
 directory,function
 name,"lambda x,y: f""<#804B28>Wedged Axe <#6B6666>[{color(x)}Lvl.{x}<#6B6666>]"""
-abilities_lore.3,"lambda x,y: f"" &7Cooldown : &e{int(y['ability']['ability1']['cooldown'])}s"""
-abilities_lore.2,"lambda x,y: f"" &7and stun target for &e{int(y['ability']['ability2']['duration'])}s"""
-ability.ability2.cooldown,"lambda x,y: y['ability']['ability1']['cooldown']"
+abilities_lore.3,"lambda x,y: f"" &7Cooldown : &e{y['ability@1']['cooldown']}s"""
+abilities_lore.2,"lambda x,y: f"" &7and stun target for &e{y['ability@2']['duration']}s"""
+ability@2.cooldown,"lambda x,y: y['ability@1']['cooldown']"
+abilities_lore.1,"lambda x,y: f"" &7Increase the next damage dealt by &e{int(100*(y['ability@1']['damage-percent']))-100}%"""

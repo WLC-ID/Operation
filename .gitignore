@@ -6,3 +6,4 @@ __pycache__
 generated-*.yml
 *.txt
 **/generated/*.yml
+table.yml

@@ -1,16 +1,27 @@
-AX1_001_01:
+BS1_001_01:
   base:
-    material: STONE_AXE
-    name: <#804B28>Wedged Axe <#6B6666>[<#23f108>Lvl.1<#6B6666>]
-    displayed-type: Axe
-    attack-damage: 11.5
+    material: STONE_SWORD
+    name: <#2B6B97>Broken Broadsword <#6B6666>[<#23f108>Lvl.1<#6B6666>]
+    displayed-type: Broadsword
+    attack-damage: 11.50
     lore:
-    - ' &7&o"An axe so heavy that it sinks '
-    - ' &7&ointo the ground."'
+    - '&7&o"The glory of combat has long gone'
+    - '&7&oit has yet to reach its true potential."'
     attack-speed: 1.2
     critical-strike-chance: 7.0
     critical-strike-power: 85.0
-    tier: COMMON
+    ability:
+      ability1:
+        type: CIRCULAR_SLASH
+        mode: RIGHT_CLICK
+        cooldown: 9.0
+        knockback: 0.0
+        damage: 6.0
+    abilities_lore:
+    - ' &6Moon Slash &7(&eRight Click&7)'
+    - ' &7Deal &e6 &7damage in a 3 radius circle'
+    - ' &7Cooldown : &e9s'
+    tier: common
     lore-format: common
     disable-enchanting: true
     disable-smithing: true
@@ -18,22 +29,6 @@ AX1_001_01:
     disable-crafting: true
     disable-repairing: true
     unbreakable: true
-    ability:
-      ability1:
-        type: ECHO_ATTACK
-        mode: ATTACK
-        damage-percent: 1.5
-        cooldown: 8.0
-      ability2:
-        type: STUN
-        mode: ATTACK
-        duration: 1.0
-        cooldown: 8.0
-    abilities_lore:
-    - ' &6Heavy Smash &7(&eAttack&7)'
-    - ' &7Increase the next damage dealt by &e50%'
-    - ' &7and stun target for &e1s'
-    - ' &7Cooldown : &e8s'
     custom-model-data: 1.0
     revision-id: 5
-    disable-interaction: true
+    item-batch: Starter
