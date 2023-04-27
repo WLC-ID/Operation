@@ -1,0 +1,254 @@
+# Template: KA2_001_XXX. Digest: c9a188230a7a5eb61bc02d295c0178ae. Base36: BXQEN3N57IYZJPW41V8JZQQPA
+# Generated at 28/04/2023 00:41:28. Digest: 601593cde542cfdad8d4664e7220cb71. Base36: 5OS714KHX1HIYDU5I4CBQJ629.
+KA2_001_01:
+  base:
+    material: STONE_SWORD
+    name: <#D4AF37>Itomaki Tachi <#6B6666>[<#23f108>Lvl.1<#6B6666>]
+    displayed-type: Katana
+    attack-damage: 13.2
+    critical-strike-chance: 16.25
+    critical-strike-power: 65.16
+    movement-speed: 0.052
+    lore:
+    - ' &7&o"Elegant deadly blade crafted'
+    - ' &7&owith utmost precision and skill."'
+    abilities_lore:
+    - ' &6Slash &7(&eRight Click&7)'
+    - ' &7Charge 1s then dash forward for &e0.75s&7 and'
+    - ' &7deal &e14.0&7 damage to enemies passed through.'
+    - ' &7Cooldown : &e8.0s&7, Mana Cost : &e8.0'
+    attack-speed: 1.6
+    tier: rare
+    ability:
+      ability1:
+        type: LIGHT_DASH
+        mode: RIGHT_CLICK
+        damage: 14.0
+        cooldown: 8.0
+        mana: 8.0
+        delay: 1.0
+        length: 0.75
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    unbreakable: true
+    revision-id: 1
+    item-batch: Starter
+KA2_001_02:
+  base:
+    material: STONE_SWORD
+    name: <#D4AF37>Itomaki Tachi <#6B6666>[<#73da00>Lvl.2<#6B6666>]
+    displayed-type: Katana
+    attack-damage: 13.84
+    critical-strike-chance: 16.94
+    critical-strike-power: 65.76
+    movement-speed: 0.059
+    lore:
+    - ' &7&o"Elegant deadly blade crafted'
+    - ' &7&owith utmost precision and skill."'
+    abilities_lore:
+    - ' &6Slash &7(&eRight Click&7)'
+    - ' &7Charge 1s then dash forward for &e0.75s&7 and'
+    - ' &7deal &e15.5&7 damage to enemies passed through.'
+    - ' &7Cooldown : &e8.0s&7, Mana Cost : &e8.0'
+    attack-speed: 1.6
+    tier: rare
+    ability:
+      ability1:
+        type: LIGHT_DASH
+        mode: RIGHT_CLICK
+        damage: 15.5
+        cooldown: 8.0
+        mana: 8.0
+        delay: 1.0
+        length: 0.75
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    unbreakable: true
+    revision-id: 1
+    item-batch: Starter
+KA2_001_03:
+  base:
+    material: STONE_SWORD
+    name: <#D4AF37>Itomaki Tachi <#6B6666>[<#96c100>Lvl.3<#6B6666>]
+    displayed-type: Katana
+    attack-damage: 14.52
+    critical-strike-chance: 17.66
+    critical-strike-power: 66.39
+    movement-speed: 0.067
+    lore:
+    - ' &7&o"Elegant deadly blade crafted'
+    - ' &7&owith utmost precision and skill."'
+    abilities_lore:
+    - ' &6Slash &7(&eRight Click&7)'
+    - ' &7Charge 1s then dash forward for &e0.75s&7 and'
+    - ' &7deal &e17.0&7 damage to enemies passed through.'
+    - ' &7Cooldown : &e8.0s&7, Mana Cost : &e8.0'
+    attack-speed: 1.6
+    tier: rare
+    ability:
+      ability1:
+        type: LIGHT_DASH
+        mode: RIGHT_CLICK
+        damage: 17.0
+        cooldown: 8.0
+        mana: 8.0
+        delay: 1.0
+        length: 0.75
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    unbreakable: true
+    revision-id: 1
+    item-batch: Starter
+KA2_001_04:
+  base:
+    material: STONE_SWORD
+    name: <#D4AF37>Itomaki Tachi <#6B6666>[<#aca800>Lvl.4<#6B6666>]
+    displayed-type: Katana
+    attack-damage: 15.22
+    critical-strike-chance: 18.41
+    critical-strike-power: 67.05
+    movement-speed: 0.075
+    lore:
+    - ' &7&o"Elegant deadly blade crafted'
+    - ' &7&owith utmost precision and skill."'
+    abilities_lore:
+    - ' &6Slash &7(&eRight Click&7)'
+    - ' &7Charge 1s then dash forward for &e0.75s&7 and'
+    - ' &7deal &e18.5&7 damage to enemies passed through.'
+    - ' &7Cooldown : &e8.0s&7, Mana Cost : &e8.0'
+    attack-speed: 1.6
+    tier: rare
+    ability:
+      ability1:
+        type: LIGHT_DASH
+        mode: RIGHT_CLICK
+        damage: 18.5
+        cooldown: 8.0
+        mana: 8.0
+        delay: 1.0
+        length: 0.75
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    unbreakable: true
+    revision-id: 1
+    item-batch: Starter
+KA2_001_05:
+  base:
+    material: STONE_SWORD
+    name: <#D4AF37>Itomaki Tachi <#6B6666>[<#bb8e00>Lvl.5<#6B6666>]
+    displayed-type: Katana
+    attack-damage: 15.96
+    critical-strike-chance: 19.2
+    critical-strike-power: 67.73
+    movement-speed: 0.084
+    lore:
+    - ' &7&o"Elegant deadly blade crafted'
+    - ' &7&owith utmost precision and skill."'
+    abilities_lore:
+    - ' &6Slash &7(&eRight Click&7)'
+    - ' &7Charge 1s then dash forward for &e0.75s&7 and'
+    - ' &7deal &e20.0&7 damage to enemies passed through.'
+    - ' &7Cooldown : &e8.0s&7, Mana Cost : &e8.0'
+    attack-speed: 1.6
+    tier: rare
+    ability:
+      ability1:
+        type: LIGHT_DASH
+        mode: RIGHT_CLICK
+        damage: 20.0
+        cooldown: 8.0
+        mana: 8.0
+        delay: 1.0
+        length: 0.75
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    unbreakable: true
+    revision-id: 1
+    item-batch: Starter
+KA2_001_06:
+  base:
+    material: STONE_SWORD
+    name: <#D4AF37>Itomaki Tachi <#6B6666>[<#c37300>Lvl.6<#6B6666>]
+    displayed-type: Katana
+    attack-damage: 16.73
+    critical-strike-chance: 20.02
+    critical-strike-power: 68.45
+    movement-speed: 0.093
+    lore:
+    - ' &7&o"Elegant deadly blade crafted'
+    - ' &7&owith utmost precision and skill."'
+    abilities_lore:
+    - ' &6Slash &7(&eRight Click&7)'
+    - ' &7Charge 1s then dash forward for &e0.75s&7 and'
+    - ' &7deal &e21.5&7 damage to enemies passed through.'
+    - ' &7Cooldown : &e8.0s&7, Mana Cost : &e8.0'
+    attack-speed: 1.6
+    tier: rare
+    ability:
+      ability1:
+        type: LIGHT_DASH
+        mode: RIGHT_CLICK
+        damage: 21.5
+        cooldown: 8.0
+        mana: 8.0
+        delay: 1.0
+        length: 0.75
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    unbreakable: true
+    revision-id: 1
+    item-batch: Starter
+KA2_001_07:
+  base:
+    material: STONE_SWORD
+    name: <#D4AF37>Itomaki Tachi <#6B6666>[<#c55700>Lvl.7<#6B6666>]
+    displayed-type: Katana
+    attack-damage: 17.52
+    critical-strike-chance: 20.87
+    critical-strike-power: 69.2
+    movement-speed: 0.103
+    lore:
+    - ' &7&o"Elegant deadly blade crafted'
+    - ' &7&owith utmost precision and skill."'
+    abilities_lore:
+    - ' &6Slash &7(&eRight Click&7)'
+    - ' &7Charge 1s then dash forward for &e0.75s&7 and'
+    - ' &7deal &e23.0&7 damage to enemies passed through.'
+    - ' &7Cooldown : &e8.0s&7, Mana Cost : &e8.0'
+    attack-speed: 1.6
+    tier: rare
+    ability:
+      ability1:
+        type: LIGHT_DASH
+        mode: RIGHT_CLICK
+        damage: 23.0
+        cooldown: 8.0
+        mana: 8.0
+        delay: 1.0
+        length: 0.75
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    unbreakable: true
+    revision-id: 1
+    item-batch: Starter

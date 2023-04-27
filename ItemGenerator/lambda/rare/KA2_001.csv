@@ -1,0 +1,10 @@
+directory,function
+attack-damage,"pi(x,13.1,11,11)"
+critical-strike-chance,"pi(x,16.1,15,15)"
+critical-strike-power,"pi(x,65.1,7,7)"
+movement-speed,"round(pi(x*1.25,5,5,5)/100,3)"
+ability@1.damage,"14+((x-1))*3/2"
+name,"f""<#D4AF37>Itomaki Tachi <#6B6666>[{color(x)}Lvl.{x}<#6B6666>]"""
+abilities_lore.3,"f"" &7Cooldown : &e{$ability@1.cooldown$}s&7, Mana Cost : &e{$ability@1.mana$}"""
+abilities_lore.2,"f"" &7deal &e{$ability@1.damage$}&7 damage to enemies passed through."""
+abilities_lore.1,"f"" &7Charge 1s then dash forward for &e{$ability@1.length$}s&7 and"""

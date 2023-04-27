@@ -5,7 +5,7 @@ SW1_001_01:
     displayed-type: Sword
     attack-damage: 10.0
     lore:
-    - ' &7&o"A sword that once belonged to a hero.'
+    - ' &7&o"A sword that once belonged to a hero,'
     - ' &7&othe glory fading, now naught but rust."'
     abilities_lore:
     - ' &6Empower &7(&eAttack&7)'
@@ -38,7 +38,7 @@ SW1_001_02:
     displayed-type: Sword
     attack-damage: 10.54
     lore:
-    - ' &7&o"A sword that once belonged to a hero.'
+    - ' &7&o"A sword that once belonged to a hero,'
     - ' &7&othe glory fading, now naught but rust."'
     abilities_lore:
     - ' &6Empower &7(&eAttack&7)'
@@ -71,7 +71,7 @@ SW1_001_03:
     displayed-type: Sword
     attack-damage: 11.11
     lore:
-    - ' &7&o"A sword that once belonged to a hero.'
+    - ' &7&o"A sword that once belonged to a hero,'
     - ' &7&othe glory fading, now naught but rust."'
     abilities_lore:
     - ' &6Empower &7(&eAttack&7)'
@@ -104,7 +104,7 @@ SW1_001_04:
     displayed-type: Sword
     attack-damage: 11.7
     lore:
-    - ' &7&o"A sword that once belonged to a hero.'
+    - ' &7&o"A sword that once belonged to a hero,'
     - ' &7&othe glory fading, now naught but rust."'
     abilities_lore:
     - ' &6Empower &7(&eAttack&7)'
@@ -137,7 +137,7 @@ SW1_001_05:
     displayed-type: Sword
     attack-damage: 12.33
     lore:
-    - ' &7&o"A sword that once belonged to a hero.'
+    - ' &7&o"A sword that once belonged to a hero,'
     - ' &7&othe glory fading, now naught but rust."'
     abilities_lore:
     - ' &6Empower &7(&eAttack&7)'
@@ -170,7 +170,7 @@ SW1_001_06:
     displayed-type: Sword
     attack-damage: 12.98
     lore:
-    - ' &7&o"A sword that once belonged to a hero.'
+    - ' &7&o"A sword that once belonged to a hero,'
     - ' &7&othe glory fading, now naught but rust."'
     abilities_lore:
     - ' &6Empower &7(&eAttack&7)'
@@ -203,7 +203,7 @@ SW1_001_07:
     displayed-type: Sword
     attack-damage: 13.66
     lore:
-    - ' &7&o"A sword that once belonged to a hero.'
+    - ' &7&o"A sword that once belonged to a hero,'
     - ' &7&othe glory fading, now naught but rust."'
     abilities_lore:
     - ' &6Empower &7(&eAttack&7)'
@@ -236,7 +236,7 @@ SW1_001_08:
     displayed-type: Sword
     attack-damage: 14.37
     lore:
-    - ' &7&o"A sword that once belonged to a hero.'
+    - ' &7&o"A sword that once belonged to a hero,'
     - ' &7&othe glory fading, now naught but rust."'
     abilities_lore:
     - ' &6Empower &7(&eAttack&7)'
@@ -269,7 +269,7 @@ SW1_001_09:
     displayed-type: Sword
     attack-damage: 15.1
     lore:
-    - ' &7&o"A sword that once belonged to a hero.'
+    - ' &7&o"A sword that once belonged to a hero,'
     - ' &7&othe glory fading, now naught but rust."'
     abilities_lore:
     - ' &6Empower &7(&eAttack&7)'

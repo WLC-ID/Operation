@@ -6,7 +6,7 @@ DA1_001_01:
     attack-damage: 6.5
     lore:
     - ' &7&o"All who seek thrill has this one''s hip'
-    - ' &7&snaking it''s way to every combat."'
+    - ' &7&osnaking it''s way to every combat."'
     attack-speed: 3.0
     movement-speed: 0.03
     ability:
@@ -46,7 +46,7 @@ DA1_001_02:
     attack-damage: 7.04
     lore:
     - ' &7&o"All who seek thrill has this one''s hip'
-    - ' &7&snaking it''s way to every combat."'
+    - ' &7&osnaking it''s way to every combat."'
     attack-speed: 3.0
     movement-speed: 0.035
     ability:
@@ -86,7 +86,7 @@ DA1_001_03:
     attack-damage: 7.61
     lore:
     - ' &7&o"All who seek thrill has this one''s hip'
-    - ' &7&snaking it''s way to every combat."'
+    - ' &7&osnaking it''s way to every combat."'
     attack-speed: 3.0
     movement-speed: 0.041
     ability:
@@ -126,7 +126,7 @@ DA1_001_04:
     attack-damage: 8.2
     lore:
     - ' &7&o"All who seek thrill has this one''s hip'
-    - ' &7&snaking it''s way to every combat."'
+    - ' &7&osnaking it''s way to every combat."'
     attack-speed: 3.0
     movement-speed: 0.047
     ability:
@@ -166,7 +166,7 @@ DA1_001_05:
     attack-damage: 8.83
     lore:
     - ' &7&o"All who seek thrill has this one''s hip'
-    - ' &7&snaking it''s way to every combat."'
+    - ' &7&osnaking it''s way to every combat."'
     attack-speed: 3.0
     movement-speed: 0.053
     ability:
@@ -206,7 +206,7 @@ DA1_001_06:
     attack-damage: 9.48
     lore:
     - ' &7&o"All who seek thrill has this one''s hip'
-    - ' &7&snaking it''s way to every combat."'
+    - ' &7&osnaking it''s way to every combat."'
     attack-speed: 3.0
     movement-speed: 0.06
     ability:
@@ -246,7 +246,7 @@ DA1_001_07:
     attack-damage: 10.16
     lore:
     - ' &7&o"All who seek thrill has this one''s hip'
-    - ' &7&snaking it''s way to every combat."'
+    - ' &7&osnaking it''s way to every combat."'
     attack-speed: 3.0
     movement-speed: 0.067
     ability:
@@ -286,7 +286,7 @@ DA1_001_08:
     attack-damage: 10.87
     lore:
     - ' &7&o"All who seek thrill has this one''s hip'
-    - ' &7&snaking it''s way to every combat."'
+    - ' &7&osnaking it''s way to every combat."'
     attack-speed: 3.0
     movement-speed: 0.074
     ability:
@@ -326,7 +326,7 @@ DA1_001_09:
     attack-damage: 11.6
     lore:
     - ' &7&o"All who seek thrill has this one''s hip'
-    - ' &7&snaking it''s way to every combat."'
+    - ' &7&osnaking it''s way to every combat."'
     attack-speed: 3.0
     movement-speed: 0.081
     ability:

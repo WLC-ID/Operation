@@ -4,7 +4,7 @@ MA1_001_01:
     name: <#7E0C9F>Cursed Book <#6B6666>[<#23f108>Lvl.1<#6B6666>]
     attack-damage: 9.5
     lore:
-    - ' &7&o"Penned in an unknown method of writing'
+    - ' &7&o"Penned in an unknown method of writing.'
     - ' &7&oIt has countless forbidden knowledge."'
     attack-speed: 1.6
     range: 12
@@ -38,7 +38,7 @@ MA1_001_02:
     name: <#7E0C9F>Cursed Book <#6B6666>[<#73da00>Lvl.2<#6B6666>]
     attack-damage: 10.04
     lore:
-    - ' &7&o"Penned in an unknown method of writing'
+    - ' &7&o"Penned in an unknown method of writing.'
     - ' &7&oIt has countless forbidden knowledge."'
     attack-speed: 1.6
     range: 12
@@ -72,7 +72,7 @@ MA1_001_03:
     name: <#7E0C9F>Cursed Book <#6B6666>[<#96c100>Lvl.3<#6B6666>]
     attack-damage: 10.61
     lore:
-    - ' &7&o"Penned in an unknown method of writing'
+    - ' &7&o"Penned in an unknown method of writing.'
     - ' &7&oIt has countless forbidden knowledge."'
     attack-speed: 1.6
     range: 13
@@ -106,7 +106,7 @@ MA1_001_04:
     name: <#7E0C9F>Cursed Book <#6B6666>[<#aca800>Lvl.4<#6B6666>]
     attack-damage: 11.2
     lore:
-    - ' &7&o"Penned in an unknown method of writing'
+    - ' &7&o"Penned in an unknown method of writing.'
     - ' &7&oIt has countless forbidden knowledge."'
     attack-speed: 1.6
     range: 13
@@ -140,7 +140,7 @@ MA1_001_05:
     name: <#7E0C9F>Cursed Book <#6B6666>[<#bb8e00>Lvl.5<#6B6666>]
     attack-damage: 11.83
     lore:
-    - ' &7&o"Penned in an unknown method of writing'
+    - ' &7&o"Penned in an unknown method of writing.'
     - ' &7&oIt has countless forbidden knowledge."'
     attack-speed: 1.6
     range: 14
@@ -174,7 +174,7 @@ MA1_001_06:
     name: <#7E0C9F>Cursed Book <#6B6666>[<#c37300>Lvl.6<#6B6666>]
     attack-damage: 12.48
     lore:
-    - ' &7&o"Penned in an unknown method of writing'
+    - ' &7&o"Penned in an unknown method of writing.'
     - ' &7&oIt has countless forbidden knowledge."'
     attack-speed: 1.6
     range: 14
@@ -208,7 +208,7 @@ MA1_001_07:
     name: <#7E0C9F>Cursed Book <#6B6666>[<#c55700>Lvl.7<#6B6666>]
     attack-damage: 13.16
     lore:
-    - ' &7&o"Penned in an unknown method of writing'
+    - ' &7&o"Penned in an unknown method of writing.'
     - ' &7&oIt has countless forbidden knowledge."'
     attack-speed: 1.6
     range: 15
@@ -242,7 +242,7 @@ MA1_001_08:
     name: <#7E0C9F>Cursed Book <#6B6666>[<#c23700>Lvl.8<#6B6666>]
     attack-damage: 13.87
     lore:
-    - ' &7&o"Penned in an unknown method of writing'
+    - ' &7&o"Penned in an unknown method of writing.'
     - ' &7&oIt has countless forbidden knowledge."'
     attack-speed: 1.6
     range: 15
@@ -276,7 +276,7 @@ MA1_001_09:
     name: <#7E0C9F>Cursed Book <#6B6666>[<#ba0909>Lvl.9<#6B6666>]
     attack-damage: 14.6
     lore:
-    - ' &7&o"Penned in an unknown method of writing'
+    - ' &7&o"Penned in an unknown method of writing.'
     - ' &7&oIt has countless forbidden knowledge."'
     attack-speed: 1.6
     range: 16

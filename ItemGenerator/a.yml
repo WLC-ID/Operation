@@ -1,36 +1,40 @@
-AX2_002_01:
+DA2_001_01:
   base:
-    material: STONE_AXE
-    name: <#FF8C00>Warbringer Axe <#6B6666>[<#23f108>Lvl.1<#6B6666>]
-    displayed-type: Axe
-    attack-damage: 16.92
-    pve-damage: -50.0
-    movement-speed: -0.061
+    material: STONE_SWORD
+    name: <#9370DB>Nightshade Dagger <#6B6666>[<#ba0909>Lvl.9<#6B6666>]
+    displayed-type: Dagger
+    attack-damage: 11.6
     lore:
-    - ' &7&o"Mighty weapon of the bravest warriors,'
-    - ' &7&ocapable of having a indescribable power."'
-    attack-speed: 1.1
-    critical-strike-chance: 11.69
-    critical-strike-power: 82.69
-    tier: rare
+    - ' &7&o"As dark as the night,'
+    - ' &7&oas mysterious as the shadow."'
+    attack-speed: 3
+    movement-speed: 0.081
+    ability:
+      ability1:
+        type: TRICKSTER
+        mode: RIGHT_CLICK
+        cooldown: 10.0
+        mana: 8.0
+        range: 100.0
+      ability2:
+        type: BACKSTAB
+        extra: 140.0
+        cooldown: 0.2
+        mode: ATTACK
+    abilities_lore:
+    - ' &6Shadow Travel &7(&eRight Click&7)'
+    - ' &7Teleport to the back of the targeted enemy'
+    - ' &7Cooldown : &e10.0s&7, Mana Cost : &e8.0'
+    - ' &6Backstab &7(&ePassive&7)'
+    - ' &7Deal &e140% &7&7more damage'
+    - ' &7When damaging enemy from behind'
+    - ' &7Cooldown : &e0.2s'
     disable-enchanting: true
     disable-smithing: true
     disable-smelting: true
     disable-crafting: true
     disable-repairing: true
-    disable-interaction: true
     unbreakable: true
-    ability:
-      ability1:
-        type: DUAL_WIELD
-        mode: ATTACK
-        pvp-percent: 80.0
-        pve-percent: 40.0
-    abilities_lore:
-    - ' &6Dual Wield &7(&eAttack&7)'
-    - ' &7Increases the damage dealt when'
-    - ' &7dual-wielding the same level of'
-    - ' &7Warbringer Axe.'
-    - ' &7PvP : &e+80%&7, PvE : &e+40%'
+    tier: rare
     revision-id: 1
-    item-batch: Altered Starter
+    item-batch: Starter

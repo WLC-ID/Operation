@@ -1,0 +1,10 @@
+directory,function
+attack-damage,"pi(x,11.6,5,15)"
+movement-speed,"round(pi(x,8.1,15,15)/100,3)"
+ability@2.extra,"(150+((x-1)*25))"
+ability@1.mana,"(800-((x-1)*50))/100"
+ability@1.cooldown,"10-((x-1))"
+name,"f""<#9370DB>Nightshade Dagger <#6B6666>[{color(x)}Lvl.{x}<#6B6666>]"""
+abilities_lore.2,"f"" &7Cooldown : &e{int($ability@1.cooldown$)}s&7, Mana Cost : &e{$ability@1.mana$}"""
+abilities_lore.4,"f"" &7Deal &e{int($ability@2.extra$)}% &7&7more damage"""
+abilities_lore.6,"f"" &7Cooldown : &e{$ability@2.cooldown$}s"""
