@@ -1,3 +1,0 @@
-directory,function
-abilities_lore.4,"lambda x,y: f"" &7Deal &e{int(y['ability']['ability2']['extra'])}% &7&7more damage"""
-name,"lambda x,y: f""<#cc6e00>Stilleto <#6B6666>[<#23f108>Lvl.{int(x)}<#6B6666>]"""
