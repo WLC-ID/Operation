@@ -3,7 +3,7 @@ KA1_001_01:
     material: STONE_SWORD
     name: <#00AEE6>Bokken <#6B6666>[<#23f108>Lvl.1<#6B6666>]
     displayed-type: Katana
-    attack-damage: 8.0
+    attack-damage: 8.01
     critical-strike-chance: 11.0
     critical-strike-power: 60.0
     lore:

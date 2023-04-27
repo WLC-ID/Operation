@@ -1,12 +1,12 @@
 import yaml
 import copy
 import csv
-import time
+import hashlib
+import numpy as np
 from collections import OrderedDict
 from formula import *
 import re
-
-current_time_unix = int(time.time())
+import datetime
 
 TEMPLATE_FILE = input("Template File: ")
 if (TEMPLATE_FILE.endswith(".yml") == False):
@@ -16,6 +16,8 @@ print(f"Processing {TEMPLATE_FILE}")
 with open(TEMPLATE_FILE, "r") as f:
     data = yaml.safe_load(f)
     data = OrderedDict(data)
+templateHexDigest = hashlib.md5(data.__str__().encode('utf-8')).hexdigest()
+templateDigest = np.base_repr(int(templateHexDigest, 16), 36)
 
 if len(data.keys()) != 1:
     print("Please put level 1 as a template.")
@@ -127,5 +129,12 @@ for each in data:
 for each in data:
     del data[each]['level']
 
-with open(f"./generated/{TEMPLATE_SPLIT[0]}_{TEMPLATE_SPLIT[1]}-{str(current_time_unix % 1000000)}.yml", "w") as f:
-    yaml.dump(dict(data), f, sort_keys=False)
+flattened = dict(data)
+hexdigest = hashlib.md5(flattened.__str__().encode('utf-8')).hexdigest()
+digest = np.base_repr(int(hexdigest, 16), 36)
+RESULT_FILE = f"./generated/{TEMPLATE_SPLIT[0]}_{TEMPLATE_SPLIT[1]}-{digest}.yml"
+with open(RESULT_FILE, "w") as f:
+    f.write(f"# Template: {TEMPLATE_SPLIT[0]}_{TEMPLATE_SPLIT[1]}_XXX. Digest: {templateHexDigest}. Base36: {templateDigest}\n")
+    f.write(f"# Generated at {datetime.datetime.now().strftime('%d/%m/%Y %H:%M:%S')}. Digest: {hexdigest}. Base36: {digest}.\n")
+    yaml.dump(flattened, f, sort_keys=False)
+    print("Saved to " + RESULT_FILE)
