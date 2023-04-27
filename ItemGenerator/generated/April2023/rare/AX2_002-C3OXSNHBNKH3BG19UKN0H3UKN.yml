@@ -1,0 +1,254 @@
+# Template: AX2_002_XXX. Digest: 4467cb9e97450712024a61fb30f5f191. Base36: 41SHZJ6528WHHGFQ30WPQ6FF5
+# Generated at 27/04/2023 23:51:57. Digest: cc6d53413cf0eba0b1634688ff2fde87. Base36: C3OXSNHBNKH3BG19UKN0H3UKN.
+AX2_002_01:
+  base:
+    material: STONE_AXE
+    name: <#FF8C00>Warbringer Axe <#6B6666>[<#23f108>Lvl.1<#6B6666>]
+    displayed-type: Axe
+    attack-damage: 16.92
+    pve-damage: -50.0
+    movement-speed: -0.061
+    lore:
+    - ' &7&o"Mighty weapon of the bravest warriors,'
+    - ' &7&ocapable of having a indescribable power."'
+    attack-speed: 1.1
+    critical-strike-chance: 11.69
+    critical-strike-power: 82.69
+    tier: rare
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    disable-interaction: true
+    unbreakable: true
+    ability:
+      ability1:
+        type: DUAL_WIELD
+        mode: ATTACK
+        pvp-percent: 40.0
+        pve-percent: 20.0
+    abilities_lore:
+    - ' &6Dual Wield &7(&eAttack&7)'
+    - ' &7Increases the damage dealt when'
+    - ' &7dual-wielding the same level of'
+    - ' &7Warbringer Axe.'
+    - ' &7PvP : &e+40%&7, PvE : &e+20%'
+    revision-id: 1
+    item-batch: Starter
+AX2_002_02:
+  base:
+    material: STONE_AXE
+    name: <#FF8C00>Warbringer Axe <#6B6666>[<#73da00>Lvl.2<#6B6666>]
+    displayed-type: Axe
+    attack-damage: 17.79
+    pve-damage: -48.25
+    movement-speed: -0.067
+    lore:
+    - ' &7&o"Mighty weapon of the bravest warriors,'
+    - ' &7&ocapable of having a indescribable power."'
+    attack-speed: 1.1
+    critical-strike-chance: 12.32
+    critical-strike-power: 83.32
+    tier: rare
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    disable-interaction: true
+    unbreakable: true
+    ability:
+      ability1:
+        type: DUAL_WIELD
+        mode: ATTACK
+        pvp-percent: 60.0
+        pve-percent: 30.0
+    abilities_lore:
+    - ' &6Dual Wield &7(&eAttack&7)'
+    - ' &7Increases the damage dealt when'
+    - ' &7dual-wielding the same level of'
+    - ' &7Warbringer Axe.'
+    - ' &7PvP : &e+60%&7, PvE : &e+30%'
+    revision-id: 1
+    item-batch: Starter
+AX2_002_03:
+  base:
+    material: STONE_AXE
+    name: <#FF8C00>Warbringer Axe <#6B6666>[<#96c100>Lvl.3<#6B6666>]
+    displayed-type: Axe
+    attack-damage: 18.72
+    pve-damage: -46.3
+    movement-speed: -0.074
+    lore:
+    - ' &7&o"Mighty weapon of the bravest warriors,'
+    - ' &7&ocapable of having a indescribable power."'
+    attack-speed: 1.1
+    critical-strike-chance: 12.98
+    critical-strike-power: 83.98
+    tier: rare
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    disable-interaction: true
+    unbreakable: true
+    ability:
+      ability1:
+        type: DUAL_WIELD
+        mode: ATTACK
+        pvp-percent: 80.0
+        pve-percent: 40.0
+    abilities_lore:
+    - ' &6Dual Wield &7(&eAttack&7)'
+    - ' &7Increases the damage dealt when'
+    - ' &7dual-wielding the same level of'
+    - ' &7Warbringer Axe.'
+    - ' &7PvP : &e+80%&7, PvE : &e+40%'
+    revision-id: 1
+    item-batch: Starter
+AX2_002_04:
+  base:
+    material: STONE_AXE
+    name: <#FF8C00>Warbringer Axe <#6B6666>[<#aca800>Lvl.4<#6B6666>]
+    displayed-type: Axe
+    attack-damage: 19.7
+    pve-damage: -44.17
+    movement-speed: -0.081
+    lore:
+    - ' &7&o"Mighty weapon of the bravest warriors,'
+    - ' &7&ocapable of having a indescribable power."'
+    attack-speed: 1.1
+    critical-strike-chance: 13.68
+    critical-strike-power: 84.68
+    tier: rare
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    disable-interaction: true
+    unbreakable: true
+    ability:
+      ability1:
+        type: DUAL_WIELD
+        mode: ATTACK
+        pvp-percent: 100.0
+        pve-percent: 50.0
+    abilities_lore:
+    - ' &6Dual Wield &7(&eAttack&7)'
+    - ' &7Increases the damage dealt when'
+    - ' &7dual-wielding the same level of'
+    - ' &7Warbringer Axe.'
+    - ' &7PvP : &e+100%&7, PvE : &e+50%'
+    revision-id: 1
+    item-batch: Starter
+AX2_002_05:
+  base:
+    material: STONE_AXE
+    name: <#FF8C00>Warbringer Axe <#6B6666>[<#bb8e00>Lvl.5<#6B6666>]
+    displayed-type: Axe
+    attack-damage: 20.73
+    pve-damage: -41.84
+    movement-speed: -0.088
+    lore:
+    - ' &7&o"Mighty weapon of the bravest warriors,'
+    - ' &7&ocapable of having a indescribable power."'
+    attack-speed: 1.1
+    critical-strike-chance: 14.4
+    critical-strike-power: 85.4
+    tier: rare
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    disable-interaction: true
+    unbreakable: true
+    ability:
+      ability1:
+        type: DUAL_WIELD
+        mode: ATTACK
+        pvp-percent: 120.0
+        pve-percent: 60.0
+    abilities_lore:
+    - ' &6Dual Wield &7(&eAttack&7)'
+    - ' &7Increases the damage dealt when'
+    - ' &7dual-wielding the same level of'
+    - ' &7Warbringer Axe.'
+    - ' &7PvP : &e+120%&7, PvE : &e+60%'
+    revision-id: 1
+    item-batch: Starter
+AX2_002_06:
+  base:
+    material: STONE_AXE
+    name: <#FF8C00>Warbringer Axe <#6B6666>[<#c37300>Lvl.6<#6B6666>]
+    displayed-type: Axe
+    attack-damage: 21.81
+    pve-damage: -39.32
+    movement-speed: -0.096
+    lore:
+    - ' &7&o"Mighty weapon of the bravest warriors,'
+    - ' &7&ocapable of having a indescribable power."'
+    attack-speed: 1.1
+    critical-strike-chance: 15.16
+    critical-strike-power: 86.16
+    tier: rare
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    disable-interaction: true
+    unbreakable: true
+    ability:
+      ability1:
+        type: DUAL_WIELD
+        mode: ATTACK
+        pvp-percent: 140.0
+        pve-percent: 70.0
+    abilities_lore:
+    - ' &6Dual Wield &7(&eAttack&7)'
+    - ' &7Increases the damage dealt when'
+    - ' &7dual-wielding the same level of'
+    - ' &7Warbringer Axe.'
+    - ' &7PvP : &e+140%&7, PvE : &e+70%'
+    revision-id: 1
+    item-batch: Starter
+AX2_002_07:
+  base:
+    material: STONE_AXE
+    name: <#FF8C00>Warbringer Axe <#6B6666>[<#c55700>Lvl.7<#6B6666>]
+    displayed-type: Axe
+    attack-damage: 22.94
+    pve-damage: -36.61
+    movement-speed: -0.103
+    lore:
+    - ' &7&o"Mighty weapon of the bravest warriors,'
+    - ' &7&ocapable of having a indescribable power."'
+    attack-speed: 1.1
+    critical-strike-chance: 15.94
+    critical-strike-power: 86.94
+    tier: rare
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    disable-interaction: true
+    unbreakable: true
+    ability:
+      ability1:
+        type: DUAL_WIELD
+        mode: ATTACK
+        pvp-percent: 160.0
+        pve-percent: 80.0
+    abilities_lore:
+    - ' &6Dual Wield &7(&eAttack&7)'
+    - ' &7Increases the damage dealt when'
+    - ' &7dual-wielding the same level of'
+    - ' &7Warbringer Axe.'
+    - ' &7PvP : &e+160%&7, PvE : &e+80%'
+    revision-id: 1
+    item-batch: Starter

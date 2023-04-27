@@ -1,0 +1,275 @@
+# Template: SW2_003_XXX. Digest: 89eb419b560017f6dcf8fe947f072b2f. Base36: 85Y0MFCI9PQW2GSXTB1G34ISV
+# Generated at 27/04/2023 22:48:01. Digest: c663a92d2093a8c54486db0899d838f7. Base36: BQTOMR7S1XISW2DYFYEXUDTKN.
+SW2_003_01:
+  base:
+    material: STONE_SWORD
+    name: <#FF4500>Fiery Sword <#6B6666>[<#23f108>Lvl.1<#6B6666>]
+    displayed-type: Sword
+    attack-damage: 15.19
+    fire-damage-reduction: 13.25
+    movement-speed: 0.031
+    lore:
+    - ' &7&o"Engulfed in flames that can melt even'
+    - ' &7&othe hardest of metals and strike fear into'
+    - ' &7&othe hearts of your enemies."'
+    abilities_lore:
+    - ' &6Fiery Sword &7(&ePassive&7)'
+    - ' &7Grants &fFire Aspect II'
+    - ' &6Burning Spirit &7(&eAttack&7)'
+    - ' &7Deal &e110% &7more damage while on fire'
+    - ' &7Cooldown : &e1.2s&7, Mana Cost : &e6.0'
+    attack-speed: 1.6
+    ability:
+      ability1:
+        type: SCORCH_ATTACK
+        mode: ATTACK
+        damage-percent: 110.0
+        cooldown: 1.2
+        mana: 6.0
+    tier: rare
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    disable-interaction: true
+    unbreakable: true
+    revision-id: 1
+    enchants:
+      fire_aspect: 2.0
+    hide-enchants: true
+    item-batch: Starter
+SW2_003_02:
+  base:
+    material: STONE_SWORD
+    name: <#FF4500>Fiery Sword <#6B6666>[<#73da00>Lvl.2<#6B6666>]
+    displayed-type: Sword
+    attack-damage: 15.82
+    fire-damage-reduction: 13.94
+    movement-speed: 0.037
+    lore:
+    - ' &7&o"Engulfed in flames that can melt even'
+    - ' &7&othe hardest of metals and strike fear into'
+    - ' &7&othe hearts of your enemies."'
+    abilities_lore:
+    - ' &6Fiery Sword &7(&ePassive&7)'
+    - ' &7Grants &fFire Aspect II'
+    - ' &6Burning Spirit &7(&eAttack&7)'
+    - ' &7Deal &e125% &7more damage while on fire'
+    - ' &7Cooldown : &e1.1s&7, Mana Cost : &e6.0'
+    attack-speed: 1.6
+    ability:
+      ability1:
+        type: SCORCH_ATTACK
+        mode: ATTACK
+        damage-percent: 125.0
+        cooldown: 1.1
+        mana: 6.0
+    tier: rare
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    disable-interaction: true
+    unbreakable: true
+    revision-id: 1
+    enchants:
+      fire_aspect: 2.0
+    hide-enchants: true
+    item-batch: Starter
+SW2_003_03:
+  base:
+    material: STONE_SWORD
+    name: <#FF4500>Fiery Sword <#6B6666>[<#96c100>Lvl.3<#6B6666>]
+    displayed-type: Sword
+    attack-damage: 16.48
+    fire-damage-reduction: 14.66
+    movement-speed: 0.044
+    lore:
+    - ' &7&o"Engulfed in flames that can melt even'
+    - ' &7&othe hardest of metals and strike fear into'
+    - ' &7&othe hearts of your enemies."'
+    abilities_lore:
+    - ' &6Fiery Sword &7(&ePassive&7)'
+    - ' &7Grants &fFire Aspect II'
+    - ' &6Burning Spirit &7(&eAttack&7)'
+    - ' &7Deal &e140% &7more damage while on fire'
+    - ' &7Cooldown : &e1.0s&7, Mana Cost : &e6.0'
+    attack-speed: 1.6
+    ability:
+      ability1:
+        type: SCORCH_ATTACK
+        mode: ATTACK
+        damage-percent: 140.0
+        cooldown: 1.0
+        mana: 6.0
+    tier: rare
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    disable-interaction: true
+    unbreakable: true
+    revision-id: 1
+    enchants:
+      fire_aspect: 2.0
+    hide-enchants: true
+    item-batch: Starter
+SW2_003_04:
+  base:
+    material: STONE_SWORD
+    name: <#FF4500>Fiery Sword <#6B6666>[<#aca800>Lvl.4<#6B6666>]
+    displayed-type: Sword
+    attack-damage: 17.18
+    fire-damage-reduction: 15.41
+    movement-speed: 0.051
+    lore:
+    - ' &7&o"Engulfed in flames that can melt even'
+    - ' &7&othe hardest of metals and strike fear into'
+    - ' &7&othe hearts of your enemies."'
+    abilities_lore:
+    - ' &6Fiery Sword &7(&ePassive&7)'
+    - ' &7Grants &fFire Aspect II'
+    - ' &6Burning Spirit &7(&eAttack&7)'
+    - ' &7Deal &e155% &7more damage while on fire'
+    - ' &7Cooldown : &e0.9s&7, Mana Cost : &e6.0'
+    attack-speed: 1.6
+    ability:
+      ability1:
+        type: SCORCH_ATTACK
+        mode: ATTACK
+        damage-percent: 155.0
+        cooldown: 0.9
+        mana: 6.0
+    tier: rare
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    disable-interaction: true
+    unbreakable: true
+    revision-id: 1
+    enchants:
+      fire_aspect: 2.0
+    hide-enchants: true
+    item-batch: Starter
+SW2_003_05:
+  base:
+    material: STONE_SWORD
+    name: <#FF4500>Fiery Sword <#6B6666>[<#bb8e00>Lvl.5<#6B6666>]
+    displayed-type: Sword
+    attack-damage: 17.9
+    fire-damage-reduction: 16.2
+    movement-speed: 0.058
+    lore:
+    - ' &7&o"Engulfed in flames that can melt even'
+    - ' &7&othe hardest of metals and strike fear into'
+    - ' &7&othe hearts of your enemies."'
+    abilities_lore:
+    - ' &6Fiery Sword &7(&ePassive&7)'
+    - ' &7Grants &fFire Aspect II'
+    - ' &6Burning Spirit &7(&eAttack&7)'
+    - ' &7Deal &e170% &7more damage while on fire'
+    - ' &7Cooldown : &e0.8s&7, Mana Cost : &e6.0'
+    attack-speed: 1.6
+    ability:
+      ability1:
+        type: SCORCH_ATTACK
+        mode: ATTACK
+        damage-percent: 170.0
+        cooldown: 0.8
+        mana: 6.0
+    tier: rare
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    disable-interaction: true
+    unbreakable: true
+    revision-id: 1
+    enchants:
+      fire_aspect: 2.0
+    hide-enchants: true
+    item-batch: Starter
+SW2_003_06:
+  base:
+    material: STONE_SWORD
+    name: <#FF4500>Fiery Sword <#6B6666>[<#c37300>Lvl.6<#6B6666>]
+    displayed-type: Sword
+    attack-damage: 18.66
+    fire-damage-reduction: 17.02
+    movement-speed: 0.066
+    lore:
+    - ' &7&o"Engulfed in flames that can melt even'
+    - ' &7&othe hardest of metals and strike fear into'
+    - ' &7&othe hearts of your enemies."'
+    abilities_lore:
+    - ' &6Fiery Sword &7(&ePassive&7)'
+    - ' &7Grants &fFire Aspect II'
+    - ' &6Burning Spirit &7(&eAttack&7)'
+    - ' &7Deal &e185% &7more damage while on fire'
+    - ' &7Cooldown : &e0.7s&7, Mana Cost : &e6.0'
+    attack-speed: 1.6
+    ability:
+      ability1:
+        type: SCORCH_ATTACK
+        mode: ATTACK
+        damage-percent: 185.0
+        cooldown: 0.7
+        mana: 6.0
+    tier: rare
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    disable-interaction: true
+    unbreakable: true
+    revision-id: 1
+    enchants:
+      fire_aspect: 2.0
+    hide-enchants: true
+    item-batch: Starter
+SW2_003_07:
+  base:
+    material: STONE_SWORD
+    name: <#FF4500>Fiery Sword <#6B6666>[<#c55700>Lvl.7<#6B6666>]
+    displayed-type: Sword
+    attack-damage: 19.44
+    fire-damage-reduction: 17.87
+    movement-speed: 0.073
+    lore:
+    - ' &7&o"Engulfed in flames that can melt even'
+    - ' &7&othe hardest of metals and strike fear into'
+    - ' &7&othe hearts of your enemies."'
+    abilities_lore:
+    - ' &6Fiery Sword &7(&ePassive&7)'
+    - ' &7Grants &fFire Aspect II'
+    - ' &6Burning Spirit &7(&eAttack&7)'
+    - ' &7Deal &e200% &7more damage while on fire'
+    - ' &7Cooldown : &e0.6s&7, Mana Cost : &e6.0'
+    attack-speed: 1.6
+    ability:
+      ability1:
+        type: SCORCH_ATTACK
+        mode: ATTACK
+        damage-percent: 200.0
+        cooldown: 0.6
+        mana: 6.0
+    tier: rare
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    disable-interaction: true
+    unbreakable: true
+    revision-id: 1
+    enchants:
+      fire_aspect: 2.0
+    hide-enchants: true
+    item-batch: Starter

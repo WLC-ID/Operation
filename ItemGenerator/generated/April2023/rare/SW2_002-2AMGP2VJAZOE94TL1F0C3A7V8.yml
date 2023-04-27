@@ -1,0 +1,247 @@
+# Template: SW2_002_XXX. Digest: 018ebfb43604d49769a0be3c0d22c344. Base36: 3BICUJRYM69EK5XVEEYVO18K
+# Generated at 27/04/2023 22:24:06. Digest: 26c465fd237d74d658c656858e9e9954. Base36: 2AMGP2VJAZOE94TL1F0C3A7V8.
+SW2_002_01:
+  base:
+    material: STONE_SWORD
+    name: <#F5DEB3>Hallowed Blade <#6B6666>[<#23f108>Lvl.1<#6B6666>]
+    displayed-type: Sword
+    attack-damage: 14.46
+    additional-health: 4.04
+    additional-regeneration: 4.0
+    lore:
+    - ' &7&o"Forged from pure silver and blessed'
+    - ' &7&oby divine magic."'
+    abilities_lore:
+    - ' &6Divine Blessing &7(&eRight Click&7)'
+    - ' &7Grants &fRegeneration II&7 for &e10s&7.'
+    - ' &7Cooldown : &e18.0s&7, Mana Cost : &e7.5'
+    attack-speed: 1.7
+    tier: rare
+    ability:
+      ability1:
+        type: POTION_SELF
+        mode: RIGHT_CLICK
+        duration: 10.0
+        cooldown: 18.0
+        mana: 7.5
+        chance: 100.0
+        potion-id: 10.0
+        amplifier: 1.0
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    unbreakable: true
+    revision-id: 1
+    item-batch: Starter
+SW2_002_02:
+  base:
+    material: STONE_SWORD
+    name: <#F5DEB3>Hallowed Blade <#6B6666>[<#73da00>Lvl.2<#6B6666>]
+    displayed-type: Sword
+    attack-damage: 15.09
+    additional-health: 4.62
+    additional-regeneration: 4.54
+    lore:
+    - ' &7&o"Forged from pure silver and blessed'
+    - ' &7&oby divine magic."'
+    abilities_lore:
+    - ' &6Divine Blessing &7(&eRight Click&7)'
+    - ' &7Grants &fRegeneration II&7 for &e11s&7.'
+    - ' &7Cooldown : &e19.0s&7, Mana Cost : &e7.75'
+    attack-speed: 1.7
+    tier: rare
+    ability:
+      ability1:
+        type: POTION_SELF
+        mode: RIGHT_CLICK
+        duration: 11.0
+        cooldown: 19.0
+        mana: 7.75
+        chance: 100.0
+        potion-id: 10.0
+        amplifier: 1.0
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    unbreakable: true
+    revision-id: 1
+    item-batch: Starter
+SW2_002_03:
+  base:
+    material: STONE_SWORD
+    name: <#F5DEB3>Hallowed Blade <#6B6666>[<#96c100>Lvl.3<#6B6666>]
+    displayed-type: Sword
+    attack-damage: 15.75
+    additional-health: 5.23
+    additional-regeneration: 5.11
+    lore:
+    - ' &7&o"Forged from pure silver and blessed'
+    - ' &7&oby divine magic."'
+    abilities_lore:
+    - ' &6Divine Blessing &7(&eRight Click&7)'
+    - ' &7Grants &fRegeneration II&7 for &e12s&7.'
+    - ' &7Cooldown : &e20.0s&7, Mana Cost : &e8.0'
+    attack-speed: 1.7
+    tier: rare
+    ability:
+      ability1:
+        type: POTION_SELF
+        mode: RIGHT_CLICK
+        duration: 12.0
+        cooldown: 20.0
+        mana: 8.0
+        chance: 100.0
+        potion-id: 10.0
+        amplifier: 1.0
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    unbreakable: true
+    revision-id: 1
+    item-batch: Starter
+SW2_002_04:
+  base:
+    material: STONE_SWORD
+    name: <#F5DEB3>Hallowed Blade <#6B6666>[<#aca800>Lvl.4<#6B6666>]
+    displayed-type: Sword
+    attack-damage: 16.45
+    additional-health: 5.86
+    additional-regeneration: 5.7
+    lore:
+    - ' &7&o"Forged from pure silver and blessed'
+    - ' &7&oby divine magic."'
+    abilities_lore:
+    - ' &6Divine Blessing &7(&eRight Click&7)'
+    - ' &7Grants &fRegeneration II&7 for &e13s&7.'
+    - ' &7Cooldown : &e21.0s&7, Mana Cost : &e8.25'
+    attack-speed: 1.7
+    tier: rare
+    ability:
+      ability1:
+        type: POTION_SELF
+        mode: RIGHT_CLICK
+        duration: 13.0
+        cooldown: 21.0
+        mana: 8.25
+        chance: 100.0
+        potion-id: 10.0
+        amplifier: 1.0
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    unbreakable: true
+    revision-id: 1
+    item-batch: Starter
+SW2_002_05:
+  base:
+    material: STONE_SWORD
+    name: <#F5DEB3>Hallowed Blade <#6B6666>[<#bb8e00>Lvl.5<#6B6666>]
+    displayed-type: Sword
+    attack-damage: 17.17
+    additional-health: 6.53
+    additional-regeneration: 6.33
+    lore:
+    - ' &7&o"Forged from pure silver and blessed'
+    - ' &7&oby divine magic."'
+    abilities_lore:
+    - ' &6Divine Blessing &7(&eRight Click&7)'
+    - ' &7Grants &fRegeneration II&7 for &e14s&7.'
+    - ' &7Cooldown : &e22.0s&7, Mana Cost : &e8.5'
+    attack-speed: 1.7
+    tier: rare
+    ability:
+      ability1:
+        type: POTION_SELF
+        mode: RIGHT_CLICK
+        duration: 14.0
+        cooldown: 22.0
+        mana: 8.5
+        chance: 100.0
+        potion-id: 10.0
+        amplifier: 1.0
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    unbreakable: true
+    revision-id: 1
+    item-batch: Starter
+SW2_002_06:
+  base:
+    material: STONE_SWORD
+    name: <#F5DEB3>Hallowed Blade <#6B6666>[<#c37300>Lvl.6<#6B6666>]
+    displayed-type: Sword
+    attack-damage: 17.93
+    additional-health: 7.22
+    additional-regeneration: 6.98
+    lore:
+    - ' &7&o"Forged from pure silver and blessed'
+    - ' &7&oby divine magic."'
+    abilities_lore:
+    - ' &6Divine Blessing &7(&eRight Click&7)'
+    - ' &7Grants &fRegeneration II&7 for &e15s&7.'
+    - ' &7Cooldown : &e23.0s&7, Mana Cost : &e8.75'
+    attack-speed: 1.7
+    tier: rare
+    ability:
+      ability1:
+        type: POTION_SELF
+        mode: RIGHT_CLICK
+        duration: 15.0
+        cooldown: 23.0
+        mana: 8.75
+        chance: 100.0
+        potion-id: 10.0
+        amplifier: 1.0
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    unbreakable: true
+    revision-id: 1
+    item-batch: Starter
+SW2_002_07:
+  base:
+    material: STONE_SWORD
+    name: <#F5DEB3>Hallowed Blade <#6B6666>[<#c55700>Lvl.7<#6B6666>]
+    displayed-type: Sword
+    attack-damage: 18.71
+    additional-health: 7.95
+    additional-regeneration: 7.66
+    lore:
+    - ' &7&o"Forged from pure silver and blessed'
+    - ' &7&oby divine magic."'
+    abilities_lore:
+    - ' &6Divine Blessing &7(&eRight Click&7)'
+    - ' &7Grants &fRegeneration II&7 for &e16s&7.'
+    - ' &7Cooldown : &e24.0s&7, Mana Cost : &e9.0'
+    attack-speed: 1.7
+    tier: rare
+    ability:
+      ability1:
+        type: POTION_SELF
+        mode: RIGHT_CLICK
+        duration: 16.0
+        cooldown: 24.0
+        mana: 9.0
+        chance: 100.0
+        potion-id: 10.0
+        amplifier: 1.0
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    unbreakable: true
+    revision-id: 1
+    item-batch: Starter

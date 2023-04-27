@@ -26,6 +26,13 @@ if len(data.keys()) != 1:
 
 TEMPLATE = list(data.keys())[0]
 data[TEMPLATE]['level'] = 1
+RARITY = data[TEMPLATE]['base']['tier']
+if (RARITY == None or len(RARITY) == 0):
+    print("Rarity not found.")
+    print(f"Found: {RARITY}")
+    exit(0)
+RARITY = RARITY.lower()
+    
 TEMPLATE_SPLIT = TEMPLATE.split("_")
 if (len(TEMPLATE_SPLIT) != 3):
     print("Format: XXX_XXX_XXX.")
@@ -80,7 +87,7 @@ def process_template(result, directory, value):
             cursor = cursor[section]
 
 FILENAME = TEMPLATE_SPLIT[0] + "_" + TEMPLATE_SPLIT[1] + ".csv"
-MODIFIERDATA = "./item/" + FILENAME
+MODIFIERDATA = "./item/" + RARITY + "/" + FILENAME
 print(f"Processing {MODIFIERDATA}")
 modifierData = []
 with open(MODIFIERDATA, "r") as f:
@@ -97,7 +104,7 @@ for each in modifierData:
         process_template(result, dir, each[dir])
     data[ITEM_NAME] = result
 
-LAMBDADATA = "./lambda/" + FILENAME
+LAMBDADATA = "./lambda/" + RARITY + "/" + FILENAME
 if (LAMBDADATA.endswith('.csv') == False):
     LAMBDADATA += ".csv"
 print(f"Processing {LAMBDADATA}")

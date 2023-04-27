@@ -1,0 +1,13 @@
+directory,function
+attack-damage,"pi(x,16.6,12,12)"
+critical-strike-chance,"pi(x,11.6,10,10)"
+critical-strike-power,"pi(x,82.6,10,10)"
+pve-damage,"pi(x*2.5,20,10,10)"
+pvp-damage,"round(-71.05+pi(x*2.5,20,10,10),2)"
+ability@2.duration,"(220+((x-1)*20))/100"
+ability@1.damage-percent,"(76+((x-1)*4))"
+ability@1.mana,"(560+((x-1)*20))/100"
+name,"f""<#FF8C00>Berserker Axe <#6B6666>[{color(x)}Lvl.{x}<#6B6666>]"""
+abilities_lore.3,"f"" &7Cooldown : &e{$ability@1.cooldown$}s&7, Mana Cost : &e{$ability@1.mana$}"""
+abilities_lore.2,"f"" &7and stun target for &e{$ability@2.duration$}s"""
+abilities_lore.1,"f"" &7Increase the next damage dealt by &e{int($ability@1.damage-percent$)}%"""

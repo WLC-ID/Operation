@@ -22,7 +22,7 @@ SW1_002_01:
         damage-percent: 20.0
         cooldown: 2.0
         mana: 6.0
-    lore-format: common
+    tier: common
     disable-enchanting: true
     disable-smithing: true
     disable-smelting: true
@@ -60,7 +60,7 @@ SW1_002_02:
         damage-percent: 30.0
         cooldown: 1.9
         mana: 6.0
-    lore-format: common
+    tier: common
     disable-enchanting: true
     disable-smithing: true
     disable-smelting: true
@@ -98,7 +98,7 @@ SW1_002_03:
         damage-percent: 40.0
         cooldown: 1.8
         mana: 6.0
-    lore-format: common
+    tier: common
     disable-enchanting: true
     disable-smithing: true
     disable-smelting: true
@@ -136,7 +136,7 @@ SW1_002_04:
         damage-percent: 50.0
         cooldown: 1.7
         mana: 6.0
-    lore-format: common
+    tier: common
     disable-enchanting: true
     disable-smithing: true
     disable-smelting: true
@@ -174,7 +174,7 @@ SW1_002_05:
         damage-percent: 60.0
         cooldown: 1.6
         mana: 6.0
-    lore-format: common
+    tier: common
     disable-enchanting: true
     disable-smithing: true
     disable-smelting: true
@@ -212,7 +212,7 @@ SW1_002_06:
         damage-percent: 70.0
         cooldown: 1.5
         mana: 6.0
-    lore-format: common
+    tier: common
     disable-enchanting: true
     disable-smithing: true
     disable-smelting: true
@@ -250,7 +250,7 @@ SW1_002_07:
         damage-percent: 80.0
         cooldown: 1.4
         mana: 6.0
-    lore-format: common
+    tier: common
     disable-enchanting: true
     disable-smithing: true
     disable-smelting: true
@@ -288,7 +288,7 @@ SW1_002_08:
         damage-percent: 90.0
         cooldown: 1.3
         mana: 6.0
-    lore-format: common
+    tier: common
     disable-enchanting: true
     disable-smithing: true
     disable-smelting: true
@@ -326,7 +326,7 @@ SW1_002_09:
         damage-percent: 100.0
         cooldown: 1.2
         mana: 6.0
-    lore-format: common
+    tier: common
     disable-enchanting: true
     disable-smithing: true
     disable-smelting: true

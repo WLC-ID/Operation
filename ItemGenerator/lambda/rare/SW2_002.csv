@@ -1,0 +1,10 @@
+directory,function
+attack-damage,"pi(x,14.37,10,10)"
+additional-health,"pi(x,4,5,5)"
+additional-regeneration,"pi(x,4,1,1)"
+ability@1.cooldown,"(1800+((x-1)*100))/100"
+ability@1.duration,"(1000+((x-1)*100))/100"
+ability@1.mana,"(750+((x-1)*25))/100"
+name,"f""<#F5DEB3>Hallowed Blade <#6B6666>[{color(x)}Lvl.{x}<#6B6666>]"""
+abilities_lore.2,"f"" &7Cooldown : &e{$ability@1.cooldown$}s&7, Mana Cost : &e{$ability@1.mana$}"""
+abilities_lore.1,"f"" &7Grants &fRegeneration II&7 for &e{int($ability@1.duration$)}s&7."""

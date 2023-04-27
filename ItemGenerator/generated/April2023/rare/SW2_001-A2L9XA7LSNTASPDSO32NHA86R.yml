@@ -1,0 +1,240 @@
+# Template: SW2_001_XXX. Digest: 12fa3d3591a1a3ed3e0b4cd01806150c. Base36: 14G2NMEXF1GYNM6YLSI9IJHFW
+# Generated at 27/04/2023 22:38:40. Digest: aa20b160d922b24bae46ae6668d094f3. Base36: A2L9XA7LSNTASPDSO32NHA86R.
+SW2_001_01:
+  base:
+    material: STONE_SWORD
+    name: <#A7A7AD>Reforged Sword <#6B6666>[<#23f108>Lvl.1<#6B6666>]
+    displayed-type: Sword
+    attack-damage: 15.19
+    additional-toughness: 8.04
+    attack-speed: 1.6
+    defense: 12.67
+    lore:
+    - ' &7&o"Once shattered in battle, now restored'
+    - ' &7&oto its former glory with renewed strength'
+    - ' &7&oand resilience."'
+    abilities_lore:
+    - ' &6Empower &7(&eAttack&7)'
+    - ' &7Increase the next damage dealt by &e100%'
+    - ' &7Cooldown : &e6.4s&7, Mana Cost : &e7.6'
+    tier: rare
+    ability:
+      ability1:
+        type: ECHO_ATTACK
+        mode: ATTACK
+        damage-percent: 100.0
+        cooldown: 6.4
+        mana: 7.6
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    unbreakable: true
+    revision-id: 1
+    disable-interaction: true
+    item-batch: Starter
+SW2_001_02:
+  base:
+    material: STONE_SWORD
+    name: <#A7A7AD>Reforged Sword <#6B6666>[<#73da00>Lvl.2<#6B6666>]
+    displayed-type: Sword
+    attack-damage: 15.82
+    additional-toughness: 8.62
+    attack-speed: 1.6
+    defense: 13.28
+    lore:
+    - ' &7&o"Once shattered in battle, now restored'
+    - ' &7&oto its former glory with renewed strength'
+    - ' &7&oand resilience."'
+    abilities_lore:
+    - ' &6Empower &7(&eAttack&7)'
+    - ' &7Increase the next damage dealt by &e106%'
+    - ' &7Cooldown : &e6.0s&7, Mana Cost : &e7.9'
+    tier: rare
+    ability:
+      ability1:
+        type: ECHO_ATTACK
+        mode: ATTACK
+        damage-percent: 106.0
+        cooldown: 6.0
+        mana: 7.9
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    unbreakable: true
+    revision-id: 1
+    disable-interaction: true
+    item-batch: Starter
+SW2_001_03:
+  base:
+    material: STONE_SWORD
+    name: <#A7A7AD>Reforged Sword <#6B6666>[<#96c100>Lvl.3<#6B6666>]
+    displayed-type: Sword
+    attack-damage: 16.48
+    additional-toughness: 9.23
+    attack-speed: 1.6
+    defense: 13.92
+    lore:
+    - ' &7&o"Once shattered in battle, now restored'
+    - ' &7&oto its former glory with renewed strength'
+    - ' &7&oand resilience."'
+    abilities_lore:
+    - ' &6Empower &7(&eAttack&7)'
+    - ' &7Increase the next damage dealt by &e112%'
+    - ' &7Cooldown : &e5.6s&7, Mana Cost : &e8.2'
+    tier: rare
+    ability:
+      ability1:
+        type: ECHO_ATTACK
+        mode: ATTACK
+        damage-percent: 112.0
+        cooldown: 5.6
+        mana: 8.2
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    unbreakable: true
+    revision-id: 1
+    disable-interaction: true
+    item-batch: Starter
+SW2_001_04:
+  base:
+    material: STONE_SWORD
+    name: <#A7A7AD>Reforged Sword <#6B6666>[<#aca800>Lvl.4<#6B6666>]
+    displayed-type: Sword
+    attack-damage: 17.18
+    additional-toughness: 9.86
+    attack-speed: 1.6
+    defense: 14.59
+    lore:
+    - ' &7&o"Once shattered in battle, now restored'
+    - ' &7&oto its former glory with renewed strength'
+    - ' &7&oand resilience."'
+    abilities_lore:
+    - ' &6Empower &7(&eAttack&7)'
+    - ' &7Increase the next damage dealt by &e118%'
+    - ' &7Cooldown : &e5.2s&7, Mana Cost : &e8.5'
+    tier: rare
+    ability:
+      ability1:
+        type: ECHO_ATTACK
+        mode: ATTACK
+        damage-percent: 118.0
+        cooldown: 5.2
+        mana: 8.5
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    unbreakable: true
+    revision-id: 1
+    disable-interaction: true
+    item-batch: Starter
+SW2_001_05:
+  base:
+    material: STONE_SWORD
+    name: <#A7A7AD>Reforged Sword <#6B6666>[<#bb8e00>Lvl.5<#6B6666>]
+    displayed-type: Sword
+    attack-damage: 17.9
+    additional-toughness: 10.53
+    attack-speed: 1.6
+    defense: 15.29
+    lore:
+    - ' &7&o"Once shattered in battle, now restored'
+    - ' &7&oto its former glory with renewed strength'
+    - ' &7&oand resilience."'
+    abilities_lore:
+    - ' &6Empower &7(&eAttack&7)'
+    - ' &7Increase the next damage dealt by &e124%'
+    - ' &7Cooldown : &e4.8s&7, Mana Cost : &e8.8'
+    tier: rare
+    ability:
+      ability1:
+        type: ECHO_ATTACK
+        mode: ATTACK
+        damage-percent: 124.0
+        cooldown: 4.8
+        mana: 8.8
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    unbreakable: true
+    revision-id: 1
+    disable-interaction: true
+    item-batch: Starter
+SW2_001_06:
+  base:
+    material: STONE_SWORD
+    name: <#A7A7AD>Reforged Sword <#6B6666>[<#c37300>Lvl.6<#6B6666>]
+    displayed-type: Sword
+    attack-damage: 18.66
+    additional-toughness: 11.22
+    attack-speed: 1.6
+    defense: 16.02
+    lore:
+    - ' &7&o"Once shattered in battle, now restored'
+    - ' &7&oto its former glory with renewed strength'
+    - ' &7&oand resilience."'
+    abilities_lore:
+    - ' &6Empower &7(&eAttack&7)'
+    - ' &7Increase the next damage dealt by &e130%'
+    - ' &7Cooldown : &e4.4s&7, Mana Cost : &e9.1'
+    tier: rare
+    ability:
+      ability1:
+        type: ECHO_ATTACK
+        mode: ATTACK
+        damage-percent: 130.0
+        cooldown: 4.4
+        mana: 9.1
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    unbreakable: true
+    revision-id: 1
+    disable-interaction: true
+    item-batch: Starter
+SW2_001_07:
+  base:
+    material: STONE_SWORD
+    name: <#A7A7AD>Reforged Sword <#6B6666>[<#c55700>Lvl.7<#6B6666>]
+    displayed-type: Sword
+    attack-damage: 19.44
+    additional-toughness: 11.95
+    attack-speed: 1.6
+    defense: 16.78
+    lore:
+    - ' &7&o"Once shattered in battle, now restored'
+    - ' &7&oto its former glory with renewed strength'
+    - ' &7&oand resilience."'
+    abilities_lore:
+    - ' &6Empower &7(&eAttack&7)'
+    - ' &7Increase the next damage dealt by &e136%'
+    - ' &7Cooldown : &e4.0s&7, Mana Cost : &e9.4'
+    tier: rare
+    ability:
+      ability1:
+        type: ECHO_ATTACK
+        mode: ATTACK
+        damage-percent: 136.0
+        cooldown: 4.0
+        mana: 9.4
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    unbreakable: true
+    revision-id: 1
+    disable-interaction: true
+    item-batch: Starter

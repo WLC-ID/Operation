@@ -1,35 +1,36 @@
-SW2_002_01:
+AX2_002_01:
   base:
-    material: STONE_SWORD
-    name: <#F5DEB3>Hallowed Blade <#6B6666>[<#23f108>Lvl.1<#6B6666>]
-    displayed-type: Sword
-    attack-damage: 8.0
-    additional-health: 4.0
-    additional-regeneration: 4.0
+    material: STONE_AXE
+    name: <#FF8C00>Warbringer Axe <#6B6666>[<#ba0909>Lvl.9<#6B6666>]
+    displayed-type: Axe
+    attack-damage: 16.6
+    pve-damage: -50.0
+    movement-speed: -0.05
     lore:
-    - ' &7&o"Forged from pure silver and blessed'
-    - ' &7&oby divine magic."'
-    abilities_lore:
-    - ' &6God Blessing &7(&eRight Click&7)'
-    - ' &7Grants &fRegeneration II&7 for &e10s&7.'
-    - ' &7Cooldown : &e15.0s&7, Mana Cost : &e7.5'
-    attack-speed: 1.7
+    - ' &7&o"Mighty weapon of the bravest warriors,'
+    - ' &7&ocapable of having a indescribable power."'
+    attack-speed: 1.1
+    critical-strike-chance: 11.6
+    critical-strike-power: 82.6
     tier: rare
-    ability:
-      ability1:
-        type: POTION_SELF
-        mode: RIGHT_CLICK
-        duration: 10.0
-        cooldown: 15.0
-        mana: 7.5
-        chance: 100.0
-        potion-id: 10.0
-        amplifier: 1.0
     disable-enchanting: true
     disable-smithing: true
     disable-smelting: true
     disable-crafting: true
     disable-repairing: true
+    disable-interaction: true
     unbreakable: true
+    ability:
+      ability1:
+        type: DUAL_WIELD
+        mode: ATTACK
+        pvp-percent: 100.0
+        pve-percent: 100.0
+    abilities_lore:
+    - ' &6Dual Wield &7(&eAttack&7)'
+    - ' &7Increases the damage dealt when'
+    - ' &7dual-wielding the same level of'
+    - ' &7Warbringer Axe.'
+    - ' &7PvP: &e20%&7, PvE: &e50%'
     revision-id: 1
     item-batch: Starter
