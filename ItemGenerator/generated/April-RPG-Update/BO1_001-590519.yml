@@ -5,7 +5,7 @@ BO1_001_01:
     displayed-type: Bow
     attack-damage: 12.0
     lore:
-    - '&7&o"Sturdy bow that every huntsman trust."'
+    - ' &7&o"Sturdy bow that every huntsman trust."'
     attack-speed: 1
     movement-speed: 0.03
     tier: COMMON
@@ -40,7 +40,7 @@ BO1_001_02:
     displayed-type: Bow
     attack-damage: 12.54
     lore:
-    - '&7&o"Sturdy bow that every huntsman trust."'
+    - ' &7&o"Sturdy bow that every huntsman trust."'
     attack-speed: 1
     movement-speed: 0.035
     tier: COMMON
@@ -75,7 +75,7 @@ BO1_001_03:
     displayed-type: Bow
     attack-damage: 13.11
     lore:
-    - '&7&o"Sturdy bow that every huntsman trust."'
+    - ' &7&o"Sturdy bow that every huntsman trust."'
     attack-speed: 1
     movement-speed: 0.041
     tier: COMMON
@@ -110,7 +110,7 @@ BO1_001_04:
     displayed-type: Bow
     attack-damage: 13.7
     lore:
-    - '&7&o"Sturdy bow that every huntsman trust."'
+    - ' &7&o"Sturdy bow that every huntsman trust."'
     attack-speed: 1
     movement-speed: 0.047
     tier: COMMON
@@ -145,7 +145,7 @@ BO1_001_05:
     displayed-type: Bow
     attack-damage: 14.33
     lore:
-    - '&7&o"Sturdy bow that every huntsman trust."'
+    - ' &7&o"Sturdy bow that every huntsman trust."'
     attack-speed: 1
     movement-speed: 0.053
     tier: COMMON
@@ -180,7 +180,7 @@ BO1_001_06:
     displayed-type: Bow
     attack-damage: 14.98
     lore:
-    - '&7&o"Sturdy bow that every huntsman trust."'
+    - ' &7&o"Sturdy bow that every huntsman trust."'
     attack-speed: 1
     movement-speed: 0.06
     tier: COMMON
@@ -215,7 +215,7 @@ BO1_001_07:
     displayed-type: Bow
     attack-damage: 15.66
     lore:
-    - '&7&o"Sturdy bow that every huntsman trust."'
+    - ' &7&o"Sturdy bow that every huntsman trust."'
     attack-speed: 1
     movement-speed: 0.067
     tier: COMMON
@@ -250,7 +250,7 @@ BO1_001_08:
     displayed-type: Bow
     attack-damage: 16.37
     lore:
-    - '&7&o"Sturdy bow that every huntsman trust."'
+    - ' &7&o"Sturdy bow that every huntsman trust."'
     attack-speed: 1
     movement-speed: 0.074
     tier: COMMON
@@ -285,7 +285,7 @@ BO1_001_09:
     displayed-type: Bow
     attack-damage: 17.1
     lore:
-    - '&7&o"Sturdy bow that every huntsman trust."'
+    - ' &7&o"Sturdy bow that every huntsman trust."'
     attack-speed: 1
     movement-speed: 0.081
     tier: COMMON

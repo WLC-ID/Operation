@@ -1,0 +1,369 @@
+DA1_001_01:
+  base:
+    material: STONE_SWORD
+    name: <#cc6e00>Stilleto <#6B6666>[<#23f108>Lvl.1<#6B6666>]
+    displayed-type: Dagger
+    attack-damage: 6.5
+    lore:
+    - ' &7&o"All who seek thrill has this one''s hip'
+    - ' &7&snaking it''s way to every combat."'
+    attack-speed: 3.0
+    movement-speed: 0.03
+    ability:
+      ability1:
+        type: BACKSTEP
+        mode: RIGHT_CLICK
+        cooldown: 8.0
+        mana: 5.0
+      ability2:
+        type: BACKSTAB
+        extra: 20.0
+        cooldown: 1.0
+        mode: ATTACK
+    abilities_lore:
+    - ' &6Backstep &7(&eRight Click&7)'
+    - ' &7Dash back and gain SPEED II for &e3s'
+    - ' &7Cooldown : &e8.0s&7, Mana Cost : &e5.0'
+    - ' &6Backstab &7(&ePassive&7)'
+    - ' &7Deal &e20% &7&7more damage'
+    - ' &7When damaging enemy from behind'
+    - ' &7Cooldown : &e1.0s'
+    lore-format: common
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    unbreakable: true
+    tier: common
+    custom-model-data: 2.0
+    revision-id: 5
+    item-batch: Starter
+DA1_001_02:
+  base:
+    material: STONE_SWORD
+    name: <#cc6e00>Stilleto <#6B6666>[<#73da00>Lvl.2<#6B6666>]
+    displayed-type: Dagger
+    attack-damage: 7.04
+    lore:
+    - ' &7&o"All who seek thrill has this one''s hip'
+    - ' &7&snaking it''s way to every combat."'
+    attack-speed: 3.0
+    movement-speed: 0.035
+    ability:
+      ability1:
+        type: BACKSTEP
+        mode: RIGHT_CLICK
+        cooldown: 7.75
+        mana: 5.0
+      ability2:
+        type: BACKSTAB
+        extra: 35.0
+        cooldown: 0.9
+        mode: ATTACK
+    abilities_lore:
+    - ' &6Backstep &7(&eRight Click&7)'
+    - ' &7Dash back and gain SPEED II for &e3s'
+    - ' &7Cooldown : &e7.75s&7, Mana Cost : &e5.0'
+    - ' &6Backstab &7(&ePassive&7)'
+    - ' &7Deal &e35% &7&7more damage'
+    - ' &7When damaging enemy from behind'
+    - ' &7Cooldown : &e0.9s'
+    lore-format: common
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    unbreakable: true
+    tier: common
+    custom-model-data: 2.0
+    revision-id: 5
+    item-batch: Starter
+DA1_001_03:
+  base:
+    material: STONE_SWORD
+    name: <#cc6e00>Stilleto <#6B6666>[<#96c100>Lvl.3<#6B6666>]
+    displayed-type: Dagger
+    attack-damage: 7.61
+    lore:
+    - ' &7&o"All who seek thrill has this one''s hip'
+    - ' &7&snaking it''s way to every combat."'
+    attack-speed: 3.0
+    movement-speed: 0.041
+    ability:
+      ability1:
+        type: BACKSTEP
+        mode: RIGHT_CLICK
+        cooldown: 7.5
+        mana: 5.0
+      ability2:
+        type: BACKSTAB
+        extra: 50.0
+        cooldown: 0.8
+        mode: ATTACK
+    abilities_lore:
+    - ' &6Backstep &7(&eRight Click&7)'
+    - ' &7Dash back and gain SPEED II for &e3s'
+    - ' &7Cooldown : &e7.5s&7, Mana Cost : &e5.0'
+    - ' &6Backstab &7(&ePassive&7)'
+    - ' &7Deal &e50% &7&7more damage'
+    - ' &7When damaging enemy from behind'
+    - ' &7Cooldown : &e0.8s'
+    lore-format: common
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    unbreakable: true
+    tier: common
+    custom-model-data: 2.0
+    revision-id: 5
+    item-batch: Starter
+DA1_001_04:
+  base:
+    material: STONE_SWORD
+    name: <#cc6e00>Stilleto <#6B6666>[<#aca800>Lvl.4<#6B6666>]
+    displayed-type: Dagger
+    attack-damage: 8.2
+    lore:
+    - ' &7&o"All who seek thrill has this one''s hip'
+    - ' &7&snaking it''s way to every combat."'
+    attack-speed: 3.0
+    movement-speed: 0.047
+    ability:
+      ability1:
+        type: BACKSTEP
+        mode: RIGHT_CLICK
+        cooldown: 7.25
+        mana: 5.0
+      ability2:
+        type: BACKSTAB
+        extra: 65.0
+        cooldown: 0.7
+        mode: ATTACK
+    abilities_lore:
+    - ' &6Backstep &7(&eRight Click&7)'
+    - ' &7Dash back and gain SPEED II for &e3s'
+    - ' &7Cooldown : &e7.25s&7, Mana Cost : &e5.0'
+    - ' &6Backstab &7(&ePassive&7)'
+    - ' &7Deal &e65% &7&7more damage'
+    - ' &7When damaging enemy from behind'
+    - ' &7Cooldown : &e0.7s'
+    lore-format: common
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    unbreakable: true
+    tier: common
+    custom-model-data: 2.0
+    revision-id: 5
+    item-batch: Starter
+DA1_001_05:
+  base:
+    material: STONE_SWORD
+    name: <#cc6e00>Stilleto <#6B6666>[<#bb8e00>Lvl.5<#6B6666>]
+    displayed-type: Dagger
+    attack-damage: 8.83
+    lore:
+    - ' &7&o"All who seek thrill has this one''s hip'
+    - ' &7&snaking it''s way to every combat."'
+    attack-speed: 3.0
+    movement-speed: 0.053
+    ability:
+      ability1:
+        type: BACKSTEP
+        mode: RIGHT_CLICK
+        cooldown: 7.0
+        mana: 5.0
+      ability2:
+        type: BACKSTAB
+        extra: 80.0
+        cooldown: 0.6
+        mode: ATTACK
+    abilities_lore:
+    - ' &6Backstep &7(&eRight Click&7)'
+    - ' &7Dash back and gain SPEED II for &e3s'
+    - ' &7Cooldown : &e7.0s&7, Mana Cost : &e5.0'
+    - ' &6Backstab &7(&ePassive&7)'
+    - ' &7Deal &e80% &7&7more damage'
+    - ' &7When damaging enemy from behind'
+    - ' &7Cooldown : &e0.6s'
+    lore-format: common
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    unbreakable: true
+    tier: common
+    custom-model-data: 2.0
+    revision-id: 5
+    item-batch: Starter
+DA1_001_06:
+  base:
+    material: STONE_SWORD
+    name: <#cc6e00>Stilleto <#6B6666>[<#c37300>Lvl.6<#6B6666>]
+    displayed-type: Dagger
+    attack-damage: 9.48
+    lore:
+    - ' &7&o"All who seek thrill has this one''s hip'
+    - ' &7&snaking it''s way to every combat."'
+    attack-speed: 3.0
+    movement-speed: 0.06
+    ability:
+      ability1:
+        type: BACKSTEP
+        mode: RIGHT_CLICK
+        cooldown: 6.75
+        mana: 5.0
+      ability2:
+        type: BACKSTAB
+        extra: 95.0
+        cooldown: 0.5
+        mode: ATTACK
+    abilities_lore:
+    - ' &6Backstep &7(&eRight Click&7)'
+    - ' &7Dash back and gain SPEED II for &e3s'
+    - ' &7Cooldown : &e6.75s&7, Mana Cost : &e5.0'
+    - ' &6Backstab &7(&ePassive&7)'
+    - ' &7Deal &e95% &7&7more damage'
+    - ' &7When damaging enemy from behind'
+    - ' &7Cooldown : &e0.5s'
+    lore-format: common
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    unbreakable: true
+    tier: common
+    custom-model-data: 2.0
+    revision-id: 5
+    item-batch: Starter
+DA1_001_07:
+  base:
+    material: STONE_SWORD
+    name: <#cc6e00>Stilleto <#6B6666>[<#c55700>Lvl.7<#6B6666>]
+    displayed-type: Dagger
+    attack-damage: 10.16
+    lore:
+    - ' &7&o"All who seek thrill has this one''s hip'
+    - ' &7&snaking it''s way to every combat."'
+    attack-speed: 3.0
+    movement-speed: 0.067
+    ability:
+      ability1:
+        type: BACKSTEP
+        mode: RIGHT_CLICK
+        cooldown: 6.5
+        mana: 5.0
+      ability2:
+        type: BACKSTAB
+        extra: 110.0
+        cooldown: 0.4
+        mode: ATTACK
+    abilities_lore:
+    - ' &6Backstep &7(&eRight Click&7)'
+    - ' &7Dash back and gain SPEED II for &e3s'
+    - ' &7Cooldown : &e6.5s&7, Mana Cost : &e5.0'
+    - ' &6Backstab &7(&ePassive&7)'
+    - ' &7Deal &e110% &7&7more damage'
+    - ' &7When damaging enemy from behind'
+    - ' &7Cooldown : &e0.4s'
+    lore-format: common
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    unbreakable: true
+    tier: common
+    custom-model-data: 2.0
+    revision-id: 5
+    item-batch: Starter
+DA1_001_08:
+  base:
+    material: STONE_SWORD
+    name: <#cc6e00>Stilleto <#6B6666>[<#c23700>Lvl.8<#6B6666>]
+    displayed-type: Dagger
+    attack-damage: 10.87
+    lore:
+    - ' &7&o"All who seek thrill has this one''s hip'
+    - ' &7&snaking it''s way to every combat."'
+    attack-speed: 3.0
+    movement-speed: 0.074
+    ability:
+      ability1:
+        type: BACKSTEP
+        mode: RIGHT_CLICK
+        cooldown: 6.25
+        mana: 5.0
+      ability2:
+        type: BACKSTAB
+        extra: 125.0
+        cooldown: 0.3
+        mode: ATTACK
+    abilities_lore:
+    - ' &6Backstep &7(&eRight Click&7)'
+    - ' &7Dash back and gain SPEED II for &e3s'
+    - ' &7Cooldown : &e6.25s&7, Mana Cost : &e5.0'
+    - ' &6Backstab &7(&ePassive&7)'
+    - ' &7Deal &e125% &7&7more damage'
+    - ' &7When damaging enemy from behind'
+    - ' &7Cooldown : &e0.3s'
+    lore-format: common
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    unbreakable: true
+    tier: common
+    custom-model-data: 2.0
+    revision-id: 5
+    item-batch: Starter
+DA1_001_09:
+  base:
+    material: STONE_SWORD
+    name: <#cc6e00>Stilleto <#6B6666>[<#ba0909>Lvl.9<#6B6666>]
+    displayed-type: Dagger
+    attack-damage: 11.6
+    lore:
+    - ' &7&o"All who seek thrill has this one''s hip'
+    - ' &7&snaking it''s way to every combat."'
+    attack-speed: 3.0
+    movement-speed: 0.081
+    ability:
+      ability1:
+        type: BACKSTEP
+        mode: RIGHT_CLICK
+        cooldown: 6.0
+        mana: 5.0
+      ability2:
+        type: BACKSTAB
+        extra: 140.0
+        cooldown: 0.2
+        mode: ATTACK
+    abilities_lore:
+    - ' &6Backstep &7(&eRight Click&7)'
+    - ' &7Dash back and gain SPEED II for &e3s'
+    - ' &7Cooldown : &e6.0s&7, Mana Cost : &e5.0'
+    - ' &6Backstab &7(&ePassive&7)'
+    - ' &7Deal &e140% &7&7more damage'
+    - ' &7When damaging enemy from behind'
+    - ' &7Cooldown : &e0.2s'
+    lore-format: common
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    unbreakable: true
+    tier: common
+    custom-model-data: 2.0
+    revision-id: 5
+    item-batch: Starter

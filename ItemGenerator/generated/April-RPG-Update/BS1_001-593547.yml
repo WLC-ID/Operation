@@ -5,8 +5,8 @@ BS1_001_01:
     displayed-type: Broadsword
     attack-damage: 11.5
     lore:
-    - '&7&o"The glory of combat has long gone'
-    - '&7&oit has yet to reach its true potential."'
+    - ' &7&o"The glory of combat has long gone'
+    - ' &7&oit has yet to reach its true potential."'
     attack-speed: 1.2
     critical-strike-chance: 7.0
     critical-strike-power: 85.0
@@ -41,8 +41,8 @@ BS1_001_02:
     displayed-type: Broadsword
     attack-damage: 12.04
     lore:
-    - '&7&o"The glory of combat has long gone'
-    - '&7&oit has yet to reach its true potential."'
+    - ' &7&o"The glory of combat has long gone'
+    - ' &7&oit has yet to reach its true potential."'
     attack-speed: 1.2
     critical-strike-chance: 7.54
     critical-strike-power: 85.54
@@ -77,8 +77,8 @@ BS1_001_03:
     displayed-type: Broadsword
     attack-damage: 12.61
     lore:
-    - '&7&o"The glory of combat has long gone'
-    - '&7&oit has yet to reach its true potential."'
+    - ' &7&o"The glory of combat has long gone'
+    - ' &7&oit has yet to reach its true potential."'
     attack-speed: 1.2
     critical-strike-chance: 8.11
     critical-strike-power: 86.11
@@ -113,8 +113,8 @@ BS1_001_04:
     displayed-type: Broadsword
     attack-damage: 13.2
     lore:
-    - '&7&o"The glory of combat has long gone'
-    - '&7&oit has yet to reach its true potential."'
+    - ' &7&o"The glory of combat has long gone'
+    - ' &7&oit has yet to reach its true potential."'
     attack-speed: 1.2
     critical-strike-chance: 8.7
     critical-strike-power: 86.7
@@ -149,8 +149,8 @@ BS1_001_05:
     displayed-type: Broadsword
     attack-damage: 13.83
     lore:
-    - '&7&o"The glory of combat has long gone'
-    - '&7&oit has yet to reach its true potential."'
+    - ' &7&o"The glory of combat has long gone'
+    - ' &7&oit has yet to reach its true potential."'
     attack-speed: 1.2
     critical-strike-chance: 9.33
     critical-strike-power: 87.33
@@ -185,8 +185,8 @@ BS1_001_06:
     displayed-type: Broadsword
     attack-damage: 14.48
     lore:
-    - '&7&o"The glory of combat has long gone'
-    - '&7&oit has yet to reach its true potential."'
+    - ' &7&o"The glory of combat has long gone'
+    - ' &7&oit has yet to reach its true potential."'
     attack-speed: 1.2
     critical-strike-chance: 9.98
     critical-strike-power: 87.98
@@ -221,8 +221,8 @@ BS1_001_07:
     displayed-type: Broadsword
     attack-damage: 15.16
     lore:
-    - '&7&o"The glory of combat has long gone'
-    - '&7&oit has yet to reach its true potential."'
+    - ' &7&o"The glory of combat has long gone'
+    - ' &7&oit has yet to reach its true potential."'
     attack-speed: 1.2
     critical-strike-chance: 10.66
     critical-strike-power: 88.66
@@ -257,8 +257,8 @@ BS1_001_08:
     displayed-type: Broadsword
     attack-damage: 15.87
     lore:
-    - '&7&o"The glory of combat has long gone'
-    - '&7&oit has yet to reach its true potential."'
+    - ' &7&o"The glory of combat has long gone'
+    - ' &7&oit has yet to reach its true potential."'
     attack-speed: 1.2
     critical-strike-chance: 11.37
     critical-strike-power: 89.37
@@ -293,8 +293,8 @@ BS1_001_09:
     displayed-type: Broadsword
     attack-damage: 16.6
     lore:
-    - '&7&o"The glory of combat has long gone'
-    - '&7&oit has yet to reach its true potential."'
+    - ' &7&o"The glory of combat has long gone'
+    - ' &7&oit has yet to reach its true potential."'
     attack-speed: 1.2
     critical-strike-chance: 12.1
     critical-strike-power: 90.1

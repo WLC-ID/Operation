@@ -1,0 +1,10 @@
+directory,function
+attack-damage,"pi(x,6.5,1,1)"
+movement-speed,"round(pi(x,3,1,1)/100,3)"
+ability@1.cooldown,"max((800-((x-1)*25)),400)/100"
+ability@2.extra,"(20+((x-1)*15))"
+ability@2.cooldown,"max((100-((x-1)*10)),10)/100"
+name,"f""<#cc6e00>Stilleto <#6B6666>[{color(x)}Lvl.{x}<#6B6666>]"""
+abilities_lore.2,"f"" &7Cooldown : &e{$ability@1.cooldown$}s&7, Mana Cost : &e{$ability@1.mana$}"""
+abilities_lore.4,"f"" &7Deal &e{int($ability@2.extra$)}% &7&7more damage"""
+abilities_lore.6,"f"" &7Cooldown : &e{$ability@2.cooldown$}s"""

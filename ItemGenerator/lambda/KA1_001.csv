@@ -1,0 +1,10 @@
+directory,function
+attack-damage,"pi(x,8,1,1)"
+critical-strike-chance,"pi(x,11,1,1)"
+critical-strike-power,"pi(x,60,1,1)"
+ability@1.length,"(5+((x-1)//2))/20"
+ability@1.damage,"8+((x-1)*3/4)"
+name,"f""<#00AEE6>Bokken <#6B6666>[{color(x)}Lvl.{x}<#6B6666>]"""
+abilities_lore.3,"f"" &7Cooldown : &e{$ability@1.cooldown$}s&7, Mana Cost : &e{$ability@1.mana$}"""
+abilities_lore.2,"f"" &7deal &e{$ability@1.damage$}&7 damage to enemies passed through."""
+abilities_lore.1,"f"" &7Charge 1s then dash forward for &e{$ability@1.length$}s&7 and"""
