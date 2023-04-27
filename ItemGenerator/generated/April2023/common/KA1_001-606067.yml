@@ -25,7 +25,6 @@ KA1_001_01:
         mana: 8.0
         delay: 1.0
         length: 0.25
-    lore-format: common
     disable-enchanting: true
     disable-smithing: true
     disable-smelting: true
@@ -61,7 +60,6 @@ KA1_001_02:
         mana: 8.0
         delay: 1.0
         length: 0.3
-    lore-format: common
     disable-enchanting: true
     disable-smithing: true
     disable-smelting: true
@@ -97,7 +95,6 @@ KA1_001_03:
         mana: 8.0
         delay: 1.0
         length: 0.35
-    lore-format: common
     disable-enchanting: true
     disable-smithing: true
     disable-smelting: true
@@ -133,7 +130,6 @@ KA1_001_04:
         mana: 8.0
         delay: 1.0
         length: 0.4
-    lore-format: common
     disable-enchanting: true
     disable-smithing: true
     disable-smelting: true
@@ -169,7 +165,6 @@ KA1_001_05:
         mana: 8.0
         delay: 1.0
         length: 0.45
-    lore-format: common
     disable-enchanting: true
     disable-smithing: true
     disable-smelting: true
@@ -205,7 +200,6 @@ KA1_001_06:
         mana: 8.0
         delay: 1.0
         length: 0.5
-    lore-format: common
     disable-enchanting: true
     disable-smithing: true
     disable-smelting: true
@@ -241,7 +235,6 @@ KA1_001_07:
         mana: 8.0
         delay: 1.0
         length: 0.55
-    lore-format: common
     disable-enchanting: true
     disable-smithing: true
     disable-smelting: true
@@ -277,7 +270,6 @@ KA1_001_08:
         mana: 8.0
         delay: 1.0
         length: 0.6
-    lore-format: common
     disable-enchanting: true
     disable-smithing: true
     disable-smelting: true
@@ -313,7 +305,6 @@ KA1_001_09:
         mana: 8.0
         delay: 1.0
         length: 0.65
-    lore-format: common
     disable-enchanting: true
     disable-smithing: true
     disable-smelting: true

@@ -21,7 +21,6 @@ SW1_001_01:
         damage-percent: 75.0
         cooldown: 10.0
         mana: 6.0
-    lore-format: common
     disable-enchanting: true
     disable-smithing: true
     disable-smelting: true
@@ -55,7 +54,6 @@ SW1_001_02:
         damage-percent: 78.0
         cooldown: 9.6
         mana: 6.2
-    lore-format: common
     disable-enchanting: true
     disable-smithing: true
     disable-smelting: true
@@ -89,7 +87,6 @@ SW1_001_03:
         damage-percent: 81.0
         cooldown: 9.2
         mana: 6.4
-    lore-format: common
     disable-enchanting: true
     disable-smithing: true
     disable-smelting: true
@@ -123,7 +120,6 @@ SW1_001_04:
         damage-percent: 84.0
         cooldown: 8.8
         mana: 6.6
-    lore-format: common
     disable-enchanting: true
     disable-smithing: true
     disable-smelting: true
@@ -157,7 +153,6 @@ SW1_001_05:
         damage-percent: 87.0
         cooldown: 8.4
         mana: 6.8
-    lore-format: common
     disable-enchanting: true
     disable-smithing: true
     disable-smelting: true
@@ -191,7 +186,6 @@ SW1_001_06:
         damage-percent: 90.0
         cooldown: 8.0
         mana: 7.0
-    lore-format: common
     disable-enchanting: true
     disable-smithing: true
     disable-smelting: true
@@ -225,7 +219,6 @@ SW1_001_07:
         damage-percent: 93.0
         cooldown: 7.6
         mana: 7.2
-    lore-format: common
     disable-enchanting: true
     disable-smithing: true
     disable-smelting: true
@@ -259,7 +252,6 @@ SW1_001_08:
         damage-percent: 96.0
         cooldown: 7.2
         mana: 7.4
-    lore-format: common
     disable-enchanting: true
     disable-smithing: true
     disable-smelting: true
@@ -293,7 +285,6 @@ SW1_001_09:
         damage-percent: 99.0
         cooldown: 6.8
         mana: 7.6
-    lore-format: common
     disable-enchanting: true
     disable-smithing: true
     disable-smelting: true

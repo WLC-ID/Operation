@@ -9,7 +9,6 @@ MA1_001_01:
     attack-speed: 1.6
     range: 12
     tier: COMMON
-    lore-format: common
     ability:
       ability1:
         type: WEAKEN
@@ -44,7 +43,6 @@ MA1_001_02:
     attack-speed: 1.6
     range: 12
     tier: COMMON
-    lore-format: common
     ability:
       ability1:
         type: WEAKEN
@@ -79,7 +77,6 @@ MA1_001_03:
     attack-speed: 1.6
     range: 13
     tier: COMMON
-    lore-format: common
     ability:
       ability1:
         type: WEAKEN
@@ -114,7 +111,6 @@ MA1_001_04:
     attack-speed: 1.6
     range: 13
     tier: COMMON
-    lore-format: common
     ability:
       ability1:
         type: WEAKEN
@@ -149,7 +145,6 @@ MA1_001_05:
     attack-speed: 1.6
     range: 14
     tier: COMMON
-    lore-format: common
     ability:
       ability1:
         type: WEAKEN
@@ -184,7 +179,6 @@ MA1_001_06:
     attack-speed: 1.6
     range: 14
     tier: COMMON
-    lore-format: common
     ability:
       ability1:
         type: WEAKEN
@@ -219,7 +213,6 @@ MA1_001_07:
     attack-speed: 1.6
     range: 15
     tier: COMMON
-    lore-format: common
     ability:
       ability1:
         type: WEAKEN
@@ -254,7 +247,6 @@ MA1_001_08:
     attack-speed: 1.6
     range: 15
     tier: COMMON
-    lore-format: common
     ability:
       ability1:
         type: WEAKEN
@@ -289,7 +281,6 @@ MA1_001_09:
     attack-speed: 1.6
     range: 16
     tier: COMMON
-    lore-format: common
     ability:
       ability1:
         type: WEAKEN

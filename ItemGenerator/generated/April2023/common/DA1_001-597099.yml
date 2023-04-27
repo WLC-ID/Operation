@@ -28,7 +28,6 @@ DA1_001_01:
     - ' &7Deal &e20% &7&7more damage'
     - ' &7When damaging enemy from behind'
     - ' &7Cooldown : &e1.0s'
-    lore-format: common
     disable-enchanting: true
     disable-smithing: true
     disable-smelting: true
@@ -69,7 +68,6 @@ DA1_001_02:
     - ' &7Deal &e35% &7&7more damage'
     - ' &7When damaging enemy from behind'
     - ' &7Cooldown : &e0.9s'
-    lore-format: common
     disable-enchanting: true
     disable-smithing: true
     disable-smelting: true
@@ -110,7 +108,6 @@ DA1_001_03:
     - ' &7Deal &e50% &7&7more damage'
     - ' &7When damaging enemy from behind'
     - ' &7Cooldown : &e0.8s'
-    lore-format: common
     disable-enchanting: true
     disable-smithing: true
     disable-smelting: true
@@ -151,7 +148,6 @@ DA1_001_04:
     - ' &7Deal &e65% &7&7more damage'
     - ' &7When damaging enemy from behind'
     - ' &7Cooldown : &e0.7s'
-    lore-format: common
     disable-enchanting: true
     disable-smithing: true
     disable-smelting: true
@@ -192,7 +188,6 @@ DA1_001_05:
     - ' &7Deal &e80% &7&7more damage'
     - ' &7When damaging enemy from behind'
     - ' &7Cooldown : &e0.6s'
-    lore-format: common
     disable-enchanting: true
     disable-smithing: true
     disable-smelting: true
@@ -233,7 +228,6 @@ DA1_001_06:
     - ' &7Deal &e95% &7&7more damage'
     - ' &7When damaging enemy from behind'
     - ' &7Cooldown : &e0.5s'
-    lore-format: common
     disable-enchanting: true
     disable-smithing: true
     disable-smelting: true
@@ -274,7 +268,6 @@ DA1_001_07:
     - ' &7Deal &e110% &7&7more damage'
     - ' &7When damaging enemy from behind'
     - ' &7Cooldown : &e0.4s'
-    lore-format: common
     disable-enchanting: true
     disable-smithing: true
     disable-smelting: true
@@ -315,7 +308,6 @@ DA1_001_08:
     - ' &7Deal &e125% &7&7more damage'
     - ' &7When damaging enemy from behind'
     - ' &7Cooldown : &e0.3s'
-    lore-format: common
     disable-enchanting: true
     disable-smithing: true
     disable-smelting: true
@@ -356,7 +348,6 @@ DA1_001_09:
     - ' &7Deal &e140% &7&7more damage'
     - ' &7When damaging enemy from behind'
     - ' &7Cooldown : &e0.2s'
-    lore-format: common
     disable-enchanting: true
     disable-smithing: true
     disable-smelting: true

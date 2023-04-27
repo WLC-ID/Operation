@@ -24,7 +24,6 @@ BS1_001_01:
     - ' &7Deal &e6.0 &7damage in a 3 radius circle'
     - ' &7Cooldown : &e10.0s&7, Mana Cost : &e10.0'
     tier: common
-    lore-format: common
     disable-enchanting: true
     disable-smithing: true
     disable-smelting: true
@@ -60,7 +59,6 @@ BS1_001_02:
     - ' &7Deal &e6.15 &7damage in a 3 radius circle'
     - ' &7Cooldown : &e9.75s&7, Mana Cost : &e10.0'
     tier: common
-    lore-format: common
     disable-enchanting: true
     disable-smithing: true
     disable-smelting: true
@@ -96,7 +94,6 @@ BS1_001_03:
     - ' &7Deal &e6.3 &7damage in a 3 radius circle'
     - ' &7Cooldown : &e9.5s&7, Mana Cost : &e10.0'
     tier: common
-    lore-format: common
     disable-enchanting: true
     disable-smithing: true
     disable-smelting: true
@@ -132,7 +129,6 @@ BS1_001_04:
     - ' &7Deal &e6.45 &7damage in a 3 radius circle'
     - ' &7Cooldown : &e9.25s&7, Mana Cost : &e10.0'
     tier: common
-    lore-format: common
     disable-enchanting: true
     disable-smithing: true
     disable-smelting: true
@@ -168,7 +164,6 @@ BS1_001_05:
     - ' &7Deal &e6.6 &7damage in a 3 radius circle'
     - ' &7Cooldown : &e9.0s&7, Mana Cost : &e10.0'
     tier: common
-    lore-format: common
     disable-enchanting: true
     disable-smithing: true
     disable-smelting: true
@@ -204,7 +199,6 @@ BS1_001_06:
     - ' &7Deal &e6.75 &7damage in a 3 radius circle'
     - ' &7Cooldown : &e8.75s&7, Mana Cost : &e10.0'
     tier: common
-    lore-format: common
     disable-enchanting: true
     disable-smithing: true
     disable-smelting: true
@@ -240,7 +234,6 @@ BS1_001_07:
     - ' &7Deal &e6.9 &7damage in a 3 radius circle'
     - ' &7Cooldown : &e8.5s&7, Mana Cost : &e10.0'
     tier: common
-    lore-format: common
     disable-enchanting: true
     disable-smithing: true
     disable-smelting: true
@@ -276,7 +269,6 @@ BS1_001_08:
     - ' &7Deal &e7.05 &7damage in a 3 radius circle'
     - ' &7Cooldown : &e8.25s&7, Mana Cost : &e10.0'
     tier: common
-    lore-format: common
     disable-enchanting: true
     disable-smithing: true
     disable-smelting: true
@@ -312,7 +304,6 @@ BS1_001_09:
     - ' &7Deal &e7.2 &7damage in a 3 radius circle'
     - ' &7Cooldown : &e8.0s&7, Mana Cost : &e10.0'
     tier: common
-    lore-format: common
     disable-enchanting: true
     disable-smithing: true
     disable-smelting: true

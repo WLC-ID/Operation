@@ -15,7 +15,6 @@ SW1_002_01:
     - ' &7Deal &e20% &7more damage while on fire'
     - ' &7Cooldown : &e2.0s&7, Mana Cost : &e6.0'
     attack-speed: 1.6
-    tier: common
     ability:
       ability1:
         type: SCORCH_ATTACK
@@ -54,7 +53,6 @@ SW1_002_02:
     - ' &7Deal &e30% &7more damage while on fire'
     - ' &7Cooldown : &e1.9s&7, Mana Cost : &e6.0'
     attack-speed: 1.6
-    tier: common
     ability:
       ability1:
         type: SCORCH_ATTACK
@@ -93,7 +91,6 @@ SW1_002_03:
     - ' &7Deal &e40% &7more damage while on fire'
     - ' &7Cooldown : &e1.8s&7, Mana Cost : &e6.0'
     attack-speed: 1.6
-    tier: common
     ability:
       ability1:
         type: SCORCH_ATTACK
@@ -132,7 +129,6 @@ SW1_002_04:
     - ' &7Deal &e50% &7more damage while on fire'
     - ' &7Cooldown : &e1.7s&7, Mana Cost : &e6.0'
     attack-speed: 1.6
-    tier: common
     ability:
       ability1:
         type: SCORCH_ATTACK
@@ -171,7 +167,6 @@ SW1_002_05:
     - ' &7Deal &e60% &7more damage while on fire'
     - ' &7Cooldown : &e1.6s&7, Mana Cost : &e6.0'
     attack-speed: 1.6
-    tier: common
     ability:
       ability1:
         type: SCORCH_ATTACK
@@ -210,7 +205,6 @@ SW1_002_06:
     - ' &7Deal &e70% &7more damage while on fire'
     - ' &7Cooldown : &e1.5s&7, Mana Cost : &e6.0'
     attack-speed: 1.6
-    tier: common
     ability:
       ability1:
         type: SCORCH_ATTACK
@@ -249,7 +243,6 @@ SW1_002_07:
     - ' &7Deal &e80% &7more damage while on fire'
     - ' &7Cooldown : &e1.4s&7, Mana Cost : &e6.0'
     attack-speed: 1.6
-    tier: common
     ability:
       ability1:
         type: SCORCH_ATTACK
@@ -288,7 +281,6 @@ SW1_002_08:
     - ' &7Deal &e90% &7more damage while on fire'
     - ' &7Cooldown : &e1.3s&7, Mana Cost : &e6.0'
     attack-speed: 1.6
-    tier: common
     ability:
       ability1:
         type: SCORCH_ATTACK
@@ -327,7 +319,6 @@ SW1_002_09:
     - ' &7Deal &e100% &7more damage while on fire'
     - ' &7Cooldown : &e1.2s&7, Mana Cost : &e6.0'
     attack-speed: 1.6
-    tier: common
     ability:
       ability1:
         type: SCORCH_ATTACK

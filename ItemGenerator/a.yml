@@ -1,31 +1,30 @@
-KA1_001_01:
+SW2_002_01:
   base:
     material: STONE_SWORD
-    name: <#00AEE6>Bokken <#6B6666>[<#23f108>Lvl.1<#6B6666>]
-    displayed-type: Katana
-    attack-damage: 8.01
-    critical-strike-chance: 11.0
-    critical-strike-power: 60.0
+    name: <#F5DEB3>Hallowed Blade <#6B6666>[<#23f108>Lvl.1<#6B6666>]
+    displayed-type: Sword
+    attack-damage: 8.0
+    additional-health: 4.0
+    additional-regeneration: 4.0
     lore:
-    - ' &7&o"Passed down through generations'
-    - ' &7&oof samurai warriors."'
+    - ' &7&o"Forged from pure silver and blessed'
+    - ' &7&oby divine magic."'
     abilities_lore:
-    - ' &6Slash &7(&eRight Click&7)'
-    - ' &7Charge 1s then dash forward for 0.25s and'
-    - ' &7deal 8.0 damage to enemies passed through.'
-    - ' &7Cooldown : &e10.0s&7, Mana Cost : &e6.0'
-    attack-speed: 1.6
-    tier: common
+    - ' &6God Blessing &7(&eRight Click&7)'
+    - ' &7Grants &fRegeneration II&7 for &e10s&7.'
+    - ' &7Cooldown : &e15.0s&7, Mana Cost : &e7.5'
+    attack-speed: 1.7
+    tier: rare
     ability:
       ability1:
-        type: LIGHT_DASH
+        type: POTION_SELF
         mode: RIGHT_CLICK
-        damage: 8.0
-        cooldown: 8.0
-        mana: 8.0
-        delay: 1.0
-        length: 0.25
-    lore-format: common
+        duration: 10.0
+        cooldown: 15.0
+        mana: 7.5
+        chance: 100.0
+        potion-id: 10.0
+        amplifier: 1.0
     disable-enchanting: true
     disable-smithing: true
     disable-smelting: true

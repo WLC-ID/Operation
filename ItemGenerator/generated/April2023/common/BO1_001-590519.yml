@@ -9,7 +9,6 @@ BO1_001_01:
     attack-speed: 1
     movement-speed: 0.03
     tier: COMMON
-    lore-format: common
     disable-enchanting: true
     disable-smithing: true
     disable-smelting: true
@@ -44,7 +43,6 @@ BO1_001_02:
     attack-speed: 1
     movement-speed: 0.035
     tier: COMMON
-    lore-format: common
     disable-enchanting: true
     disable-smithing: true
     disable-smelting: true
@@ -79,7 +77,6 @@ BO1_001_03:
     attack-speed: 1
     movement-speed: 0.041
     tier: COMMON
-    lore-format: common
     disable-enchanting: true
     disable-smithing: true
     disable-smelting: true
@@ -114,7 +111,6 @@ BO1_001_04:
     attack-speed: 1
     movement-speed: 0.047
     tier: COMMON
-    lore-format: common
     disable-enchanting: true
     disable-smithing: true
     disable-smelting: true
@@ -149,7 +145,6 @@ BO1_001_05:
     attack-speed: 1
     movement-speed: 0.053
     tier: COMMON
-    lore-format: common
     disable-enchanting: true
     disable-smithing: true
     disable-smelting: true
@@ -184,7 +179,6 @@ BO1_001_06:
     attack-speed: 1
     movement-speed: 0.06
     tier: COMMON
-    lore-format: common
     disable-enchanting: true
     disable-smithing: true
     disable-smelting: true
@@ -219,7 +213,6 @@ BO1_001_07:
     attack-speed: 1
     movement-speed: 0.067
     tier: COMMON
-    lore-format: common
     disable-enchanting: true
     disable-smithing: true
     disable-smelting: true
@@ -254,7 +247,6 @@ BO1_001_08:
     attack-speed: 1
     movement-speed: 0.074
     tier: COMMON
-    lore-format: common
     disable-enchanting: true
     disable-smithing: true
     disable-smelting: true
@@ -289,7 +281,6 @@ BO1_001_09:
     attack-speed: 1
     movement-speed: 0.081
     tier: COMMON
-    lore-format: common
     disable-enchanting: true
     disable-smithing: true
     disable-smelting: true
