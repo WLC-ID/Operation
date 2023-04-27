@@ -1,5 +1,5 @@
-# Template: AX2_002_XXX. Digest: 4467cb9e97450712024a61fb30f5f191. Base36: 41SHZJ6528WHHGFQ30WPQ6FF5
-# Generated at 27/04/2023 23:51:57. Digest: cc6d53413cf0eba0b1634688ff2fde87. Base36: C3OXSNHBNKH3BG19UKN0H3UKN.
+# Template: AX2_002_XXX. Digest: 50e5fa70169483615066af3bb5dd4c03. Base36: 4SF18D9QMCJP4QYLM5QEEYMF7
+# Generated at 28/04/2023 00:28:09. Digest: d635f9824e0c31c2fa27fc18d1e7b7c6. Base36: COJM2BBRSPZ44NHO2V3B44IPY.
 AX2_002_01:
   base:
     material: STONE_AXE
@@ -26,16 +26,16 @@ AX2_002_01:
       ability1:
         type: DUAL_WIELD
         mode: ATTACK
-        pvp-percent: 40.0
-        pve-percent: 20.0
+        pvp-percent: 80.0
+        pve-percent: 40.0
     abilities_lore:
     - ' &6Dual Wield &7(&eAttack&7)'
     - ' &7Increases the damage dealt when'
     - ' &7dual-wielding the same level of'
     - ' &7Warbringer Axe.'
-    - ' &7PvP : &e+40%&7, PvE : &e+20%'
+    - ' &7PvP : &e+80%&7, PvE : &e+40%'
     revision-id: 1
-    item-batch: Starter
+    item-batch: Altered Starter
 AX2_002_02:
   base:
     material: STONE_AXE
@@ -62,16 +62,16 @@ AX2_002_02:
       ability1:
         type: DUAL_WIELD
         mode: ATTACK
-        pvp-percent: 60.0
-        pve-percent: 30.0
+        pvp-percent: 100.0
+        pve-percent: 50.0
     abilities_lore:
     - ' &6Dual Wield &7(&eAttack&7)'
     - ' &7Increases the damage dealt when'
     - ' &7dual-wielding the same level of'
     - ' &7Warbringer Axe.'
-    - ' &7PvP : &e+60%&7, PvE : &e+30%'
+    - ' &7PvP : &e+100%&7, PvE : &e+50%'
     revision-id: 1
-    item-batch: Starter
+    item-batch: Altered Starter
 AX2_002_03:
   base:
     material: STONE_AXE
@@ -98,16 +98,16 @@ AX2_002_03:
       ability1:
         type: DUAL_WIELD
         mode: ATTACK
-        pvp-percent: 80.0
-        pve-percent: 40.0
+        pvp-percent: 120.0
+        pve-percent: 60.0
     abilities_lore:
     - ' &6Dual Wield &7(&eAttack&7)'
     - ' &7Increases the damage dealt when'
     - ' &7dual-wielding the same level of'
     - ' &7Warbringer Axe.'
-    - ' &7PvP : &e+80%&7, PvE : &e+40%'
+    - ' &7PvP : &e+120%&7, PvE : &e+60%'
     revision-id: 1
-    item-batch: Starter
+    item-batch: Altered Starter
 AX2_002_04:
   base:
     material: STONE_AXE
@@ -134,16 +134,16 @@ AX2_002_04:
       ability1:
         type: DUAL_WIELD
         mode: ATTACK
-        pvp-percent: 100.0
-        pve-percent: 50.0
+        pvp-percent: 140.0
+        pve-percent: 70.0
     abilities_lore:
     - ' &6Dual Wield &7(&eAttack&7)'
     - ' &7Increases the damage dealt when'
     - ' &7dual-wielding the same level of'
     - ' &7Warbringer Axe.'
-    - ' &7PvP : &e+100%&7, PvE : &e+50%'
+    - ' &7PvP : &e+140%&7, PvE : &e+70%'
     revision-id: 1
-    item-batch: Starter
+    item-batch: Altered Starter
 AX2_002_05:
   base:
     material: STONE_AXE
@@ -170,16 +170,16 @@ AX2_002_05:
       ability1:
         type: DUAL_WIELD
         mode: ATTACK
-        pvp-percent: 120.0
-        pve-percent: 60.0
+        pvp-percent: 160.0
+        pve-percent: 80.0
     abilities_lore:
     - ' &6Dual Wield &7(&eAttack&7)'
     - ' &7Increases the damage dealt when'
     - ' &7dual-wielding the same level of'
     - ' &7Warbringer Axe.'
-    - ' &7PvP : &e+120%&7, PvE : &e+60%'
+    - ' &7PvP : &e+160%&7, PvE : &e+80%'
     revision-id: 1
-    item-batch: Starter
+    item-batch: Altered Starter
 AX2_002_06:
   base:
     material: STONE_AXE
@@ -206,16 +206,16 @@ AX2_002_06:
       ability1:
         type: DUAL_WIELD
         mode: ATTACK
-        pvp-percent: 140.0
-        pve-percent: 70.0
+        pvp-percent: 180.0
+        pve-percent: 90.0
     abilities_lore:
     - ' &6Dual Wield &7(&eAttack&7)'
     - ' &7Increases the damage dealt when'
     - ' &7dual-wielding the same level of'
     - ' &7Warbringer Axe.'
-    - ' &7PvP : &e+140%&7, PvE : &e+70%'
+    - ' &7PvP : &e+180%&7, PvE : &e+90%'
     revision-id: 1
-    item-batch: Starter
+    item-batch: Altered Starter
 AX2_002_07:
   base:
     material: STONE_AXE
@@ -242,13 +242,13 @@ AX2_002_07:
       ability1:
         type: DUAL_WIELD
         mode: ATTACK
-        pvp-percent: 160.0
-        pve-percent: 80.0
+        pvp-percent: 200.0
+        pve-percent: 100.0
     abilities_lore:
     - ' &6Dual Wield &7(&eAttack&7)'
     - ' &7Increases the damage dealt when'
     - ' &7dual-wielding the same level of'
     - ' &7Warbringer Axe.'
-    - ' &7PvP : &e+160%&7, PvE : &e+80%'
+    - ' &7PvP : &e+200%&7, PvE : &e+100%'
     revision-id: 1
-    item-batch: Starter
+    item-batch: Altered Starter

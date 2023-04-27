@@ -1,5 +1,5 @@
-# Template: SW2_002_XXX. Digest: 018ebfb43604d49769a0be3c0d22c344. Base36: 3BICUJRYM69EK5XVEEYVO18K
-# Generated at 27/04/2023 22:24:06. Digest: 26c465fd237d74d658c656858e9e9954. Base36: 2AMGP2VJAZOE94TL1F0C3A7V8.
+# Template: SW2_002_XXX. Digest: 098a8221a8ecf4f4d8adeba43db54a00. Base36: KC1SDHPH5PPQMR2WOPZ4RSOW
+# Generated at 28/04/2023 00:27:37. Digest: 8e1befa2f558865c4d2c48f347abbb4f. Base36: 8EVIGB4VE3L8QONANC9Y34X1R.
 SW2_002_01:
   base:
     material: STONE_SWORD
@@ -34,7 +34,7 @@ SW2_002_01:
     disable-repairing: true
     unbreakable: true
     revision-id: 1
-    item-batch: Starter
+    item-batch: Altered Starter
 SW2_002_02:
   base:
     material: STONE_SWORD
@@ -69,7 +69,7 @@ SW2_002_02:
     disable-repairing: true
     unbreakable: true
     revision-id: 1
-    item-batch: Starter
+    item-batch: Altered Starter
 SW2_002_03:
   base:
     material: STONE_SWORD
@@ -104,7 +104,7 @@ SW2_002_03:
     disable-repairing: true
     unbreakable: true
     revision-id: 1
-    item-batch: Starter
+    item-batch: Altered Starter
 SW2_002_04:
   base:
     material: STONE_SWORD
@@ -139,7 +139,7 @@ SW2_002_04:
     disable-repairing: true
     unbreakable: true
     revision-id: 1
-    item-batch: Starter
+    item-batch: Altered Starter
 SW2_002_05:
   base:
     material: STONE_SWORD
@@ -174,7 +174,7 @@ SW2_002_05:
     disable-repairing: true
     unbreakable: true
     revision-id: 1
-    item-batch: Starter
+    item-batch: Altered Starter
 SW2_002_06:
   base:
     material: STONE_SWORD
@@ -209,7 +209,7 @@ SW2_002_06:
     disable-repairing: true
     unbreakable: true
     revision-id: 1
-    item-batch: Starter
+    item-batch: Altered Starter
 SW2_002_07:
   base:
     material: STONE_SWORD
@@ -244,4 +244,4 @@ SW2_002_07:
     disable-repairing: true
     unbreakable: true
     revision-id: 1
-    item-batch: Starter
+    item-batch: Altered Starter
