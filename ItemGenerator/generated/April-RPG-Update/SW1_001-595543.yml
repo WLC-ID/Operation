@@ -1,0 +1,306 @@
+SW1_001_01:
+  base:
+    material: STONE_SWORD
+    name: <#817474>Relic Sword <#6B6666>[<#23f108>Lvl.1<#6B6666>]
+    displayed-type: Sword
+    attack-damage: 10.0
+    lore:
+    - ' &7&o"A sword that once belonged to a hero.'
+    - ' &7&othe glory fading, now naught but rust."'
+    abilities_lore:
+    - ' &6Empower &7(&eAttack&7)'
+    - ' &7Increase the next damage dealt by &e75%'
+    - ' &7Cooldown : &e10.0s&7, Mana Cost : &e6.0'
+    attack-speed: 1.6
+    defense: 7.5
+    tier: common
+    ability:
+      ability1:
+        type: ECHO_ATTACK
+        mode: ATTACK
+        damage-percent: 75.0
+        cooldown: 10.0
+        mana: 6.0
+    lore-format: common
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    unbreakable: true
+    custom-model-data: 3.0
+    revision-id: 3
+    disable-interaction: true
+    item-batch: Starter
+SW1_001_02:
+  base:
+    material: STONE_SWORD
+    name: <#817474>Relic Sword <#6B6666>[<#73da00>Lvl.2<#6B6666>]
+    displayed-type: Sword
+    attack-damage: 10.54
+    lore:
+    - ' &7&o"A sword that once belonged to a hero.'
+    - ' &7&othe glory fading, now naught but rust."'
+    abilities_lore:
+    - ' &6Empower &7(&eAttack&7)'
+    - ' &7Increase the next damage dealt by &e78%'
+    - ' &7Cooldown : &e9.6s&7, Mana Cost : &e6.2'
+    attack-speed: 1.6
+    defense: 8.04
+    tier: common
+    ability:
+      ability1:
+        type: ECHO_ATTACK
+        mode: ATTACK
+        damage-percent: 78.0
+        cooldown: 9.6
+        mana: 6.2
+    lore-format: common
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    unbreakable: true
+    custom-model-data: 3.0
+    revision-id: 3
+    disable-interaction: true
+    item-batch: Starter
+SW1_001_03:
+  base:
+    material: STONE_SWORD
+    name: <#817474>Relic Sword <#6B6666>[<#96c100>Lvl.3<#6B6666>]
+    displayed-type: Sword
+    attack-damage: 11.11
+    lore:
+    - ' &7&o"A sword that once belonged to a hero.'
+    - ' &7&othe glory fading, now naught but rust."'
+    abilities_lore:
+    - ' &6Empower &7(&eAttack&7)'
+    - ' &7Increase the next damage dealt by &e81%'
+    - ' &7Cooldown : &e9.2s&7, Mana Cost : &e6.4'
+    attack-speed: 1.6
+    defense: 8.61
+    tier: common
+    ability:
+      ability1:
+        type: ECHO_ATTACK
+        mode: ATTACK
+        damage-percent: 81.0
+        cooldown: 9.2
+        mana: 6.4
+    lore-format: common
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    unbreakable: true
+    custom-model-data: 3.0
+    revision-id: 3
+    disable-interaction: true
+    item-batch: Starter
+SW1_001_04:
+  base:
+    material: STONE_SWORD
+    name: <#817474>Relic Sword <#6B6666>[<#aca800>Lvl.4<#6B6666>]
+    displayed-type: Sword
+    attack-damage: 11.7
+    lore:
+    - ' &7&o"A sword that once belonged to a hero.'
+    - ' &7&othe glory fading, now naught but rust."'
+    abilities_lore:
+    - ' &6Empower &7(&eAttack&7)'
+    - ' &7Increase the next damage dealt by &e84%'
+    - ' &7Cooldown : &e8.8s&7, Mana Cost : &e6.6'
+    attack-speed: 1.6
+    defense: 9.2
+    tier: common
+    ability:
+      ability1:
+        type: ECHO_ATTACK
+        mode: ATTACK
+        damage-percent: 84.0
+        cooldown: 8.8
+        mana: 6.6
+    lore-format: common
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    unbreakable: true
+    custom-model-data: 3.0
+    revision-id: 3
+    disable-interaction: true
+    item-batch: Starter
+SW1_001_05:
+  base:
+    material: STONE_SWORD
+    name: <#817474>Relic Sword <#6B6666>[<#bb8e00>Lvl.5<#6B6666>]
+    displayed-type: Sword
+    attack-damage: 12.33
+    lore:
+    - ' &7&o"A sword that once belonged to a hero.'
+    - ' &7&othe glory fading, now naught but rust."'
+    abilities_lore:
+    - ' &6Empower &7(&eAttack&7)'
+    - ' &7Increase the next damage dealt by &e87%'
+    - ' &7Cooldown : &e8.4s&7, Mana Cost : &e6.8'
+    attack-speed: 1.6
+    defense: 9.83
+    tier: common
+    ability:
+      ability1:
+        type: ECHO_ATTACK
+        mode: ATTACK
+        damage-percent: 87.0
+        cooldown: 8.4
+        mana: 6.8
+    lore-format: common
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    unbreakable: true
+    custom-model-data: 3.0
+    revision-id: 3
+    disable-interaction: true
+    item-batch: Starter
+SW1_001_06:
+  base:
+    material: STONE_SWORD
+    name: <#817474>Relic Sword <#6B6666>[<#c37300>Lvl.6<#6B6666>]
+    displayed-type: Sword
+    attack-damage: 12.98
+    lore:
+    - ' &7&o"A sword that once belonged to a hero.'
+    - ' &7&othe glory fading, now naught but rust."'
+    abilities_lore:
+    - ' &6Empower &7(&eAttack&7)'
+    - ' &7Increase the next damage dealt by &e90%'
+    - ' &7Cooldown : &e8.0s&7, Mana Cost : &e7.0'
+    attack-speed: 1.6
+    defense: 10.48
+    tier: common
+    ability:
+      ability1:
+        type: ECHO_ATTACK
+        mode: ATTACK
+        damage-percent: 90.0
+        cooldown: 8.0
+        mana: 7.0
+    lore-format: common
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    unbreakable: true
+    custom-model-data: 3.0
+    revision-id: 3
+    disable-interaction: true
+    item-batch: Starter
+SW1_001_07:
+  base:
+    material: STONE_SWORD
+    name: <#817474>Relic Sword <#6B6666>[<#c55700>Lvl.7<#6B6666>]
+    displayed-type: Sword
+    attack-damage: 13.66
+    lore:
+    - ' &7&o"A sword that once belonged to a hero.'
+    - ' &7&othe glory fading, now naught but rust."'
+    abilities_lore:
+    - ' &6Empower &7(&eAttack&7)'
+    - ' &7Increase the next damage dealt by &e93%'
+    - ' &7Cooldown : &e7.6s&7, Mana Cost : &e7.2'
+    attack-speed: 1.6
+    defense: 11.16
+    tier: common
+    ability:
+      ability1:
+        type: ECHO_ATTACK
+        mode: ATTACK
+        damage-percent: 93.0
+        cooldown: 7.6
+        mana: 7.2
+    lore-format: common
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    unbreakable: true
+    custom-model-data: 3.0
+    revision-id: 3
+    disable-interaction: true
+    item-batch: Starter
+SW1_001_08:
+  base:
+    material: STONE_SWORD
+    name: <#817474>Relic Sword <#6B6666>[<#c23700>Lvl.8<#6B6666>]
+    displayed-type: Sword
+    attack-damage: 14.37
+    lore:
+    - ' &7&o"A sword that once belonged to a hero.'
+    - ' &7&othe glory fading, now naught but rust."'
+    abilities_lore:
+    - ' &6Empower &7(&eAttack&7)'
+    - ' &7Increase the next damage dealt by &e96%'
+    - ' &7Cooldown : &e7.2s&7, Mana Cost : &e7.4'
+    attack-speed: 1.6
+    defense: 11.87
+    tier: common
+    ability:
+      ability1:
+        type: ECHO_ATTACK
+        mode: ATTACK
+        damage-percent: 96.0
+        cooldown: 7.2
+        mana: 7.4
+    lore-format: common
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    unbreakable: true
+    custom-model-data: 3.0
+    revision-id: 3
+    disable-interaction: true
+    item-batch: Starter
+SW1_001_09:
+  base:
+    material: STONE_SWORD
+    name: <#817474>Relic Sword <#6B6666>[<#ba0909>Lvl.9<#6B6666>]
+    displayed-type: Sword
+    attack-damage: 15.1
+    lore:
+    - ' &7&o"A sword that once belonged to a hero.'
+    - ' &7&othe glory fading, now naught but rust."'
+    abilities_lore:
+    - ' &6Empower &7(&eAttack&7)'
+    - ' &7Increase the next damage dealt by &e99%'
+    - ' &7Cooldown : &e6.8s&7, Mana Cost : &e7.6'
+    attack-speed: 1.6
+    defense: 12.6
+    tier: common
+    ability:
+      ability1:
+        type: ECHO_ATTACK
+        mode: ATTACK
+        damage-percent: 99.0
+        cooldown: 6.8
+        mana: 7.6
+    lore-format: common
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    unbreakable: true
+    custom-model-data: 3.0
+    revision-id: 3
+    disable-interaction: true
+    item-batch: Starter

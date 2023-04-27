@@ -1,0 +1,315 @@
+BO1_001_01:
+  base:
+    material: BOW
+    name: <#8C3B05>Hunting Bow <#6B6666>[<#23f108>Lvl.1<#6B6666>]
+    displayed-type: Bow
+    attack-damage: 12.0
+    lore:
+    - '&7&o"Sturdy bow that every huntsman trust."'
+    attack-speed: 1
+    movement-speed: 0.03
+    tier: COMMON
+    lore-format: common
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    unbreakable: true
+    abilities_lore:
+    - ' &6Raging &7(&eArrow Hit&7)'
+    - ' &7Increase damage dealt based on '
+    - ' &7target HP by &e(6.5 + 200% * Missing HP)'
+    - ' &7Cooldown : &e6.0s&7, Mana Cost : &e8.0'
+    ability:
+      ability1:
+        type: DEEP_WOUND
+        extra: 200.0
+        mode: ARROW_HIT
+        damage: 6.5
+        cooldown: 6.0
+        mana: 8.0
+        max-missing-hp: 20.0
+    revision-id: 8
+    custom-model-data: 2.0
+    item-batch: Starter
+BO1_001_02:
+  base:
+    material: BOW
+    name: <#8C3B05>Hunting Bow <#6B6666>[<#73da00>Lvl.2<#6B6666>]
+    displayed-type: Bow
+    attack-damage: 12.54
+    lore:
+    - '&7&o"Sturdy bow that every huntsman trust."'
+    attack-speed: 1
+    movement-speed: 0.035
+    tier: COMMON
+    lore-format: common
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    unbreakable: true
+    abilities_lore:
+    - ' &6Raging &7(&eArrow Hit&7)'
+    - ' &7Increase damage dealt based on '
+    - ' &7target HP by &e(6.75 + 220% * Missing HP)'
+    - ' &7Cooldown : &e5.75s&7, Mana Cost : &e8.25'
+    ability:
+      ability1:
+        type: DEEP_WOUND
+        extra: 220.0
+        mode: ARROW_HIT
+        damage: 6.75
+        cooldown: 5.75
+        mana: 8.25
+        max-missing-hp: 20.0
+    revision-id: 8
+    custom-model-data: 2.0
+    item-batch: Starter
+BO1_001_03:
+  base:
+    material: BOW
+    name: <#8C3B05>Hunting Bow <#6B6666>[<#96c100>Lvl.3<#6B6666>]
+    displayed-type: Bow
+    attack-damage: 13.11
+    lore:
+    - '&7&o"Sturdy bow that every huntsman trust."'
+    attack-speed: 1
+    movement-speed: 0.041
+    tier: COMMON
+    lore-format: common
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    unbreakable: true
+    abilities_lore:
+    - ' &6Raging &7(&eArrow Hit&7)'
+    - ' &7Increase damage dealt based on '
+    - ' &7target HP by &e(7.0 + 240% * Missing HP)'
+    - ' &7Cooldown : &e5.5s&7, Mana Cost : &e8.5'
+    ability:
+      ability1:
+        type: DEEP_WOUND
+        extra: 240.0
+        mode: ARROW_HIT
+        damage: 7.0
+        cooldown: 5.5
+        mana: 8.5
+        max-missing-hp: 20.0
+    revision-id: 8
+    custom-model-data: 2.0
+    item-batch: Starter
+BO1_001_04:
+  base:
+    material: BOW
+    name: <#8C3B05>Hunting Bow <#6B6666>[<#aca800>Lvl.4<#6B6666>]
+    displayed-type: Bow
+    attack-damage: 13.7
+    lore:
+    - '&7&o"Sturdy bow that every huntsman trust."'
+    attack-speed: 1
+    movement-speed: 0.047
+    tier: COMMON
+    lore-format: common
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    unbreakable: true
+    abilities_lore:
+    - ' &6Raging &7(&eArrow Hit&7)'
+    - ' &7Increase damage dealt based on '
+    - ' &7target HP by &e(7.25 + 260% * Missing HP)'
+    - ' &7Cooldown : &e5.25s&7, Mana Cost : &e8.75'
+    ability:
+      ability1:
+        type: DEEP_WOUND
+        extra: 260.0
+        mode: ARROW_HIT
+        damage: 7.25
+        cooldown: 5.25
+        mana: 8.75
+        max-missing-hp: 20.0
+    revision-id: 8
+    custom-model-data: 2.0
+    item-batch: Starter
+BO1_001_05:
+  base:
+    material: BOW
+    name: <#8C3B05>Hunting Bow <#6B6666>[<#bb8e00>Lvl.5<#6B6666>]
+    displayed-type: Bow
+    attack-damage: 14.33
+    lore:
+    - '&7&o"Sturdy bow that every huntsman trust."'
+    attack-speed: 1
+    movement-speed: 0.053
+    tier: COMMON
+    lore-format: common
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    unbreakable: true
+    abilities_lore:
+    - ' &6Raging &7(&eArrow Hit&7)'
+    - ' &7Increase damage dealt based on '
+    - ' &7target HP by &e(7.5 + 280% * Missing HP)'
+    - ' &7Cooldown : &e5.0s&7, Mana Cost : &e9.0'
+    ability:
+      ability1:
+        type: DEEP_WOUND
+        extra: 280.0
+        mode: ARROW_HIT
+        damage: 7.5
+        cooldown: 5.0
+        mana: 9.0
+        max-missing-hp: 20.0
+    revision-id: 8
+    custom-model-data: 2.0
+    item-batch: Starter
+BO1_001_06:
+  base:
+    material: BOW
+    name: <#8C3B05>Hunting Bow <#6B6666>[<#c37300>Lvl.6<#6B6666>]
+    displayed-type: Bow
+    attack-damage: 14.98
+    lore:
+    - '&7&o"Sturdy bow that every huntsman trust."'
+    attack-speed: 1
+    movement-speed: 0.06
+    tier: COMMON
+    lore-format: common
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    unbreakable: true
+    abilities_lore:
+    - ' &6Raging &7(&eArrow Hit&7)'
+    - ' &7Increase damage dealt based on '
+    - ' &7target HP by &e(7.75 + 300% * Missing HP)'
+    - ' &7Cooldown : &e4.75s&7, Mana Cost : &e9.25'
+    ability:
+      ability1:
+        type: DEEP_WOUND
+        extra: 300.0
+        mode: ARROW_HIT
+        damage: 7.75
+        cooldown: 4.75
+        mana: 9.25
+        max-missing-hp: 20.0
+    revision-id: 8
+    custom-model-data: 2.0
+    item-batch: Starter
+BO1_001_07:
+  base:
+    material: BOW
+    name: <#8C3B05>Hunting Bow <#6B6666>[<#c55700>Lvl.7<#6B6666>]
+    displayed-type: Bow
+    attack-damage: 15.66
+    lore:
+    - '&7&o"Sturdy bow that every huntsman trust."'
+    attack-speed: 1
+    movement-speed: 0.067
+    tier: COMMON
+    lore-format: common
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    unbreakable: true
+    abilities_lore:
+    - ' &6Raging &7(&eArrow Hit&7)'
+    - ' &7Increase damage dealt based on '
+    - ' &7target HP by &e(8.0 + 320% * Missing HP)'
+    - ' &7Cooldown : &e4.5s&7, Mana Cost : &e9.5'
+    ability:
+      ability1:
+        type: DEEP_WOUND
+        extra: 320.0
+        mode: ARROW_HIT
+        damage: 8.0
+        cooldown: 4.5
+        mana: 9.5
+        max-missing-hp: 20.0
+    revision-id: 8
+    custom-model-data: 2.0
+    item-batch: Starter
+BO1_001_08:
+  base:
+    material: BOW
+    name: <#8C3B05>Hunting Bow <#6B6666>[<#c23700>Lvl.8<#6B6666>]
+    displayed-type: Bow
+    attack-damage: 16.37
+    lore:
+    - '&7&o"Sturdy bow that every huntsman trust."'
+    attack-speed: 1
+    movement-speed: 0.074
+    tier: COMMON
+    lore-format: common
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    unbreakable: true
+    abilities_lore:
+    - ' &6Raging &7(&eArrow Hit&7)'
+    - ' &7Increase damage dealt based on '
+    - ' &7target HP by &e(8.25 + 340% * Missing HP)'
+    - ' &7Cooldown : &e4.25s&7, Mana Cost : &e9.75'
+    ability:
+      ability1:
+        type: DEEP_WOUND
+        extra: 340.0
+        mode: ARROW_HIT
+        damage: 8.25
+        cooldown: 4.25
+        mana: 9.75
+        max-missing-hp: 20.0
+    revision-id: 8
+    custom-model-data: 2.0
+    item-batch: Starter
+BO1_001_09:
+  base:
+    material: BOW
+    name: <#8C3B05>Hunting Bow <#6B6666>[<#ba0909>Lvl.9<#6B6666>]
+    displayed-type: Bow
+    attack-damage: 17.1
+    lore:
+    - '&7&o"Sturdy bow that every huntsman trust."'
+    attack-speed: 1
+    movement-speed: 0.081
+    tier: COMMON
+    lore-format: common
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    unbreakable: true
+    abilities_lore:
+    - ' &6Raging &7(&eArrow Hit&7)'
+    - ' &7Increase damage dealt based on '
+    - ' &7target HP by &e(8.5 + 360% * Missing HP)'
+    - ' &7Cooldown : &e4.0s&7, Mana Cost : &e10.0'
+    ability:
+      ability1:
+        type: DEEP_WOUND
+        extra: 360.0
+        mode: ARROW_HIT
+        damage: 8.5
+        cooldown: 4.0
+        mana: 10.0
+        max-missing-hp: 20.0
+    revision-id: 8
+    custom-model-data: 2.0
+    item-batch: Starter

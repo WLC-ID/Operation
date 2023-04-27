@@ -3,22 +3,10 @@ import copy
 import csv
 import time
 from collections import OrderedDict
+from formula import *
+import re
 
 current_time_unix = int(time.time())
-
-def color(level):
-    switcher = {
-        1: '<#23f108>',
-        2: '<#73da00>',
-        3: '<#96c100>',
-        4: '<#aca800>',
-        5: '<#bb8e00>',
-        6: '<#c37300>',
-        7: '<#c55700>',
-        8: '<#c23700>',
-        9: '<#ba0909>'
-    }
-    return switcher[level]
 
 TEMPLATE_FILE = input("Template File: ")
 if (TEMPLATE_FILE.endswith(".yml") == False):
@@ -43,6 +31,14 @@ if (len(TEMPLATE_SPLIT) != 3):
     exit(0)
 TEMPLATE_PREFIX = TEMPLATE_SPLIT[0] + "_" + TEMPLATE_SPLIT[1] + "_"
 print(f"Found: {TEMPLATE_PREFIX}")
+
+def var_template(var_name):
+    result = ""
+    splitted = var_name.split(".")
+    NOI = len(splitted) - 1
+    for o in splitted:
+            result += "['" + o + "']"
+    return "y" + result
 
 def process_lambda(obj, directory, fx, level):
     if ('ability@' in directory):
@@ -109,6 +105,17 @@ with open(LAMBDADATA, "r") as f:
     for each in lambdaFile:
         lambdaData.append(each)
 for l in lambdaData:
+    if (l['function'].startswith('lambda x,y: ') == False):
+        l['function'] = 'lambda x,y: ' + l['function']
+    if ('$' in l['function']):
+        segment = re.findall('{(.*?)}', l['function'])
+        for s in segment:
+            s2 = re.findall('\$(.*?)\$', s)
+            if (len(s2) > 0):
+                for s3 in s2:
+                    s3r = var_template(s3)
+                    l['function'] = l['function'].replace('$'+s3+'$', s3r, 1)
+        print(l['function'])
     if ('ability@' in l['function']):
         l['function'] = l['function'].replace('ability@','ability\'][\'ability')
     fx = eval(l['function'])

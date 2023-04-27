@@ -1,27 +1,26 @@
-BS1_001_01:
+SW1_001_01:
   base:
     material: STONE_SWORD
-    name: <#2B6B97>Broken Broadsword <#6B6666>[<#23f108>Lvl.1<#6B6666>]
-    displayed-type: Broadsword
-    attack-damage: 11.50
+    name: <#817474>Relic Sword <#6B6666>[<#23f108>Lvl.1<#6B6666>]
+    displayed-type: Sword
+    attack-damage: 10.0
     lore:
-    - '&7&o"The glory of combat has long gone'
-    - '&7&oit has yet to reach its true potential."'
-    attack-speed: 1.2
-    critical-strike-chance: 7.0
-    critical-strike-power: 85.0
+    - ' &7&o"A sword that once belonged to a hero.'
+    - ' &7&othe glory fading, now naught but rust."'
+    abilities_lore:
+    - ' &6Empower &7(&eAttack&7)'
+    - ' &7Increase the next damage dealt by &e75%'
+    - ' &7Cooldown : &e5.0s&7, Mana Cost : &e8.0'
+    attack-speed: 1.6
+    defense: 7.5
+    tier: common
     ability:
       ability1:
-        type: CIRCULAR_SLASH
-        mode: RIGHT_CLICK
-        cooldown: 9.0
-        knockback: 0.0
-        damage: 6.0
-    abilities_lore:
-    - ' &6Moon Slash &7(&eRight Click&7)'
-    - ' &7Deal &e6 &7damage in a 3 radius circle'
-    - ' &7Cooldown : &e9s'
-    tier: common
+        type: ECHO_ATTACK
+        mode: ATTACK
+        damage-percent: 1.75
+        cooldown: 5.0
+        mana: 6.0
     lore-format: common
     disable-enchanting: true
     disable-smithing: true
@@ -29,6 +28,7 @@ BS1_001_01:
     disable-crafting: true
     disable-repairing: true
     unbreakable: true
-    custom-model-data: 1.0
-    revision-id: 5
+    custom-model-data: 3.0
+    revision-id: 3
+    disable-interaction: true
     item-batch: Starter
