@@ -1,5 +1,5 @@
 directory,function
-attack-damage,"pi(x,6.5,1,1)"
+attack-damage,"pi(x*0.76,6.5,1,1)"
 movement-speed,"round(pi(x,3,1,1)/100,3)"
 ability@1.cooldown,"max((800-((x-1)*25)),400)/100"
 ability@2.extra,"(20+((x-1)*15))"

@@ -1,15 +1,15 @@
-# Template: DA2_001_XXX. Digest: cdcd422261384bd7f5ebffedf638a425. Base36: C6MF109CPB4H9VQ0BJSZP5M3P
-# Generated at 28/04/2023 02:38:29. Digest: 2267d092a819c4aee23f234a581b1151. Base36: 21BT5R2CGKD50J2XPWB3OD5JL.
+# Template: DA2_001_XXX. Digest: dbcb6bac16e4a682372bc66a0300756a. Base36: D0G19TVCXXFAYEGC21MLXAPNU
+# Generated at 28/04/2023 13:30:15. Digest: d0b2e731cc1d69376728ee7e957d8751. Base36: CCSP3X17BRCZRG0K2LW5UBJ2P.
 DA2_001_01:
   base:
     material: STONE_SWORD
     name: <#9370DB>Nightshade Dagger <#6B6666>[<#23f108>Lvl.1<#6B6666>]
     displayed-type: Dagger
-    attack-damage: 11.64
+    attack-damage: 9.96
     lore:
     - ' &7&o"As dark as the night,'
     - ' &7&oas mysterious as the shadow."'
-    attack-speed: 3
+    attack-speed: 2.4
     movement-speed: 0.083
     ability:
       ability1:
@@ -45,12 +45,12 @@ DA2_001_02:
     material: STONE_SWORD
     name: <#9370DB>Nightshade Dagger <#6B6666>[<#73da00>Lvl.2<#6B6666>]
     displayed-type: Dagger
-    attack-damage: 12.22
+    attack-damage: 10.4
     lore:
     - ' &7&o"As dark as the night,'
     - ' &7&oas mysterious as the shadow."'
-    attack-speed: 3
-    movement-speed: 0.089
+    attack-speed: 2.4
+    movement-speed: 0.09
     ability:
       ability1:
         type: TRICKSTER
@@ -85,12 +85,12 @@ DA2_001_03:
     material: STONE_SWORD
     name: <#9370DB>Nightshade Dagger <#6B6666>[<#96c100>Lvl.3<#6B6666>]
     displayed-type: Dagger
-    attack-damage: 12.84
+    attack-damage: 10.86
     lore:
     - ' &7&o"As dark as the night,'
     - ' &7&oas mysterious as the shadow."'
-    attack-speed: 3
-    movement-speed: 0.097
+    attack-speed: 2.4
+    movement-speed: 0.098
     ability:
       ability1:
         type: TRICKSTER
@@ -125,12 +125,12 @@ DA2_001_04:
     material: STONE_SWORD
     name: <#9370DB>Nightshade Dagger <#6B6666>[<#aca800>Lvl.4<#6B6666>]
     displayed-type: Dagger
-    attack-damage: 13.49
+    attack-damage: 11.33
     lore:
     - ' &7&o"As dark as the night,'
     - ' &7&oas mysterious as the shadow."'
-    attack-speed: 3
-    movement-speed: 0.104
+    attack-speed: 2.4
+    movement-speed: 0.106
     ability:
       ability1:
         type: TRICKSTER
@@ -165,12 +165,12 @@ DA2_001_05:
     material: STONE_SWORD
     name: <#9370DB>Nightshade Dagger <#6B6666>[<#bb8e00>Lvl.5<#6B6666>]
     displayed-type: Dagger
-    attack-damage: 14.17
+    attack-damage: 11.83
     lore:
     - ' &7&o"As dark as the night,'
     - ' &7&oas mysterious as the shadow."'
-    attack-speed: 3
-    movement-speed: 0.112
+    attack-speed: 2.4
+    movement-speed: 0.114
     ability:
       ability1:
         type: TRICKSTER
@@ -205,12 +205,12 @@ DA2_001_06:
     material: STONE_SWORD
     name: <#9370DB>Nightshade Dagger <#6B6666>[<#c37300>Lvl.6<#6B6666>]
     displayed-type: Dagger
-    attack-damage: 14.88
+    attack-damage: 12.34
     lore:
     - ' &7&o"As dark as the night,'
     - ' &7&oas mysterious as the shadow."'
-    attack-speed: 3
-    movement-speed: 0.12
+    attack-speed: 2.4
+    movement-speed: 0.122
     ability:
       ability1:
         type: TRICKSTER
@@ -245,12 +245,12 @@ DA2_001_07:
     material: STONE_SWORD
     name: <#9370DB>Nightshade Dagger <#6B6666>[<#c55700>Lvl.7<#6B6666>]
     displayed-type: Dagger
-    attack-damage: 15.62
+    attack-damage: 12.87
     lore:
     - ' &7&o"As dark as the night,'
     - ' &7&oas mysterious as the shadow."'
-    attack-speed: 3
-    movement-speed: 0.129
+    attack-speed: 2.4
+    movement-speed: 0.131
     ability:
       ability1:
         type: TRICKSTER

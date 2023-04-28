@@ -1,15 +1,15 @@
-# Template: DA1_001_XXX. Digest: 3b7a6dceb8b1228c44d540ebe9856daf. Base36: 3IRJPBE5U5NHAZLV5JY2HHO6N
-# Generated at 28/04/2023 11:30:04. Digest: f93a07154aac9ad5c0b71645199ea52f. Base36: ER68Z8WXNKPNRV4OMXOCIGP4F.
+# Template: DA1_001_XXX. Digest: b2364081852a4cc5d5aa1a42469dd7ed. Base36: AJTJQ2RMQ19VX3JVB1NJ05LGT
+# Generated at 28/04/2023 13:28:47. Digest: 6b57f2c788f0455bf833f74c589bf81a. Base36: 6CS2S2NYEQO9B823LNG3A2TJU.
 DA1_001_01:
   base:
     material: STONE_SWORD
     name: <#cc6e00>Stilleto <#6B6666>[<#23f108>Lvl.1<#6B6666>]
     displayed-type: Dagger
-    attack-damage: 6.5
+    attack-damage: 6.38
     lore:
     - ' &7&o"All who seek thrill has this one''s hip'
     - ' &7&osnaking it''s way to every combat."'
-    attack-speed: 3.0
+    attack-speed: 2.25
     movement-speed: 0.03
     ability:
       ability1:
@@ -45,11 +45,11 @@ DA1_001_02:
     material: STONE_SWORD
     name: <#cc6e00>Stilleto <#6B6666>[<#73da00>Lvl.2<#6B6666>]
     displayed-type: Dagger
-    attack-damage: 7.04
+    attack-damage: 6.78
     lore:
     - ' &7&o"All who seek thrill has this one''s hip'
     - ' &7&osnaking it''s way to every combat."'
-    attack-speed: 3.0
+    attack-speed: 2.25
     movement-speed: 0.035
     ability:
       ability1:
@@ -85,11 +85,11 @@ DA1_001_03:
     material: STONE_SWORD
     name: <#cc6e00>Stilleto <#6B6666>[<#96c100>Lvl.3<#6B6666>]
     displayed-type: Dagger
-    attack-damage: 7.61
+    attack-damage: 7.2
     lore:
     - ' &7&o"All who seek thrill has this one''s hip'
     - ' &7&osnaking it''s way to every combat."'
-    attack-speed: 3.0
+    attack-speed: 2.25
     movement-speed: 0.041
     ability:
       ability1:
@@ -125,11 +125,11 @@ DA1_001_04:
     material: STONE_SWORD
     name: <#cc6e00>Stilleto <#6B6666>[<#aca800>Lvl.4<#6B6666>]
     displayed-type: Dagger
-    attack-damage: 8.2
+    attack-damage: 7.63
     lore:
     - ' &7&o"All who seek thrill has this one''s hip'
     - ' &7&osnaking it''s way to every combat."'
-    attack-speed: 3.0
+    attack-speed: 2.25
     movement-speed: 0.047
     ability:
       ability1:
@@ -165,11 +165,11 @@ DA1_001_05:
     material: STONE_SWORD
     name: <#cc6e00>Stilleto <#6B6666>[<#bb8e00>Lvl.5<#6B6666>]
     displayed-type: Dagger
-    attack-damage: 8.83
+    attack-damage: 8.08
     lore:
     - ' &7&o"All who seek thrill has this one''s hip'
     - ' &7&osnaking it''s way to every combat."'
-    attack-speed: 3.0
+    attack-speed: 2.25
     movement-speed: 0.053
     ability:
       ability1:
@@ -205,11 +205,11 @@ DA1_001_06:
     material: STONE_SWORD
     name: <#cc6e00>Stilleto <#6B6666>[<#c37300>Lvl.6<#6B6666>]
     displayed-type: Dagger
-    attack-damage: 9.48
+    attack-damage: 8.55
     lore:
     - ' &7&o"All who seek thrill has this one''s hip'
     - ' &7&osnaking it''s way to every combat."'
-    attack-speed: 3.0
+    attack-speed: 2.25
     movement-speed: 0.06
     ability:
       ability1:
@@ -245,11 +245,11 @@ DA1_001_07:
     material: STONE_SWORD
     name: <#cc6e00>Stilleto <#6B6666>[<#c55700>Lvl.7<#6B6666>]
     displayed-type: Dagger
-    attack-damage: 10.16
+    attack-damage: 9.03
     lore:
     - ' &7&o"All who seek thrill has this one''s hip'
     - ' &7&osnaking it''s way to every combat."'
-    attack-speed: 3.0
+    attack-speed: 2.25
     movement-speed: 0.067
     ability:
       ability1:
@@ -285,11 +285,11 @@ DA1_001_08:
     material: STONE_SWORD
     name: <#cc6e00>Stilleto <#6B6666>[<#c23700>Lvl.8<#6B6666>]
     displayed-type: Dagger
-    attack-damage: 10.87
+    attack-damage: 9.53
     lore:
     - ' &7&o"All who seek thrill has this one''s hip'
     - ' &7&osnaking it''s way to every combat."'
-    attack-speed: 3.0
+    attack-speed: 2.25
     movement-speed: 0.074
     ability:
       ability1:
@@ -325,11 +325,11 @@ DA1_001_09:
     material: STONE_SWORD
     name: <#cc6e00>Stilleto <#6B6666>[<#ba0909>Lvl.9<#6B6666>]
     displayed-type: Dagger
-    attack-damage: 11.6
+    attack-damage: 10.05
     lore:
     - ' &7&o"All who seek thrill has this one''s hip'
     - ' &7&osnaking it''s way to every combat."'
-    attack-speed: 3.0
+    attack-speed: 2.25
     movement-speed: 0.081
     ability:
       ability1:

@@ -1,6 +1,6 @@
 directory,function
-attack-damage,"pi(x,11.6,5,15)"
-movement-speed,"round(pi(x,8.1,15,15)/100,3)"
+attack-damage,"pi(x*0.77,10.05,5,10)"
+movement-speed,"round(pi(x,8.1,18,18)/100,3)"
 ability@2.extra,"(150+((x-1)*25))"
 ability@1.mana,"(800-((x-1)*50))/100"
 ability@1.cooldown,"10-((x-1))"
