@@ -7,4 +7,4 @@ generated-*.yml
 *.txt
 **/generated/*.yml
 table.yml
-!multiply-table.yml
+**/!multiply-table.yml
