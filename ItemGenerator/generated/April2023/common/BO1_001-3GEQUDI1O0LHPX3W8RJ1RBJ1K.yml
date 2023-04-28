@@ -1,3 +1,5 @@
+# Template: BO1_001_XXX. Digest: b890dec89e01ad1bfa05ed37d7c023b0. Base36: AXD2CNSXC7UFXKZL8XEFE6GMO
+# Generated at 28/04/2023 11:29:04. Digest: 3a5f7c416c684303b74cf69dcdedc428. Base36: 3GEQUDI1O0LHPX3W8RJ1RBJ1K.
 BO1_001_01:
   base:
     material: BOW
@@ -18,15 +20,15 @@ BO1_001_01:
     abilities_lore:
     - ' &6Raging &7(&eArrow Hit&7)'
     - ' &7Increase damage dealt based on '
-    - ' &7target HP by &e(6.5 + 200% * Missing HP)'
-    - ' &7Cooldown : &e6.0s&7, Mana Cost : &e8.0'
+    - ' &7target HP by &e(6.5 + 50% * Missing HP)'
+    - ' &7Cooldown : &e7.0s&7, Mana Cost : &e8.0'
     ability:
       ability1:
         type: DEEP_WOUND
-        extra: 200.0
+        extra: 50.0
         mode: ARROW_HIT
         damage: 6.5
-        cooldown: 6.0
+        cooldown: 7.0
         mana: 8.0
         max-missing-hp: 20.0
     revision-id: 8
@@ -52,15 +54,15 @@ BO1_001_02:
     abilities_lore:
     - ' &6Raging &7(&eArrow Hit&7)'
     - ' &7Increase damage dealt based on '
-    - ' &7target HP by &e(6.75 + 220% * Missing HP)'
-    - ' &7Cooldown : &e5.75s&7, Mana Cost : &e8.25'
+    - ' &7target HP by &e(6.75 + 75% * Missing HP)'
+    - ' &7Cooldown : &e6.75s&7, Mana Cost : &e8.25'
     ability:
       ability1:
         type: DEEP_WOUND
-        extra: 220.0
+        extra: 75.0
         mode: ARROW_HIT
         damage: 6.75
-        cooldown: 5.75
+        cooldown: 6.75
         mana: 8.25
         max-missing-hp: 20.0
     revision-id: 8
@@ -86,15 +88,15 @@ BO1_001_03:
     abilities_lore:
     - ' &6Raging &7(&eArrow Hit&7)'
     - ' &7Increase damage dealt based on '
-    - ' &7target HP by &e(7.0 + 240% * Missing HP)'
-    - ' &7Cooldown : &e5.5s&7, Mana Cost : &e8.5'
+    - ' &7target HP by &e(7.0 + 100% * Missing HP)'
+    - ' &7Cooldown : &e6.5s&7, Mana Cost : &e8.5'
     ability:
       ability1:
         type: DEEP_WOUND
-        extra: 240.0
+        extra: 100.0
         mode: ARROW_HIT
         damage: 7.0
-        cooldown: 5.5
+        cooldown: 6.5
         mana: 8.5
         max-missing-hp: 20.0
     revision-id: 8
@@ -120,15 +122,15 @@ BO1_001_04:
     abilities_lore:
     - ' &6Raging &7(&eArrow Hit&7)'
     - ' &7Increase damage dealt based on '
-    - ' &7target HP by &e(7.25 + 260% * Missing HP)'
-    - ' &7Cooldown : &e5.25s&7, Mana Cost : &e8.75'
+    - ' &7target HP by &e(7.25 + 125% * Missing HP)'
+    - ' &7Cooldown : &e6.25s&7, Mana Cost : &e8.75'
     ability:
       ability1:
         type: DEEP_WOUND
-        extra: 260.0
+        extra: 125.0
         mode: ARROW_HIT
         damage: 7.25
-        cooldown: 5.25
+        cooldown: 6.25
         mana: 8.75
         max-missing-hp: 20.0
     revision-id: 8
@@ -154,15 +156,15 @@ BO1_001_05:
     abilities_lore:
     - ' &6Raging &7(&eArrow Hit&7)'
     - ' &7Increase damage dealt based on '
-    - ' &7target HP by &e(7.5 + 280% * Missing HP)'
-    - ' &7Cooldown : &e5.0s&7, Mana Cost : &e9.0'
+    - ' &7target HP by &e(7.5 + 150% * Missing HP)'
+    - ' &7Cooldown : &e6.0s&7, Mana Cost : &e9.0'
     ability:
       ability1:
         type: DEEP_WOUND
-        extra: 280.0
+        extra: 150.0
         mode: ARROW_HIT
         damage: 7.5
-        cooldown: 5.0
+        cooldown: 6.0
         mana: 9.0
         max-missing-hp: 20.0
     revision-id: 8
@@ -188,15 +190,15 @@ BO1_001_06:
     abilities_lore:
     - ' &6Raging &7(&eArrow Hit&7)'
     - ' &7Increase damage dealt based on '
-    - ' &7target HP by &e(7.75 + 300% * Missing HP)'
-    - ' &7Cooldown : &e4.75s&7, Mana Cost : &e9.25'
+    - ' &7target HP by &e(7.75 + 175% * Missing HP)'
+    - ' &7Cooldown : &e5.75s&7, Mana Cost : &e9.25'
     ability:
       ability1:
         type: DEEP_WOUND
-        extra: 300.0
+        extra: 175.0
         mode: ARROW_HIT
         damage: 7.75
-        cooldown: 4.75
+        cooldown: 5.75
         mana: 9.25
         max-missing-hp: 20.0
     revision-id: 8
@@ -222,15 +224,15 @@ BO1_001_07:
     abilities_lore:
     - ' &6Raging &7(&eArrow Hit&7)'
     - ' &7Increase damage dealt based on '
-    - ' &7target HP by &e(8.0 + 320% * Missing HP)'
-    - ' &7Cooldown : &e4.5s&7, Mana Cost : &e9.5'
+    - ' &7target HP by &e(8.0 + 200% * Missing HP)'
+    - ' &7Cooldown : &e5.5s&7, Mana Cost : &e9.5'
     ability:
       ability1:
         type: DEEP_WOUND
-        extra: 320.0
+        extra: 200.0
         mode: ARROW_HIT
         damage: 8.0
-        cooldown: 4.5
+        cooldown: 5.5
         mana: 9.5
         max-missing-hp: 20.0
     revision-id: 8
@@ -256,15 +258,15 @@ BO1_001_08:
     abilities_lore:
     - ' &6Raging &7(&eArrow Hit&7)'
     - ' &7Increase damage dealt based on '
-    - ' &7target HP by &e(8.25 + 340% * Missing HP)'
-    - ' &7Cooldown : &e4.25s&7, Mana Cost : &e9.75'
+    - ' &7target HP by &e(8.25 + 225% * Missing HP)'
+    - ' &7Cooldown : &e5.25s&7, Mana Cost : &e9.75'
     ability:
       ability1:
         type: DEEP_WOUND
-        extra: 340.0
+        extra: 225.0
         mode: ARROW_HIT
         damage: 8.25
-        cooldown: 4.25
+        cooldown: 5.25
         mana: 9.75
         max-missing-hp: 20.0
     revision-id: 8
@@ -290,15 +292,15 @@ BO1_001_09:
     abilities_lore:
     - ' &6Raging &7(&eArrow Hit&7)'
     - ' &7Increase damage dealt based on '
-    - ' &7target HP by &e(8.5 + 360% * Missing HP)'
-    - ' &7Cooldown : &e4.0s&7, Mana Cost : &e10.0'
+    - ' &7target HP by &e(8.5 + 250% * Missing HP)'
+    - ' &7Cooldown : &e5.0s&7, Mana Cost : &e10.0'
     ability:
       ability1:
         type: DEEP_WOUND
-        extra: 360.0
+        extra: 250.0
         mode: ARROW_HIT
         damage: 8.5
-        cooldown: 4.0
+        cooldown: 5.0
         mana: 10.0
         max-missing-hp: 20.0
     revision-id: 8

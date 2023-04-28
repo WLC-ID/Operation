@@ -8,10 +8,11 @@ from formula import *
 import re
 import datetime
 
-TEMPLATE_FILE = input("Template File: ")
-if (TEMPLATE_FILE.endswith(".yml") == False):
-    TEMPLATE_FILE += ".yml"
-print(f"Processing {TEMPLATE_FILE}")
+TEMPLATE_FILE = "multiply-table.yml"
+# TEMPLATE_FILE = input("Template File: ")
+# if (TEMPLATE_FILE.endswith(".yml") == False):
+#     TEMPLATE_FILE += ".yml"
+# print(f"Processing {TEMPLATE_FILE}")
 
 with open(TEMPLATE_FILE, "r") as f:
     data = yaml.safe_load(f)
@@ -90,10 +91,16 @@ FILENAME = TEMPLATE_SPLIT[0] + "_" + TEMPLATE_SPLIT[1] + ".csv"
 MODIFIERDATA = "./item/" + RARITY + "/" + FILENAME
 print(f"Processing {MODIFIERDATA}")
 modifierData = []
-with open(MODIFIERDATA, "r") as f:
-    modifierFile = csv.DictReader(f)
-    for each in modifierFile:
-        modifierData.append(each)
+try:
+    with open(MODIFIERDATA, "r") as f:
+        modifierFile = csv.DictReader(f)
+        for each in modifierFile:
+            modifierData.append(each)
+except FileNotFoundError:
+    with open(f"./item/" + RARITY + ".csv", "r") as f:
+        modifierFile = csv.DictReader(f)
+        for each in modifierFile:
+            modifierData.append(each)
 for each in modifierData:
     ITEM_NAME = TEMPLATE_PREFIX + format(int(each['level']), '02')
     result = copy.deepcopy(data[TEMPLATE])
