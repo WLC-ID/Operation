@@ -1,5 +1,5 @@
-# Template: DA2_001_XXX. Digest: 9ad83f1c91323ab4d4215e971110d6ce. Base36: 960O169MQ71T2SZU5EZVXU95A
-# Generated at 28/04/2023 13:31:26. Digest: 1cc13aca8d1373b921c8478139542075. Base36: 1PA90XKTGJTLE6LR8L2RGIT85.
+# Template: DA2_001_XXX. Digest: d555e28738bade81c01946eab52eea2c. Base36: CMOG7S3AHTWJWPH5EC6AQQDRG
+# Generated at 28/04/2023 17:08:58. Digest: 7c51cbfb6f328e6992ab34aedca6ea55. Base36: 7CYKXAJNXDJ3ZD0NPNYM1VCK5.
 DA2_001_01:
   base:
     material: STONE_SWORD
@@ -7,8 +7,8 @@ DA2_001_01:
     displayed-type: Dagger
     attack-damage: 9.96
     lore:
-    - ' &7&o"As dark as the night,'
-    - ' &7&oas mysterious as the shadow."'
+    - ' &7&o"As dark as the night, as mysterious'
+    - ' &7&oas the shadow."'
     attack-speed: 2.4
     movement-speed: 0.083
     ability:
@@ -47,8 +47,8 @@ DA2_001_02:
     displayed-type: Dagger
     attack-damage: 10.4
     lore:
-    - ' &7&o"As dark as the night,'
-    - ' &7&oas mysterious as the shadow."'
+    - ' &7&o"As dark as the night, as mysterious'
+    - ' &7&oas the shadow."'
     attack-speed: 2.4
     movement-speed: 0.09
     ability:
@@ -87,8 +87,8 @@ DA2_001_03:
     displayed-type: Dagger
     attack-damage: 10.86
     lore:
-    - ' &7&o"As dark as the night,'
-    - ' &7&oas mysterious as the shadow."'
+    - ' &7&o"As dark as the night, as mysterious'
+    - ' &7&oas the shadow."'
     attack-speed: 2.4
     movement-speed: 0.098
     ability:
@@ -127,8 +127,8 @@ DA2_001_04:
     displayed-type: Dagger
     attack-damage: 11.33
     lore:
-    - ' &7&o"As dark as the night,'
-    - ' &7&oas mysterious as the shadow."'
+    - ' &7&o"As dark as the night, as mysterious'
+    - ' &7&oas the shadow."'
     attack-speed: 2.4
     movement-speed: 0.106
     ability:
@@ -167,8 +167,8 @@ DA2_001_05:
     displayed-type: Dagger
     attack-damage: 11.83
     lore:
-    - ' &7&o"As dark as the night,'
-    - ' &7&oas mysterious as the shadow."'
+    - ' &7&o"As dark as the night, as mysterious'
+    - ' &7&oas the shadow."'
     attack-speed: 2.4
     movement-speed: 0.114
     ability:
@@ -207,8 +207,8 @@ DA2_001_06:
     displayed-type: Dagger
     attack-damage: 12.34
     lore:
-    - ' &7&o"As dark as the night,'
-    - ' &7&oas mysterious as the shadow."'
+    - ' &7&o"As dark as the night, as mysterious'
+    - ' &7&oas the shadow."'
     attack-speed: 2.4
     movement-speed: 0.122
     ability:
@@ -247,8 +247,8 @@ DA2_001_07:
     displayed-type: Dagger
     attack-damage: 12.87
     lore:
-    - ' &7&o"As dark as the night,'
-    - ' &7&oas mysterious as the shadow."'
+    - ' &7&o"As dark as the night, as mysterious'
+    - ' &7&oas the shadow."'
     attack-speed: 2.4
     movement-speed: 0.131
     ability:

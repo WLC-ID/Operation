@@ -1,5 +1,5 @@
-# Template: KA2_001_XXX. Digest: c9a188230a7a5eb61bc02d295c0178ae. Base36: BXQEN3N57IYZJPW41V8JZQQPA
-# Generated at 28/04/2023 00:41:28. Digest: 601593cde542cfdad8d4664e7220cb71. Base36: 5OS714KHX1HIYDU5I4CBQJ629.
+# Template: KA2_001_XXX. Digest: 13838bb36922597eac6be60c1486d2c1. Base36: 15L8586G33ZP31CP6F6J53CG1
+# Generated at 28/04/2023 17:09:28. Digest: 7fb2baf9c6f120395dfb28e75ecde303. Base36: 7K5T8WUODYDSRHOGIB8TBXWQR.
 KA2_001_01:
   base:
     material: STONE_SWORD
@@ -10,8 +10,8 @@ KA2_001_01:
     critical-strike-power: 65.16
     movement-speed: 0.052
     lore:
-    - ' &7&o"Elegant deadly blade crafted'
-    - ' &7&owith utmost precision and skill."'
+    - ' &7&o"Elegant deadly blade crafted with utmost'
+    - ' &7&oprecision and skill."'
     abilities_lore:
     - ' &6Slash &7(&eRight Click&7)'
     - ' &7Charge 1s then dash forward for &e0.75s&7 and'
@@ -46,8 +46,8 @@ KA2_001_02:
     critical-strike-power: 65.76
     movement-speed: 0.059
     lore:
-    - ' &7&o"Elegant deadly blade crafted'
-    - ' &7&owith utmost precision and skill."'
+    - ' &7&o"Elegant deadly blade crafted with utmost'
+    - ' &7&oprecision and skill."'
     abilities_lore:
     - ' &6Slash &7(&eRight Click&7)'
     - ' &7Charge 1s then dash forward for &e0.75s&7 and'
@@ -82,8 +82,8 @@ KA2_001_03:
     critical-strike-power: 66.39
     movement-speed: 0.067
     lore:
-    - ' &7&o"Elegant deadly blade crafted'
-    - ' &7&owith utmost precision and skill."'
+    - ' &7&o"Elegant deadly blade crafted with utmost'
+    - ' &7&oprecision and skill."'
     abilities_lore:
     - ' &6Slash &7(&eRight Click&7)'
     - ' &7Charge 1s then dash forward for &e0.75s&7 and'
@@ -118,8 +118,8 @@ KA2_001_04:
     critical-strike-power: 67.05
     movement-speed: 0.075
     lore:
-    - ' &7&o"Elegant deadly blade crafted'
-    - ' &7&owith utmost precision and skill."'
+    - ' &7&o"Elegant deadly blade crafted with utmost'
+    - ' &7&oprecision and skill."'
     abilities_lore:
     - ' &6Slash &7(&eRight Click&7)'
     - ' &7Charge 1s then dash forward for &e0.75s&7 and'
@@ -154,8 +154,8 @@ KA2_001_05:
     critical-strike-power: 67.73
     movement-speed: 0.084
     lore:
-    - ' &7&o"Elegant deadly blade crafted'
-    - ' &7&owith utmost precision and skill."'
+    - ' &7&o"Elegant deadly blade crafted with utmost'
+    - ' &7&oprecision and skill."'
     abilities_lore:
     - ' &6Slash &7(&eRight Click&7)'
     - ' &7Charge 1s then dash forward for &e0.75s&7 and'
@@ -190,8 +190,8 @@ KA2_001_06:
     critical-strike-power: 68.45
     movement-speed: 0.093
     lore:
-    - ' &7&o"Elegant deadly blade crafted'
-    - ' &7&owith utmost precision and skill."'
+    - ' &7&o"Elegant deadly blade crafted with utmost'
+    - ' &7&oprecision and skill."'
     abilities_lore:
     - ' &6Slash &7(&eRight Click&7)'
     - ' &7Charge 1s then dash forward for &e0.75s&7 and'
@@ -226,8 +226,8 @@ KA2_001_07:
     critical-strike-power: 69.2
     movement-speed: 0.103
     lore:
-    - ' &7&o"Elegant deadly blade crafted'
-    - ' &7&owith utmost precision and skill."'
+    - ' &7&o"Elegant deadly blade crafted with utmost'
+    - ' &7&oprecision and skill."'
     abilities_lore:
     - ' &6Slash &7(&eRight Click&7)'
     - ' &7Charge 1s then dash forward for &e0.75s&7 and'

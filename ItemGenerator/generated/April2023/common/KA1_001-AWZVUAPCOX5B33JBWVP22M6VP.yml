@@ -1,5 +1,5 @@
-# Template: KA1_001_XXX. Digest: ff2c46a05095244a8a09b1d84467145a. Base36: F3UHHOBEV2007SC1DZYG7U9UI
-# Generated at 28/04/2023 11:30:20. Digest: 95b028819978ade7e40cd397ab1a7f92. Base36: 8V10R4PGPFGONT9IUAQS1F6HE.
+# Template: KA1_001_XXX. Digest: f4470bf9379c0530d098bb3f4184ed1e. Base36: EGMIPK3T25WYK0A4KR5P9SCV2
+# Generated at 28/04/2023 17:08:12. Digest: b864e4568958d4a7572a64b93ea6a655. Base36: AWZVUAPCOX5B33JBWVP22M6VP.
 KA1_001_01:
   base:
     material: STONE_SWORD
@@ -9,8 +9,8 @@ KA1_001_01:
     critical-strike-chance: 11.0
     critical-strike-power: 60.0
     lore:
-    - ' &7&o"Passed down through generations'
-    - ' &7&oof samurai warriors."'
+    - ' &7&o"Passed down through generations of samurai'
+    - ' &7&owarriors."'
     abilities_lore:
     - ' &6Slash &7(&eRight Click&7)'
     - ' &7Charge 1s then dash forward for &e0.25s&7 and'
@@ -44,8 +44,8 @@ KA1_001_02:
     critical-strike-chance: 11.54
     critical-strike-power: 60.54
     lore:
-    - ' &7&o"Passed down through generations'
-    - ' &7&oof samurai warriors."'
+    - ' &7&o"Passed down through generations of samurai'
+    - ' &7&owarriors."'
     abilities_lore:
     - ' &6Slash &7(&eRight Click&7)'
     - ' &7Charge 1s then dash forward for &e0.3s&7 and'
@@ -79,8 +79,8 @@ KA1_001_03:
     critical-strike-chance: 12.11
     critical-strike-power: 61.11
     lore:
-    - ' &7&o"Passed down through generations'
-    - ' &7&oof samurai warriors."'
+    - ' &7&o"Passed down through generations of samurai'
+    - ' &7&owarriors."'
     abilities_lore:
     - ' &6Slash &7(&eRight Click&7)'
     - ' &7Charge 1s then dash forward for &e0.35s&7 and'
@@ -114,8 +114,8 @@ KA1_001_04:
     critical-strike-chance: 12.7
     critical-strike-power: 61.7
     lore:
-    - ' &7&o"Passed down through generations'
-    - ' &7&oof samurai warriors."'
+    - ' &7&o"Passed down through generations of samurai'
+    - ' &7&owarriors."'
     abilities_lore:
     - ' &6Slash &7(&eRight Click&7)'
     - ' &7Charge 1s then dash forward for &e0.4s&7 and'
@@ -149,8 +149,8 @@ KA1_001_05:
     critical-strike-chance: 13.33
     critical-strike-power: 62.33
     lore:
-    - ' &7&o"Passed down through generations'
-    - ' &7&oof samurai warriors."'
+    - ' &7&o"Passed down through generations of samurai'
+    - ' &7&owarriors."'
     abilities_lore:
     - ' &6Slash &7(&eRight Click&7)'
     - ' &7Charge 1s then dash forward for &e0.45s&7 and'
@@ -184,8 +184,8 @@ KA1_001_06:
     critical-strike-chance: 13.98
     critical-strike-power: 62.98
     lore:
-    - ' &7&o"Passed down through generations'
-    - ' &7&oof samurai warriors."'
+    - ' &7&o"Passed down through generations of samurai'
+    - ' &7&owarriors."'
     abilities_lore:
     - ' &6Slash &7(&eRight Click&7)'
     - ' &7Charge 1s then dash forward for &e0.5s&7 and'
@@ -219,8 +219,8 @@ KA1_001_07:
     critical-strike-chance: 14.66
     critical-strike-power: 63.66
     lore:
-    - ' &7&o"Passed down through generations'
-    - ' &7&oof samurai warriors."'
+    - ' &7&o"Passed down through generations of samurai'
+    - ' &7&owarriors."'
     abilities_lore:
     - ' &6Slash &7(&eRight Click&7)'
     - ' &7Charge 1s then dash forward for &e0.55s&7 and'
@@ -254,8 +254,8 @@ KA1_001_08:
     critical-strike-chance: 15.37
     critical-strike-power: 64.37
     lore:
-    - ' &7&o"Passed down through generations'
-    - ' &7&oof samurai warriors."'
+    - ' &7&o"Passed down through generations of samurai'
+    - ' &7&owarriors."'
     abilities_lore:
     - ' &6Slash &7(&eRight Click&7)'
     - ' &7Charge 1s then dash forward for &e0.6s&7 and'
@@ -289,8 +289,8 @@ KA1_001_09:
     critical-strike-chance: 16.1
     critical-strike-power: 65.1
     lore:
-    - ' &7&o"Passed down through generations'
-    - ' &7&oof samurai warriors."'
+    - ' &7&o"Passed down through generations of samurai'
+    - ' &7&owarriors."'
     abilities_lore:
     - ' &6Slash &7(&eRight Click&7)'
     - ' &7Charge 1s then dash forward for &e0.65s&7 and'

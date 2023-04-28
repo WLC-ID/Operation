@@ -1,0 +1,308 @@
+# Template: DA1_002_XXX. Digest: 6e62a895a66472f3d19befe29e20c59a. Base36: 6J9GS6YI0ZLW3WRGGO2V0QE1M
+# Generated at 28/04/2023 16:51:52. Digest: 60500e69776e4c3b9d103b847b1d2b44. Base36: 5P9PZXGFV6FB15RC9BXH7JR5W.
+DA1_002_01:
+  base:
+    material: STONE_SWORD
+    name: <#C0C0C0>Main Gauche <#6B6666>[<#23f108>Lvl.1<#6B6666>]
+    displayed-type: Dagger
+    attack-damage: 5.5
+    lore:
+    - ' &7&o"Momentum dagger."'
+    attack-speed: 2.25
+    parry-rating: 5.03
+    parry-cooldown-reduction: 4.0
+    ability:
+      ability1:
+        type: FURY_SWIPES
+        max-combo: 40.0
+        combo-damage: 0.5
+        cooldown: 0.4
+        mode: ATTACK
+        reset-time: 4.0
+    abilities_lore:
+    - ' &6Momentum &7(&eAttack&7)'
+    - ' &7Each consecutive attack on a single enemy'
+    - ' &7will deal more damage based on the number'
+    - ' &7of stacks."'
+    - ' &7Damage/Stack : &e0.5&7, Max Stack : &e40'
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    unbreakable: true
+    tier: common
+    revision-id: 1
+    item-batch: Starter
+DA1_002_02:
+  base:
+    material: STONE_SWORD
+    name: <#C0C0C0>Main Gauche <#6B6666>[<#73da00>Lvl.2<#6B6666>]
+    displayed-type: Dagger
+    attack-damage: 5.55
+    lore:
+    - ' &7&o"Momentum dagger."'
+    attack-speed: 2.25
+    parry-rating: 5.6
+    parry-cooldown-reduction: 4.54
+    ability:
+      ability1:
+        type: FURY_SWIPES
+        max-combo: 39.0
+        combo-damage: 0.56
+        cooldown: 0.4
+        mode: ATTACK
+        reset-time: 4.0
+    abilities_lore:
+    - ' &6Momentum &7(&eAttack&7)'
+    - ' &7Each consecutive attack on a single enemy'
+    - ' &7will deal more damage based on the number'
+    - ' &7of stacks."'
+    - ' &7Damage/Stack : &e0.56&7, Max Stack : &e39'
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    unbreakable: true
+    tier: common
+    revision-id: 1
+    item-batch: Starter
+DA1_002_03:
+  base:
+    material: STONE_SWORD
+    name: <#C0C0C0>Main Gauche <#6B6666>[<#96c100>Lvl.3<#6B6666>]
+    displayed-type: Dagger
+    attack-damage: 5.61
+    lore:
+    - ' &7&o"Momentum dagger."'
+    attack-speed: 2.25
+    parry-rating: 6.2
+    parry-cooldown-reduction: 5.11
+    ability:
+      ability1:
+        type: FURY_SWIPES
+        max-combo: 38.0
+        combo-damage: 0.63
+        cooldown: 0.4
+        mode: ATTACK
+        reset-time: 4.0
+    abilities_lore:
+    - ' &6Momentum &7(&eAttack&7)'
+    - ' &7Each consecutive attack on a single enemy'
+    - ' &7will deal more damage based on the number'
+    - ' &7of stacks."'
+    - ' &7Damage/Stack : &e0.63&7, Max Stack : &e38'
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    unbreakable: true
+    tier: common
+    revision-id: 1
+    item-batch: Starter
+DA1_002_04:
+  base:
+    material: STONE_SWORD
+    name: <#C0C0C0>Main Gauche <#6B6666>[<#aca800>Lvl.4<#6B6666>]
+    displayed-type: Dagger
+    attack-damage: 5.67
+    lore:
+    - ' &7&o"Momentum dagger."'
+    attack-speed: 2.25
+    parry-rating: 6.82
+    parry-cooldown-reduction: 5.7
+    ability:
+      ability1:
+        type: FURY_SWIPES
+        max-combo: 37.0
+        combo-damage: 0.7
+        cooldown: 0.4
+        mode: ATTACK
+        reset-time: 4.0
+    abilities_lore:
+    - ' &6Momentum &7(&eAttack&7)'
+    - ' &7Each consecutive attack on a single enemy'
+    - ' &7will deal more damage based on the number'
+    - ' &7of stacks."'
+    - ' &7Damage/Stack : &e0.7&7, Max Stack : &e37'
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    unbreakable: true
+    tier: common
+    revision-id: 1
+    item-batch: Starter
+DA1_002_05:
+  base:
+    material: STONE_SWORD
+    name: <#C0C0C0>Main Gauche <#6B6666>[<#bb8e00>Lvl.5<#6B6666>]
+    displayed-type: Dagger
+    attack-damage: 5.73
+    lore:
+    - ' &7&o"Momentum dagger."'
+    attack-speed: 2.25
+    parry-rating: 7.48
+    parry-cooldown-reduction: 6.33
+    ability:
+      ability1:
+        type: FURY_SWIPES
+        max-combo: 36.0
+        combo-damage: 0.78
+        cooldown: 0.4
+        mode: ATTACK
+        reset-time: 4.0
+    abilities_lore:
+    - ' &6Momentum &7(&eAttack&7)'
+    - ' &7Each consecutive attack on a single enemy'
+    - ' &7will deal more damage based on the number'
+    - ' &7of stacks."'
+    - ' &7Damage/Stack : &e0.78&7, Max Stack : &e36'
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    unbreakable: true
+    tier: common
+    revision-id: 1
+    item-batch: Starter
+DA1_002_06:
+  base:
+    material: STONE_SWORD
+    name: <#C0C0C0>Main Gauche <#6B6666>[<#c37300>Lvl.6<#6B6666>]
+    displayed-type: Dagger
+    attack-damage: 5.8
+    lore:
+    - ' &7&o"Momentum dagger."'
+    attack-speed: 2.25
+    parry-rating: 8.16
+    parry-cooldown-reduction: 6.98
+    ability:
+      ability1:
+        type: FURY_SWIPES
+        max-combo: 34.0
+        combo-damage: 0.88
+        cooldown: 0.4
+        mode: ATTACK
+        reset-time: 4.0
+    abilities_lore:
+    - ' &6Momentum &7(&eAttack&7)'
+    - ' &7Each consecutive attack on a single enemy'
+    - ' &7will deal more damage based on the number'
+    - ' &7of stacks."'
+    - ' &7Damage/Stack : &e0.88&7, Max Stack : &e34'
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    unbreakable: true
+    tier: common
+    revision-id: 1
+    item-batch: Starter
+DA1_002_07:
+  base:
+    material: STONE_SWORD
+    name: <#C0C0C0>Main Gauche <#6B6666>[<#c55700>Lvl.7<#6B6666>]
+    displayed-type: Dagger
+    attack-damage: 5.87
+    lore:
+    - ' &7&o"Momentum dagger."'
+    attack-speed: 2.25
+    parry-rating: 8.87
+    parry-cooldown-reduction: 7.66
+    ability:
+      ability1:
+        type: FURY_SWIPES
+        max-combo: 32.0
+        combo-damage: 1.0
+        cooldown: 0.4
+        mode: ATTACK
+        reset-time: 4.0
+    abilities_lore:
+    - ' &6Momentum &7(&eAttack&7)'
+    - ' &7Each consecutive attack on a single enemy'
+    - ' &7will deal more damage based on the number'
+    - ' &7of stacks."'
+    - ' &7Damage/Stack : &e1.0&7, Max Stack : &e32'
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    unbreakable: true
+    tier: common
+    revision-id: 1
+    item-batch: Starter
+DA1_002_08:
+  base:
+    material: STONE_SWORD
+    name: <#C0C0C0>Main Gauche <#6B6666>[<#c23700>Lvl.8<#6B6666>]
+    displayed-type: Dagger
+    attack-damage: 5.94
+    lore:
+    - ' &7&o"Momentum dagger."'
+    attack-speed: 2.25
+    parry-rating: 9.62
+    parry-cooldown-reduction: 8.37
+    ability:
+      ability1:
+        type: FURY_SWIPES
+        max-combo: 30.0
+        combo-damage: 1.13
+        cooldown: 0.4
+        mode: ATTACK
+        reset-time: 4.0
+    abilities_lore:
+    - ' &6Momentum &7(&eAttack&7)'
+    - ' &7Each consecutive attack on a single enemy'
+    - ' &7will deal more damage based on the number'
+    - ' &7of stacks."'
+    - ' &7Damage/Stack : &e1.13&7, Max Stack : &e30'
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    unbreakable: true
+    tier: common
+    revision-id: 1
+    item-batch: Starter
+DA1_002_09:
+  base:
+    material: STONE_SWORD
+    name: <#C0C0C0>Main Gauche <#6B6666>[<#ba0909>Lvl.9<#6B6666>]
+    displayed-type: Dagger
+    attack-damage: 6.01
+    lore:
+    - ' &7&o"Momentum dagger."'
+    attack-speed: 2.25
+    parry-rating: 10.39
+    parry-cooldown-reduction: 9.1
+    ability:
+      ability1:
+        type: FURY_SWIPES
+        max-combo: 28.0
+        combo-damage: 1.29
+        cooldown: 0.4
+        mode: ATTACK
+        reset-time: 4.0
+    abilities_lore:
+    - ' &6Momentum &7(&eAttack&7)'
+    - ' &7Each consecutive attack on a single enemy'
+    - ' &7will deal more damage based on the number'
+    - ' &7of stacks."'
+    - ' &7Damage/Stack : &e1.29&7, Max Stack : &e28'
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    unbreakable: true
+    tier: common
+    revision-id: 1
+    item-batch: Starter

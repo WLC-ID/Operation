@@ -1,0 +1,9 @@
+directory,function
+attack-damage,"round(pi(x,60.1,7,7)/10,2)"
+parry-rating,"pi(x,10.39,14,14)"
+parry-cooldown-reduction,"pi(x,9.1,11,11)"
+ability@1.max-combo,"26-(x-1)"
+ability@1.combo-damage,"(14+(x-1))/10"
+attack-speed,"(230+(x-1)*5)/100"
+name,"f""<#228B22>Serpentine <#6B6666>[{color(x)}Lvl.{x}<#6B6666>]"""
+abilities_lore.4,"f"" &7Damage/Stack : &e{$ability@1.combo-damage$}&7, Max Stack : &e{int($ability@1.max-combo$)}"""

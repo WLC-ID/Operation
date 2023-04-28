@@ -1,0 +1,240 @@
+# Template: DA2_002_XXX. Digest: bb205a1cccfd30459d6542cafb53cb45. Base36: B2TIRIV5IPRX5PNAYDT6KFVWL
+# Generated at 28/04/2023 17:01:17. Digest: 6a424dff000b61981929e4fd6cee4fe4. Base36: 6AGV3QY10H58AGHI0ILOFDM1W.
+DA2_002_01:
+  base:
+    material: STONE_SWORD
+    name: <#228B22>Serpentine <#6B6666>[<#23f108>Lvl.1<#6B6666>]
+    displayed-type: Dagger
+    attack-damage: 6.02
+    lore:
+    - ' &7&o"As quick and deadly as a serpent''s strike."'
+    attack-speed: 2.3
+    parry-rating: 10.53
+    parry-cooldown-reduction: 9.2
+    ability:
+      ability1:
+        type: FURY_SWIPES
+        max-combo: 26.0
+        combo-damage: 1.4
+        cooldown: 0.4
+        mode: ATTACK
+        reset-time: 4.0
+    abilities_lore:
+    - ' &6Momentum &7(&eAttack&7)'
+    - ' &7Each consecutive attack on a single enemy'
+    - ' &7will deal more damage based on the number'
+    - ' &7of stacks."'
+    - ' &7Damage/Stack : &e1.4&7, Max Stack : &e26'
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    unbreakable: true
+    tier: rare
+    revision-id: 1
+    item-batch: Starter
+DA2_002_02:
+  base:
+    material: STONE_SWORD
+    name: <#228B22>Serpentine <#6B6666>[<#73da00>Lvl.2<#6B6666>]
+    displayed-type: Dagger
+    attack-damage: 6.08
+    lore:
+    - ' &7&o"As quick and deadly as a serpent''s strike."'
+    attack-speed: 2.35
+    parry-rating: 11.2
+    parry-cooldown-reduction: 9.84
+    ability:
+      ability1:
+        type: FURY_SWIPES
+        max-combo: 25.0
+        combo-damage: 1.5
+        cooldown: 0.4
+        mode: ATTACK
+        reset-time: 4.0
+    abilities_lore:
+    - ' &6Momentum &7(&eAttack&7)'
+    - ' &7Each consecutive attack on a single enemy'
+    - ' &7will deal more damage based on the number'
+    - ' &7of stacks."'
+    - ' &7Damage/Stack : &e1.5&7, Max Stack : &e25'
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    unbreakable: true
+    tier: rare
+    revision-id: 1
+    item-batch: Starter
+DA2_002_03:
+  base:
+    material: STONE_SWORD
+    name: <#228B22>Serpentine <#6B6666>[<#96c100>Lvl.3<#6B6666>]
+    displayed-type: Dagger
+    attack-damage: 6.14
+    lore:
+    - ' &7&o"As quick and deadly as a serpent''s strike."'
+    attack-speed: 2.4
+    parry-rating: 11.91
+    parry-cooldown-reduction: 10.52
+    ability:
+      ability1:
+        type: FURY_SWIPES
+        max-combo: 24.0
+        combo-damage: 1.6
+        cooldown: 0.4
+        mode: ATTACK
+        reset-time: 4.0
+    abilities_lore:
+    - ' &6Momentum &7(&eAttack&7)'
+    - ' &7Each consecutive attack on a single enemy'
+    - ' &7will deal more damage based on the number'
+    - ' &7of stacks."'
+    - ' &7Damage/Stack : &e1.6&7, Max Stack : &e24'
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    unbreakable: true
+    tier: rare
+    revision-id: 1
+    item-batch: Starter
+DA2_002_04:
+  base:
+    material: STONE_SWORD
+    name: <#228B22>Serpentine <#6B6666>[<#aca800>Lvl.4<#6B6666>]
+    displayed-type: Dagger
+    attack-damage: 6.21
+    lore:
+    - ' &7&o"As quick and deadly as a serpent''s strike."'
+    attack-speed: 2.45
+    parry-rating: 12.65
+    parry-cooldown-reduction: 11.22
+    ability:
+      ability1:
+        type: FURY_SWIPES
+        max-combo: 23.0
+        combo-damage: 1.7
+        cooldown: 0.4
+        mode: ATTACK
+        reset-time: 4.0
+    abilities_lore:
+    - ' &6Momentum &7(&eAttack&7)'
+    - ' &7Each consecutive attack on a single enemy'
+    - ' &7will deal more damage based on the number'
+    - ' &7of stacks."'
+    - ' &7Damage/Stack : &e1.7&7, Max Stack : &e23'
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    unbreakable: true
+    tier: rare
+    revision-id: 1
+    item-batch: Starter
+DA2_002_05:
+  base:
+    material: STONE_SWORD
+    name: <#228B22>Serpentine <#6B6666>[<#bb8e00>Lvl.5<#6B6666>]
+    displayed-type: Dagger
+    attack-damage: 6.27
+    lore:
+    - ' &7&o"As quick and deadly as a serpent''s strike."'
+    attack-speed: 2.5
+    parry-rating: 13.43
+    parry-cooldown-reduction: 11.96
+    ability:
+      ability1:
+        type: FURY_SWIPES
+        max-combo: 22.0
+        combo-damage: 1.8
+        cooldown: 0.4
+        mode: ATTACK
+        reset-time: 4.0
+    abilities_lore:
+    - ' &6Momentum &7(&eAttack&7)'
+    - ' &7Each consecutive attack on a single enemy'
+    - ' &7will deal more damage based on the number'
+    - ' &7of stacks."'
+    - ' &7Damage/Stack : &e1.8&7, Max Stack : &e22'
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    unbreakable: true
+    tier: rare
+    revision-id: 1
+    item-batch: Starter
+DA2_002_06:
+  base:
+    material: STONE_SWORD
+    name: <#228B22>Serpentine <#6B6666>[<#c37300>Lvl.6<#6B6666>]
+    displayed-type: Dagger
+    attack-damage: 6.35
+    lore:
+    - ' &7&o"As quick and deadly as a serpent''s strike."'
+    attack-speed: 2.55
+    parry-rating: 14.23
+    parry-cooldown-reduction: 12.73
+    ability:
+      ability1:
+        type: FURY_SWIPES
+        max-combo: 21.0
+        combo-damage: 1.9
+        cooldown: 0.4
+        mode: ATTACK
+        reset-time: 4.0
+    abilities_lore:
+    - ' &6Momentum &7(&eAttack&7)'
+    - ' &7Each consecutive attack on a single enemy'
+    - ' &7will deal more damage based on the number'
+    - ' &7of stacks."'
+    - ' &7Damage/Stack : &e1.9&7, Max Stack : &e21'
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    unbreakable: true
+    tier: rare
+    revision-id: 1
+    item-batch: Starter
+DA2_002_07:
+  base:
+    material: STONE_SWORD
+    name: <#228B22>Serpentine <#6B6666>[<#c55700>Lvl.7<#6B6666>]
+    displayed-type: Dagger
+    attack-damage: 6.42
+    lore:
+    - ' &7&o"As quick and deadly as a serpent''s strike."'
+    attack-speed: 2.6
+    parry-rating: 15.07
+    parry-cooldown-reduction: 13.52
+    ability:
+      ability1:
+        type: FURY_SWIPES
+        max-combo: 20.0
+        combo-damage: 2.0
+        cooldown: 0.4
+        mode: ATTACK
+        reset-time: 4.0
+    abilities_lore:
+    - ' &6Momentum &7(&eAttack&7)'
+    - ' &7Each consecutive attack on a single enemy'
+    - ' &7will deal more damage based on the number'
+    - ' &7of stacks."'
+    - ' &7Damage/Stack : &e2.0&7, Max Stack : &e20'
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    unbreakable: true
+    tier: rare
+    revision-id: 1
+    item-batch: Starter
