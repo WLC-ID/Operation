@@ -8,7 +8,7 @@ from formula import *
 import re
 import datetime
 
-TEMPLATE_FILE = "multiply-table.yml"
+TEMPLATE_FILE = "!multiply-table.yml"
 # TEMPLATE_FILE = input("Template File: ")
 # if (TEMPLATE_FILE.endswith(".yml") == False):
 #     TEMPLATE_FILE += ".yml"
