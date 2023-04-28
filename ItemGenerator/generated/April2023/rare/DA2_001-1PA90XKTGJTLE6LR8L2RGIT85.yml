@@ -1,5 +1,5 @@
-# Template: DA2_001_XXX. Digest: dbcb6bac16e4a682372bc66a0300756a. Base36: D0G19TVCXXFAYEGC21MLXAPNU
-# Generated at 28/04/2023 13:30:15. Digest: d0b2e731cc1d69376728ee7e957d8751. Base36: CCSP3X17BRCZRG0K2LW5UBJ2P.
+# Template: DA2_001_XXX. Digest: 9ad83f1c91323ab4d4215e971110d6ce. Base36: 960O169MQ71T2SZU5EZVXU95A
+# Generated at 28/04/2023 13:31:26. Digest: 1cc13aca8d1373b921c8478139542075. Base36: 1PA90XKTGJTLE6LR8L2RGIT85.
 DA2_001_01:
   base:
     material: STONE_SWORD
@@ -21,7 +21,7 @@ DA2_001_01:
       ability2:
         type: BACKSTAB
         extra: 150.0
-        cooldown: 0.2
+        cooldown: 0.4
         mode: ATTACK
     abilities_lore:
     - ' &6Shadow Travel &7(&eRight Click&7)'
@@ -30,7 +30,7 @@ DA2_001_01:
     - ' &6Backstab &7(&ePassive&7)'
     - ' &7Deal &e150% &7&7more damage'
     - ' &7When damaging enemy from behind'
-    - ' &7Cooldown : &e0.2s'
+    - ' &7Cooldown : &e0.4s'
     disable-enchanting: true
     disable-smithing: true
     disable-smelting: true
@@ -61,7 +61,7 @@ DA2_001_02:
       ability2:
         type: BACKSTAB
         extra: 175.0
-        cooldown: 0.2
+        cooldown: 0.4
         mode: ATTACK
     abilities_lore:
     - ' &6Shadow Travel &7(&eRight Click&7)'
@@ -70,7 +70,7 @@ DA2_001_02:
     - ' &6Backstab &7(&ePassive&7)'
     - ' &7Deal &e175% &7&7more damage'
     - ' &7When damaging enemy from behind'
-    - ' &7Cooldown : &e0.2s'
+    - ' &7Cooldown : &e0.4s'
     disable-enchanting: true
     disable-smithing: true
     disable-smelting: true
@@ -101,7 +101,7 @@ DA2_001_03:
       ability2:
         type: BACKSTAB
         extra: 200.0
-        cooldown: 0.2
+        cooldown: 0.4
         mode: ATTACK
     abilities_lore:
     - ' &6Shadow Travel &7(&eRight Click&7)'
@@ -110,7 +110,7 @@ DA2_001_03:
     - ' &6Backstab &7(&ePassive&7)'
     - ' &7Deal &e200% &7&7more damage'
     - ' &7When damaging enemy from behind'
-    - ' &7Cooldown : &e0.2s'
+    - ' &7Cooldown : &e0.4s'
     disable-enchanting: true
     disable-smithing: true
     disable-smelting: true
@@ -141,7 +141,7 @@ DA2_001_04:
       ability2:
         type: BACKSTAB
         extra: 225.0
-        cooldown: 0.2
+        cooldown: 0.4
         mode: ATTACK
     abilities_lore:
     - ' &6Shadow Travel &7(&eRight Click&7)'
@@ -150,7 +150,7 @@ DA2_001_04:
     - ' &6Backstab &7(&ePassive&7)'
     - ' &7Deal &e225% &7&7more damage'
     - ' &7When damaging enemy from behind'
-    - ' &7Cooldown : &e0.2s'
+    - ' &7Cooldown : &e0.4s'
     disable-enchanting: true
     disable-smithing: true
     disable-smelting: true
@@ -181,7 +181,7 @@ DA2_001_05:
       ability2:
         type: BACKSTAB
         extra: 250.0
-        cooldown: 0.2
+        cooldown: 0.4
         mode: ATTACK
     abilities_lore:
     - ' &6Shadow Travel &7(&eRight Click&7)'
@@ -190,7 +190,7 @@ DA2_001_05:
     - ' &6Backstab &7(&ePassive&7)'
     - ' &7Deal &e250% &7&7more damage'
     - ' &7When damaging enemy from behind'
-    - ' &7Cooldown : &e0.2s'
+    - ' &7Cooldown : &e0.4s'
     disable-enchanting: true
     disable-smithing: true
     disable-smelting: true
@@ -221,7 +221,7 @@ DA2_001_06:
       ability2:
         type: BACKSTAB
         extra: 275.0
-        cooldown: 0.2
+        cooldown: 0.4
         mode: ATTACK
     abilities_lore:
     - ' &6Shadow Travel &7(&eRight Click&7)'
@@ -230,7 +230,7 @@ DA2_001_06:
     - ' &6Backstab &7(&ePassive&7)'
     - ' &7Deal &e275% &7&7more damage'
     - ' &7When damaging enemy from behind'
-    - ' &7Cooldown : &e0.2s'
+    - ' &7Cooldown : &e0.4s'
     disable-enchanting: true
     disable-smithing: true
     disable-smelting: true
@@ -261,7 +261,7 @@ DA2_001_07:
       ability2:
         type: BACKSTAB
         extra: 300.0
-        cooldown: 0.2
+        cooldown: 0.4
         mode: ATTACK
     abilities_lore:
     - ' &6Shadow Travel &7(&eRight Click&7)'
@@ -270,7 +270,7 @@ DA2_001_07:
     - ' &6Backstab &7(&ePassive&7)'
     - ' &7Deal &e300% &7&7more damage'
     - ' &7When damaging enemy from behind'
-    - ' &7Cooldown : &e0.2s'
+    - ' &7Cooldown : &e0.4s'
     disable-enchanting: true
     disable-smithing: true
     disable-smelting: true

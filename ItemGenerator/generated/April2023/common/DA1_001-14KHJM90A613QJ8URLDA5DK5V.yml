@@ -1,5 +1,5 @@
-# Template: DA1_001_XXX. Digest: b2364081852a4cc5d5aa1a42469dd7ed. Base36: AJTJQ2RMQ19VX3JVB1NJ05LGT
-# Generated at 28/04/2023 13:28:47. Digest: 6b57f2c788f0455bf833f74c589bf81a. Base36: 6CS2S2NYEQO9B823LNG3A2TJU.
+# Template: DA1_001_XXX. Digest: eee35c4afe303fd2d89ad3710e2c439b. Base36: E550E22HYEK6EFD4BE37GBA1N
+# Generated at 28/04/2023 13:32:51. Digest: 1308f713c95cf8f092341c6946d64453. Base36: 14KHJM90A613QJ8URLDA5DK5V.
 DA1_001_01:
   base:
     material: STONE_SWORD
@@ -20,7 +20,7 @@ DA1_001_01:
       ability2:
         type: BACKSTAB
         extra: 20.0
-        cooldown: 1.0
+        cooldown: 0.9
         mode: ATTACK
     abilities_lore:
     - ' &6Backstep &7(&eRight Click&7)'
@@ -29,7 +29,7 @@ DA1_001_01:
     - ' &6Backstab &7(&ePassive&7)'
     - ' &7Deal &e20% &7&7more damage'
     - ' &7When damaging enemy from behind'
-    - ' &7Cooldown : &e1.0s'
+    - ' &7Cooldown : &e0.9s'
     disable-enchanting: true
     disable-smithing: true
     disable-smelting: true
@@ -60,7 +60,7 @@ DA1_001_02:
       ability2:
         type: BACKSTAB
         extra: 35.0
-        cooldown: 0.9
+        cooldown: 0.85
         mode: ATTACK
     abilities_lore:
     - ' &6Backstep &7(&eRight Click&7)'
@@ -69,7 +69,7 @@ DA1_001_02:
     - ' &6Backstab &7(&ePassive&7)'
     - ' &7Deal &e35% &7&7more damage'
     - ' &7When damaging enemy from behind'
-    - ' &7Cooldown : &e0.9s'
+    - ' &7Cooldown : &e0.85s'
     disable-enchanting: true
     disable-smithing: true
     disable-smelting: true
@@ -140,7 +140,7 @@ DA1_001_04:
       ability2:
         type: BACKSTAB
         extra: 65.0
-        cooldown: 0.7
+        cooldown: 0.75
         mode: ATTACK
     abilities_lore:
     - ' &6Backstep &7(&eRight Click&7)'
@@ -149,7 +149,7 @@ DA1_001_04:
     - ' &6Backstab &7(&ePassive&7)'
     - ' &7Deal &e65% &7&7more damage'
     - ' &7When damaging enemy from behind'
-    - ' &7Cooldown : &e0.7s'
+    - ' &7Cooldown : &e0.75s'
     disable-enchanting: true
     disable-smithing: true
     disable-smelting: true
@@ -180,7 +180,7 @@ DA1_001_05:
       ability2:
         type: BACKSTAB
         extra: 80.0
-        cooldown: 0.6
+        cooldown: 0.7
         mode: ATTACK
     abilities_lore:
     - ' &6Backstep &7(&eRight Click&7)'
@@ -189,7 +189,7 @@ DA1_001_05:
     - ' &6Backstab &7(&ePassive&7)'
     - ' &7Deal &e80% &7&7more damage'
     - ' &7When damaging enemy from behind'
-    - ' &7Cooldown : &e0.6s'
+    - ' &7Cooldown : &e0.7s'
     disable-enchanting: true
     disable-smithing: true
     disable-smelting: true
@@ -220,7 +220,7 @@ DA1_001_06:
       ability2:
         type: BACKSTAB
         extra: 95.0
-        cooldown: 0.5
+        cooldown: 0.65
         mode: ATTACK
     abilities_lore:
     - ' &6Backstep &7(&eRight Click&7)'
@@ -229,7 +229,7 @@ DA1_001_06:
     - ' &6Backstab &7(&ePassive&7)'
     - ' &7Deal &e95% &7&7more damage'
     - ' &7When damaging enemy from behind'
-    - ' &7Cooldown : &e0.5s'
+    - ' &7Cooldown : &e0.65s'
     disable-enchanting: true
     disable-smithing: true
     disable-smelting: true
@@ -260,7 +260,7 @@ DA1_001_07:
       ability2:
         type: BACKSTAB
         extra: 110.0
-        cooldown: 0.4
+        cooldown: 0.6
         mode: ATTACK
     abilities_lore:
     - ' &6Backstep &7(&eRight Click&7)'
@@ -269,7 +269,7 @@ DA1_001_07:
     - ' &6Backstab &7(&ePassive&7)'
     - ' &7Deal &e110% &7&7more damage'
     - ' &7When damaging enemy from behind'
-    - ' &7Cooldown : &e0.4s'
+    - ' &7Cooldown : &e0.6s'
     disable-enchanting: true
     disable-smithing: true
     disable-smelting: true
@@ -300,7 +300,7 @@ DA1_001_08:
       ability2:
         type: BACKSTAB
         extra: 125.0
-        cooldown: 0.3
+        cooldown: 0.55
         mode: ATTACK
     abilities_lore:
     - ' &6Backstep &7(&eRight Click&7)'
@@ -309,7 +309,7 @@ DA1_001_08:
     - ' &6Backstab &7(&ePassive&7)'
     - ' &7Deal &e125% &7&7more damage'
     - ' &7When damaging enemy from behind'
-    - ' &7Cooldown : &e0.3s'
+    - ' &7Cooldown : &e0.55s'
     disable-enchanting: true
     disable-smithing: true
     disable-smelting: true
@@ -340,7 +340,7 @@ DA1_001_09:
       ability2:
         type: BACKSTAB
         extra: 140.0
-        cooldown: 0.2
+        cooldown: 0.5
         mode: ATTACK
     abilities_lore:
     - ' &6Backstep &7(&eRight Click&7)'
@@ -349,7 +349,7 @@ DA1_001_09:
     - ' &6Backstab &7(&ePassive&7)'
     - ' &7Deal &e140% &7&7more damage'
     - ' &7When damaging enemy from behind'
-    - ' &7Cooldown : &e0.2s'
+    - ' &7Cooldown : &e0.5s'
     disable-enchanting: true
     disable-smithing: true
     disable-smelting: true
