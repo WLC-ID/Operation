@@ -1,5 +1,5 @@
-# Template: DA1_001_XXX. Digest: eee35c4afe303fd2d89ad3710e2c439b. Base36: E550E22HYEK6EFD4BE37GBA1N
-# Generated at 28/04/2023 13:32:51. Digest: 1308f713c95cf8f092341c6946d64453. Base36: 14KHJM90A613QJ8URLDA5DK5V.
+# Template: DA1_001_XXX. Digest: ed490e5a8ddfda07189e7f6a44090710. Base36: E1Q1CP55063NV7SA2GBL8CFTC
+# Generated at 01/05/2023 01:25:34. Digest: 675c8321adbbeef1fdff4aa8415e61af. Base36: 64AJFH7BJLAHI7L7KMI60US33.
 DA1_001_01:
   base:
     material: STONE_SWORD
@@ -37,7 +37,7 @@ DA1_001_01:
     disable-repairing: true
     unbreakable: true
     tier: common
-    custom-model-data: 2.0
+    custom-model-data: 10002.0
     revision-id: 5
     item-batch: Starter
 DA1_001_02:
@@ -77,7 +77,7 @@ DA1_001_02:
     disable-repairing: true
     unbreakable: true
     tier: common
-    custom-model-data: 2.0
+    custom-model-data: 10002.0
     revision-id: 5
     item-batch: Starter
 DA1_001_03:
@@ -117,7 +117,7 @@ DA1_001_03:
     disable-repairing: true
     unbreakable: true
     tier: common
-    custom-model-data: 2.0
+    custom-model-data: 10002.0
     revision-id: 5
     item-batch: Starter
 DA1_001_04:
@@ -157,7 +157,7 @@ DA1_001_04:
     disable-repairing: true
     unbreakable: true
     tier: common
-    custom-model-data: 2.0
+    custom-model-data: 10002.0
     revision-id: 5
     item-batch: Starter
 DA1_001_05:
@@ -197,7 +197,7 @@ DA1_001_05:
     disable-repairing: true
     unbreakable: true
     tier: common
-    custom-model-data: 2.0
+    custom-model-data: 10002.0
     revision-id: 5
     item-batch: Starter
 DA1_001_06:
@@ -237,7 +237,7 @@ DA1_001_06:
     disable-repairing: true
     unbreakable: true
     tier: common
-    custom-model-data: 2.0
+    custom-model-data: 10002.0
     revision-id: 5
     item-batch: Starter
 DA1_001_07:
@@ -277,7 +277,7 @@ DA1_001_07:
     disable-repairing: true
     unbreakable: true
     tier: common
-    custom-model-data: 2.0
+    custom-model-data: 10002.0
     revision-id: 5
     item-batch: Starter
 DA1_001_08:
@@ -317,7 +317,7 @@ DA1_001_08:
     disable-repairing: true
     unbreakable: true
     tier: common
-    custom-model-data: 2.0
+    custom-model-data: 10002.0
     revision-id: 5
     item-batch: Starter
 DA1_001_09:
@@ -357,6 +357,6 @@ DA1_001_09:
     disable-repairing: true
     unbreakable: true
     tier: common
-    custom-model-data: 2.0
+    custom-model-data: 10002.0
     revision-id: 5
     item-batch: Starter

@@ -1,5 +1,5 @@
-# Template: MA1_001_XXX. Digest: 4897d80f64aa4734c8d4a4c3515d1d14. Base36: 4APT08JNXLRGPEXSRP8ZLVXN8
-# Generated at 28/04/2023 11:31:49. Digest: b1008fe93b723ab9860107c9e4015b2d. Base36: AH8QA5VJ5LT95JL5UNHD151D9.
+# Template: MA1_001_XXX. Digest: 36c03c34d680b9a14d32b2039c312392. Base36: 38OU5AHLAV4TRK7CLNA9SN0R6
+# Generated at 01/05/2023 01:28:10. Digest: f739cd61551a810e025b50009a2bf56b. Base36: EMWQ913XRLIQ3SFP3OS3E3HIJ.
 MA1_001_01:
   base:
     material: STONE_HOE
@@ -24,7 +24,7 @@ MA1_001_01:
     - ' &7Weaken target for &e2.5s&7,'
     - ' &7increasing damage taken by &e20%'
     - ' &7Cooldown : &e10s&7, Mana Cost : &e8.0'
-    custom-model-data: 1.0
+    custom-model-data: 10001.0
     revision-id: 3
     disable-enchanting: true
     disable-smithing: true
@@ -58,7 +58,7 @@ MA1_001_02:
     - ' &7Weaken target for &e2.75s&7,'
     - ' &7increasing damage taken by &e25%'
     - ' &7Cooldown : &e9s&7, Mana Cost : &e8.0'
-    custom-model-data: 1.0
+    custom-model-data: 10001.0
     revision-id: 3
     disable-enchanting: true
     disable-smithing: true
@@ -92,7 +92,7 @@ MA1_001_03:
     - ' &7Weaken target for &e3.0s&7,'
     - ' &7increasing damage taken by &e30%'
     - ' &7Cooldown : &e9s&7, Mana Cost : &e8.0'
-    custom-model-data: 1.0
+    custom-model-data: 10001.0
     revision-id: 3
     disable-enchanting: true
     disable-smithing: true
@@ -126,7 +126,7 @@ MA1_001_04:
     - ' &7Weaken target for &e3.25s&7,'
     - ' &7increasing damage taken by &e35%'
     - ' &7Cooldown : &e9s&7, Mana Cost : &e8.0'
-    custom-model-data: 1.0
+    custom-model-data: 10001.0
     revision-id: 3
     disable-enchanting: true
     disable-smithing: true
@@ -160,7 +160,7 @@ MA1_001_05:
     - ' &7Weaken target for &e3.5s&7,'
     - ' &7increasing damage taken by &e40%'
     - ' &7Cooldown : &e8s&7, Mana Cost : &e8.0'
-    custom-model-data: 1.0
+    custom-model-data: 10001.0
     revision-id: 3
     disable-enchanting: true
     disable-smithing: true
@@ -194,7 +194,7 @@ MA1_001_06:
     - ' &7Weaken target for &e3.75s&7,'
     - ' &7increasing damage taken by &e45%'
     - ' &7Cooldown : &e8s&7, Mana Cost : &e8.0'
-    custom-model-data: 1.0
+    custom-model-data: 10001.0
     revision-id: 3
     disable-enchanting: true
     disable-smithing: true
@@ -228,7 +228,7 @@ MA1_001_07:
     - ' &7Weaken target for &e4.0s&7,'
     - ' &7increasing damage taken by &e50%'
     - ' &7Cooldown : &e8s&7, Mana Cost : &e8.0'
-    custom-model-data: 1.0
+    custom-model-data: 10001.0
     revision-id: 3
     disable-enchanting: true
     disable-smithing: true
@@ -262,7 +262,7 @@ MA1_001_08:
     - ' &7Weaken target for &e4.25s&7,'
     - ' &7increasing damage taken by &e55%'
     - ' &7Cooldown : &e7s&7, Mana Cost : &e8.0'
-    custom-model-data: 1.0
+    custom-model-data: 10001.0
     revision-id: 3
     disable-enchanting: true
     disable-smithing: true
@@ -296,7 +296,7 @@ MA1_001_09:
     - ' &7Weaken target for &e4.5s&7,'
     - ' &7increasing damage taken by &e60%'
     - ' &7Cooldown : &e7s&7, Mana Cost : &e8.0'
-    custom-model-data: 1.0
+    custom-model-data: 10001.0
     revision-id: 3
     disable-enchanting: true
     disable-smithing: true

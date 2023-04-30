@@ -1,9 +1,9 @@
-# Template: SW2_003_XXX. Digest: 98599c2a88c1791aa973d8d61c3a4b3f. Base36: 90P9DGM90ZO25IU66BD7A1CFZ
-# Generated at 28/04/2023 11:36:28. Digest: 40ac9c11e1e85b05c52836c64c60ce61. Base36: 3TU7VIWP197MLUG2X0WI4M4WX.
+# Template: SW2_003_XXX. Digest: 19b986038aa058469c360a82a62222c4. Base36: 1ITRFNJQXU5XU1RCJ281NPBR8
+# Generated at 01/05/2023 01:35:49. Digest: 835259ffbb29e4081af54959915f21a7. Base36: 7RVTY3LCABGXE5UJ0JR5T1RC7.
 SW2_003_01:
   base:
     material: STONE_SWORD
-    name: <#FF4500>Fiery Sword <#6B6666>[<#23f108>Lvl.1<#6B6666>]
+    name: <#FF4500>Starblazed Fury <#6B6666>[<#23f108>Lvl.1<#6B6666>]
     displayed-type: Sword
     attack-damage: 15.19
     fire-damage-reduction: 13.25
@@ -39,10 +39,11 @@ SW2_003_01:
       fire_aspect: 2.0
     hide-enchants: true
     item-batch: Starter
+    custom-model-data: 20007.0
 SW2_003_02:
   base:
     material: STONE_SWORD
-    name: <#FF4500>Fiery Sword <#6B6666>[<#73da00>Lvl.2<#6B6666>]
+    name: <#FF4500>Starblazed Fury <#6B6666>[<#73da00>Lvl.2<#6B6666>]
     displayed-type: Sword
     attack-damage: 15.82
     fire-damage-reduction: 13.94
@@ -78,10 +79,11 @@ SW2_003_02:
       fire_aspect: 2.0
     hide-enchants: true
     item-batch: Starter
+    custom-model-data: 20007.0
 SW2_003_03:
   base:
     material: STONE_SWORD
-    name: <#FF4500>Fiery Sword <#6B6666>[<#96c100>Lvl.3<#6B6666>]
+    name: <#FF4500>Starblazed Fury <#6B6666>[<#96c100>Lvl.3<#6B6666>]
     displayed-type: Sword
     attack-damage: 16.48
     fire-damage-reduction: 14.66
@@ -117,10 +119,11 @@ SW2_003_03:
       fire_aspect: 2.0
     hide-enchants: true
     item-batch: Starter
+    custom-model-data: 20007.0
 SW2_003_04:
   base:
     material: STONE_SWORD
-    name: <#FF4500>Fiery Sword <#6B6666>[<#aca800>Lvl.4<#6B6666>]
+    name: <#FF4500>Starblazed Fury <#6B6666>[<#aca800>Lvl.4<#6B6666>]
     displayed-type: Sword
     attack-damage: 17.18
     fire-damage-reduction: 15.41
@@ -156,10 +159,11 @@ SW2_003_04:
       fire_aspect: 2.0
     hide-enchants: true
     item-batch: Starter
+    custom-model-data: 20007.0
 SW2_003_05:
   base:
     material: STONE_SWORD
-    name: <#FF4500>Fiery Sword <#6B6666>[<#bb8e00>Lvl.5<#6B6666>]
+    name: <#FF4500>Starblazed Fury <#6B6666>[<#bb8e00>Lvl.5<#6B6666>]
     displayed-type: Sword
     attack-damage: 17.9
     fire-damage-reduction: 16.2
@@ -195,10 +199,11 @@ SW2_003_05:
       fire_aspect: 2.0
     hide-enchants: true
     item-batch: Starter
+    custom-model-data: 20007.0
 SW2_003_06:
   base:
     material: STONE_SWORD
-    name: <#FF4500>Fiery Sword <#6B6666>[<#c37300>Lvl.6<#6B6666>]
+    name: <#FF4500>Starblazed Fury <#6B6666>[<#c37300>Lvl.6<#6B6666>]
     displayed-type: Sword
     attack-damage: 18.66
     fire-damage-reduction: 17.02
@@ -234,10 +239,11 @@ SW2_003_06:
       fire_aspect: 2.0
     hide-enchants: true
     item-batch: Starter
+    custom-model-data: 20007.0
 SW2_003_07:
   base:
     material: STONE_SWORD
-    name: <#FF4500>Fiery Sword <#6B6666>[<#c55700>Lvl.7<#6B6666>]
+    name: <#FF4500>Starblazed Fury <#6B6666>[<#c55700>Lvl.7<#6B6666>]
     displayed-type: Sword
     attack-damage: 19.44
     fire-damage-reduction: 17.87
@@ -273,3 +279,4 @@ SW2_003_07:
       fire_aspect: 2.0
     hide-enchants: true
     item-batch: Starter
+    custom-model-data: 20007.0

@@ -1,5 +1,5 @@
-# Template: AX1_001_XXX. Digest: 04b25d339be09c924b62aa2b88ccfa80. Base36: A0D2RH56XDSJLM3IMPSF3KOW
-# Generated at 28/04/2023 11:28:43. Digest: e5cdef9e1f3db738f0d1f8c4a14207c0. Base36: DLS1W7FE5DI0GFW0HFV0ABB9C.
+# Template: AX1_001_XXX. Digest: 515703076206b7d9e9e1d92ca9353c44. Base36: 4TCWTNW1ZCAVYE27SU5C4MS78
+# Generated at 01/05/2023 01:15:31. Digest: 4e7a63c3599d8cb53760fefadf792ff9. Base36: 4N9C3DZZ1Z72T837MYPA4ZEGP.
 AX1_001_01:
   base:
     material: STONE_AXE
@@ -36,7 +36,7 @@ AX1_001_01:
     - ' &7Increase the next damage dealt by &e50%'
     - ' &7and stun target for &e1.0s'
     - ' &7Cooldown : &e10.0s&7, Mana Cost : &e4.0'
-    custom-model-data: 1.0
+    custom-model-data: 10001.0
     revision-id: 5
     disable-interaction: true
     item-batch: Starter
@@ -76,7 +76,7 @@ AX1_001_02:
     - ' &7Increase the next damage dealt by &e52%'
     - ' &7and stun target for &e1.15s'
     - ' &7Cooldown : &e9.6s&7, Mana Cost : &e4.2'
-    custom-model-data: 1.0
+    custom-model-data: 10001.0
     revision-id: 5
     disable-interaction: true
     item-batch: Starter
@@ -116,7 +116,7 @@ AX1_001_03:
     - ' &7Increase the next damage dealt by &e54%'
     - ' &7and stun target for &e1.3s'
     - ' &7Cooldown : &e9.2s&7, Mana Cost : &e4.4'
-    custom-model-data: 1.0
+    custom-model-data: 10001.0
     revision-id: 5
     disable-interaction: true
     item-batch: Starter
@@ -156,7 +156,7 @@ AX1_001_04:
     - ' &7Increase the next damage dealt by &e56%'
     - ' &7and stun target for &e1.45s'
     - ' &7Cooldown : &e8.8s&7, Mana Cost : &e4.6'
-    custom-model-data: 1.0
+    custom-model-data: 10001.0
     revision-id: 5
     disable-interaction: true
     item-batch: Starter
@@ -196,7 +196,7 @@ AX1_001_05:
     - ' &7Increase the next damage dealt by &e58%'
     - ' &7and stun target for &e1.6s'
     - ' &7Cooldown : &e8.4s&7, Mana Cost : &e4.8'
-    custom-model-data: 1.0
+    custom-model-data: 10001.0
     revision-id: 5
     disable-interaction: true
     item-batch: Starter
@@ -236,7 +236,7 @@ AX1_001_06:
     - ' &7Increase the next damage dealt by &e60%'
     - ' &7and stun target for &e1.75s'
     - ' &7Cooldown : &e8.0s&7, Mana Cost : &e5.0'
-    custom-model-data: 1.0
+    custom-model-data: 10001.0
     revision-id: 5
     disable-interaction: true
     item-batch: Starter
@@ -276,7 +276,7 @@ AX1_001_07:
     - ' &7Increase the next damage dealt by &e62%'
     - ' &7and stun target for &e1.9s'
     - ' &7Cooldown : &e7.6s&7, Mana Cost : &e5.2'
-    custom-model-data: 1.0
+    custom-model-data: 10001.0
     revision-id: 5
     disable-interaction: true
     item-batch: Starter
@@ -316,7 +316,7 @@ AX1_001_08:
     - ' &7Increase the next damage dealt by &e64%'
     - ' &7and stun target for &e2.05s'
     - ' &7Cooldown : &e7.2s&7, Mana Cost : &e5.4'
-    custom-model-data: 1.0
+    custom-model-data: 10001.0
     revision-id: 5
     disable-interaction: true
     item-batch: Starter
@@ -356,7 +356,7 @@ AX1_001_09:
     - ' &7Increase the next damage dealt by &e66%'
     - ' &7and stun target for &e2.2s'
     - ' &7Cooldown : &e6.8s&7, Mana Cost : &e5.6'
-    custom-model-data: 1.0
+    custom-model-data: 10001.0
     revision-id: 5
     disable-interaction: true
     item-batch: Starter

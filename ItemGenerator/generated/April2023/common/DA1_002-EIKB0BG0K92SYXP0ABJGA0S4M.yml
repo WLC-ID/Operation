@@ -1,5 +1,5 @@
-# Template: DA1_002_XXX. Digest: 647d42f6a532ad15db6c8e5b6f06f270. Base36: 5Y66C7NXL07QHR1L3BNWYI35C
-# Generated at 01/05/2023 00:51:23. Digest: 22bbfe43602f7662925da32070ecce3d. Base36: 2211EY9UZ2W5JHEBSU376B1H9.
+# Template: DA1_002_XXX. Digest: b5d3dbda2a586e71afa709a2e0ea685d. Base36: ARIYOTWU0HZF6FBGZ5M7XHMCD
+# Generated at 01/05/2023 01:27:02. Digest: f52fe3ef626e7ae6353a96c30ac00866. Base36: EIKB0BG0K92SYXP0ABJGA0S4M.
 DA1_002_01:
   base:
     material: STONE_SWORD
@@ -34,6 +34,7 @@ DA1_002_01:
     unbreakable: true
     tier: common
     revision-id: 1
+    custom-model-data: 10003.0
     item-batch: Starter
 DA1_002_02:
   base:
@@ -69,6 +70,7 @@ DA1_002_02:
     unbreakable: true
     tier: common
     revision-id: 1
+    custom-model-data: 10003.0
     item-batch: Starter
 DA1_002_03:
   base:
@@ -104,6 +106,7 @@ DA1_002_03:
     unbreakable: true
     tier: common
     revision-id: 1
+    custom-model-data: 10003.0
     item-batch: Starter
 DA1_002_04:
   base:
@@ -139,6 +142,7 @@ DA1_002_04:
     unbreakable: true
     tier: common
     revision-id: 1
+    custom-model-data: 10003.0
     item-batch: Starter
 DA1_002_05:
   base:
@@ -174,6 +178,7 @@ DA1_002_05:
     unbreakable: true
     tier: common
     revision-id: 1
+    custom-model-data: 10003.0
     item-batch: Starter
 DA1_002_06:
   base:
@@ -209,6 +214,7 @@ DA1_002_06:
     unbreakable: true
     tier: common
     revision-id: 1
+    custom-model-data: 10003.0
     item-batch: Starter
 DA1_002_07:
   base:
@@ -244,6 +250,7 @@ DA1_002_07:
     unbreakable: true
     tier: common
     revision-id: 1
+    custom-model-data: 10003.0
     item-batch: Starter
 DA1_002_08:
   base:
@@ -279,6 +286,7 @@ DA1_002_08:
     unbreakable: true
     tier: common
     revision-id: 1
+    custom-model-data: 10003.0
     item-batch: Starter
 DA1_002_09:
   base:
@@ -314,4 +322,5 @@ DA1_002_09:
     unbreakable: true
     tier: common
     revision-id: 1
+    custom-model-data: 10003.0
     item-batch: Starter

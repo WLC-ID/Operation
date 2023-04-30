@@ -1,5 +1,5 @@
-# Template: SW1_002_XXX. Digest: 481205cd7544e03e433af7f0ef8f710e. Base36: 49LP4EVW0W6VRECAFK1FT7RPQ
-# Generated at 28/04/2023 11:34:15. Digest: beaebc7446e0e6438762db7927e5cf0b. Base36: BAEDHDNGVTSH3J1Z0GTPP8SGB.
+# Template: SW1_002_XXX. Digest: 3d4fd1a2847183573f852395ff923d8b. Base36: 3MO8930QZLK7JL2HPEMB2E4QZ
+# Generated at 01/05/2023 01:31:38. Digest: bbcf1486f256bc096de68ac4a8766174. Base36: B49W0OJ6MGM4RYQFGQIP0KPDG.
 SW1_002_01:
   base:
     material: STONE_SWORD
@@ -31,7 +31,7 @@ SW1_002_01:
     disable-crafting: true
     disable-repairing: true
     unbreakable: true
-    custom-model-data: 4.0
+    custom-model-data: 10005.0
     revision-id: 1
     disable-interaction: true
     enchants:
@@ -69,7 +69,7 @@ SW1_002_02:
     disable-crafting: true
     disable-repairing: true
     unbreakable: true
-    custom-model-data: 4.0
+    custom-model-data: 10005.0
     revision-id: 1
     disable-interaction: true
     enchants:
@@ -107,7 +107,7 @@ SW1_002_03:
     disable-crafting: true
     disable-repairing: true
     unbreakable: true
-    custom-model-data: 4.0
+    custom-model-data: 10005.0
     revision-id: 1
     disable-interaction: true
     enchants:
@@ -145,7 +145,7 @@ SW1_002_04:
     disable-crafting: true
     disable-repairing: true
     unbreakable: true
-    custom-model-data: 4.0
+    custom-model-data: 10005.0
     revision-id: 1
     disable-interaction: true
     enchants:
@@ -183,7 +183,7 @@ SW1_002_05:
     disable-crafting: true
     disable-repairing: true
     unbreakable: true
-    custom-model-data: 4.0
+    custom-model-data: 10005.0
     revision-id: 1
     disable-interaction: true
     enchants:
@@ -221,7 +221,7 @@ SW1_002_06:
     disable-crafting: true
     disable-repairing: true
     unbreakable: true
-    custom-model-data: 4.0
+    custom-model-data: 10005.0
     revision-id: 1
     disable-interaction: true
     enchants:
@@ -259,7 +259,7 @@ SW1_002_07:
     disable-crafting: true
     disable-repairing: true
     unbreakable: true
-    custom-model-data: 4.0
+    custom-model-data: 10005.0
     revision-id: 1
     disable-interaction: true
     enchants:
@@ -297,7 +297,7 @@ SW1_002_08:
     disable-crafting: true
     disable-repairing: true
     unbreakable: true
-    custom-model-data: 4.0
+    custom-model-data: 10005.0
     revision-id: 1
     disable-interaction: true
     enchants:
@@ -335,7 +335,7 @@ SW1_002_09:
     disable-crafting: true
     disable-repairing: true
     unbreakable: true
-    custom-model-data: 4.0
+    custom-model-data: 10005.0
     revision-id: 1
     disable-interaction: true
     enchants:

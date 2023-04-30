@@ -1,9 +1,9 @@
-# Template: SW2_001_XXX. Digest: d99e3aed91fe0259491c89ce67093c0d. Base36: CVT1DZJPDOYZBRX132YB5N28D
-# Generated at 28/04/2023 11:35:57. Digest: 65be88aeddf6a1b7b6372b6bcb0c88f1. Base36: 60UGR395YFPZ7XAQZCCRTFSVL.
+# Template: SW2_001_XXX. Digest: 000954059b685cad9ca694272f193344. Base36: 2SNBV4VJEJNGR4I74LFA9TW
+# Generated at 01/05/2023 01:33:47. Digest: eb36b81ee30d31cb5093f7cbd85422d7. Base36: DXB37I7AEGN5S9R2W71D32YMV.
 SW2_001_01:
   base:
     material: STONE_SWORD
-    name: <#A7A7AD>Reforged Sword <#6B6666>[<#23f108>Lvl.1<#6B6666>]
+    name: <#A7A7AD>Reforged Edge <#6B6666>[<#23f108>Lvl.1<#6B6666>]
     displayed-type: Sword
     attack-damage: 15.19
     additional-toughness: 8.04
@@ -34,10 +34,11 @@ SW2_001_01:
     revision-id: 1
     disable-interaction: true
     item-batch: Starter
+    custom-model-data: 20006.0
 SW2_001_02:
   base:
     material: STONE_SWORD
-    name: <#A7A7AD>Reforged Sword <#6B6666>[<#73da00>Lvl.2<#6B6666>]
+    name: <#A7A7AD>Reforged Edge <#6B6666>[<#73da00>Lvl.2<#6B6666>]
     displayed-type: Sword
     attack-damage: 15.82
     additional-toughness: 8.62
@@ -68,10 +69,11 @@ SW2_001_02:
     revision-id: 1
     disable-interaction: true
     item-batch: Starter
+    custom-model-data: 20006.0
 SW2_001_03:
   base:
     material: STONE_SWORD
-    name: <#A7A7AD>Reforged Sword <#6B6666>[<#96c100>Lvl.3<#6B6666>]
+    name: <#A7A7AD>Reforged Edge <#6B6666>[<#96c100>Lvl.3<#6B6666>]
     displayed-type: Sword
     attack-damage: 16.48
     additional-toughness: 9.23
@@ -102,10 +104,11 @@ SW2_001_03:
     revision-id: 1
     disable-interaction: true
     item-batch: Starter
+    custom-model-data: 20006.0
 SW2_001_04:
   base:
     material: STONE_SWORD
-    name: <#A7A7AD>Reforged Sword <#6B6666>[<#aca800>Lvl.4<#6B6666>]
+    name: <#A7A7AD>Reforged Edge <#6B6666>[<#aca800>Lvl.4<#6B6666>]
     displayed-type: Sword
     attack-damage: 17.18
     additional-toughness: 9.86
@@ -136,10 +139,11 @@ SW2_001_04:
     revision-id: 1
     disable-interaction: true
     item-batch: Starter
+    custom-model-data: 20006.0
 SW2_001_05:
   base:
     material: STONE_SWORD
-    name: <#A7A7AD>Reforged Sword <#6B6666>[<#bb8e00>Lvl.5<#6B6666>]
+    name: <#A7A7AD>Reforged Edge <#6B6666>[<#bb8e00>Lvl.5<#6B6666>]
     displayed-type: Sword
     attack-damage: 17.9
     additional-toughness: 10.53
@@ -170,10 +174,11 @@ SW2_001_05:
     revision-id: 1
     disable-interaction: true
     item-batch: Starter
+    custom-model-data: 20006.0
 SW2_001_06:
   base:
     material: STONE_SWORD
-    name: <#A7A7AD>Reforged Sword <#6B6666>[<#c37300>Lvl.6<#6B6666>]
+    name: <#A7A7AD>Reforged Edge <#6B6666>[<#c37300>Lvl.6<#6B6666>]
     displayed-type: Sword
     attack-damage: 18.66
     additional-toughness: 11.22
@@ -204,10 +209,11 @@ SW2_001_06:
     revision-id: 1
     disable-interaction: true
     item-batch: Starter
+    custom-model-data: 20006.0
 SW2_001_07:
   base:
     material: STONE_SWORD
-    name: <#A7A7AD>Reforged Sword <#6B6666>[<#c55700>Lvl.7<#6B6666>]
+    name: <#A7A7AD>Reforged Edge <#6B6666>[<#c55700>Lvl.7<#6B6666>]
     displayed-type: Sword
     attack-damage: 19.44
     additional-toughness: 11.95
@@ -238,3 +244,4 @@ SW2_001_07:
     revision-id: 1
     disable-interaction: true
     item-batch: Starter
+    custom-model-data: 20006.0

@@ -1,5 +1,5 @@
-# Template: SW1_001_XXX. Digest: 25936a84266c835cb2d60157c8c57ed2. Base36: 28321OUF8KWYR9V53GV96JOWI
-# Generated at 28/04/2023 11:33:31. Digest: 52df069e964653f59fa7be46d70acf04. Base36: 4WMEIIYKXK57XILF7B3IGSHDW.
+# Template: SW1_001_XXX. Digest: 0140c4d6e74113a180ab906550ccb477. Base36: 2O4ZBTQX11QLJKOX0L6RG8ZB
+# Generated at 01/05/2023 01:30:52. Digest: 427c6d0a1c4590b863ed07aeec9f8b50. Base36: 3XP8ABX2UJU4HLSFDTVG2CFGW.
 SW1_001_01:
   base:
     material: STONE_SWORD
@@ -29,7 +29,7 @@ SW1_001_01:
     disable-crafting: true
     disable-repairing: true
     unbreakable: true
-    custom-model-data: 3.0
+    custom-model-data: 10004.0
     revision-id: 3
     disable-interaction: true
     item-batch: Starter
@@ -62,7 +62,7 @@ SW1_001_02:
     disable-crafting: true
     disable-repairing: true
     unbreakable: true
-    custom-model-data: 3.0
+    custom-model-data: 10004.0
     revision-id: 3
     disable-interaction: true
     item-batch: Starter
@@ -95,7 +95,7 @@ SW1_001_03:
     disable-crafting: true
     disable-repairing: true
     unbreakable: true
-    custom-model-data: 3.0
+    custom-model-data: 10004.0
     revision-id: 3
     disable-interaction: true
     item-batch: Starter
@@ -128,7 +128,7 @@ SW1_001_04:
     disable-crafting: true
     disable-repairing: true
     unbreakable: true
-    custom-model-data: 3.0
+    custom-model-data: 10004.0
     revision-id: 3
     disable-interaction: true
     item-batch: Starter
@@ -161,7 +161,7 @@ SW1_001_05:
     disable-crafting: true
     disable-repairing: true
     unbreakable: true
-    custom-model-data: 3.0
+    custom-model-data: 10004.0
     revision-id: 3
     disable-interaction: true
     item-batch: Starter
@@ -194,7 +194,7 @@ SW1_001_06:
     disable-crafting: true
     disable-repairing: true
     unbreakable: true
-    custom-model-data: 3.0
+    custom-model-data: 10004.0
     revision-id: 3
     disable-interaction: true
     item-batch: Starter
@@ -227,7 +227,7 @@ SW1_001_07:
     disable-crafting: true
     disable-repairing: true
     unbreakable: true
-    custom-model-data: 3.0
+    custom-model-data: 10004.0
     revision-id: 3
     disable-interaction: true
     item-batch: Starter
@@ -260,7 +260,7 @@ SW1_001_08:
     disable-crafting: true
     disable-repairing: true
     unbreakable: true
-    custom-model-data: 3.0
+    custom-model-data: 10004.0
     revision-id: 3
     disable-interaction: true
     item-batch: Starter
@@ -293,7 +293,7 @@ SW1_001_09:
     disable-crafting: true
     disable-repairing: true
     unbreakable: true
-    custom-model-data: 3.0
+    custom-model-data: 10004.0
     revision-id: 3
     disable-interaction: true
     item-batch: Starter

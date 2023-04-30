@@ -1,5 +1,5 @@
-# Template: BS1_001_XXX. Digest: cc1caf776c17a581bc9eb1832f2edc0c. Base36: C30RPYYDVS15NJB1PCFVT5DE4
-# Generated at 28/04/2023 11:29:45. Digest: 27fe5255ebc21ad8093a1d79f4c037fd. Base36: 2D8JTD2J6FYKJ82J21Z9A6N0D.
+# Template: BS1_001_XXX. Digest: cf88efcbd97af3868b62ad48b1050aeb. Base36: CABE5P6GHOQVNVTH7131ZQMEJ
+# Generated at 01/05/2023 01:16:24. Digest: 38ffcc75144b891061ee1f1fda919f0e. Base36: 3DHC9QDQAZQCZGM9RAA5J1VYM.
 BS1_001_01:
   base:
     material: STONE_SWORD
@@ -32,7 +32,7 @@ BS1_001_01:
     disable-crafting: true
     disable-repairing: true
     unbreakable: true
-    custom-model-data: 1.0
+    custom-model-data: 10001.0
     revision-id: 5
     item-batch: Starter
 BS1_001_02:
@@ -67,7 +67,7 @@ BS1_001_02:
     disable-crafting: true
     disable-repairing: true
     unbreakable: true
-    custom-model-data: 1.0
+    custom-model-data: 10001.0
     revision-id: 5
     item-batch: Starter
 BS1_001_03:
@@ -102,7 +102,7 @@ BS1_001_03:
     disable-crafting: true
     disable-repairing: true
     unbreakable: true
-    custom-model-data: 1.0
+    custom-model-data: 10001.0
     revision-id: 5
     item-batch: Starter
 BS1_001_04:
@@ -137,7 +137,7 @@ BS1_001_04:
     disable-crafting: true
     disable-repairing: true
     unbreakable: true
-    custom-model-data: 1.0
+    custom-model-data: 10001.0
     revision-id: 5
     item-batch: Starter
 BS1_001_05:
@@ -172,7 +172,7 @@ BS1_001_05:
     disable-crafting: true
     disable-repairing: true
     unbreakable: true
-    custom-model-data: 1.0
+    custom-model-data: 10001.0
     revision-id: 5
     item-batch: Starter
 BS1_001_06:
@@ -207,7 +207,7 @@ BS1_001_06:
     disable-crafting: true
     disable-repairing: true
     unbreakable: true
-    custom-model-data: 1.0
+    custom-model-data: 10001.0
     revision-id: 5
     item-batch: Starter
 BS1_001_07:
@@ -242,7 +242,7 @@ BS1_001_07:
     disable-crafting: true
     disable-repairing: true
     unbreakable: true
-    custom-model-data: 1.0
+    custom-model-data: 10001.0
     revision-id: 5
     item-batch: Starter
 BS1_001_08:
@@ -277,7 +277,7 @@ BS1_001_08:
     disable-crafting: true
     disable-repairing: true
     unbreakable: true
-    custom-model-data: 1.0
+    custom-model-data: 10001.0
     revision-id: 5
     item-batch: Starter
 BS1_001_09:
@@ -312,6 +312,6 @@ BS1_001_09:
     disable-crafting: true
     disable-repairing: true
     unbreakable: true
-    custom-model-data: 1.0
+    custom-model-data: 10001.0
     revision-id: 5
     item-batch: Starter

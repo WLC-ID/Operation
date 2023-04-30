@@ -1,5 +1,5 @@
-# Template: DA2_001_XXX. Digest: d555e28738bade81c01946eab52eea2c. Base36: CMOG7S3AHTWJWPH5EC6AQQDRG
-# Generated at 28/04/2023 17:08:58. Digest: 7c51cbfb6f328e6992ab34aedca6ea55. Base36: 7CYKXAJNXDJ3ZD0NPNYM1VCK5.
+# Template: DA2_001_XXX. Digest: 0cef7b4b4e3f240f18c53be59540ed15. Base36: RKHP4RFXXSLGI3RMQCEBYTJP
+# Generated at 01/05/2023 01:32:27. Digest: e400d60d96c0b6869598e154bbe946bb. Base36: DHXUSJ7X5W1OQSK062R5W9HVF.
 DA2_001_01:
   base:
     material: STONE_SWORD
@@ -40,6 +40,7 @@ DA2_001_01:
     tier: rare
     revision-id: 1
     item-batch: Starter
+    custom-model-data: 20003.0
 DA2_001_02:
   base:
     material: STONE_SWORD
@@ -80,6 +81,7 @@ DA2_001_02:
     tier: rare
     revision-id: 1
     item-batch: Starter
+    custom-model-data: 20003.0
 DA2_001_03:
   base:
     material: STONE_SWORD
@@ -120,6 +122,7 @@ DA2_001_03:
     tier: rare
     revision-id: 1
     item-batch: Starter
+    custom-model-data: 20003.0
 DA2_001_04:
   base:
     material: STONE_SWORD
@@ -160,6 +163,7 @@ DA2_001_04:
     tier: rare
     revision-id: 1
     item-batch: Starter
+    custom-model-data: 20003.0
 DA2_001_05:
   base:
     material: STONE_SWORD
@@ -200,6 +204,7 @@ DA2_001_05:
     tier: rare
     revision-id: 1
     item-batch: Starter
+    custom-model-data: 20003.0
 DA2_001_06:
   base:
     material: STONE_SWORD
@@ -240,6 +245,7 @@ DA2_001_06:
     tier: rare
     revision-id: 1
     item-batch: Starter
+    custom-model-data: 20003.0
 DA2_001_07:
   base:
     material: STONE_SWORD
@@ -280,3 +286,4 @@ DA2_001_07:
     tier: rare
     revision-id: 1
     item-batch: Starter
+    custom-model-data: 20003.0
