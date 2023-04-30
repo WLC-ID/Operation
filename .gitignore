@@ -8,3 +8,4 @@ generated-*.yml
 **/generated/*.yml
 table.yml
 **/!multiply-table.yml
+**/compiled/**

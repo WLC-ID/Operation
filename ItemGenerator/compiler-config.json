@@ -1,0 +1,9 @@
+{
+    "sword.yml": "SW",
+    "axe.yml": "AX",
+    "broadsword.yml": "BS",
+    "bow.yml": "BO",
+    "dagger.yml": "DA",
+    "katana.yml": "KA",
+    "staff.yml": "MA"
+}

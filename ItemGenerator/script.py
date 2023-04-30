@@ -17,7 +17,7 @@ TEMPLATE_FILE = "!multiply-table.yml"
 with open(TEMPLATE_FILE, "r") as f:
     data = yaml.safe_load(f)
     data = OrderedDict(data)
-templateHexDigest = hashlib.md5(data.__str__().encode('utf-8')).hexdigest()
+templateHexDigest = hashlib.md5(yaml.dump(dict(data), sort_keys=False).encode('utf-8')).hexdigest()
 templateDigest = np.base_repr(int(templateHexDigest, 16), 36)
 
 if len(data.keys()) != 1:
@@ -144,7 +144,7 @@ for each in data:
     del data[each]['level']
 
 flattened = dict(data)
-hexdigest = hashlib.md5(flattened.__str__().encode('utf-8')).hexdigest()
+hexdigest = hashlib.md5(yaml.dump(flattened, sort_keys=False).encode('utf-8')).hexdigest()
 digest = np.base_repr(int(hexdigest, 16), 36)
 RESULT_FILE = f"./generated/{TEMPLATE_SPLIT[0]}_{TEMPLATE_SPLIT[1]}-{digest}.yml"
 with open(RESULT_FILE, "w") as f:
