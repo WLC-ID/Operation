@@ -1,5 +1,5 @@
-# Template: DA1_002_XXX. Digest: 6e62a895a66472f3d19befe29e20c59a. Base36: 6J9GS6YI0ZLW3WRGGO2V0QE1M
-# Generated at 28/04/2023 16:51:52. Digest: 60500e69776e4c3b9d103b847b1d2b44. Base36: 5P9PZXGFV6FB15RC9BXH7JR5W.
+# Template: DA1_002_XXX. Digest: 647d42f6a532ad15db6c8e5b6f06f270. Base36: 5Y66C7NXL07QHR1L3BNWYI35C
+# Generated at 01/05/2023 00:51:23. Digest: 22bbfe43602f7662925da32070ecce3d. Base36: 2211EY9UZ2W5JHEBSU376B1H9.
 DA1_002_01:
   base:
     material: STONE_SWORD
@@ -7,7 +7,8 @@ DA1_002_01:
     displayed-type: Dagger
     attack-damage: 5.5
     lore:
-    - ' &7&o"Momentum dagger."'
+    - ' &7&o"Mass produced dagger that saw many uses'
+    - ' &7&oit can be used for self-defense and attacking."'
     attack-speed: 2.25
     parry-rating: 5.03
     parry-cooldown-reduction: 4.0
@@ -41,7 +42,8 @@ DA1_002_02:
     displayed-type: Dagger
     attack-damage: 5.55
     lore:
-    - ' &7&o"Momentum dagger."'
+    - ' &7&o"Mass produced dagger that saw many uses'
+    - ' &7&oit can be used for self-defense and attacking."'
     attack-speed: 2.25
     parry-rating: 5.6
     parry-cooldown-reduction: 4.54
@@ -75,7 +77,8 @@ DA1_002_03:
     displayed-type: Dagger
     attack-damage: 5.61
     lore:
-    - ' &7&o"Momentum dagger."'
+    - ' &7&o"Mass produced dagger that saw many uses'
+    - ' &7&oit can be used for self-defense and attacking."'
     attack-speed: 2.25
     parry-rating: 6.2
     parry-cooldown-reduction: 5.11
@@ -109,7 +112,8 @@ DA1_002_04:
     displayed-type: Dagger
     attack-damage: 5.67
     lore:
-    - ' &7&o"Momentum dagger."'
+    - ' &7&o"Mass produced dagger that saw many uses'
+    - ' &7&oit can be used for self-defense and attacking."'
     attack-speed: 2.25
     parry-rating: 6.82
     parry-cooldown-reduction: 5.7
@@ -143,7 +147,8 @@ DA1_002_05:
     displayed-type: Dagger
     attack-damage: 5.73
     lore:
-    - ' &7&o"Momentum dagger."'
+    - ' &7&o"Mass produced dagger that saw many uses'
+    - ' &7&oit can be used for self-defense and attacking."'
     attack-speed: 2.25
     parry-rating: 7.48
     parry-cooldown-reduction: 6.33
@@ -177,7 +182,8 @@ DA1_002_06:
     displayed-type: Dagger
     attack-damage: 5.8
     lore:
-    - ' &7&o"Momentum dagger."'
+    - ' &7&o"Mass produced dagger that saw many uses'
+    - ' &7&oit can be used for self-defense and attacking."'
     attack-speed: 2.25
     parry-rating: 8.16
     parry-cooldown-reduction: 6.98
@@ -211,7 +217,8 @@ DA1_002_07:
     displayed-type: Dagger
     attack-damage: 5.87
     lore:
-    - ' &7&o"Momentum dagger."'
+    - ' &7&o"Mass produced dagger that saw many uses'
+    - ' &7&oit can be used for self-defense and attacking."'
     attack-speed: 2.25
     parry-rating: 8.87
     parry-cooldown-reduction: 7.66
@@ -245,7 +252,8 @@ DA1_002_08:
     displayed-type: Dagger
     attack-damage: 5.94
     lore:
-    - ' &7&o"Momentum dagger."'
+    - ' &7&o"Mass produced dagger that saw many uses'
+    - ' &7&oit can be used for self-defense and attacking."'
     attack-speed: 2.25
     parry-rating: 9.62
     parry-cooldown-reduction: 8.37
@@ -279,7 +287,8 @@ DA1_002_09:
     displayed-type: Dagger
     attack-damage: 6.01
     lore:
-    - ' &7&o"Momentum dagger."'
+    - ' &7&o"Mass produced dagger that saw many uses'
+    - ' &7&oit can be used for self-defense and attacking."'
     attack-speed: 2.25
     parry-rating: 10.39
     parry-cooldown-reduction: 9.1
