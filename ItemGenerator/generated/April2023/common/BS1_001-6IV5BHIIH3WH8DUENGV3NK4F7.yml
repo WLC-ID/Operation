@@ -1,5 +1,5 @@
-# Template: BS1_001_XXX. Digest: cf88efcbd97af3868b62ad48b1050aeb. Base36: CABE5P6GHOQVNVTH7131ZQMEJ
-# Generated at 01/05/2023 01:16:24. Digest: 38ffcc75144b891061ee1f1fda919f0e. Base36: 3DHC9QDQAZQCZGM9RAA5J1VYM.
+# Template: BS1_001_XXX. Digest: acb9fabda099f6a0b435fa99a8bfd2ce. Base36: A84O4LQ75WUWU4NBIV8TRWBTA
+# Generated at 01/05/2023 03:42:01. Digest: 6e32e272382ded5cfa432d5f7d21a663. Base36: 6IV5BHIIH3WH8DUENGV3NK4F7.
 BS1_001_01:
   base:
     material: STONE_SWORD
@@ -23,7 +23,7 @@ BS1_001_01:
         mana: 10.0
     abilities_lore:
     - ' &6Moon Slash &7(&eRight Click&7)'
-    - ' &7Deal &e6.0 &7damage in a 3 radius circle'
+    - ' &7Deal &e6.0 &7damage in a &e3&7 radius circle'
     - ' &7Cooldown : &e10.0s&7, Mana Cost : &e10.0'
     tier: common
     disable-enchanting: true
@@ -58,7 +58,7 @@ BS1_001_02:
         mana: 10.0
     abilities_lore:
     - ' &6Moon Slash &7(&eRight Click&7)'
-    - ' &7Deal &e6.15 &7damage in a 3 radius circle'
+    - ' &7Deal &e6.15 &7damage in a &e3&7 radius circle'
     - ' &7Cooldown : &e9.75s&7, Mana Cost : &e10.0'
     tier: common
     disable-enchanting: true
@@ -93,7 +93,7 @@ BS1_001_03:
         mana: 10.0
     abilities_lore:
     - ' &6Moon Slash &7(&eRight Click&7)'
-    - ' &7Deal &e6.3 &7damage in a 3 radius circle'
+    - ' &7Deal &e6.3 &7damage in a &e3&7 radius circle'
     - ' &7Cooldown : &e9.5s&7, Mana Cost : &e10.0'
     tier: common
     disable-enchanting: true
@@ -128,7 +128,7 @@ BS1_001_04:
         mana: 10.0
     abilities_lore:
     - ' &6Moon Slash &7(&eRight Click&7)'
-    - ' &7Deal &e6.45 &7damage in a 3 radius circle'
+    - ' &7Deal &e6.45 &7damage in a &e3&7 radius circle'
     - ' &7Cooldown : &e9.25s&7, Mana Cost : &e10.0'
     tier: common
     disable-enchanting: true
@@ -163,7 +163,7 @@ BS1_001_05:
         mana: 10.0
     abilities_lore:
     - ' &6Moon Slash &7(&eRight Click&7)'
-    - ' &7Deal &e6.6 &7damage in a 3 radius circle'
+    - ' &7Deal &e6.6 &7damage in a &e3&7 radius circle'
     - ' &7Cooldown : &e9.0s&7, Mana Cost : &e10.0'
     tier: common
     disable-enchanting: true
@@ -198,7 +198,7 @@ BS1_001_06:
         mana: 10.0
     abilities_lore:
     - ' &6Moon Slash &7(&eRight Click&7)'
-    - ' &7Deal &e6.75 &7damage in a 3 radius circle'
+    - ' &7Deal &e6.75 &7damage in a &e3&7 radius circle'
     - ' &7Cooldown : &e8.75s&7, Mana Cost : &e10.0'
     tier: common
     disable-enchanting: true
@@ -233,7 +233,7 @@ BS1_001_07:
         mana: 10.0
     abilities_lore:
     - ' &6Moon Slash &7(&eRight Click&7)'
-    - ' &7Deal &e6.9 &7damage in a 3 radius circle'
+    - ' &7Deal &e6.9 &7damage in a &e3&7 radius circle'
     - ' &7Cooldown : &e8.5s&7, Mana Cost : &e10.0'
     tier: common
     disable-enchanting: true
@@ -268,7 +268,7 @@ BS1_001_08:
         mana: 10.0
     abilities_lore:
     - ' &6Moon Slash &7(&eRight Click&7)'
-    - ' &7Deal &e7.05 &7damage in a 3 radius circle'
+    - ' &7Deal &e7.05 &7damage in a &e3&7 radius circle'
     - ' &7Cooldown : &e8.25s&7, Mana Cost : &e10.0'
     tier: common
     disable-enchanting: true
@@ -303,7 +303,7 @@ BS1_001_09:
         mana: 10.0
     abilities_lore:
     - ' &6Moon Slash &7(&eRight Click&7)'
-    - ' &7Deal &e7.2 &7damage in a 3 radius circle'
+    - ' &7Deal &e7.2 &7damage in a &e3&7 radius circle'
     - ' &7Cooldown : &e8.0s&7, Mana Cost : &e10.0'
     tier: common
     disable-enchanting: true

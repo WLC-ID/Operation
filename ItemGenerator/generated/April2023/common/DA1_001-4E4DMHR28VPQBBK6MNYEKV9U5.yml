@@ -1,5 +1,5 @@
-# Template: DA1_001_XXX. Digest: ed490e5a8ddfda07189e7f6a44090710. Base36: E1Q1CP55063NV7SA2GBL8CFTC
-# Generated at 01/05/2023 01:25:34. Digest: 675c8321adbbeef1fdff4aa8415e61af. Base36: 64AJFH7BJLAHI7L7KMI60US33.
+# Template: DA1_001_XXX. Digest: ad504abe9a93a9e20b416f672958fd70. Base36: A9DPY1YUBXK9DSHYH95JLMJJK
+# Generated at 01/05/2023 03:42:40. Digest: 4a30cfdfeec167005d212aa89151af8d. Base36: 4E4DMHR28VPQBBK6MNYEKV9U5.
 DA1_001_01:
   base:
     material: STONE_SWORD
@@ -24,7 +24,7 @@ DA1_001_01:
         mode: ATTACK
     abilities_lore:
     - ' &6Backstep &7(&eRight Click&7)'
-    - ' &7Dash back and gain SPEED II for &e3s'
+    - ' &7Dash back and gain &fSPEED II&7 for &e3s'
     - ' &7Cooldown : &e8.0s&7, Mana Cost : &e5.0'
     - ' &6Backstab &7(&ePassive&7)'
     - ' &7Deal &e20% &7&7more damage'
@@ -64,7 +64,7 @@ DA1_001_02:
         mode: ATTACK
     abilities_lore:
     - ' &6Backstep &7(&eRight Click&7)'
-    - ' &7Dash back and gain SPEED II for &e3s'
+    - ' &7Dash back and gain &fSPEED II&7 for &e3s'
     - ' &7Cooldown : &e7.75s&7, Mana Cost : &e5.0'
     - ' &6Backstab &7(&ePassive&7)'
     - ' &7Deal &e35% &7&7more damage'
@@ -104,7 +104,7 @@ DA1_001_03:
         mode: ATTACK
     abilities_lore:
     - ' &6Backstep &7(&eRight Click&7)'
-    - ' &7Dash back and gain SPEED II for &e3s'
+    - ' &7Dash back and gain &fSPEED II&7 for &e3s'
     - ' &7Cooldown : &e7.5s&7, Mana Cost : &e5.0'
     - ' &6Backstab &7(&ePassive&7)'
     - ' &7Deal &e50% &7&7more damage'
@@ -144,7 +144,7 @@ DA1_001_04:
         mode: ATTACK
     abilities_lore:
     - ' &6Backstep &7(&eRight Click&7)'
-    - ' &7Dash back and gain SPEED II for &e3s'
+    - ' &7Dash back and gain &fSPEED II&7 for &e3s'
     - ' &7Cooldown : &e7.25s&7, Mana Cost : &e5.0'
     - ' &6Backstab &7(&ePassive&7)'
     - ' &7Deal &e65% &7&7more damage'
@@ -184,7 +184,7 @@ DA1_001_05:
         mode: ATTACK
     abilities_lore:
     - ' &6Backstep &7(&eRight Click&7)'
-    - ' &7Dash back and gain SPEED II for &e3s'
+    - ' &7Dash back and gain &fSPEED II&7 for &e3s'
     - ' &7Cooldown : &e7.0s&7, Mana Cost : &e5.0'
     - ' &6Backstab &7(&ePassive&7)'
     - ' &7Deal &e80% &7&7more damage'
@@ -224,7 +224,7 @@ DA1_001_06:
         mode: ATTACK
     abilities_lore:
     - ' &6Backstep &7(&eRight Click&7)'
-    - ' &7Dash back and gain SPEED II for &e3s'
+    - ' &7Dash back and gain &fSPEED II&7 for &e3s'
     - ' &7Cooldown : &e6.75s&7, Mana Cost : &e5.0'
     - ' &6Backstab &7(&ePassive&7)'
     - ' &7Deal &e95% &7&7more damage'
@@ -264,7 +264,7 @@ DA1_001_07:
         mode: ATTACK
     abilities_lore:
     - ' &6Backstep &7(&eRight Click&7)'
-    - ' &7Dash back and gain SPEED II for &e3s'
+    - ' &7Dash back and gain &fSPEED II&7 for &e3s'
     - ' &7Cooldown : &e6.5s&7, Mana Cost : &e5.0'
     - ' &6Backstab &7(&ePassive&7)'
     - ' &7Deal &e110% &7&7more damage'
@@ -304,7 +304,7 @@ DA1_001_08:
         mode: ATTACK
     abilities_lore:
     - ' &6Backstep &7(&eRight Click&7)'
-    - ' &7Dash back and gain SPEED II for &e3s'
+    - ' &7Dash back and gain &fSPEED II&7 for &e3s'
     - ' &7Cooldown : &e6.25s&7, Mana Cost : &e5.0'
     - ' &6Backstab &7(&ePassive&7)'
     - ' &7Deal &e125% &7&7more damage'
@@ -344,7 +344,7 @@ DA1_001_09:
         mode: ATTACK
     abilities_lore:
     - ' &6Backstep &7(&eRight Click&7)'
-    - ' &7Dash back and gain SPEED II for &e3s'
+    - ' &7Dash back and gain &fSPEED II&7 for &e3s'
     - ' &7Cooldown : &e6.0s&7, Mana Cost : &e5.0'
     - ' &6Backstab &7(&ePassive&7)'
     - ' &7Deal &e140% &7&7more damage'

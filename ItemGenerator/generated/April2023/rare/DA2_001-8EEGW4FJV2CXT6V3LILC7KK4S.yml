@@ -1,5 +1,5 @@
 # Template: DA2_001_XXX. Digest: 0cef7b4b4e3f240f18c53be59540ed15. Base36: RKHP4RFXXSLGI3RMQCEBYTJP
-# Generated at 01/05/2023 01:32:27. Digest: e400d60d96c0b6869598e154bbe946bb. Base36: DHXUSJ7X5W1OQSK062R5W9HVF.
+# Generated at 01/05/2023 03:44:53. Digest: 8de3120304614d60cc0b5c9b237f89ec. Base36: 8EEGW4FJV2CXT6V3LILC7KK4S.
 DA2_001_01:
   base:
     material: STONE_SWORD
@@ -28,7 +28,7 @@ DA2_001_01:
     - ' &7Teleport to the back of the targeted enemy'
     - ' &7Cooldown : &e10s&7, Mana Cost : &e8.0'
     - ' &6Backstab &7(&ePassive&7)'
-    - ' &7Deal &e150% &7&7more damage'
+    - ' &7Deal &e150% &7more damage'
     - ' &7When damaging enemy from behind'
     - ' &7Cooldown : &e0.4s'
     disable-enchanting: true
@@ -69,7 +69,7 @@ DA2_001_02:
     - ' &7Teleport to the back of the targeted enemy'
     - ' &7Cooldown : &e9s&7, Mana Cost : &e7.5'
     - ' &6Backstab &7(&ePassive&7)'
-    - ' &7Deal &e175% &7&7more damage'
+    - ' &7Deal &e175% &7more damage'
     - ' &7When damaging enemy from behind'
     - ' &7Cooldown : &e0.4s'
     disable-enchanting: true
@@ -110,7 +110,7 @@ DA2_001_03:
     - ' &7Teleport to the back of the targeted enemy'
     - ' &7Cooldown : &e8s&7, Mana Cost : &e7.0'
     - ' &6Backstab &7(&ePassive&7)'
-    - ' &7Deal &e200% &7&7more damage'
+    - ' &7Deal &e200% &7more damage'
     - ' &7When damaging enemy from behind'
     - ' &7Cooldown : &e0.4s'
     disable-enchanting: true
@@ -151,7 +151,7 @@ DA2_001_04:
     - ' &7Teleport to the back of the targeted enemy'
     - ' &7Cooldown : &e7s&7, Mana Cost : &e6.5'
     - ' &6Backstab &7(&ePassive&7)'
-    - ' &7Deal &e225% &7&7more damage'
+    - ' &7Deal &e225% &7more damage'
     - ' &7When damaging enemy from behind'
     - ' &7Cooldown : &e0.4s'
     disable-enchanting: true
@@ -192,7 +192,7 @@ DA2_001_05:
     - ' &7Teleport to the back of the targeted enemy'
     - ' &7Cooldown : &e6s&7, Mana Cost : &e6.0'
     - ' &6Backstab &7(&ePassive&7)'
-    - ' &7Deal &e250% &7&7more damage'
+    - ' &7Deal &e250% &7more damage'
     - ' &7When damaging enemy from behind'
     - ' &7Cooldown : &e0.4s'
     disable-enchanting: true
@@ -233,7 +233,7 @@ DA2_001_06:
     - ' &7Teleport to the back of the targeted enemy'
     - ' &7Cooldown : &e5s&7, Mana Cost : &e5.5'
     - ' &6Backstab &7(&ePassive&7)'
-    - ' &7Deal &e275% &7&7more damage'
+    - ' &7Deal &e275% &7more damage'
     - ' &7When damaging enemy from behind'
     - ' &7Cooldown : &e0.4s'
     disable-enchanting: true
@@ -274,7 +274,7 @@ DA2_001_07:
     - ' &7Teleport to the back of the targeted enemy'
     - ' &7Cooldown : &e4s&7, Mana Cost : &e5.0'
     - ' &6Backstab &7(&ePassive&7)'
-    - ' &7Deal &e300% &7&7more damage'
+    - ' &7Deal &e300% &7more damage'
     - ' &7When damaging enemy from behind'
     - ' &7Cooldown : &e0.4s'
     disable-enchanting: true
