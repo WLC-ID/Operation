@@ -5,7 +5,8 @@ textures*
 __pycache__
 generated-*.yml
 *.txt
-**/generated/*.yml
+**/generated/rare/*.yml
+**/generated/common/*.yml
 table.yml
 **/!multiply-table.yml
 **/compiled/**

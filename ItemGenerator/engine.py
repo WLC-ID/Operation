@@ -232,7 +232,7 @@ class Generator:
             f.write(f"# Template: {self.identifier}_XXX. Digest: {templateDigest['hex']}. Base36: {templateDigest['base36']}\n")
             f.write(f"# Generated at {datetime.datetime.now().strftime('%d/%m/%Y %H:%M:%S')}. Digest: {resultDigest['hex']}. Base36: {resultDigest['base36']}.\n")
             yaml.dump(dict(data), f, sort_keys=False)
-            print("Saved to " + result_file)
+            print("Saved to " + result_file + f"/{self.identifier}-{resultDigest['base36']}.yml")
 
 class Compiler:
     def __init__(self, target_dir):
