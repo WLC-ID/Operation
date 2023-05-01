@@ -1,8 +1,8 @@
-# Template: KA1_001_XXX. Digest: 6216c8813a59ce91a3303f0ef3190df7. Base36: 5T20C6I430OLZ1QJ608D21CZB
-# Generated at 02/05/2023 01:48:14. Digest: 6216c8813a59ce91a3303f0ef3190df7. Base36: 5T20C6I430OLZ1QJ608D21CZB.
+# Template: KA1_001_XXX. Digest: 1caf94ec0141adf353b46a1864391471. Base36: 1P4YLZZZ27YNO26LDHSNPEX69
+# Generated at 02/05/2023 01:52:03. Digest: 73f7e51637728c784d3d6b10348c1436. Base36: 6V5TQAEFMRD14HAJNNP3R6TYU.
 KA1_001_01:
   base:
-    material: STONE_SWORD
+    material: IRON_SWORD
     name: <#00AEE6>Bokken <#6B6666>[<#23f108>Lvl.1<#6B6666>]
     displayed-type: Katana
     attack-damage: 8.0
@@ -38,7 +38,7 @@ KA1_001_01:
     item-batch: Starter
 KA1_001_02:
   base:
-    material: STONE_SWORD
+    material: IRON_SWORD
     name: <#00AEE6>Bokken <#6B6666>[<#73da00>Lvl.2<#6B6666>]
     displayed-type: Katana
     attack-damage: 8.54
@@ -74,7 +74,7 @@ KA1_001_02:
     item-batch: Starter
 KA1_001_03:
   base:
-    material: STONE_SWORD
+    material: IRON_SWORD
     name: <#00AEE6>Bokken <#6B6666>[<#96c100>Lvl.3<#6B6666>]
     displayed-type: Katana
     attack-damage: 9.11
@@ -110,7 +110,7 @@ KA1_001_03:
     item-batch: Starter
 KA1_001_04:
   base:
-    material: STONE_SWORD
+    material: IRON_SWORD
     name: <#00AEE6>Bokken <#6B6666>[<#aca800>Lvl.4<#6B6666>]
     displayed-type: Katana
     attack-damage: 9.7
@@ -146,7 +146,7 @@ KA1_001_04:
     item-batch: Starter
 KA1_001_05:
   base:
-    material: STONE_SWORD
+    material: IRON_SWORD
     name: <#00AEE6>Bokken <#6B6666>[<#bb8e00>Lvl.5<#6B6666>]
     displayed-type: Katana
     attack-damage: 10.33
@@ -182,7 +182,7 @@ KA1_001_05:
     item-batch: Starter
 KA1_001_06:
   base:
-    material: STONE_SWORD
+    material: IRON_SWORD
     name: <#00AEE6>Bokken <#6B6666>[<#c37300>Lvl.6<#6B6666>]
     displayed-type: Katana
     attack-damage: 10.98
@@ -218,7 +218,7 @@ KA1_001_06:
     item-batch: Starter
 KA1_001_07:
   base:
-    material: STONE_SWORD
+    material: IRON_SWORD
     name: <#00AEE6>Bokken <#6B6666>[<#c55700>Lvl.7<#6B6666>]
     displayed-type: Katana
     attack-damage: 11.66
@@ -254,7 +254,7 @@ KA1_001_07:
     item-batch: Starter
 KA1_001_08:
   base:
-    material: STONE_SWORD
+    material: IRON_SWORD
     name: <#00AEE6>Bokken <#6B6666>[<#c23700>Lvl.8<#6B6666>]
     displayed-type: Katana
     attack-damage: 12.37
@@ -290,7 +290,7 @@ KA1_001_08:
     item-batch: Starter
 KA1_001_09:
   base:
-    material: STONE_SWORD
+    material: IRON_SWORD
     name: <#00AEE6>Bokken <#6B6666>[<#ba0909>Lvl.9<#6B6666>]
     displayed-type: Katana
     attack-damage: 13.1

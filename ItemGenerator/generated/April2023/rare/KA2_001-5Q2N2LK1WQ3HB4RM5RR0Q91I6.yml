@@ -1,8 +1,8 @@
-# Template: KA2_001_XXX. Digest: 2bfe0826808c37716f21d134701f9484. Base36: 2LRDA4Q6AV6GDJ5PYNWOZLOXW
-# Generated at 02/05/2023 01:48:14. Digest: 127021e249c8868a24e096941208122b. Base36: 13AOJ83UU267XWRKH73XJMJAJ.
+# Template: KA2_001_XXX. Digest: 034d1a22eff309b8f0e2c3fd8f627a1c. Base36: 71ACJDXP4YP7URABEUU3B8D8
+# Generated at 02/05/2023 01:51:28. Digest: 60b08b6ad9a928d71f85290a554539de. Base36: 5Q2N2LK1WQ3HB4RM5RR0Q91I6.
 KA2_001_01:
   base:
-    material: STONE_SWORD
+    material: IRON_SWORD
     name: <#D4AF37>Itomaki Tachi <#6B6666>[<#23f108>Lvl.1<#6B6666>]
     displayed-type: Katana
     attack-damage: 13.2
@@ -39,7 +39,7 @@ KA2_001_01:
     custom-model-data: 20001.0
 KA2_001_02:
   base:
-    material: STONE_SWORD
+    material: IRON_SWORD
     name: <#D4AF37>Itomaki Tachi <#6B6666>[<#73da00>Lvl.2<#6B6666>]
     displayed-type: Katana
     attack-damage: 13.84
@@ -76,7 +76,7 @@ KA2_001_02:
     custom-model-data: 20001.0
 KA2_001_03:
   base:
-    material: STONE_SWORD
+    material: IRON_SWORD
     name: <#D4AF37>Itomaki Tachi <#6B6666>[<#96c100>Lvl.3<#6B6666>]
     displayed-type: Katana
     attack-damage: 14.52
@@ -113,7 +113,7 @@ KA2_001_03:
     custom-model-data: 20001.0
 KA2_001_04:
   base:
-    material: STONE_SWORD
+    material: IRON_SWORD
     name: <#D4AF37>Itomaki Tachi <#6B6666>[<#aca800>Lvl.4<#6B6666>]
     displayed-type: Katana
     attack-damage: 15.22
@@ -150,7 +150,7 @@ KA2_001_04:
     custom-model-data: 20001.0
 KA2_001_05:
   base:
-    material: STONE_SWORD
+    material: IRON_SWORD
     name: <#D4AF37>Itomaki Tachi <#6B6666>[<#bb8e00>Lvl.5<#6B6666>]
     displayed-type: Katana
     attack-damage: 15.96
@@ -187,7 +187,7 @@ KA2_001_05:
     custom-model-data: 20001.0
 KA2_001_06:
   base:
-    material: STONE_SWORD
+    material: IRON_SWORD
     name: <#D4AF37>Itomaki Tachi <#6B6666>[<#c37300>Lvl.6<#6B6666>]
     displayed-type: Katana
     attack-damage: 16.73
@@ -224,7 +224,7 @@ KA2_001_06:
     custom-model-data: 20001.0
 KA2_001_07:
   base:
-    material: STONE_SWORD
+    material: IRON_SWORD
     name: <#D4AF37>Itomaki Tachi <#6B6666>[<#c55700>Lvl.7<#6B6666>]
     displayed-type: Katana
     attack-damage: 17.52
