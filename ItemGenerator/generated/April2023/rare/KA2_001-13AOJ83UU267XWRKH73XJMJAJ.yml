@@ -1,5 +1,5 @@
-# Template: KA2_001_XXX. Digest: 13838bb36922597eac6be60c1486d2c1. Base36: 15L8586G33ZP31CP6F6J53CG1
-# Generated at 28/04/2023 17:09:28. Digest: 7fb2baf9c6f120395dfb28e75ecde303. Base36: 7K5T8WUODYDSRHOGIB8TBXWQR.
+# Template: KA2_001_XXX. Digest: 2bfe0826808c37716f21d134701f9484. Base36: 2LRDA4Q6AV6GDJ5PYNWOZLOXW
+# Generated at 02/05/2023 01:48:14. Digest: 127021e249c8868a24e096941208122b. Base36: 13AOJ83UU267XWRKH73XJMJAJ.
 KA2_001_01:
   base:
     material: STONE_SWORD
@@ -36,6 +36,7 @@ KA2_001_01:
     unbreakable: true
     revision-id: 1
     item-batch: Starter
+    custom-model-data: 20001.0
 KA2_001_02:
   base:
     material: STONE_SWORD
@@ -72,6 +73,7 @@ KA2_001_02:
     unbreakable: true
     revision-id: 1
     item-batch: Starter
+    custom-model-data: 20001.0
 KA2_001_03:
   base:
     material: STONE_SWORD
@@ -108,6 +110,7 @@ KA2_001_03:
     unbreakable: true
     revision-id: 1
     item-batch: Starter
+    custom-model-data: 20001.0
 KA2_001_04:
   base:
     material: STONE_SWORD
@@ -144,6 +147,7 @@ KA2_001_04:
     unbreakable: true
     revision-id: 1
     item-batch: Starter
+    custom-model-data: 20001.0
 KA2_001_05:
   base:
     material: STONE_SWORD
@@ -180,6 +184,7 @@ KA2_001_05:
     unbreakable: true
     revision-id: 1
     item-batch: Starter
+    custom-model-data: 20001.0
 KA2_001_06:
   base:
     material: STONE_SWORD
@@ -216,6 +221,7 @@ KA2_001_06:
     unbreakable: true
     revision-id: 1
     item-batch: Starter
+    custom-model-data: 20001.0
 KA2_001_07:
   base:
     material: STONE_SWORD
@@ -252,3 +258,4 @@ KA2_001_07:
     unbreakable: true
     revision-id: 1
     item-batch: Starter
+    custom-model-data: 20001.0

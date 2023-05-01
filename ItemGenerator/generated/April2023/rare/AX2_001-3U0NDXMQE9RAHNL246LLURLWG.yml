@@ -1,5 +1,5 @@
-# Template: AX2_001_XXX. Digest: d987297cf1190538966763339ef81008. Base36: CVM4HPB6Y19WGB2BXU6SRA7M0
-# Generated at 27/04/2023 23:32:08. Digest: 9abf0afddfdb1dc02774bd0330a9b7bb. Base36: 95T43EZ2VRL4FSC7UJ4F7OVCR.
+# Template: AX2_001_XXX. Digest: 655ea465080c5a69188bd1c84b7fe1a8. Base36: 601Q44Y2T66LNAKFKS4JRVKQ0
+# Generated at 02/05/2023 01:48:14. Digest: 40c21103e124a07dfb68d64b5b01c9a0. Base36: 3U0NDXMQE9RAHNL246LLURLWG.
 AX2_001_01:
   base:
     material: STONE_AXE
@@ -39,6 +39,7 @@ AX2_001_01:
     - ' &7and stun target for &e2.2s'
     - ' &7Cooldown : &e6s&7, Mana Cost : &e5.6'
     revision-id: 1
+    custom-model-data: 20001.0
     item-batch: Starter
 AX2_001_02:
   base:
@@ -79,6 +80,7 @@ AX2_001_02:
     - ' &7and stun target for &e2.4s'
     - ' &7Cooldown : &e6s&7, Mana Cost : &e5.8'
     revision-id: 1
+    custom-model-data: 20001.0
     item-batch: Starter
 AX2_001_03:
   base:
@@ -119,6 +121,7 @@ AX2_001_03:
     - ' &7and stun target for &e2.6s'
     - ' &7Cooldown : &e6s&7, Mana Cost : &e6.0'
     revision-id: 1
+    custom-model-data: 20001.0
     item-batch: Starter
 AX2_001_04:
   base:
@@ -159,6 +162,7 @@ AX2_001_04:
     - ' &7and stun target for &e2.8s'
     - ' &7Cooldown : &e6s&7, Mana Cost : &e6.2'
     revision-id: 1
+    custom-model-data: 20001.0
     item-batch: Starter
 AX2_001_05:
   base:
@@ -199,6 +203,7 @@ AX2_001_05:
     - ' &7and stun target for &e3.0s'
     - ' &7Cooldown : &e6s&7, Mana Cost : &e6.4'
     revision-id: 1
+    custom-model-data: 20001.0
     item-batch: Starter
 AX2_001_06:
   base:
@@ -239,6 +244,7 @@ AX2_001_06:
     - ' &7and stun target for &e3.2s'
     - ' &7Cooldown : &e6s&7, Mana Cost : &e6.6'
     revision-id: 1
+    custom-model-data: 20001.0
     item-batch: Starter
 AX2_001_07:
   base:
@@ -279,4 +285,5 @@ AX2_001_07:
     - ' &7and stun target for &e3.4s'
     - ' &7Cooldown : &e6s&7, Mana Cost : &e6.8'
     revision-id: 1
+    custom-model-data: 20001.0
     item-batch: Starter

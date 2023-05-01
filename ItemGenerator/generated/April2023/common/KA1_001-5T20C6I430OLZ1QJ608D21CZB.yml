@@ -1,5 +1,5 @@
-# Template: KA1_001_XXX. Digest: f4470bf9379c0530d098bb3f4184ed1e. Base36: EGMIPK3T25WYK0A4KR5P9SCV2
-# Generated at 28/04/2023 17:08:12. Digest: b864e4568958d4a7572a64b93ea6a655. Base36: AWZVUAPCOX5B33JBWVP22M6VP.
+# Template: KA1_001_XXX. Digest: 6216c8813a59ce91a3303f0ef3190df7. Base36: 5T20C6I430OLZ1QJ608D21CZB
+# Generated at 02/05/2023 01:48:14. Digest: 6216c8813a59ce91a3303f0ef3190df7. Base36: 5T20C6I430OLZ1QJ608D21CZB.
 KA1_001_01:
   base:
     material: STONE_SWORD
@@ -34,6 +34,7 @@ KA1_001_01:
     disable-repairing: true
     unbreakable: true
     revision-id: 1
+    custom-model-data: 10001.0
     item-batch: Starter
 KA1_001_02:
   base:
@@ -69,6 +70,7 @@ KA1_001_02:
     disable-repairing: true
     unbreakable: true
     revision-id: 1
+    custom-model-data: 10001.0
     item-batch: Starter
 KA1_001_03:
   base:
@@ -104,6 +106,7 @@ KA1_001_03:
     disable-repairing: true
     unbreakable: true
     revision-id: 1
+    custom-model-data: 10001.0
     item-batch: Starter
 KA1_001_04:
   base:
@@ -139,6 +142,7 @@ KA1_001_04:
     disable-repairing: true
     unbreakable: true
     revision-id: 1
+    custom-model-data: 10001.0
     item-batch: Starter
 KA1_001_05:
   base:
@@ -174,6 +178,7 @@ KA1_001_05:
     disable-repairing: true
     unbreakable: true
     revision-id: 1
+    custom-model-data: 10001.0
     item-batch: Starter
 KA1_001_06:
   base:
@@ -209,6 +214,7 @@ KA1_001_06:
     disable-repairing: true
     unbreakable: true
     revision-id: 1
+    custom-model-data: 10001.0
     item-batch: Starter
 KA1_001_07:
   base:
@@ -244,6 +250,7 @@ KA1_001_07:
     disable-repairing: true
     unbreakable: true
     revision-id: 1
+    custom-model-data: 10001.0
     item-batch: Starter
 KA1_001_08:
   base:
@@ -279,6 +286,7 @@ KA1_001_08:
     disable-repairing: true
     unbreakable: true
     revision-id: 1
+    custom-model-data: 10001.0
     item-batch: Starter
 KA1_001_09:
   base:
@@ -314,4 +322,5 @@ KA1_001_09:
     disable-repairing: true
     unbreakable: true
     revision-id: 1
+    custom-model-data: 10001.0
     item-batch: Starter

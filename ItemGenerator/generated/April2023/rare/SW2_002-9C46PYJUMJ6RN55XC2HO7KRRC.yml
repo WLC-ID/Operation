@@ -1,5 +1,5 @@
-# Template: SW2_002_XXX. Digest: a7ceac4b0843599e7813a588d29383d6. Base36: 9XN8NVS8EUWDO9DNY77FCTQL2
-# Generated at 02/05/2023 01:41:01. Digest: c2fc768ed679540798ff5366bf8a3ddd. Base36: BJKKPYTLAC0J8DPIJ391EG4PP.
+# Template: SW2_002_XXX. Digest: f5b26cfcdf1ede753799df6ada752182. Base36: EJNFFSCCSYLC4ADAM0DSZBR7M
+# Generated at 02/05/2023 01:48:15. Digest: 9db4adf16906864eb01cc84ed2ee2088. Base36: 9C46PYJUMJ6RN55XC2HO7KRRC.
 SW2_002_01:
   base:
     material: STONE_SWORD
@@ -36,6 +36,7 @@ SW2_002_01:
     unbreakable: true
     revision-id: 1
     item-batch: Altered Starter
+    custom-model-data: 20001.0
 SW2_002_02:
   base:
     material: STONE_SWORD
@@ -72,6 +73,7 @@ SW2_002_02:
     unbreakable: true
     revision-id: 1
     item-batch: Altered Starter
+    custom-model-data: 20001.0
 SW2_002_03:
   base:
     material: STONE_SWORD
@@ -108,6 +110,7 @@ SW2_002_03:
     unbreakable: true
     revision-id: 1
     item-batch: Altered Starter
+    custom-model-data: 20001.0
 SW2_002_04:
   base:
     material: STONE_SWORD
@@ -144,6 +147,7 @@ SW2_002_04:
     unbreakable: true
     revision-id: 1
     item-batch: Altered Starter
+    custom-model-data: 20001.0
 SW2_002_05:
   base:
     material: STONE_SWORD
@@ -180,6 +184,7 @@ SW2_002_05:
     unbreakable: true
     revision-id: 1
     item-batch: Altered Starter
+    custom-model-data: 20001.0
 SW2_002_06:
   base:
     material: STONE_SWORD
@@ -216,6 +221,7 @@ SW2_002_06:
     unbreakable: true
     revision-id: 1
     item-batch: Altered Starter
+    custom-model-data: 20001.0
 SW2_002_07:
   base:
     material: STONE_SWORD
@@ -252,3 +258,4 @@ SW2_002_07:
     unbreakable: true
     revision-id: 1
     item-batch: Altered Starter
+    custom-model-data: 20001.0

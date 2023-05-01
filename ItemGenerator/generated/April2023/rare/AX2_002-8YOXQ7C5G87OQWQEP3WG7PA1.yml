@@ -1,5 +1,5 @@
-# Template: AX2_002_XXX. Digest: 50e5fa70169483615066af3bb5dd4c03. Base36: 4SF18D9QMCJP4QYLM5QEEYMF7
-# Generated at 28/04/2023 12:32:01. Digest: 9020e558e4c9b97cd30f2c0fe4cdcd7e. Base36: 8J6G9HWHXLMJUAZ016Z9AXSOU.
+# Template: AX2_002_XXX. Digest: c64f40294ce6f2c0e118320424735edc. Base36: BQNKEVJ837R8E8AXGOB14Q0V0
+# Generated at 02/05/2023 01:48:14. Digest: 0434accd38c6373903f772c0c19b7bb9. Base36: 8YOXQ7C5G87OQWQEP3WG7PA1.
 AX2_002_01:
   base:
     material: STONE_AXE
@@ -36,6 +36,7 @@ AX2_002_01:
     - ' &7PvP : &e+80%&7, PvE : &e+40%'
     revision-id: 1
     item-batch: Altered Starter
+    custom-model-data: 20002.0
 AX2_002_02:
   base:
     material: STONE_AXE
@@ -72,6 +73,7 @@ AX2_002_02:
     - ' &7PvP : &e+100%&7, PvE : &e+50%'
     revision-id: 1
     item-batch: Altered Starter
+    custom-model-data: 20002.0
 AX2_002_03:
   base:
     material: STONE_AXE
@@ -108,6 +110,7 @@ AX2_002_03:
     - ' &7PvP : &e+120%&7, PvE : &e+60%'
     revision-id: 1
     item-batch: Altered Starter
+    custom-model-data: 20002.0
 AX2_002_04:
   base:
     material: STONE_AXE
@@ -144,6 +147,7 @@ AX2_002_04:
     - ' &7PvP : &e+140%&7, PvE : &e+70%'
     revision-id: 1
     item-batch: Altered Starter
+    custom-model-data: 20002.0
 AX2_002_05:
   base:
     material: STONE_AXE
@@ -180,6 +184,7 @@ AX2_002_05:
     - ' &7PvP : &e+160%&7, PvE : &e+80%'
     revision-id: 1
     item-batch: Altered Starter
+    custom-model-data: 20002.0
 AX2_002_06:
   base:
     material: STONE_AXE
@@ -216,6 +221,7 @@ AX2_002_06:
     - ' &7PvP : &e+180%&7, PvE : &e+90%'
     revision-id: 1
     item-batch: Altered Starter
+    custom-model-data: 20002.0
 AX2_002_07:
   base:
     material: STONE_AXE
@@ -252,3 +258,4 @@ AX2_002_07:
     - ' &7PvP : &e+200%&7, PvE : &e+100%'
     revision-id: 1
     item-batch: Altered Starter
+    custom-model-data: 20002.0
