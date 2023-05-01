@@ -13,7 +13,8 @@ DATA = dict()
 for each in mapping.keys():
     DATA[mapping[each]] = {
         "target": each,
-        "content": ""
+        "content": "",
+        "digest": ""
     }
 
 for dirpath, _, filenames in os.walk(DIRECTORY):
@@ -31,15 +32,24 @@ for dirpath, _, filenames in os.walk(DIRECTORY):
         content = ""
         with open(filepath, "r") as f:
             for line in f:
-                if line.startswith("# Template:") or line.startswith("# Generated at"):
+                if line.startswith("# Template:"):
                     pattern = re.compile(r"Digest:\s(.+?)\.\sBase36")
                     m = pattern.search(line)
                     content += "# " + m.group(1) + "\n"
+                    DATA[clazz]['digest'] += m.group(1) + "@"
+                elif line.startswith("# Generated at"):
+                    pattern = re.compile(r"Digest:\s(.+?)\.\sBase36")
+                    m = pattern.search(line)
+                    content += "# " + m.group(1) + "\n"
+                    DATA[clazz]['digest'] += m.group(1) + ";"
                 else:
                     content += line
         DATA[clazz]["content"] += content
 
-HexDigest = hashlib.md5(yaml.dump(DATA).encode('utf-8')).hexdigest()
+comparer = dict()
+for each in DATA.keys():
+    comparer[each] = DATA[each]['digest']
+HexDigest = hashlib.md5(yaml.dump(comparer,sort_keys=False).encode('utf-8')).hexdigest()
 Digest = np.base_repr(int(HexDigest, 16), 36)
 
 COMPILED = f"{DIRECTORY}/compiled/{Digest}"
