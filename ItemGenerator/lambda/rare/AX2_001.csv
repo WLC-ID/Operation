@@ -1,7 +1,7 @@
 directory,function
-attack-damage,"pi(x,16.6,12,12)"
-critical-strike-chance,"pi(x,11.6,10,10)"
-critical-strike-power,"pi(x,82.6,10,10)"
+attack-damage,"pio(x,9,11.5,10,10)"
+critical-strike-chance,"pio(x,9,6.5,10,10)"
+critical-strike-power,"pio(x,9,77.5,10,10)"
 pve-damage,"pi(x*2.5,20,10,10)"
 pvp-damage,"round(-71.05+pi(x*2.5,20,10,10),2)"
 ability@2.duration,"(220+((x-1)*20))/100"
