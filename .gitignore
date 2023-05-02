@@ -10,3 +10,5 @@ generated-*.yml
 table.yml
 **/!multiply-table.yml
 **/compiled/**
+**/shops/**
+**/ShopGenerator/generated*
