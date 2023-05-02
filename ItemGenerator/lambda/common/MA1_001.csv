@@ -1,9 +1,9 @@
 directory,function
 attack-damage,"pi(x,9.5,1,1)"
 range,"11.5+(x/2)"
-ability@1.cooldown,"(1000-((x-1)*30))/100"
-ability@1.ratio,"(20+((x-1)*5))"
-ability@1.duration,"2.5+((x-1)/4)"
+ability@1.cooldown,"(1000-((min(x,9)-1)*30))/100"
+ability@1.ratio,"(20+((min(x,9)-1)*5))"
+ability@1.duration,"2.5+((min(x,9)-1)/4)"
 name,"f""<#7E0C9F>Cursed Book <#6B6666>[{color(x)}Lvl.{x}<#6B6666>]"""
 abilities_lore.3,"f"" &7Cooldown : &e{$ability@1.cooldown$}s&7, Mana Cost : &e{$ability@1.mana$}"""
 abilities_lore.2,"f"" &7increasing damage taken by &e{int($ability@1.ratio$)}%"""

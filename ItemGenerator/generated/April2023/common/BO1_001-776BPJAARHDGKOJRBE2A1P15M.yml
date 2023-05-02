@@ -1,5 +1,5 @@
 # Template: BO1_001_XXX. Digest: d903bbf0cbfb361e0bad7ca21b44a487. Base36: CUIQFJFZZM8KG9ONUZ56T7Q13
-# Generated at 02/05/2023 01:48:13. Digest: d903bbf0cbfb361e0bad7ca21b44a487. Base36: CUIQFJFZZM8KG9ONUZ56T7Q13.
+# Generated at 02/05/2023 20:02:02. Digest: 799af197256f23b2490c971558a27b1a. Base36: 776BPJAARHDGKOJRBE2A1P15M.
 BO1_001_01:
   base:
     material: BOW
@@ -281,6 +281,210 @@ BO1_001_09:
     attack-damage: 17.1
     attack-speed: 1
     movement-speed: 0.081
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    unbreakable: true
+    lore:
+    - ' &7&o"Sturdy bow that every huntsman trust."'
+    abilities_lore:
+    - ' &6Raging &7(&eArrow Hit&7)'
+    - ' &7Increase damage dealt based on '
+    - ' &7target HP by &e(8.5 + 250% * Missing HP)'
+    - ' &7Cooldown : &e5.0s&7, Mana Cost : &e10.0'
+    ability:
+      ability1:
+        type: DEEP_WOUND
+        extra: 250.0
+        mode: ARROW_HIT
+        damage: 8.5
+        cooldown: 5.0
+        mana: 10.0
+        max-missing-hp: 20.0
+    revision-id: 8
+    custom-model-data: 10001.0
+    item-batch: Starter
+BO1_001_10:
+  base:
+    material: BOW
+    name: <#8C3B05>Hunting Bow <#6B6666>[<#c50029>Lvl.10<#6B6666>]
+    displayed-type: Bow
+    tier: common
+    attack-damage: 17.87
+    attack-speed: 1
+    movement-speed: 0.089
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    unbreakable: true
+    lore:
+    - ' &7&o"Sturdy bow that every huntsman trust."'
+    abilities_lore:
+    - ' &6Raging &7(&eArrow Hit&7)'
+    - ' &7Increase damage dealt based on '
+    - ' &7target HP by &e(8.5 + 250% * Missing HP)'
+    - ' &7Cooldown : &e5.0s&7, Mana Cost : &e10.0'
+    ability:
+      ability1:
+        type: DEEP_WOUND
+        extra: 250.0
+        mode: ARROW_HIT
+        damage: 8.5
+        cooldown: 5.0
+        mana: 10.0
+        max-missing-hp: 20.0
+    revision-id: 8
+    custom-model-data: 10001.0
+    item-batch: Starter
+BO1_001_11:
+  base:
+    material: BOW
+    name: <#8C3B05>Hunting Bow <#6B6666>[<#cb0045>Lvl.11<#6B6666>]
+    displayed-type: Bow
+    tier: common
+    attack-damage: 18.66
+    attack-speed: 1
+    movement-speed: 0.097
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    unbreakable: true
+    lore:
+    - ' &7&o"Sturdy bow that every huntsman trust."'
+    abilities_lore:
+    - ' &6Raging &7(&eArrow Hit&7)'
+    - ' &7Increase damage dealt based on '
+    - ' &7target HP by &e(8.5 + 250% * Missing HP)'
+    - ' &7Cooldown : &e5.0s&7, Mana Cost : &e10.0'
+    ability:
+      ability1:
+        type: DEEP_WOUND
+        extra: 250.0
+        mode: ARROW_HIT
+        damage: 8.5
+        cooldown: 5.0
+        mana: 10.0
+        max-missing-hp: 20.0
+    revision-id: 8
+    custom-model-data: 10001.0
+    item-batch: Starter
+BO1_001_12:
+  base:
+    material: BOW
+    name: <#8C3B05>Hunting Bow <#6B6666>[<#c90065>Lvl.12<#6B6666>]
+    displayed-type: Bow
+    tier: common
+    attack-damage: 19.48
+    attack-speed: 1
+    movement-speed: 0.105
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    unbreakable: true
+    lore:
+    - ' &7&o"Sturdy bow that every huntsman trust."'
+    abilities_lore:
+    - ' &6Raging &7(&eArrow Hit&7)'
+    - ' &7Increase damage dealt based on '
+    - ' &7target HP by &e(8.5 + 250% * Missing HP)'
+    - ' &7Cooldown : &e5.0s&7, Mana Cost : &e10.0'
+    ability:
+      ability1:
+        type: DEEP_WOUND
+        extra: 250.0
+        mode: ARROW_HIT
+        damage: 8.5
+        cooldown: 5.0
+        mana: 10.0
+        max-missing-hp: 20.0
+    revision-id: 8
+    custom-model-data: 10001.0
+    item-batch: Starter
+BO1_001_13:
+  base:
+    material: BOW
+    name: <#8C3B05>Hunting Bow <#6B6666>[<#bc0088>Lvl.13<#6B6666>]
+    displayed-type: Bow
+    tier: common
+    attack-damage: 20.33
+    attack-speed: 1
+    movement-speed: 0.113
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    unbreakable: true
+    lore:
+    - ' &7&o"Sturdy bow that every huntsman trust."'
+    abilities_lore:
+    - ' &6Raging &7(&eArrow Hit&7)'
+    - ' &7Increase damage dealt based on '
+    - ' &7target HP by &e(8.5 + 250% * Missing HP)'
+    - ' &7Cooldown : &e5.0s&7, Mana Cost : &e10.0'
+    ability:
+      ability1:
+        type: DEEP_WOUND
+        extra: 250.0
+        mode: ARROW_HIT
+        damage: 8.5
+        cooldown: 5.0
+        mana: 10.0
+        max-missing-hp: 20.0
+    revision-id: 8
+    custom-model-data: 10001.0
+    item-batch: Starter
+BO1_001_14:
+  base:
+    material: BOW
+    name: <#8C3B05>Hunting Bow <#6B6666>[<#a100ab>Lvl.14<#6B6666>]
+    displayed-type: Bow
+    tier: common
+    attack-damage: 21.21
+    attack-speed: 1
+    movement-speed: 0.122
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    unbreakable: true
+    lore:
+    - ' &7&o"Sturdy bow that every huntsman trust."'
+    abilities_lore:
+    - ' &6Raging &7(&eArrow Hit&7)'
+    - ' &7Increase damage dealt based on '
+    - ' &7target HP by &e(8.5 + 250% * Missing HP)'
+    - ' &7Cooldown : &e5.0s&7, Mana Cost : &e10.0'
+    ability:
+      ability1:
+        type: DEEP_WOUND
+        extra: 250.0
+        mode: ARROW_HIT
+        damage: 8.5
+        cooldown: 5.0
+        mana: 10.0
+        max-missing-hp: 20.0
+    revision-id: 8
+    custom-model-data: 10001.0
+    item-batch: Starter
+BO1_001_15:
+  base:
+    material: BOW
+    name: <#8C3B05>Hunting Bow <#6B6666>[<#7014cc>Lvl.15<#6B6666>]
+    displayed-type: Bow
+    tier: common
+    attack-damage: 22.12
+    attack-speed: 1
+    movement-speed: 0.131
     disable-enchanting: true
     disable-smithing: true
     disable-smelting: true

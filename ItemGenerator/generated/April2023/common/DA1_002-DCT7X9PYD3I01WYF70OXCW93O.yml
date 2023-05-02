@@ -1,5 +1,5 @@
 # Template: DA1_002_XXX. Digest: d060e8bb0040adffcc24478053caa7e4. Base36: CC44F86YURXMJD8XMZF0WB0MC
-# Generated at 02/05/2023 01:48:14. Digest: d060e8bb0040adffcc24478053caa7e4. Base36: CC44F86YURXMJD8XMZF0WB0MC.
+# Generated at 02/05/2023 20:02:02. Digest: e198cb6325213e25a2bc4d83af262614. Base36: DCT7X9PYD3I01WYF70OXCW93O.
 DA1_002_01:
   base:
     material: STONE_SWORD
@@ -300,6 +300,222 @@ DA1_002_09:
     attack-speed: 2.25
     parry-rating: 10.39
     parry-cooldown-reduction: 9.1
+    ability:
+      ability1:
+        type: FURY_SWIPES
+        max-combo: 28.0
+        combo-damage: 1.29
+        cooldown: 0.4
+        mode: ATTACK
+        reset-time: 4.0
+    abilities_lore:
+    - ' &6Momentum &7(&eAttack&7)'
+    - ' &7Each consecutive attack on a single enemy'
+    - ' &7will deal more damage based on the number'
+    - ' &7of stacks."'
+    - ' &7Damage/Stack : &e1.29&7, Max Stack : &e28'
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    unbreakable: true
+    tier: common
+    revision-id: 1
+    custom-model-data: 10003.0
+    item-batch: Starter
+DA1_002_10:
+  base:
+    material: STONE_SWORD
+    name: <#C0C0C0>Main Gauche <#6B6666>[<#c50029>Lvl.10<#6B6666>]
+    displayed-type: Dagger
+    attack-damage: 6.09
+    lore:
+    - ' &7&o"Mass produced dagger that saw many uses'
+    - ' &7&oit can be used for self-defense and attacking."'
+    attack-speed: 2.25
+    parry-rating: 11.19
+    parry-cooldown-reduction: 9.87
+    ability:
+      ability1:
+        type: FURY_SWIPES
+        max-combo: 28.0
+        combo-damage: 1.29
+        cooldown: 0.4
+        mode: ATTACK
+        reset-time: 4.0
+    abilities_lore:
+    - ' &6Momentum &7(&eAttack&7)'
+    - ' &7Each consecutive attack on a single enemy'
+    - ' &7will deal more damage based on the number'
+    - ' &7of stacks."'
+    - ' &7Damage/Stack : &e1.29&7, Max Stack : &e28'
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    unbreakable: true
+    tier: common
+    revision-id: 1
+    custom-model-data: 10003.0
+    item-batch: Starter
+DA1_002_11:
+  base:
+    material: STONE_SWORD
+    name: <#C0C0C0>Main Gauche <#6B6666>[<#cb0045>Lvl.11<#6B6666>]
+    displayed-type: Dagger
+    attack-damage: 6.17
+    lore:
+    - ' &7&o"Mass produced dagger that saw many uses'
+    - ' &7&oit can be used for self-defense and attacking."'
+    attack-speed: 2.25
+    parry-rating: 12.02
+    parry-cooldown-reduction: 10.66
+    ability:
+      ability1:
+        type: FURY_SWIPES
+        max-combo: 28.0
+        combo-damage: 1.29
+        cooldown: 0.4
+        mode: ATTACK
+        reset-time: 4.0
+    abilities_lore:
+    - ' &6Momentum &7(&eAttack&7)'
+    - ' &7Each consecutive attack on a single enemy'
+    - ' &7will deal more damage based on the number'
+    - ' &7of stacks."'
+    - ' &7Damage/Stack : &e1.29&7, Max Stack : &e28'
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    unbreakable: true
+    tier: common
+    revision-id: 1
+    custom-model-data: 10003.0
+    item-batch: Starter
+DA1_002_12:
+  base:
+    material: STONE_SWORD
+    name: <#C0C0C0>Main Gauche <#6B6666>[<#c90065>Lvl.12<#6B6666>]
+    displayed-type: Dagger
+    attack-damage: 6.25
+    lore:
+    - ' &7&o"Mass produced dagger that saw many uses'
+    - ' &7&oit can be used for self-defense and attacking."'
+    attack-speed: 2.25
+    parry-rating: 12.88
+    parry-cooldown-reduction: 11.48
+    ability:
+      ability1:
+        type: FURY_SWIPES
+        max-combo: 28.0
+        combo-damage: 1.29
+        cooldown: 0.4
+        mode: ATTACK
+        reset-time: 4.0
+    abilities_lore:
+    - ' &6Momentum &7(&eAttack&7)'
+    - ' &7Each consecutive attack on a single enemy'
+    - ' &7will deal more damage based on the number'
+    - ' &7of stacks."'
+    - ' &7Damage/Stack : &e1.29&7, Max Stack : &e28'
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    unbreakable: true
+    tier: common
+    revision-id: 1
+    custom-model-data: 10003.0
+    item-batch: Starter
+DA1_002_13:
+  base:
+    material: STONE_SWORD
+    name: <#C0C0C0>Main Gauche <#6B6666>[<#bc0088>Lvl.13<#6B6666>]
+    displayed-type: Dagger
+    attack-damage: 6.33
+    lore:
+    - ' &7&o"Mass produced dagger that saw many uses'
+    - ' &7&oit can be used for self-defense and attacking."'
+    attack-speed: 2.25
+    parry-rating: 13.76
+    parry-cooldown-reduction: 12.33
+    ability:
+      ability1:
+        type: FURY_SWIPES
+        max-combo: 28.0
+        combo-damage: 1.29
+        cooldown: 0.4
+        mode: ATTACK
+        reset-time: 4.0
+    abilities_lore:
+    - ' &6Momentum &7(&eAttack&7)'
+    - ' &7Each consecutive attack on a single enemy'
+    - ' &7will deal more damage based on the number'
+    - ' &7of stacks."'
+    - ' &7Damage/Stack : &e1.29&7, Max Stack : &e28'
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    unbreakable: true
+    tier: common
+    revision-id: 1
+    custom-model-data: 10003.0
+    item-batch: Starter
+DA1_002_14:
+  base:
+    material: STONE_SWORD
+    name: <#C0C0C0>Main Gauche <#6B6666>[<#a100ab>Lvl.14<#6B6666>]
+    displayed-type: Dagger
+    attack-damage: 6.42
+    lore:
+    - ' &7&o"Mass produced dagger that saw many uses'
+    - ' &7&oit can be used for self-defense and attacking."'
+    attack-speed: 2.25
+    parry-rating: 14.68
+    parry-cooldown-reduction: 13.21
+    ability:
+      ability1:
+        type: FURY_SWIPES
+        max-combo: 28.0
+        combo-damage: 1.29
+        cooldown: 0.4
+        mode: ATTACK
+        reset-time: 4.0
+    abilities_lore:
+    - ' &6Momentum &7(&eAttack&7)'
+    - ' &7Each consecutive attack on a single enemy'
+    - ' &7will deal more damage based on the number'
+    - ' &7of stacks."'
+    - ' &7Damage/Stack : &e1.29&7, Max Stack : &e28'
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    unbreakable: true
+    tier: common
+    revision-id: 1
+    custom-model-data: 10003.0
+    item-batch: Starter
+DA1_002_15:
+  base:
+    material: STONE_SWORD
+    name: <#C0C0C0>Main Gauche <#6B6666>[<#7014cc>Lvl.15<#6B6666>]
+    displayed-type: Dagger
+    attack-damage: 6.51
+    lore:
+    - ' &7&o"Mass produced dagger that saw many uses'
+    - ' &7&oit can be used for self-defense and attacking."'
+    attack-speed: 2.25
+    parry-rating: 15.63
+    parry-cooldown-reduction: 14.12
     ability:
       ability1:
         type: FURY_SWIPES

@@ -1,5 +1,5 @@
 # Template: AX1_001_XXX. Digest: d607d80c059828a26780357a1ad2a6ae. Base36: CO5SBWAUX614CNDBI2BLF3MB2
-# Generated at 02/05/2023 01:48:13. Digest: d607d80c059828a26780357a1ad2a6ae. Base36: CO5SBWAUX614CNDBI2BLF3MB2.
+# Generated at 02/05/2023 20:02:02. Digest: bc9ec9703ba75e21b4f65cb1a267cb31. Base36: B6053KYNXHYJ3X93IMP8K2UK1.
 AX1_001_01:
   base:
     material: STONE_AXE
@@ -332,6 +332,246 @@ AX1_001_09:
     attack-speed: 1.2
     critical-strike-chance: 11.6
     critical-strike-power: 82.6
+    tier: COMMON
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    unbreakable: true
+    ability:
+      ability1:
+        type: ECHO_ATTACK
+        mode: ATTACK
+        damage-percent: 66.0
+        cooldown: 6.8
+        mana: 5.6
+      ability2:
+        type: STUN
+        mode: ATTACK
+        duration: 2.2
+        cooldown: 6.8
+    abilities_lore:
+    - ' &6Heavy Smash &7(&eAttack&7)'
+    - ' &7Increase the next damage dealt by &e66%'
+    - ' &7and stun target for &e2.2s'
+    - ' &7Cooldown : &e6.8s&7, Mana Cost : &e5.6'
+    custom-model-data: 10001.0
+    revision-id: 5
+    disable-interaction: true
+    item-batch: Starter
+AX1_001_10:
+  base:
+    material: STONE_AXE
+    name: <#804B28>Wedged Axe <#6B6666>[<#c50029>Lvl.10<#6B6666>]
+    displayed-type: Axe
+    attack-damage: 17.37
+    lore:
+    - ' &7&o"An axe so heavy that it sinks '
+    - ' &7&ointo the ground."'
+    attack-speed: 1.2
+    critical-strike-chance: 12.37
+    critical-strike-power: 83.37
+    tier: COMMON
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    unbreakable: true
+    ability:
+      ability1:
+        type: ECHO_ATTACK
+        mode: ATTACK
+        damage-percent: 66.0
+        cooldown: 6.8
+        mana: 5.6
+      ability2:
+        type: STUN
+        mode: ATTACK
+        duration: 2.2
+        cooldown: 6.8
+    abilities_lore:
+    - ' &6Heavy Smash &7(&eAttack&7)'
+    - ' &7Increase the next damage dealt by &e66%'
+    - ' &7and stun target for &e2.2s'
+    - ' &7Cooldown : &e6.8s&7, Mana Cost : &e5.6'
+    custom-model-data: 10001.0
+    revision-id: 5
+    disable-interaction: true
+    item-batch: Starter
+AX1_001_11:
+  base:
+    material: STONE_AXE
+    name: <#804B28>Wedged Axe <#6B6666>[<#cb0045>Lvl.11<#6B6666>]
+    displayed-type: Axe
+    attack-damage: 18.16
+    lore:
+    - ' &7&o"An axe so heavy that it sinks '
+    - ' &7&ointo the ground."'
+    attack-speed: 1.2
+    critical-strike-chance: 13.16
+    critical-strike-power: 84.16
+    tier: COMMON
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    unbreakable: true
+    ability:
+      ability1:
+        type: ECHO_ATTACK
+        mode: ATTACK
+        damage-percent: 66.0
+        cooldown: 6.8
+        mana: 5.6
+      ability2:
+        type: STUN
+        mode: ATTACK
+        duration: 2.2
+        cooldown: 6.8
+    abilities_lore:
+    - ' &6Heavy Smash &7(&eAttack&7)'
+    - ' &7Increase the next damage dealt by &e66%'
+    - ' &7and stun target for &e2.2s'
+    - ' &7Cooldown : &e6.8s&7, Mana Cost : &e5.6'
+    custom-model-data: 10001.0
+    revision-id: 5
+    disable-interaction: true
+    item-batch: Starter
+AX1_001_12:
+  base:
+    material: STONE_AXE
+    name: <#804B28>Wedged Axe <#6B6666>[<#c90065>Lvl.12<#6B6666>]
+    displayed-type: Axe
+    attack-damage: 18.98
+    lore:
+    - ' &7&o"An axe so heavy that it sinks '
+    - ' &7&ointo the ground."'
+    attack-speed: 1.2
+    critical-strike-chance: 13.98
+    critical-strike-power: 84.98
+    tier: COMMON
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    unbreakable: true
+    ability:
+      ability1:
+        type: ECHO_ATTACK
+        mode: ATTACK
+        damage-percent: 66.0
+        cooldown: 6.8
+        mana: 5.6
+      ability2:
+        type: STUN
+        mode: ATTACK
+        duration: 2.2
+        cooldown: 6.8
+    abilities_lore:
+    - ' &6Heavy Smash &7(&eAttack&7)'
+    - ' &7Increase the next damage dealt by &e66%'
+    - ' &7and stun target for &e2.2s'
+    - ' &7Cooldown : &e6.8s&7, Mana Cost : &e5.6'
+    custom-model-data: 10001.0
+    revision-id: 5
+    disable-interaction: true
+    item-batch: Starter
+AX1_001_13:
+  base:
+    material: STONE_AXE
+    name: <#804B28>Wedged Axe <#6B6666>[<#bc0088>Lvl.13<#6B6666>]
+    displayed-type: Axe
+    attack-damage: 19.83
+    lore:
+    - ' &7&o"An axe so heavy that it sinks '
+    - ' &7&ointo the ground."'
+    attack-speed: 1.2
+    critical-strike-chance: 14.83
+    critical-strike-power: 85.83
+    tier: COMMON
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    unbreakable: true
+    ability:
+      ability1:
+        type: ECHO_ATTACK
+        mode: ATTACK
+        damage-percent: 66.0
+        cooldown: 6.8
+        mana: 5.6
+      ability2:
+        type: STUN
+        mode: ATTACK
+        duration: 2.2
+        cooldown: 6.8
+    abilities_lore:
+    - ' &6Heavy Smash &7(&eAttack&7)'
+    - ' &7Increase the next damage dealt by &e66%'
+    - ' &7and stun target for &e2.2s'
+    - ' &7Cooldown : &e6.8s&7, Mana Cost : &e5.6'
+    custom-model-data: 10001.0
+    revision-id: 5
+    disable-interaction: true
+    item-batch: Starter
+AX1_001_14:
+  base:
+    material: STONE_AXE
+    name: <#804B28>Wedged Axe <#6B6666>[<#a100ab>Lvl.14<#6B6666>]
+    displayed-type: Axe
+    attack-damage: 20.71
+    lore:
+    - ' &7&o"An axe so heavy that it sinks '
+    - ' &7&ointo the ground."'
+    attack-speed: 1.2
+    critical-strike-chance: 15.71
+    critical-strike-power: 86.71
+    tier: COMMON
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    unbreakable: true
+    ability:
+      ability1:
+        type: ECHO_ATTACK
+        mode: ATTACK
+        damage-percent: 66.0
+        cooldown: 6.8
+        mana: 5.6
+      ability2:
+        type: STUN
+        mode: ATTACK
+        duration: 2.2
+        cooldown: 6.8
+    abilities_lore:
+    - ' &6Heavy Smash &7(&eAttack&7)'
+    - ' &7Increase the next damage dealt by &e66%'
+    - ' &7and stun target for &e2.2s'
+    - ' &7Cooldown : &e6.8s&7, Mana Cost : &e5.6'
+    custom-model-data: 10001.0
+    revision-id: 5
+    disable-interaction: true
+    item-batch: Starter
+AX1_001_15:
+  base:
+    material: STONE_AXE
+    name: <#804B28>Wedged Axe <#6B6666>[<#7014cc>Lvl.15<#6B6666>]
+    displayed-type: Axe
+    attack-damage: 21.62
+    lore:
+    - ' &7&o"An axe so heavy that it sinks '
+    - ' &7&ointo the ground."'
+    attack-speed: 1.2
+    critical-strike-chance: 16.62
+    critical-strike-power: 87.62
     tier: COMMON
     disable-enchanting: true
     disable-smithing: true

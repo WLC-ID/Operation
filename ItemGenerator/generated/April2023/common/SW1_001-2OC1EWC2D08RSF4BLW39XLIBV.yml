@@ -1,5 +1,5 @@
 # Template: SW1_001_XXX. Digest: b589d13dfc2d5a2c38b183c078dee007. Base36: AQWRT4MG9F2D3MQ0QTQ9V826F
-# Generated at 02/05/2023 01:48:14. Digest: b589d13dfc2d5a2c38b183c078dee007. Base36: AQWRT4MG9F2D3MQ0QTQ9V826F.
+# Generated at 02/05/2023 20:02:03. Digest: 2d333ac4388416131137a53dcfb3050b. Base36: 2OC1EWC2D08RSF4BLW39XLIBV.
 SW1_001_01:
   base:
     material: STONE_SWORD
@@ -279,6 +279,204 @@ SW1_001_09:
     - ' &7Cooldown : &e6.8s&7, Mana Cost : &e7.6'
     attack-speed: 1.6
     defense: 12.6
+    tier: common
+    ability:
+      ability1:
+        type: ECHO_ATTACK
+        mode: ATTACK
+        damage-percent: 99.0
+        cooldown: 6.8
+        mana: 7.6
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    unbreakable: true
+    custom-model-data: 10004.0
+    revision-id: 3
+    disable-interaction: true
+    item-batch: Starter
+SW1_001_10:
+  base:
+    material: STONE_SWORD
+    name: <#817474>Relic Sword <#6B6666>[<#c50029>Lvl.10<#6B6666>]
+    displayed-type: Sword
+    attack-damage: 15.87
+    lore:
+    - ' &7&o"A sword that once belonged to a hero,'
+    - ' &7&othe glory fading, now naught but rust."'
+    abilities_lore:
+    - ' &6Empower &7(&eAttack&7)'
+    - ' &7Increase the next damage dealt by &e99%'
+    - ' &7Cooldown : &e6.8s&7, Mana Cost : &e7.6'
+    attack-speed: 1.6
+    defense: 13.37
+    tier: common
+    ability:
+      ability1:
+        type: ECHO_ATTACK
+        mode: ATTACK
+        damage-percent: 99.0
+        cooldown: 6.8
+        mana: 7.6
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    unbreakable: true
+    custom-model-data: 10004.0
+    revision-id: 3
+    disable-interaction: true
+    item-batch: Starter
+SW1_001_11:
+  base:
+    material: STONE_SWORD
+    name: <#817474>Relic Sword <#6B6666>[<#cb0045>Lvl.11<#6B6666>]
+    displayed-type: Sword
+    attack-damage: 16.66
+    lore:
+    - ' &7&o"A sword that once belonged to a hero,'
+    - ' &7&othe glory fading, now naught but rust."'
+    abilities_lore:
+    - ' &6Empower &7(&eAttack&7)'
+    - ' &7Increase the next damage dealt by &e99%'
+    - ' &7Cooldown : &e6.8s&7, Mana Cost : &e7.6'
+    attack-speed: 1.6
+    defense: 14.16
+    tier: common
+    ability:
+      ability1:
+        type: ECHO_ATTACK
+        mode: ATTACK
+        damage-percent: 99.0
+        cooldown: 6.8
+        mana: 7.6
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    unbreakable: true
+    custom-model-data: 10004.0
+    revision-id: 3
+    disable-interaction: true
+    item-batch: Starter
+SW1_001_12:
+  base:
+    material: STONE_SWORD
+    name: <#817474>Relic Sword <#6B6666>[<#c90065>Lvl.12<#6B6666>]
+    displayed-type: Sword
+    attack-damage: 17.48
+    lore:
+    - ' &7&o"A sword that once belonged to a hero,'
+    - ' &7&othe glory fading, now naught but rust."'
+    abilities_lore:
+    - ' &6Empower &7(&eAttack&7)'
+    - ' &7Increase the next damage dealt by &e99%'
+    - ' &7Cooldown : &e6.8s&7, Mana Cost : &e7.6'
+    attack-speed: 1.6
+    defense: 14.98
+    tier: common
+    ability:
+      ability1:
+        type: ECHO_ATTACK
+        mode: ATTACK
+        damage-percent: 99.0
+        cooldown: 6.8
+        mana: 7.6
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    unbreakable: true
+    custom-model-data: 10004.0
+    revision-id: 3
+    disable-interaction: true
+    item-batch: Starter
+SW1_001_13:
+  base:
+    material: STONE_SWORD
+    name: <#817474>Relic Sword <#6B6666>[<#bc0088>Lvl.13<#6B6666>]
+    displayed-type: Sword
+    attack-damage: 18.33
+    lore:
+    - ' &7&o"A sword that once belonged to a hero,'
+    - ' &7&othe glory fading, now naught but rust."'
+    abilities_lore:
+    - ' &6Empower &7(&eAttack&7)'
+    - ' &7Increase the next damage dealt by &e99%'
+    - ' &7Cooldown : &e6.8s&7, Mana Cost : &e7.6'
+    attack-speed: 1.6
+    defense: 15.83
+    tier: common
+    ability:
+      ability1:
+        type: ECHO_ATTACK
+        mode: ATTACK
+        damage-percent: 99.0
+        cooldown: 6.8
+        mana: 7.6
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    unbreakable: true
+    custom-model-data: 10004.0
+    revision-id: 3
+    disable-interaction: true
+    item-batch: Starter
+SW1_001_14:
+  base:
+    material: STONE_SWORD
+    name: <#817474>Relic Sword <#6B6666>[<#a100ab>Lvl.14<#6B6666>]
+    displayed-type: Sword
+    attack-damage: 19.21
+    lore:
+    - ' &7&o"A sword that once belonged to a hero,'
+    - ' &7&othe glory fading, now naught but rust."'
+    abilities_lore:
+    - ' &6Empower &7(&eAttack&7)'
+    - ' &7Increase the next damage dealt by &e99%'
+    - ' &7Cooldown : &e6.8s&7, Mana Cost : &e7.6'
+    attack-speed: 1.6
+    defense: 16.71
+    tier: common
+    ability:
+      ability1:
+        type: ECHO_ATTACK
+        mode: ATTACK
+        damage-percent: 99.0
+        cooldown: 6.8
+        mana: 7.6
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    unbreakable: true
+    custom-model-data: 10004.0
+    revision-id: 3
+    disable-interaction: true
+    item-batch: Starter
+SW1_001_15:
+  base:
+    material: STONE_SWORD
+    name: <#817474>Relic Sword <#6B6666>[<#7014cc>Lvl.15<#6B6666>]
+    displayed-type: Sword
+    attack-damage: 20.12
+    lore:
+    - ' &7&o"A sword that once belonged to a hero,'
+    - ' &7&othe glory fading, now naught but rust."'
+    abilities_lore:
+    - ' &6Empower &7(&eAttack&7)'
+    - ' &7Increase the next damage dealt by &e99%'
+    - ' &7Cooldown : &e6.8s&7, Mana Cost : &e7.6'
+    attack-speed: 1.6
+    defense: 17.62
     tier: common
     ability:
       ability1:

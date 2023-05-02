@@ -1,5 +1,5 @@
 # Template: BS1_001_XXX. Digest: 43d7142230d162f26fb8d974fa3d9cd0. Base36: 40L4JMPYQ7W4WSHPGIZEDXEJ4
-# Generated at 02/05/2023 01:48:13. Digest: 43d7142230d162f26fb8d974fa3d9cd0. Base36: 40L4JMPYQ7W4WSHPGIZEDXEJ4.
+# Generated at 02/05/2023 20:02:02. Digest: a755ce9a19b076b63e64f6f14bb91dbb. Base36: 9WN0K9GR65HUUQO07AZNMGNNF.
 BS1_001_01:
   base:
     material: STONE_SWORD
@@ -293,6 +293,216 @@ BS1_001_09:
     critical-strike-chance: 12.1
     critical-strike-power: 90.1
     movement-speed: -0.101
+    ability:
+      ability1:
+        type: CIRCULAR_SLASH
+        mode: RIGHT_CLICK
+        cooldown: 8.0
+        knockback: 0.0
+        damage: 7.2
+        mana: 10.0
+    abilities_lore:
+    - ' &6Moon Slash &7(&eRight Click&7)'
+    - ' &7Deal &e7.2 &7damage in a &e3&7 radius circle'
+    - ' &7Cooldown : &e8.0s&7, Mana Cost : &e10.0'
+    tier: common
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    unbreakable: true
+    custom-model-data: 10001.0
+    revision-id: 5
+    item-batch: Starter
+BS1_001_10:
+  base:
+    material: STONE_SWORD
+    name: <#2B6B97>Broken Broadsword <#6B6666>[<#c50029>Lvl.10<#6B6666>]
+    displayed-type: Broadsword
+    attack-damage: 17.37
+    lore:
+    - ' &7&o"The glory of combat has long gone'
+    - ' &7&oit has yet to reach its true potential."'
+    attack-speed: 1.2
+    critical-strike-chance: 12.87
+    critical-strike-power: 90.87
+    movement-speed: -0.109
+    ability:
+      ability1:
+        type: CIRCULAR_SLASH
+        mode: RIGHT_CLICK
+        cooldown: 8.0
+        knockback: 0.0
+        damage: 7.2
+        mana: 10.0
+    abilities_lore:
+    - ' &6Moon Slash &7(&eRight Click&7)'
+    - ' &7Deal &e7.2 &7damage in a &e3&7 radius circle'
+    - ' &7Cooldown : &e8.0s&7, Mana Cost : &e10.0'
+    tier: common
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    unbreakable: true
+    custom-model-data: 10001.0
+    revision-id: 5
+    item-batch: Starter
+BS1_001_11:
+  base:
+    material: STONE_SWORD
+    name: <#2B6B97>Broken Broadsword <#6B6666>[<#cb0045>Lvl.11<#6B6666>]
+    displayed-type: Broadsword
+    attack-damage: 18.16
+    lore:
+    - ' &7&o"The glory of combat has long gone'
+    - ' &7&oit has yet to reach its true potential."'
+    attack-speed: 1.2
+    critical-strike-chance: 13.66
+    critical-strike-power: 91.66
+    movement-speed: -0.117
+    ability:
+      ability1:
+        type: CIRCULAR_SLASH
+        mode: RIGHT_CLICK
+        cooldown: 8.0
+        knockback: 0.0
+        damage: 7.2
+        mana: 10.0
+    abilities_lore:
+    - ' &6Moon Slash &7(&eRight Click&7)'
+    - ' &7Deal &e7.2 &7damage in a &e3&7 radius circle'
+    - ' &7Cooldown : &e8.0s&7, Mana Cost : &e10.0'
+    tier: common
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    unbreakable: true
+    custom-model-data: 10001.0
+    revision-id: 5
+    item-batch: Starter
+BS1_001_12:
+  base:
+    material: STONE_SWORD
+    name: <#2B6B97>Broken Broadsword <#6B6666>[<#c90065>Lvl.12<#6B6666>]
+    displayed-type: Broadsword
+    attack-damage: 18.98
+    lore:
+    - ' &7&o"The glory of combat has long gone'
+    - ' &7&oit has yet to reach its true potential."'
+    attack-speed: 1.2
+    critical-strike-chance: 14.48
+    critical-strike-power: 92.48
+    movement-speed: -0.125
+    ability:
+      ability1:
+        type: CIRCULAR_SLASH
+        mode: RIGHT_CLICK
+        cooldown: 8.0
+        knockback: 0.0
+        damage: 7.2
+        mana: 10.0
+    abilities_lore:
+    - ' &6Moon Slash &7(&eRight Click&7)'
+    - ' &7Deal &e7.2 &7damage in a &e3&7 radius circle'
+    - ' &7Cooldown : &e8.0s&7, Mana Cost : &e10.0'
+    tier: common
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    unbreakable: true
+    custom-model-data: 10001.0
+    revision-id: 5
+    item-batch: Starter
+BS1_001_13:
+  base:
+    material: STONE_SWORD
+    name: <#2B6B97>Broken Broadsword <#6B6666>[<#bc0088>Lvl.13<#6B6666>]
+    displayed-type: Broadsword
+    attack-damage: 19.83
+    lore:
+    - ' &7&o"The glory of combat has long gone'
+    - ' &7&oit has yet to reach its true potential."'
+    attack-speed: 1.2
+    critical-strike-chance: 15.33
+    critical-strike-power: 93.33
+    movement-speed: -0.133
+    ability:
+      ability1:
+        type: CIRCULAR_SLASH
+        mode: RIGHT_CLICK
+        cooldown: 8.0
+        knockback: 0.0
+        damage: 7.2
+        mana: 10.0
+    abilities_lore:
+    - ' &6Moon Slash &7(&eRight Click&7)'
+    - ' &7Deal &e7.2 &7damage in a &e3&7 radius circle'
+    - ' &7Cooldown : &e8.0s&7, Mana Cost : &e10.0'
+    tier: common
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    unbreakable: true
+    custom-model-data: 10001.0
+    revision-id: 5
+    item-batch: Starter
+BS1_001_14:
+  base:
+    material: STONE_SWORD
+    name: <#2B6B97>Broken Broadsword <#6B6666>[<#a100ab>Lvl.14<#6B6666>]
+    displayed-type: Broadsword
+    attack-damage: 20.71
+    lore:
+    - ' &7&o"The glory of combat has long gone'
+    - ' &7&oit has yet to reach its true potential."'
+    attack-speed: 1.2
+    critical-strike-chance: 16.21
+    critical-strike-power: 94.21
+    movement-speed: -0.142
+    ability:
+      ability1:
+        type: CIRCULAR_SLASH
+        mode: RIGHT_CLICK
+        cooldown: 8.0
+        knockback: 0.0
+        damage: 7.2
+        mana: 10.0
+    abilities_lore:
+    - ' &6Moon Slash &7(&eRight Click&7)'
+    - ' &7Deal &e7.2 &7damage in a &e3&7 radius circle'
+    - ' &7Cooldown : &e8.0s&7, Mana Cost : &e10.0'
+    tier: common
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    unbreakable: true
+    custom-model-data: 10001.0
+    revision-id: 5
+    item-batch: Starter
+BS1_001_15:
+  base:
+    material: STONE_SWORD
+    name: <#2B6B97>Broken Broadsword <#6B6666>[<#7014cc>Lvl.15<#6B6666>]
+    displayed-type: Broadsword
+    attack-damage: 21.62
+    lore:
+    - ' &7&o"The glory of combat has long gone'
+    - ' &7&oit has yet to reach its true potential."'
+    attack-speed: 1.2
+    critical-strike-chance: 17.12
+    critical-strike-power: 95.12
+    movement-speed: -0.151
     ability:
       ability1:
         type: CIRCULAR_SLASH

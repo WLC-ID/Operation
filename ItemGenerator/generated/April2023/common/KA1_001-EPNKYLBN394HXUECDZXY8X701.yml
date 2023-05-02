@@ -1,5 +1,5 @@
-# Template: KA1_001_XXX. Digest: 1caf94ec0141adf353b46a1864391471. Base36: 1P4YLZZZ27YNO26LDHSNPEX69
-# Generated at 02/05/2023 01:52:03. Digest: 73f7e51637728c784d3d6b10348c1436. Base36: 6V5TQAEFMRD14HAJNNP3R6TYU.
+# Template: KA1_001_XXX. Digest: 73f7e51637728c784d3d6b10348c1436. Base36: 6V5TQAEFMRD14HAJNNP3R6TYU
+# Generated at 02/05/2023 20:02:02. Digest: f883a0f9c9da653c4953d61d38cf41b1. Base36: EPNKYLBN394HXUECDZXY8X701.
 KA1_001_01:
   base:
     material: IRON_SWORD
@@ -296,6 +296,222 @@ KA1_001_09:
     attack-damage: 13.1
     critical-strike-chance: 16.1
     critical-strike-power: 65.1
+    lore:
+    - ' &7&o"Passed down through generations of samurai'
+    - ' &7&owarriors."'
+    abilities_lore:
+    - ' &6Slash &7(&eRight Click&7)'
+    - ' &7Charge 1s then dash forward for &e0.65s&7 and'
+    - ' &7deal &e14.0&7 damage to enemies passed through.'
+    - ' &7Cooldown : &e8.0s&7, Mana Cost : &e8.0'
+    attack-speed: 1.6
+    tier: common
+    ability:
+      ability1:
+        type: LIGHT_DASH
+        mode: RIGHT_CLICK
+        damage: 14.0
+        cooldown: 8.0
+        mana: 8.0
+        delay: 1.0
+        length: 0.65
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    unbreakable: true
+    revision-id: 1
+    custom-model-data: 10001.0
+    item-batch: Starter
+KA1_001_10:
+  base:
+    material: IRON_SWORD
+    name: <#00AEE6>Bokken <#6B6666>[<#c50029>Lvl.10<#6B6666>]
+    displayed-type: Katana
+    attack-damage: 13.87
+    critical-strike-chance: 16.87
+    critical-strike-power: 65.87
+    lore:
+    - ' &7&o"Passed down through generations of samurai'
+    - ' &7&owarriors."'
+    abilities_lore:
+    - ' &6Slash &7(&eRight Click&7)'
+    - ' &7Charge 1s then dash forward for &e0.65s&7 and'
+    - ' &7deal &e14.0&7 damage to enemies passed through.'
+    - ' &7Cooldown : &e8.0s&7, Mana Cost : &e8.0'
+    attack-speed: 1.6
+    tier: common
+    ability:
+      ability1:
+        type: LIGHT_DASH
+        mode: RIGHT_CLICK
+        damage: 14.0
+        cooldown: 8.0
+        mana: 8.0
+        delay: 1.0
+        length: 0.65
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    unbreakable: true
+    revision-id: 1
+    custom-model-data: 10001.0
+    item-batch: Starter
+KA1_001_11:
+  base:
+    material: IRON_SWORD
+    name: <#00AEE6>Bokken <#6B6666>[<#cb0045>Lvl.11<#6B6666>]
+    displayed-type: Katana
+    attack-damage: 14.66
+    critical-strike-chance: 17.66
+    critical-strike-power: 66.66
+    lore:
+    - ' &7&o"Passed down through generations of samurai'
+    - ' &7&owarriors."'
+    abilities_lore:
+    - ' &6Slash &7(&eRight Click&7)'
+    - ' &7Charge 1s then dash forward for &e0.65s&7 and'
+    - ' &7deal &e14.0&7 damage to enemies passed through.'
+    - ' &7Cooldown : &e8.0s&7, Mana Cost : &e8.0'
+    attack-speed: 1.6
+    tier: common
+    ability:
+      ability1:
+        type: LIGHT_DASH
+        mode: RIGHT_CLICK
+        damage: 14.0
+        cooldown: 8.0
+        mana: 8.0
+        delay: 1.0
+        length: 0.65
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    unbreakable: true
+    revision-id: 1
+    custom-model-data: 10001.0
+    item-batch: Starter
+KA1_001_12:
+  base:
+    material: IRON_SWORD
+    name: <#00AEE6>Bokken <#6B6666>[<#c90065>Lvl.12<#6B6666>]
+    displayed-type: Katana
+    attack-damage: 15.48
+    critical-strike-chance: 18.48
+    critical-strike-power: 67.48
+    lore:
+    - ' &7&o"Passed down through generations of samurai'
+    - ' &7&owarriors."'
+    abilities_lore:
+    - ' &6Slash &7(&eRight Click&7)'
+    - ' &7Charge 1s then dash forward for &e0.65s&7 and'
+    - ' &7deal &e14.0&7 damage to enemies passed through.'
+    - ' &7Cooldown : &e8.0s&7, Mana Cost : &e8.0'
+    attack-speed: 1.6
+    tier: common
+    ability:
+      ability1:
+        type: LIGHT_DASH
+        mode: RIGHT_CLICK
+        damage: 14.0
+        cooldown: 8.0
+        mana: 8.0
+        delay: 1.0
+        length: 0.65
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    unbreakable: true
+    revision-id: 1
+    custom-model-data: 10001.0
+    item-batch: Starter
+KA1_001_13:
+  base:
+    material: IRON_SWORD
+    name: <#00AEE6>Bokken <#6B6666>[<#bc0088>Lvl.13<#6B6666>]
+    displayed-type: Katana
+    attack-damage: 16.33
+    critical-strike-chance: 19.33
+    critical-strike-power: 68.33
+    lore:
+    - ' &7&o"Passed down through generations of samurai'
+    - ' &7&owarriors."'
+    abilities_lore:
+    - ' &6Slash &7(&eRight Click&7)'
+    - ' &7Charge 1s then dash forward for &e0.65s&7 and'
+    - ' &7deal &e14.0&7 damage to enemies passed through.'
+    - ' &7Cooldown : &e8.0s&7, Mana Cost : &e8.0'
+    attack-speed: 1.6
+    tier: common
+    ability:
+      ability1:
+        type: LIGHT_DASH
+        mode: RIGHT_CLICK
+        damage: 14.0
+        cooldown: 8.0
+        mana: 8.0
+        delay: 1.0
+        length: 0.65
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    unbreakable: true
+    revision-id: 1
+    custom-model-data: 10001.0
+    item-batch: Starter
+KA1_001_14:
+  base:
+    material: IRON_SWORD
+    name: <#00AEE6>Bokken <#6B6666>[<#a100ab>Lvl.14<#6B6666>]
+    displayed-type: Katana
+    attack-damage: 17.21
+    critical-strike-chance: 20.21
+    critical-strike-power: 69.21
+    lore:
+    - ' &7&o"Passed down through generations of samurai'
+    - ' &7&owarriors."'
+    abilities_lore:
+    - ' &6Slash &7(&eRight Click&7)'
+    - ' &7Charge 1s then dash forward for &e0.65s&7 and'
+    - ' &7deal &e14.0&7 damage to enemies passed through.'
+    - ' &7Cooldown : &e8.0s&7, Mana Cost : &e8.0'
+    attack-speed: 1.6
+    tier: common
+    ability:
+      ability1:
+        type: LIGHT_DASH
+        mode: RIGHT_CLICK
+        damage: 14.0
+        cooldown: 8.0
+        mana: 8.0
+        delay: 1.0
+        length: 0.65
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    unbreakable: true
+    revision-id: 1
+    custom-model-data: 10001.0
+    item-batch: Starter
+KA1_001_15:
+  base:
+    material: IRON_SWORD
+    name: <#00AEE6>Bokken <#6B6666>[<#7014cc>Lvl.15<#6B6666>]
+    displayed-type: Katana
+    attack-damage: 18.12
+    critical-strike-chance: 21.12
+    critical-strike-power: 70.12
     lore:
     - ' &7&o"Passed down through generations of samurai'
     - ' &7&owarriors."'

@@ -1,12 +1,12 @@
 # Template: SW1_002_XXX. Digest: 0c920ebcd40da03090639695846485ee. Base36: QSHOP9JCRNGEH9NU5A8KW8A6
-# Generated at 02/05/2023 01:48:14. Digest: 0c920ebcd40da03090639695846485ee. Base36: QSHOP9JCRNGEH9NU5A8KW8A6.
+# Generated at 02/05/2023 20:02:03. Digest: 3336c9b509f3f8f334daab3df28bd60e. Base36: 315GP20F89Y7HUZ4BYQI72HVY.
 SW1_002_01:
   base:
     material: STONE_SWORD
     name: <#E6AC17>Blazed Sword <#6B6666>[<#23f108>Lvl.1<#6B6666>]
     displayed-type: Sword
     attack-damage: 10.0
-    fire-damage-reduction: 8.0
+    fire-damage-reduction: 10.0
     lore:
     - ' &7&o"Forged from the heart of a volcano.'
     - ' &7&oStrike your enemies with its fiery power."'
@@ -44,7 +44,7 @@ SW1_002_02:
     name: <#E6AC17>Blazed Sword <#6B6666>[<#73da00>Lvl.2<#6B6666>]
     displayed-type: Sword
     attack-damage: 10.54
-    fire-damage-reduction: 8.54
+    fire-damage-reduction: 10.54
     lore:
     - ' &7&o"Forged from the heart of a volcano.'
     - ' &7&oStrike your enemies with its fiery power."'
@@ -82,7 +82,7 @@ SW1_002_03:
     name: <#E6AC17>Blazed Sword <#6B6666>[<#96c100>Lvl.3<#6B6666>]
     displayed-type: Sword
     attack-damage: 11.11
-    fire-damage-reduction: 9.11
+    fire-damage-reduction: 11.11
     lore:
     - ' &7&o"Forged from the heart of a volcano.'
     - ' &7&oStrike your enemies with its fiery power."'
@@ -120,7 +120,7 @@ SW1_002_04:
     name: <#E6AC17>Blazed Sword <#6B6666>[<#aca800>Lvl.4<#6B6666>]
     displayed-type: Sword
     attack-damage: 11.7
-    fire-damage-reduction: 9.7
+    fire-damage-reduction: 11.7
     lore:
     - ' &7&o"Forged from the heart of a volcano.'
     - ' &7&oStrike your enemies with its fiery power."'
@@ -158,7 +158,7 @@ SW1_002_05:
     name: <#E6AC17>Blazed Sword <#6B6666>[<#bb8e00>Lvl.5<#6B6666>]
     displayed-type: Sword
     attack-damage: 12.33
-    fire-damage-reduction: 10.33
+    fire-damage-reduction: 12.33
     lore:
     - ' &7&o"Forged from the heart of a volcano.'
     - ' &7&oStrike your enemies with its fiery power."'
@@ -196,7 +196,7 @@ SW1_002_06:
     name: <#E6AC17>Blazed Sword <#6B6666>[<#c37300>Lvl.6<#6B6666>]
     displayed-type: Sword
     attack-damage: 12.98
-    fire-damage-reduction: 10.98
+    fire-damage-reduction: 12.98
     lore:
     - ' &7&o"Forged from the heart of a volcano.'
     - ' &7&oStrike your enemies with its fiery power."'
@@ -234,7 +234,7 @@ SW1_002_07:
     name: <#E6AC17>Blazed Sword <#6B6666>[<#c55700>Lvl.7<#6B6666>]
     displayed-type: Sword
     attack-damage: 13.66
-    fire-damage-reduction: 11.66
+    fire-damage-reduction: 13.66
     lore:
     - ' &7&o"Forged from the heart of a volcano.'
     - ' &7&oStrike your enemies with its fiery power."'
@@ -272,7 +272,7 @@ SW1_002_08:
     name: <#E6AC17>Blazed Sword <#6B6666>[<#c23700>Lvl.8<#6B6666>]
     displayed-type: Sword
     attack-damage: 14.37
-    fire-damage-reduction: 12.37
+    fire-damage-reduction: 14.37
     lore:
     - ' &7&o"Forged from the heart of a volcano.'
     - ' &7&oStrike your enemies with its fiery power."'
@@ -310,7 +310,235 @@ SW1_002_09:
     name: <#E6AC17>Blazed Sword <#6B6666>[<#ba0909>Lvl.9<#6B6666>]
     displayed-type: Sword
     attack-damage: 15.1
-    fire-damage-reduction: 13.1
+    fire-damage-reduction: 15.1
+    lore:
+    - ' &7&o"Forged from the heart of a volcano.'
+    - ' &7&oStrike your enemies with its fiery power."'
+    abilities_lore:
+    - ' &6Fiery Sword &7(&ePassive&7)'
+    - ' &7Grants &fFire Aspect I'
+    - ' &6Burning Spirit &7(&eAttack&7)'
+    - ' &7Deal &e100% &7more damage while on fire'
+    - ' &7Cooldown : &e1.2s&7, Mana Cost : &e6.0'
+    attack-speed: 1.6
+    ability:
+      ability1:
+        type: SCORCH_ATTACK
+        mode: ATTACK
+        damage-percent: 100.0
+        cooldown: 1.2
+        mana: 6.0
+    tier: common
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    unbreakable: true
+    custom-model-data: 10005.0
+    revision-id: 1
+    disable-interaction: true
+    enchants:
+      fire_aspect: 1.0
+    hide-enchants: true
+    item-batch: Starter
+SW1_002_10:
+  base:
+    material: STONE_SWORD
+    name: <#E6AC17>Blazed Sword <#6B6666>[<#c50029>Lvl.10<#6B6666>]
+    displayed-type: Sword
+    attack-damage: 15.87
+    fire-damage-reduction: 15.87
+    lore:
+    - ' &7&o"Forged from the heart of a volcano.'
+    - ' &7&oStrike your enemies with its fiery power."'
+    abilities_lore:
+    - ' &6Fiery Sword &7(&ePassive&7)'
+    - ' &7Grants &fFire Aspect I'
+    - ' &6Burning Spirit &7(&eAttack&7)'
+    - ' &7Deal &e100% &7more damage while on fire'
+    - ' &7Cooldown : &e1.2s&7, Mana Cost : &e6.0'
+    attack-speed: 1.6
+    ability:
+      ability1:
+        type: SCORCH_ATTACK
+        mode: ATTACK
+        damage-percent: 100.0
+        cooldown: 1.2
+        mana: 6.0
+    tier: common
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    unbreakable: true
+    custom-model-data: 10005.0
+    revision-id: 1
+    disable-interaction: true
+    enchants:
+      fire_aspect: 1.0
+    hide-enchants: true
+    item-batch: Starter
+SW1_002_11:
+  base:
+    material: STONE_SWORD
+    name: <#E6AC17>Blazed Sword <#6B6666>[<#cb0045>Lvl.11<#6B6666>]
+    displayed-type: Sword
+    attack-damage: 16.66
+    fire-damage-reduction: 16.66
+    lore:
+    - ' &7&o"Forged from the heart of a volcano.'
+    - ' &7&oStrike your enemies with its fiery power."'
+    abilities_lore:
+    - ' &6Fiery Sword &7(&ePassive&7)'
+    - ' &7Grants &fFire Aspect I'
+    - ' &6Burning Spirit &7(&eAttack&7)'
+    - ' &7Deal &e100% &7more damage while on fire'
+    - ' &7Cooldown : &e1.2s&7, Mana Cost : &e6.0'
+    attack-speed: 1.6
+    ability:
+      ability1:
+        type: SCORCH_ATTACK
+        mode: ATTACK
+        damage-percent: 100.0
+        cooldown: 1.2
+        mana: 6.0
+    tier: common
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    unbreakable: true
+    custom-model-data: 10005.0
+    revision-id: 1
+    disable-interaction: true
+    enchants:
+      fire_aspect: 1.0
+    hide-enchants: true
+    item-batch: Starter
+SW1_002_12:
+  base:
+    material: STONE_SWORD
+    name: <#E6AC17>Blazed Sword <#6B6666>[<#c90065>Lvl.12<#6B6666>]
+    displayed-type: Sword
+    attack-damage: 17.48
+    fire-damage-reduction: 17.48
+    lore:
+    - ' &7&o"Forged from the heart of a volcano.'
+    - ' &7&oStrike your enemies with its fiery power."'
+    abilities_lore:
+    - ' &6Fiery Sword &7(&ePassive&7)'
+    - ' &7Grants &fFire Aspect I'
+    - ' &6Burning Spirit &7(&eAttack&7)'
+    - ' &7Deal &e100% &7more damage while on fire'
+    - ' &7Cooldown : &e1.2s&7, Mana Cost : &e6.0'
+    attack-speed: 1.6
+    ability:
+      ability1:
+        type: SCORCH_ATTACK
+        mode: ATTACK
+        damage-percent: 100.0
+        cooldown: 1.2
+        mana: 6.0
+    tier: common
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    unbreakable: true
+    custom-model-data: 10005.0
+    revision-id: 1
+    disable-interaction: true
+    enchants:
+      fire_aspect: 1.0
+    hide-enchants: true
+    item-batch: Starter
+SW1_002_13:
+  base:
+    material: STONE_SWORD
+    name: <#E6AC17>Blazed Sword <#6B6666>[<#bc0088>Lvl.13<#6B6666>]
+    displayed-type: Sword
+    attack-damage: 18.33
+    fire-damage-reduction: 18.33
+    lore:
+    - ' &7&o"Forged from the heart of a volcano.'
+    - ' &7&oStrike your enemies with its fiery power."'
+    abilities_lore:
+    - ' &6Fiery Sword &7(&ePassive&7)'
+    - ' &7Grants &fFire Aspect I'
+    - ' &6Burning Spirit &7(&eAttack&7)'
+    - ' &7Deal &e100% &7more damage while on fire'
+    - ' &7Cooldown : &e1.2s&7, Mana Cost : &e6.0'
+    attack-speed: 1.6
+    ability:
+      ability1:
+        type: SCORCH_ATTACK
+        mode: ATTACK
+        damage-percent: 100.0
+        cooldown: 1.2
+        mana: 6.0
+    tier: common
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    unbreakable: true
+    custom-model-data: 10005.0
+    revision-id: 1
+    disable-interaction: true
+    enchants:
+      fire_aspect: 1.0
+    hide-enchants: true
+    item-batch: Starter
+SW1_002_14:
+  base:
+    material: STONE_SWORD
+    name: <#E6AC17>Blazed Sword <#6B6666>[<#a100ab>Lvl.14<#6B6666>]
+    displayed-type: Sword
+    attack-damage: 19.21
+    fire-damage-reduction: 19.21
+    lore:
+    - ' &7&o"Forged from the heart of a volcano.'
+    - ' &7&oStrike your enemies with its fiery power."'
+    abilities_lore:
+    - ' &6Fiery Sword &7(&ePassive&7)'
+    - ' &7Grants &fFire Aspect I'
+    - ' &6Burning Spirit &7(&eAttack&7)'
+    - ' &7Deal &e100% &7more damage while on fire'
+    - ' &7Cooldown : &e1.2s&7, Mana Cost : &e6.0'
+    attack-speed: 1.6
+    ability:
+      ability1:
+        type: SCORCH_ATTACK
+        mode: ATTACK
+        damage-percent: 100.0
+        cooldown: 1.2
+        mana: 6.0
+    tier: common
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    unbreakable: true
+    custom-model-data: 10005.0
+    revision-id: 1
+    disable-interaction: true
+    enchants:
+      fire_aspect: 1.0
+    hide-enchants: true
+    item-batch: Starter
+SW1_002_15:
+  base:
+    material: STONE_SWORD
+    name: <#E6AC17>Blazed Sword <#6B6666>[<#7014cc>Lvl.15<#6B6666>]
+    displayed-type: Sword
+    attack-damage: 20.12
+    fire-damage-reduction: 20.12
     lore:
     - ' &7&o"Forged from the heart of a volcano.'
     - ' &7&oStrike your enemies with its fiery power."'
