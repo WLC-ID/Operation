@@ -8,7 +8,7 @@ def pio(level, offset, base, b, c):
     return round(result, 2)
 
 def color(level):
-    # 1 ke 9, 9 ke 15
+    # 1 ke 9, 9 ke 15, 15 ke 25
     # https://colordesigner.io/gradient-generator
     switcher = {
         1: '<#23f108>',
@@ -25,6 +25,16 @@ def color(level):
         12:'<#c90065>',
         13:'<#bc0088>',
         14:'<#a100ab>',
-        15:'<#7014cc>'
+        15:'<#7014cc>',
+        16:'<#4d31cb>',
+        17:'<#1c3ec6>',
+        18:'<#0046be>',
+        19:'<#004ab3>',
+        20:'<#004da6>',
+        21:'<#004e97>',
+        22:'<#004e87>',
+        23:'<#004c77>',
+        24:'<#0f4b67>',
+        25:'<#2a4858>',
     }
     return switcher[level]

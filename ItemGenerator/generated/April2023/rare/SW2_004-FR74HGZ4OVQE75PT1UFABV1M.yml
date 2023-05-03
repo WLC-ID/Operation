@@ -1,12 +1,12 @@
 # Template: SW2_004_XXX. Digest: 0c29589fe25ee85e977e7cd77b8de00b. Base36: PX3VYSS438KFQ696U4RZGLJF
-# Generated at 02/05/2023 01:48:15. Digest: 0c29589fe25ee85e977e7cd77b8de00b. Base36: PX3VYSS438KFQ696U4RZGLJF.
+# Generated at 03/05/2023 11:55:05. Digest: 07647990f6a13ef3685a27c17c4b77ea. Base36: FR74HGZ4OVQE75PT1UFABV1M.
 SW2_004_01:
   base:
     material: STONE_SWORD
-    name: <#FFD700>Light Saber <#6B6666>[<#23f108>Lvl.1<#6B6666>]
+    name: <#FFD700>Light Saber <#6B6666>[<#7014cc>Lvl.15<#6B6666>]
     displayed-type: Sword
-    attack-damage: 12.59
-    knockback-resistance: 0.076
+    attack-damage: 20.28
+    knockback-resistance: 0.156
     attack-speed: 1.5
     lore:
     - ' &7&o"Radiant and deadly, the humming blade of'
@@ -44,10 +44,10 @@ SW2_004_01:
 SW2_004_02:
   base:
     material: STONE_SWORD
-    name: <#FFD700>Light Saber <#6B6666>[<#73da00>Lvl.2<#6B6666>]
+    name: <#FFD700>Light Saber <#6B6666>[<#4d31cb>Lvl.16<#6B6666>]
     displayed-type: Sword
-    attack-damage: 13.22
-    knockback-resistance: 0.082
+    attack-damage: 21.23
+    knockback-resistance: 0.166
     attack-speed: 1.52
     lore:
     - ' &7&o"Radiant and deadly, the humming blade of'
@@ -85,11 +85,11 @@ SW2_004_02:
 SW2_004_03:
   base:
     material: STONE_SWORD
-    name: <#FFD700>Light Saber <#6B6666>[<#96c100>Lvl.3<#6B6666>]
+    name: <#FFD700>Light Saber <#6B6666>[<#1c3ec6>Lvl.17<#6B6666>]
     displayed-type: Sword
-    attack-damage: 13.88
-    knockback-resistance: 0.088
-    attack-speed: 1.54
+    attack-damage: 22.21
+    knockback-resistance: 0.176
+    attack-speed: 1.55
     lore:
     - ' &7&o"Radiant and deadly, the humming blade of'
     - ' &7&opure energy can cut through almost anything,'
@@ -126,11 +126,11 @@ SW2_004_03:
 SW2_004_04:
   base:
     material: STONE_SWORD
-    name: <#FFD700>Light Saber <#6B6666>[<#aca800>Lvl.4<#6B6666>]
+    name: <#FFD700>Light Saber <#6B6666>[<#0046be>Lvl.18<#6B6666>]
     displayed-type: Sword
-    attack-damage: 14.58
-    knockback-resistance: 0.095
-    attack-speed: 1.56
+    attack-damage: 23.21
+    knockback-resistance: 0.186
+    attack-speed: 1.57
     lore:
     - ' &7&o"Radiant and deadly, the humming blade of'
     - ' &7&opure energy can cut through almost anything,'
@@ -167,11 +167,11 @@ SW2_004_04:
 SW2_004_05:
   base:
     material: STONE_SWORD
-    name: <#FFD700>Light Saber <#6B6666>[<#bb8e00>Lvl.5<#6B6666>]
+    name: <#FFD700>Light Saber <#6B6666>[<#004ab3>Lvl.19<#6B6666>]
     displayed-type: Sword
-    attack-damage: 15.3
-    knockback-resistance: 0.102
-    attack-speed: 1.58
+    attack-damage: 24.24
+    knockback-resistance: 0.197
+    attack-speed: 1.6
     lore:
     - ' &7&o"Radiant and deadly, the humming blade of'
     - ' &7&opure energy can cut through almost anything,'
@@ -208,11 +208,11 @@ SW2_004_05:
 SW2_004_06:
   base:
     material: STONE_SWORD
-    name: <#FFD700>Light Saber <#6B6666>[<#c37300>Lvl.6<#6B6666>]
+    name: <#FFD700>Light Saber <#6B6666>[<#004da6>Lvl.20<#6B6666>]
     displayed-type: Sword
-    attack-damage: 16.06
-    knockback-resistance: 0.109
-    attack-speed: 1.6
+    attack-damage: 25.3
+    knockback-resistance: 0.208
+    attack-speed: 1.62
     lore:
     - ' &7&o"Radiant and deadly, the humming blade of'
     - ' &7&opure energy can cut through almost anything,'
@@ -249,11 +249,11 @@ SW2_004_06:
 SW2_004_07:
   base:
     material: STONE_SWORD
-    name: <#FFD700>Light Saber <#6B6666>[<#c55700>Lvl.7<#6B6666>]
+    name: <#FFD700>Light Saber <#6B6666>[<#004e97>Lvl.21<#6B6666>]
     displayed-type: Sword
-    attack-damage: 16.84
-    knockback-resistance: 0.117
-    attack-speed: 1.62
+    attack-damage: 26.39
+    knockback-resistance: 0.219
+    attack-speed: 1.65
     lore:
     - ' &7&o"Radiant and deadly, the humming blade of'
     - ' &7&opure energy can cut through almost anything,'
@@ -273,6 +273,170 @@ SW2_004_07:
         damage: 8.0
         cooldown: 4.0
         mana: 7.2
+        max-missing-hp: 25.0
+    perm-effects:
+      JUMP: 2.0
+      SLOW_FALLING: 1.0
+    tier: rare
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    disable-interaction: true
+    unbreakable: true
+    revision-id: 1
+    item-batch: Altered Starter
+SW2_004_08:
+  base:
+    material: STONE_SWORD
+    name: <#FFD700>Light Saber <#6B6666>[<#004e87>Lvl.22<#6B6666>]
+    displayed-type: Sword
+    attack-damage: 27.51
+    knockback-resistance: 0.231
+    attack-speed: 1.68
+    lore:
+    - ' &7&o"Radiant and deadly, the humming blade of'
+    - ' &7&opure energy can cut through almost anything,'
+    - ' &7&omaking it both elegance and power."'
+    abilities_lore:
+    - ' &6Anti Gravitational &7(&ePassive&7)'
+    - ' &7Grants &fJump Boost II&7 and &fSlow Falling I'
+    - ' &6Luminous Pierce &7(&eAttack&7)'
+    - ' &7Increase damage dealt based on '
+    - ' &7target HP by &e(8.5 + 275% * Missing HP)'
+    - ' &7Cooldown : &e4.0s&7, Mana Cost : &e7.4'
+    ability:
+      ability1:
+        type: DEEP_WOUND
+        extra: 275.0
+        mode: ATTACK
+        damage: 8.5
+        cooldown: 4.0
+        mana: 7.4
+        max-missing-hp: 25.0
+    perm-effects:
+      JUMP: 2.0
+      SLOW_FALLING: 1.0
+    tier: rare
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    disable-interaction: true
+    unbreakable: true
+    revision-id: 1
+    item-batch: Altered Starter
+SW2_004_09:
+  base:
+    material: STONE_SWORD
+    name: <#FFD700>Light Saber <#6B6666>[<#004c77>Lvl.23<#6B6666>]
+    displayed-type: Sword
+    attack-damage: 28.66
+    knockback-resistance: 0.242
+    attack-speed: 1.7
+    lore:
+    - ' &7&o"Radiant and deadly, the humming blade of'
+    - ' &7&opure energy can cut through almost anything,'
+    - ' &7&omaking it both elegance and power."'
+    abilities_lore:
+    - ' &6Anti Gravitational &7(&ePassive&7)'
+    - ' &7Grants &fJump Boost II&7 and &fSlow Falling I'
+    - ' &6Luminous Pierce &7(&eAttack&7)'
+    - ' &7Increase damage dealt based on '
+    - ' &7target HP by &e(9.0 + 290% * Missing HP)'
+    - ' &7Cooldown : &e4.0s&7, Mana Cost : &e7.6'
+    ability:
+      ability1:
+        type: DEEP_WOUND
+        extra: 290.0
+        mode: ATTACK
+        damage: 9.0
+        cooldown: 4.0
+        mana: 7.6
+        max-missing-hp: 25.0
+    perm-effects:
+      JUMP: 2.0
+      SLOW_FALLING: 1.0
+    tier: rare
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    disable-interaction: true
+    unbreakable: true
+    revision-id: 1
+    item-batch: Altered Starter
+SW2_004_10:
+  base:
+    material: STONE_SWORD
+    name: <#FFD700>Light Saber <#6B6666>[<#0f4b67>Lvl.24<#6B6666>]
+    displayed-type: Sword
+    attack-damage: 29.83
+    knockback-resistance: 0.254
+    attack-speed: 1.7
+    lore:
+    - ' &7&o"Radiant and deadly, the humming blade of'
+    - ' &7&opure energy can cut through almost anything,'
+    - ' &7&omaking it both elegance and power."'
+    abilities_lore:
+    - ' &6Anti Gravitational &7(&ePassive&7)'
+    - ' &7Grants &fJump Boost II&7 and &fSlow Falling I'
+    - ' &6Luminous Pierce &7(&eAttack&7)'
+    - ' &7Increase damage dealt based on '
+    - ' &7target HP by &e(9.0 + 290% * Missing HP)'
+    - ' &7Cooldown : &e4.0s&7, Mana Cost : &e7.6'
+    ability:
+      ability1:
+        type: DEEP_WOUND
+        extra: 290.0
+        mode: ATTACK
+        damage: 9.0
+        cooldown: 4.0
+        mana: 7.6
+        max-missing-hp: 25.0
+    perm-effects:
+      JUMP: 2.0
+      SLOW_FALLING: 1.0
+    tier: rare
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    disable-interaction: true
+    unbreakable: true
+    revision-id: 1
+    item-batch: Altered Starter
+SW2_004_11:
+  base:
+    material: STONE_SWORD
+    name: <#FFD700>Light Saber <#6B6666>[<#2a4858>Lvl.25<#6B6666>]
+    displayed-type: Sword
+    attack-damage: 31.04
+    knockback-resistance: 0.267
+    attack-speed: 1.7
+    lore:
+    - ' &7&o"Radiant and deadly, the humming blade of'
+    - ' &7&opure energy can cut through almost anything,'
+    - ' &7&omaking it both elegance and power."'
+    abilities_lore:
+    - ' &6Anti Gravitational &7(&ePassive&7)'
+    - ' &7Grants &fJump Boost II&7 and &fSlow Falling I'
+    - ' &6Luminous Pierce &7(&eAttack&7)'
+    - ' &7Increase damage dealt based on '
+    - ' &7target HP by &e(9.0 + 290% * Missing HP)'
+    - ' &7Cooldown : &e4.0s&7, Mana Cost : &e7.6'
+    ability:
+      ability1:
+        type: DEEP_WOUND
+        extra: 290.0
+        mode: ATTACK
+        damage: 9.0
+        cooldown: 4.0
+        mana: 7.6
         max-missing-hp: 25.0
     perm-effects:
       JUMP: 2.0

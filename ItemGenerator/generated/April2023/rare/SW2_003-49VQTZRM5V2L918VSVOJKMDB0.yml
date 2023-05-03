@@ -1,13 +1,13 @@
 # Template: SW2_003_XXX. Digest: 14f7760cc3585eabc87e02043f3d92af. Base36: 18OOZ8ZOGPLL37BIYXVENXN73
-# Generated at 02/05/2023 01:48:15. Digest: 14f7760cc3585eabc87e02043f3d92af. Base36: 18OOZ8ZOGPLL37BIYXVENXN73.
+# Generated at 03/05/2023 11:55:05. Digest: 48338be9fe49876e1c5f44d50395ecdc. Base36: 49VQTZRM5V2L918VSVOJKMDB0.
 SW2_003_01:
   base:
     material: STONE_SWORD
-    name: <#FF4500>Starblazed Fury <#6B6666>[<#23f108>Lvl.1<#6B6666>]
+    name: <#FF4500>Starblazed Fury <#6B6666>[<#c50029>Lvl.10<#6B6666>]
     displayed-type: Sword
-    attack-damage: 15.19
-    fire-damage-reduction: 13.25
-    movement-speed: 0.031
+    attack-damage: 15.87
+    fire-damage-reduction: 15.97
+    movement-speed: 0.092
     lore:
     - ' &7&o"Engulfed in flames that can melt even'
     - ' &7&othe hardest of metals and strike fear into'
@@ -43,11 +43,11 @@ SW2_003_01:
 SW2_003_02:
   base:
     material: STONE_SWORD
-    name: <#FF4500>Starblazed Fury <#6B6666>[<#73da00>Lvl.2<#6B6666>]
+    name: <#FF4500>Starblazed Fury <#6B6666>[<#cb0045>Lvl.11<#6B6666>]
     displayed-type: Sword
-    attack-damage: 15.82
-    fire-damage-reduction: 13.94
-    movement-speed: 0.037
+    attack-damage: 16.66
+    fire-damage-reduction: 16.78
+    movement-speed: 0.1
     lore:
     - ' &7&o"Engulfed in flames that can melt even'
     - ' &7&othe hardest of metals and strike fear into'
@@ -83,11 +83,11 @@ SW2_003_02:
 SW2_003_03:
   base:
     material: STONE_SWORD
-    name: <#FF4500>Starblazed Fury <#6B6666>[<#96c100>Lvl.3<#6B6666>]
+    name: <#FF4500>Starblazed Fury <#6B6666>[<#c90065>Lvl.12<#6B6666>]
     displayed-type: Sword
-    attack-damage: 16.48
-    fire-damage-reduction: 14.66
-    movement-speed: 0.044
+    attack-damage: 17.48
+    fire-damage-reduction: 17.61
+    movement-speed: 0.109
     lore:
     - ' &7&o"Engulfed in flames that can melt even'
     - ' &7&othe hardest of metals and strike fear into'
@@ -123,11 +123,11 @@ SW2_003_03:
 SW2_003_04:
   base:
     material: STONE_SWORD
-    name: <#FF4500>Starblazed Fury <#6B6666>[<#aca800>Lvl.4<#6B6666>]
+    name: <#FF4500>Starblazed Fury <#6B6666>[<#bc0088>Lvl.13<#6B6666>]
     displayed-type: Sword
-    attack-damage: 17.18
-    fire-damage-reduction: 15.41
-    movement-speed: 0.051
+    attack-damage: 18.33
+    fire-damage-reduction: 18.47
+    movement-speed: 0.118
     lore:
     - ' &7&o"Engulfed in flames that can melt even'
     - ' &7&othe hardest of metals and strike fear into'
@@ -163,11 +163,11 @@ SW2_003_04:
 SW2_003_05:
   base:
     material: STONE_SWORD
-    name: <#FF4500>Starblazed Fury <#6B6666>[<#bb8e00>Lvl.5<#6B6666>]
+    name: <#FF4500>Starblazed Fury <#6B6666>[<#a100ab>Lvl.14<#6B6666>]
     displayed-type: Sword
-    attack-damage: 17.9
-    fire-damage-reduction: 16.2
-    movement-speed: 0.058
+    attack-damage: 19.21
+    fire-damage-reduction: 19.36
+    movement-speed: 0.127
     lore:
     - ' &7&o"Engulfed in flames that can melt even'
     - ' &7&othe hardest of metals and strike fear into'
@@ -203,11 +203,11 @@ SW2_003_05:
 SW2_003_06:
   base:
     material: STONE_SWORD
-    name: <#FF4500>Starblazed Fury <#6B6666>[<#c37300>Lvl.6<#6B6666>]
+    name: <#FF4500>Starblazed Fury <#6B6666>[<#7014cc>Lvl.15<#6B6666>]
     displayed-type: Sword
-    attack-damage: 18.66
-    fire-damage-reduction: 17.02
-    movement-speed: 0.066
+    attack-damage: 20.12
+    fire-damage-reduction: 20.28
+    movement-speed: 0.136
     lore:
     - ' &7&o"Engulfed in flames that can melt even'
     - ' &7&othe hardest of metals and strike fear into'
@@ -243,11 +243,11 @@ SW2_003_06:
 SW2_003_07:
   base:
     material: STONE_SWORD
-    name: <#FF4500>Starblazed Fury <#6B6666>[<#c55700>Lvl.7<#6B6666>]
+    name: <#FF4500>Starblazed Fury <#6B6666>[<#4d31cb>Lvl.16<#6B6666>]
     displayed-type: Sword
-    attack-damage: 19.44
-    fire-damage-reduction: 17.87
-    movement-speed: 0.073
+    attack-damage: 21.05
+    fire-damage-reduction: 21.23
+    movement-speed: 0.146
     lore:
     - ' &7&o"Engulfed in flames that can melt even'
     - ' &7&othe hardest of metals and strike fear into'
@@ -265,6 +265,166 @@ SW2_003_07:
         mode: ATTACK
         damage-percent: 200.0
         cooldown: 0.6
+        mana: 6.0
+    tier: rare
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    disable-interaction: true
+    unbreakable: true
+    revision-id: 1
+    enchants:
+      fire_aspect: 2.0
+    hide-enchants: true
+    item-batch: Starter
+    custom-model-data: 20007.0
+SW2_003_08:
+  base:
+    material: STONE_SWORD
+    name: <#FF4500>Starblazed Fury <#6B6666>[<#1c3ec6>Lvl.17<#6B6666>]
+    displayed-type: Sword
+    attack-damage: 22.01
+    fire-damage-reduction: 22.21
+    movement-speed: 0.156
+    lore:
+    - ' &7&o"Engulfed in flames that can melt even'
+    - ' &7&othe hardest of metals and strike fear into'
+    - ' &7&othe hearts of your enemies."'
+    abilities_lore:
+    - ' &6Fiery Sword &7(&ePassive&7)'
+    - ' &7Grants &fFire Aspect II'
+    - ' &6Burning Spirit &7(&eAttack&7)'
+    - ' &7Deal &e215% &7more damage while on fire'
+    - ' &7Cooldown : &e0.5s&7, Mana Cost : &e6.0'
+    attack-speed: 1.6
+    ability:
+      ability1:
+        type: SCORCH_ATTACK
+        mode: ATTACK
+        damage-percent: 215.0
+        cooldown: 0.5
+        mana: 6.0
+    tier: rare
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    disable-interaction: true
+    unbreakable: true
+    revision-id: 1
+    enchants:
+      fire_aspect: 2.0
+    hide-enchants: true
+    item-batch: Starter
+    custom-model-data: 20007.0
+SW2_003_09:
+  base:
+    material: STONE_SWORD
+    name: <#FF4500>Starblazed Fury <#6B6666>[<#0046be>Lvl.18<#6B6666>]
+    displayed-type: Sword
+    attack-damage: 23.0
+    fire-damage-reduction: 23.21
+    movement-speed: 0.166
+    lore:
+    - ' &7&o"Engulfed in flames that can melt even'
+    - ' &7&othe hardest of metals and strike fear into'
+    - ' &7&othe hearts of your enemies."'
+    abilities_lore:
+    - ' &6Fiery Sword &7(&ePassive&7)'
+    - ' &7Grants &fFire Aspect II'
+    - ' &6Burning Spirit &7(&eAttack&7)'
+    - ' &7Deal &e230% &7more damage while on fire'
+    - ' &7Cooldown : &e0.4s&7, Mana Cost : &e6.0'
+    attack-speed: 1.6
+    ability:
+      ability1:
+        type: SCORCH_ATTACK
+        mode: ATTACK
+        damage-percent: 230.0
+        cooldown: 0.4
+        mana: 6.0
+    tier: rare
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    disable-interaction: true
+    unbreakable: true
+    revision-id: 1
+    enchants:
+      fire_aspect: 2.0
+    hide-enchants: true
+    item-batch: Starter
+    custom-model-data: 20007.0
+SW2_003_10:
+  base:
+    material: STONE_SWORD
+    name: <#FF4500>Starblazed Fury <#6B6666>[<#004ab3>Lvl.19<#6B6666>]
+    displayed-type: Sword
+    attack-damage: 24.02
+    fire-damage-reduction: 24.24
+    movement-speed: 0.177
+    lore:
+    - ' &7&o"Engulfed in flames that can melt even'
+    - ' &7&othe hardest of metals and strike fear into'
+    - ' &7&othe hearts of your enemies."'
+    abilities_lore:
+    - ' &6Fiery Sword &7(&ePassive&7)'
+    - ' &7Grants &fFire Aspect II'
+    - ' &6Burning Spirit &7(&eAttack&7)'
+    - ' &7Deal &e230% &7more damage while on fire'
+    - ' &7Cooldown : &e0.4s&7, Mana Cost : &e6.0'
+    attack-speed: 1.6
+    ability:
+      ability1:
+        type: SCORCH_ATTACK
+        mode: ATTACK
+        damage-percent: 230.0
+        cooldown: 0.4
+        mana: 6.0
+    tier: rare
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    disable-interaction: true
+    unbreakable: true
+    revision-id: 1
+    enchants:
+      fire_aspect: 2.0
+    hide-enchants: true
+    item-batch: Starter
+    custom-model-data: 20007.0
+SW2_003_11:
+  base:
+    material: STONE_SWORD
+    name: <#FF4500>Starblazed Fury <#6B6666>[<#004da6>Lvl.20<#6B6666>]
+    displayed-type: Sword
+    attack-damage: 25.07
+    fire-damage-reduction: 25.3
+    movement-speed: 0.188
+    lore:
+    - ' &7&o"Engulfed in flames that can melt even'
+    - ' &7&othe hardest of metals and strike fear into'
+    - ' &7&othe hearts of your enemies."'
+    abilities_lore:
+    - ' &6Fiery Sword &7(&ePassive&7)'
+    - ' &7Grants &fFire Aspect II'
+    - ' &6Burning Spirit &7(&eAttack&7)'
+    - ' &7Deal &e230% &7more damage while on fire'
+    - ' &7Cooldown : &e0.4s&7, Mana Cost : &e6.0'
+    attack-speed: 1.6
+    ability:
+      ability1:
+        type: SCORCH_ATTACK
+        mode: ATTACK
+        damage-percent: 230.0
+        cooldown: 0.4
         mana: 6.0
     tier: rare
     disable-enchanting: true

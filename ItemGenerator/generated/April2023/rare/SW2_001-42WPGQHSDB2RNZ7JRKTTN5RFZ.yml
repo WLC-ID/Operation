@@ -1,14 +1,14 @@
 # Template: SW2_001_XXX. Digest: e47a9626be78688c0c585a948b5fb664. Base36: DIYCFOH3NL61QSCN5T4ZS4GV8
-# Generated at 02/05/2023 01:48:14. Digest: e47a9626be78688c0c585a948b5fb664. Base36: DIYCFOH3NL61QSCN5T4ZS4GV8.
+# Generated at 03/05/2023 11:55:05. Digest: 44edf325a2804a36547fa98b298ef52f. Base36: 42WPGQHSDB2RNZ7JRKTTN5RFZ.
 SW2_001_01:
   base:
     material: STONE_SWORD
-    name: <#A7A7AD>Reforged Edge <#6B6666>[<#23f108>Lvl.1<#6B6666>]
+    name: <#A7A7AD>Reforged Edge <#6B6666>[<#c50029>Lvl.10<#6B6666>]
     displayed-type: Sword
-    attack-damage: 15.19
-    additional-toughness: 8.04
+    attack-damage: 16.08
+    additional-toughness: 11.3
     attack-speed: 1.6
-    defense: 12.67
+    defense: 13.8
     lore:
     - ' &7&o"Once shattered in battle, now restored'
     - ' &7&oto its former glory with renewed strength'
@@ -38,12 +38,12 @@ SW2_001_01:
 SW2_001_02:
   base:
     material: STONE_SWORD
-    name: <#A7A7AD>Reforged Edge <#6B6666>[<#73da00>Lvl.2<#6B6666>]
+    name: <#A7A7AD>Reforged Edge <#6B6666>[<#cb0045>Lvl.11<#6B6666>]
     displayed-type: Sword
-    attack-damage: 15.82
-    additional-toughness: 8.62
+    attack-damage: 16.9
+    additional-toughness: 12.14
     attack-speed: 1.6
-    defense: 13.28
+    defense: 14.64
     lore:
     - ' &7&o"Once shattered in battle, now restored'
     - ' &7&oto its former glory with renewed strength'
@@ -51,7 +51,7 @@ SW2_001_02:
     abilities_lore:
     - ' &6Empower &7(&eAttack&7)'
     - ' &7Increase the next damage dealt by &e106%'
-    - ' &7Cooldown : &e6.0s&7, Mana Cost : &e7.9'
+    - ' &7Cooldown : &e6.0s&7, Mana Cost : &e7.85'
     tier: rare
     ability:
       ability1:
@@ -59,7 +59,7 @@ SW2_001_02:
         mode: ATTACK
         damage-percent: 106.0
         cooldown: 6.0
-        mana: 7.9
+        mana: 7.85
     disable-enchanting: true
     disable-smithing: true
     disable-smelting: true
@@ -73,12 +73,12 @@ SW2_001_02:
 SW2_001_03:
   base:
     material: STONE_SWORD
-    name: <#A7A7AD>Reforged Edge <#6B6666>[<#96c100>Lvl.3<#6B6666>]
+    name: <#A7A7AD>Reforged Edge <#6B6666>[<#c90065>Lvl.12<#6B6666>]
     displayed-type: Sword
-    attack-damage: 16.48
-    additional-toughness: 9.23
+    attack-damage: 17.74
+    additional-toughness: 13.01
     attack-speed: 1.6
-    defense: 13.92
+    defense: 15.51
     lore:
     - ' &7&o"Once shattered in battle, now restored'
     - ' &7&oto its former glory with renewed strength'
@@ -86,7 +86,7 @@ SW2_001_03:
     abilities_lore:
     - ' &6Empower &7(&eAttack&7)'
     - ' &7Increase the next damage dealt by &e112%'
-    - ' &7Cooldown : &e5.6s&7, Mana Cost : &e8.2'
+    - ' &7Cooldown : &e5.6s&7, Mana Cost : &e8.1'
     tier: rare
     ability:
       ability1:
@@ -94,7 +94,7 @@ SW2_001_03:
         mode: ATTACK
         damage-percent: 112.0
         cooldown: 5.6
-        mana: 8.2
+        mana: 8.1
     disable-enchanting: true
     disable-smithing: true
     disable-smelting: true
@@ -108,12 +108,12 @@ SW2_001_03:
 SW2_001_04:
   base:
     material: STONE_SWORD
-    name: <#A7A7AD>Reforged Edge <#6B6666>[<#aca800>Lvl.4<#6B6666>]
+    name: <#A7A7AD>Reforged Edge <#6B6666>[<#bc0088>Lvl.13<#6B6666>]
     displayed-type: Sword
-    attack-damage: 17.18
-    additional-toughness: 9.86
+    attack-damage: 18.62
+    additional-toughness: 13.91
     attack-speed: 1.6
-    defense: 14.59
+    defense: 16.41
     lore:
     - ' &7&o"Once shattered in battle, now restored'
     - ' &7&oto its former glory with renewed strength'
@@ -121,7 +121,7 @@ SW2_001_04:
     abilities_lore:
     - ' &6Empower &7(&eAttack&7)'
     - ' &7Increase the next damage dealt by &e118%'
-    - ' &7Cooldown : &e5.2s&7, Mana Cost : &e8.5'
+    - ' &7Cooldown : &e5.2s&7, Mana Cost : &e8.35'
     tier: rare
     ability:
       ability1:
@@ -129,7 +129,7 @@ SW2_001_04:
         mode: ATTACK
         damage-percent: 118.0
         cooldown: 5.2
-        mana: 8.5
+        mana: 8.35
     disable-enchanting: true
     disable-smithing: true
     disable-smelting: true
@@ -143,12 +143,12 @@ SW2_001_04:
 SW2_001_05:
   base:
     material: STONE_SWORD
-    name: <#A7A7AD>Reforged Edge <#6B6666>[<#bb8e00>Lvl.5<#6B6666>]
+    name: <#A7A7AD>Reforged Edge <#6B6666>[<#a100ab>Lvl.14<#6B6666>]
     displayed-type: Sword
-    attack-damage: 17.9
-    additional-toughness: 10.53
+    attack-damage: 19.52
+    additional-toughness: 14.84
     attack-speed: 1.6
-    defense: 15.29
+    defense: 17.34
     lore:
     - ' &7&o"Once shattered in battle, now restored'
     - ' &7&oto its former glory with renewed strength'
@@ -156,7 +156,7 @@ SW2_001_05:
     abilities_lore:
     - ' &6Empower &7(&eAttack&7)'
     - ' &7Increase the next damage dealt by &e124%'
-    - ' &7Cooldown : &e4.8s&7, Mana Cost : &e8.8'
+    - ' &7Cooldown : &e4.8s&7, Mana Cost : &e8.6'
     tier: rare
     ability:
       ability1:
@@ -164,7 +164,7 @@ SW2_001_05:
         mode: ATTACK
         damage-percent: 124.0
         cooldown: 4.8
-        mana: 8.8
+        mana: 8.6
     disable-enchanting: true
     disable-smithing: true
     disable-smelting: true
@@ -178,12 +178,12 @@ SW2_001_05:
 SW2_001_06:
   base:
     material: STONE_SWORD
-    name: <#A7A7AD>Reforged Edge <#6B6666>[<#c37300>Lvl.6<#6B6666>]
+    name: <#A7A7AD>Reforged Edge <#6B6666>[<#7014cc>Lvl.15<#6B6666>]
     displayed-type: Sword
-    attack-damage: 18.66
-    additional-toughness: 11.22
+    attack-damage: 20.45
+    additional-toughness: 15.8
     attack-speed: 1.6
-    defense: 16.02
+    defense: 18.3
     lore:
     - ' &7&o"Once shattered in battle, now restored'
     - ' &7&oto its former glory with renewed strength'
@@ -191,7 +191,7 @@ SW2_001_06:
     abilities_lore:
     - ' &6Empower &7(&eAttack&7)'
     - ' &7Increase the next damage dealt by &e130%'
-    - ' &7Cooldown : &e4.4s&7, Mana Cost : &e9.1'
+    - ' &7Cooldown : &e4.4s&7, Mana Cost : &e8.85'
     tier: rare
     ability:
       ability1:
@@ -199,7 +199,7 @@ SW2_001_06:
         mode: ATTACK
         damage-percent: 130.0
         cooldown: 4.4
-        mana: 9.1
+        mana: 8.85
     disable-enchanting: true
     disable-smithing: true
     disable-smelting: true
@@ -213,12 +213,12 @@ SW2_001_06:
 SW2_001_07:
   base:
     material: STONE_SWORD
-    name: <#A7A7AD>Reforged Edge <#6B6666>[<#c55700>Lvl.7<#6B6666>]
+    name: <#A7A7AD>Reforged Edge <#6B6666>[<#4d31cb>Lvl.16<#6B6666>]
     displayed-type: Sword
-    attack-damage: 19.44
-    additional-toughness: 11.95
+    attack-damage: 21.41
+    additional-toughness: 16.79
     attack-speed: 1.6
-    defense: 16.78
+    defense: 19.29
     lore:
     - ' &7&o"Once shattered in battle, now restored'
     - ' &7&oto its former glory with renewed strength'
@@ -226,7 +226,7 @@ SW2_001_07:
     abilities_lore:
     - ' &6Empower &7(&eAttack&7)'
     - ' &7Increase the next damage dealt by &e136%'
-    - ' &7Cooldown : &e4.0s&7, Mana Cost : &e9.4'
+    - ' &7Cooldown : &e4.0s&7, Mana Cost : &e9.1'
     tier: rare
     ability:
       ability1:
@@ -234,7 +234,147 @@ SW2_001_07:
         mode: ATTACK
         damage-percent: 136.0
         cooldown: 4.0
-        mana: 9.4
+        mana: 9.1
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    unbreakable: true
+    revision-id: 1
+    disable-interaction: true
+    item-batch: Starter
+    custom-model-data: 20006.0
+SW2_001_08:
+  base:
+    material: STONE_SWORD
+    name: <#A7A7AD>Reforged Edge <#6B6666>[<#1c3ec6>Lvl.17<#6B6666>]
+    displayed-type: Sword
+    attack-damage: 22.4
+    additional-toughness: 17.81
+    attack-speed: 1.6
+    defense: 20.31
+    lore:
+    - ' &7&o"Once shattered in battle, now restored'
+    - ' &7&oto its former glory with renewed strength'
+    - ' &7&oand resilience."'
+    abilities_lore:
+    - ' &6Empower &7(&eAttack&7)'
+    - ' &7Increase the next damage dealt by &e142%'
+    - ' &7Cooldown : &e3.6s&7, Mana Cost : &e9.35'
+    tier: rare
+    ability:
+      ability1:
+        type: ECHO_ATTACK
+        mode: ATTACK
+        damage-percent: 142.0
+        cooldown: 3.6
+        mana: 9.35
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    unbreakable: true
+    revision-id: 1
+    disable-interaction: true
+    item-batch: Starter
+    custom-model-data: 20006.0
+SW2_001_09:
+  base:
+    material: STONE_SWORD
+    name: <#A7A7AD>Reforged Edge <#6B6666>[<#0046be>Lvl.18<#6B6666>]
+    displayed-type: Sword
+    attack-damage: 23.42
+    additional-toughness: 18.86
+    attack-speed: 1.6
+    defense: 21.36
+    lore:
+    - ' &7&o"Once shattered in battle, now restored'
+    - ' &7&oto its former glory with renewed strength'
+    - ' &7&oand resilience."'
+    abilities_lore:
+    - ' &6Empower &7(&eAttack&7)'
+    - ' &7Increase the next damage dealt by &e148%'
+    - ' &7Cooldown : &e3.2s&7, Mana Cost : &e9.6'
+    tier: rare
+    ability:
+      ability1:
+        type: ECHO_ATTACK
+        mode: ATTACK
+        damage-percent: 148.0
+        cooldown: 3.2
+        mana: 9.6
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    unbreakable: true
+    revision-id: 1
+    disable-interaction: true
+    item-batch: Starter
+    custom-model-data: 20006.0
+SW2_001_10:
+  base:
+    material: STONE_SWORD
+    name: <#A7A7AD>Reforged Edge <#6B6666>[<#004ab3>Lvl.19<#6B6666>]
+    displayed-type: Sword
+    attack-damage: 24.47
+    additional-toughness: 19.93
+    attack-speed: 1.6
+    defense: 22.43
+    lore:
+    - ' &7&o"Once shattered in battle, now restored'
+    - ' &7&oto its former glory with renewed strength'
+    - ' &7&oand resilience."'
+    abilities_lore:
+    - ' &6Empower &7(&eAttack&7)'
+    - ' &7Increase the next damage dealt by &e148%'
+    - ' &7Cooldown : &e3.2s&7, Mana Cost : &e9.6'
+    tier: rare
+    ability:
+      ability1:
+        type: ECHO_ATTACK
+        mode: ATTACK
+        damage-percent: 148.0
+        cooldown: 3.2
+        mana: 9.6
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    unbreakable: true
+    revision-id: 1
+    disable-interaction: true
+    item-batch: Starter
+    custom-model-data: 20006.0
+SW2_001_11:
+  base:
+    material: STONE_SWORD
+    name: <#A7A7AD>Reforged Edge <#6B6666>[<#004da6>Lvl.20<#6B6666>]
+    displayed-type: Sword
+    attack-damage: 25.55
+    additional-toughness: 21.04
+    attack-speed: 1.6
+    defense: 23.54
+    lore:
+    - ' &7&o"Once shattered in battle, now restored'
+    - ' &7&oto its former glory with renewed strength'
+    - ' &7&oand resilience."'
+    abilities_lore:
+    - ' &6Empower &7(&eAttack&7)'
+    - ' &7Increase the next damage dealt by &e148%'
+    - ' &7Cooldown : &e3.2s&7, Mana Cost : &e9.6'
+    tier: rare
+    ability:
+      ability1:
+        type: ECHO_ATTACK
+        mode: ATTACK
+        damage-percent: 148.0
+        cooldown: 3.2
+        mana: 9.6
     disable-enchanting: true
     disable-smithing: true
     disable-smelting: true

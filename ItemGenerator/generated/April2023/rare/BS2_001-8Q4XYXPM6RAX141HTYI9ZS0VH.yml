@@ -1,0 +1,431 @@
+# Template: BS2_001_XXX. Digest: 40cef8f6b4f45897e50d29b4aa243873. Base36: 3U4IMZR37AMPIX5PWT1HHFWQB
+# Generated at 03/05/2023 11:55:05. Digest: 9364ab9d0f91ad7293f1e754cdc95a6d. Base36: 8Q4XYXPM6RAX141HTYI9ZS0VH.
+BS2_001_01:
+  base:
+    material: STONE_SWORD
+    name: <#00FF7F>Exalted Hausmarchen <#6B6666>[<#c50029>Lvl.10<#6B6666>]
+    displayed-type: Broadsword
+    tier: rare
+    attack-damage: 17.5
+    attack-speed: 1.3
+    critical-strike-chance: 12.92
+    critical-strike-power: 91.19
+    skill-critical-strike-chance: 16.19
+    skill-critical-strike-power: 57.52
+    movement-speed: -0.116
+    ability:
+      ability1:
+        type: CIRCULAR_SLASH
+        mode: RIGHT_CLICK
+        cooldown: 8.0
+        knockback: 0.0
+        radius: 4.0
+        damage: 7.4
+        mana: 10.0
+    lore:
+    - ' &7&o"Majestic broadsword imbued with the power of'
+    - ' &7&onature, its emerald blade infused with the essence'
+    - ' &7&oof the earth and the strength of the mountains."'
+    abilities_lore:
+    - ' &6Earthquake &7(&eRight Click&7)'
+    - ' &7Deal &e7.4 &7damage in a &e4&7 radius circle'
+    - ' &7Cooldown : &e8.0s&7, Mana Cost : &e10.0'
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    unbreakable: true
+    custom-model-data: 20001.0
+    revision-id: 1
+    item-batch: Starter
+BS2_001_02:
+  base:
+    material: STONE_SWORD
+    name: <#00FF7F>Exalted Hausmarchen <#6B6666>[<#cb0045>Lvl.11<#6B6666>]
+    displayed-type: Broadsword
+    tier: rare
+    attack-damage: 18.31
+    attack-speed: 1.3
+    critical-strike-chance: 13.72
+    critical-strike-power: 92.02
+    skill-critical-strike-chance: 17.02
+    skill-critical-strike-power: 58.49
+    movement-speed: -0.125
+    ability:
+      ability1:
+        type: CIRCULAR_SLASH
+        mode: RIGHT_CLICK
+        cooldown: 7.7
+        knockback: 0.0
+        radius: 4.0
+        damage: 7.7
+        mana: 9.6
+    lore:
+    - ' &7&o"Majestic broadsword imbued with the power of'
+    - ' &7&onature, its emerald blade infused with the essence'
+    - ' &7&oof the earth and the strength of the mountains."'
+    abilities_lore:
+    - ' &6Earthquake &7(&eRight Click&7)'
+    - ' &7Deal &e7.7 &7damage in a &e4&7 radius circle'
+    - ' &7Cooldown : &e7.7s&7, Mana Cost : &e9.6'
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    unbreakable: true
+    custom-model-data: 20001.0
+    revision-id: 1
+    item-batch: Starter
+BS2_001_03:
+  base:
+    material: STONE_SWORD
+    name: <#00FF7F>Exalted Hausmarchen <#6B6666>[<#c90065>Lvl.12<#6B6666>]
+    displayed-type: Broadsword
+    tier: rare
+    attack-damage: 19.15
+    attack-speed: 1.3
+    critical-strike-chance: 14.55
+    critical-strike-power: 92.88
+    skill-critical-strike-chance: 17.88
+    skill-critical-strike-power: 59.51
+    movement-speed: -0.134
+    ability:
+      ability1:
+        type: CIRCULAR_SLASH
+        mode: RIGHT_CLICK
+        cooldown: 7.4
+        knockback: 0.0
+        radius: 5.0
+        damage: 8.0
+        mana: 9.2
+    lore:
+    - ' &7&o"Majestic broadsword imbued with the power of'
+    - ' &7&onature, its emerald blade infused with the essence'
+    - ' &7&oof the earth and the strength of the mountains."'
+    abilities_lore:
+    - ' &6Earthquake &7(&eRight Click&7)'
+    - ' &7Deal &e8.0 &7damage in a &e5&7 radius circle'
+    - ' &7Cooldown : &e7.4s&7, Mana Cost : &e9.2'
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    unbreakable: true
+    custom-model-data: 20001.0
+    revision-id: 1
+    item-batch: Starter
+BS2_001_04:
+  base:
+    material: STONE_SWORD
+    name: <#00FF7F>Exalted Hausmarchen <#6B6666>[<#bc0088>Lvl.13<#6B6666>]
+    displayed-type: Broadsword
+    tier: rare
+    attack-damage: 20.02
+    attack-speed: 1.3
+    critical-strike-chance: 15.4
+    critical-strike-power: 93.76
+    skill-critical-strike-chance: 18.76
+    skill-critical-strike-power: 60.55
+    movement-speed: -0.144
+    ability:
+      ability1:
+        type: CIRCULAR_SLASH
+        mode: RIGHT_CLICK
+        cooldown: 7.1
+        knockback: 0.0
+        radius: 5.0
+        damage: 8.3
+        mana: 8.8
+    lore:
+    - ' &7&o"Majestic broadsword imbued with the power of'
+    - ' &7&onature, its emerald blade infused with the essence'
+    - ' &7&oof the earth and the strength of the mountains."'
+    abilities_lore:
+    - ' &6Earthquake &7(&eRight Click&7)'
+    - ' &7Deal &e8.3 &7damage in a &e5&7 radius circle'
+    - ' &7Cooldown : &e7.1s&7, Mana Cost : &e8.8'
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    unbreakable: true
+    custom-model-data: 20001.0
+    revision-id: 1
+    item-batch: Starter
+BS2_001_05:
+  base:
+    material: STONE_SWORD
+    name: <#00FF7F>Exalted Hausmarchen <#6B6666>[<#a100ab>Lvl.14<#6B6666>]
+    displayed-type: Broadsword
+    tier: rare
+    attack-damage: 20.91
+    attack-speed: 1.3
+    critical-strike-chance: 16.29
+    critical-strike-power: 94.68
+    skill-critical-strike-chance: 19.68
+    skill-critical-strike-power: 61.63
+    movement-speed: -0.153
+    ability:
+      ability1:
+        type: CIRCULAR_SLASH
+        mode: RIGHT_CLICK
+        cooldown: 6.8
+        knockback: 0.0
+        radius: 6.0
+        damage: 8.6
+        mana: 8.4
+    lore:
+    - ' &7&o"Majestic broadsword imbued with the power of'
+    - ' &7&onature, its emerald blade infused with the essence'
+    - ' &7&oof the earth and the strength of the mountains."'
+    abilities_lore:
+    - ' &6Earthquake &7(&eRight Click&7)'
+    - ' &7Deal &e8.6 &7damage in a &e6&7 radius circle'
+    - ' &7Cooldown : &e6.8s&7, Mana Cost : &e8.4'
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    unbreakable: true
+    custom-model-data: 20001.0
+    revision-id: 1
+    item-batch: Starter
+BS2_001_06:
+  base:
+    material: STONE_SWORD
+    name: <#00FF7F>Exalted Hausmarchen <#6B6666>[<#7014cc>Lvl.15<#6B6666>]
+    displayed-type: Broadsword
+    tier: rare
+    attack-damage: 21.83
+    attack-speed: 1.3
+    critical-strike-chance: 17.2
+    critical-strike-power: 95.63
+    skill-critical-strike-chance: 20.63
+    skill-critical-strike-power: 62.74
+    movement-speed: -0.164
+    ability:
+      ability1:
+        type: CIRCULAR_SLASH
+        mode: RIGHT_CLICK
+        cooldown: 6.5
+        knockback: 0.0
+        radius: 6.0
+        damage: 8.9
+        mana: 8.0
+    lore:
+    - ' &7&o"Majestic broadsword imbued with the power of'
+    - ' &7&onature, its emerald blade infused with the essence'
+    - ' &7&oof the earth and the strength of the mountains."'
+    abilities_lore:
+    - ' &6Earthquake &7(&eRight Click&7)'
+    - ' &7Deal &e8.9 &7damage in a &e6&7 radius circle'
+    - ' &7Cooldown : &e6.5s&7, Mana Cost : &e8.0'
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    unbreakable: true
+    custom-model-data: 20001.0
+    revision-id: 1
+    item-batch: Starter
+BS2_001_07:
+  base:
+    material: STONE_SWORD
+    name: <#00FF7F>Exalted Hausmarchen <#6B6666>[<#4d31cb>Lvl.16<#6B6666>]
+    displayed-type: Broadsword
+    tier: rare
+    attack-damage: 22.79
+    attack-speed: 1.3
+    critical-strike-chance: 18.14
+    critical-strike-power: 96.6
+    skill-critical-strike-chance: 21.6
+    skill-critical-strike-power: 63.88
+    movement-speed: -0.174
+    ability:
+      ability1:
+        type: CIRCULAR_SLASH
+        mode: RIGHT_CLICK
+        cooldown: 6.2
+        knockback: 0.0
+        radius: 7.0
+        damage: 9.2
+        mana: 7.6
+    lore:
+    - ' &7&o"Majestic broadsword imbued with the power of'
+    - ' &7&onature, its emerald blade infused with the essence'
+    - ' &7&oof the earth and the strength of the mountains."'
+    abilities_lore:
+    - ' &6Earthquake &7(&eRight Click&7)'
+    - ' &7Deal &e9.2 &7damage in a &e7&7 radius circle'
+    - ' &7Cooldown : &e6.2s&7, Mana Cost : &e7.6'
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    unbreakable: true
+    custom-model-data: 20001.0
+    revision-id: 1
+    item-batch: Starter
+BS2_001_08:
+  base:
+    material: STONE_SWORD
+    name: <#00FF7F>Exalted Hausmarchen <#6B6666>[<#1c3ec6>Lvl.17<#6B6666>]
+    displayed-type: Broadsword
+    tier: rare
+    attack-damage: 23.77
+    attack-speed: 1.3
+    critical-strike-chance: 19.11
+    critical-strike-power: 97.61
+    skill-critical-strike-chance: 22.61
+    skill-critical-strike-power: 65.05
+    movement-speed: -0.184
+    ability:
+      ability1:
+        type: CIRCULAR_SLASH
+        mode: RIGHT_CLICK
+        cooldown: 5.9
+        knockback: 0.0
+        radius: 7.0
+        damage: 9.5
+        mana: 7.2
+    lore:
+    - ' &7&o"Majestic broadsword imbued with the power of'
+    - ' &7&onature, its emerald blade infused with the essence'
+    - ' &7&oof the earth and the strength of the mountains."'
+    abilities_lore:
+    - ' &6Earthquake &7(&eRight Click&7)'
+    - ' &7Deal &e9.5 &7damage in a &e7&7 radius circle'
+    - ' &7Cooldown : &e5.9s&7, Mana Cost : &e7.2'
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    unbreakable: true
+    custom-model-data: 20001.0
+    revision-id: 1
+    item-batch: Starter
+BS2_001_09:
+  base:
+    material: STONE_SWORD
+    name: <#00FF7F>Exalted Hausmarchen <#6B6666>[<#0046be>Lvl.18<#6B6666>]
+    displayed-type: Broadsword
+    tier: rare
+    attack-damage: 24.77
+    attack-speed: 1.3
+    critical-strike-chance: 20.11
+    critical-strike-power: 98.64
+    skill-critical-strike-chance: 23.64
+    skill-critical-strike-power: 66.26
+    movement-speed: -0.195
+    ability:
+      ability1:
+        type: CIRCULAR_SLASH
+        mode: RIGHT_CLICK
+        cooldown: 5.6
+        knockback: 0.0
+        radius: 8.0
+        damage: 9.8
+        mana: 6.8
+    lore:
+    - ' &7&o"Majestic broadsword imbued with the power of'
+    - ' &7&onature, its emerald blade infused with the essence'
+    - ' &7&oof the earth and the strength of the mountains."'
+    abilities_lore:
+    - ' &6Earthquake &7(&eRight Click&7)'
+    - ' &7Deal &e9.8 &7damage in a &e8&7 radius circle'
+    - ' &7Cooldown : &e5.6s&7, Mana Cost : &e6.8'
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    unbreakable: true
+    custom-model-data: 20001.0
+    revision-id: 1
+    item-batch: Starter
+BS2_001_10:
+  base:
+    material: STONE_SWORD
+    name: <#00FF7F>Exalted Hausmarchen <#6B6666>[<#004ab3>Lvl.19<#6B6666>]
+    displayed-type: Broadsword
+    tier: rare
+    attack-damage: 25.81
+    attack-speed: 1.3
+    critical-strike-chance: 21.13
+    critical-strike-power: 99.7
+    skill-critical-strike-chance: 24.7
+    skill-critical-strike-power: 67.49
+    movement-speed: -0.207
+    ability:
+      ability1:
+        type: CIRCULAR_SLASH
+        mode: RIGHT_CLICK
+        cooldown: 5.6
+        knockback: 0.0
+        radius: 8.0
+        damage: 9.8
+        mana: 6.8
+    lore:
+    - ' &7&o"Majestic broadsword imbued with the power of'
+    - ' &7&onature, its emerald blade infused with the essence'
+    - ' &7&oof the earth and the strength of the mountains."'
+    abilities_lore:
+    - ' &6Earthquake &7(&eRight Click&7)'
+    - ' &7Deal &e9.8 &7damage in a &e8&7 radius circle'
+    - ' &7Cooldown : &e5.6s&7, Mana Cost : &e6.8'
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    unbreakable: true
+    custom-model-data: 20001.0
+    revision-id: 1
+    item-batch: Starter
+BS2_001_11:
+  base:
+    material: STONE_SWORD
+    name: <#00FF7F>Exalted Hausmarchen <#6B6666>[<#004da6>Lvl.20<#6B6666>]
+    displayed-type: Broadsword
+    tier: rare
+    attack-damage: 26.88
+    attack-speed: 1.3
+    critical-strike-chance: 22.19
+    critical-strike-power: 100.79
+    skill-critical-strike-chance: 25.79
+    skill-critical-strike-power: 68.76
+    movement-speed: -0.218
+    ability:
+      ability1:
+        type: CIRCULAR_SLASH
+        mode: RIGHT_CLICK
+        cooldown: 5.6
+        knockback: 0.0
+        radius: 8.0
+        damage: 9.8
+        mana: 6.8
+    lore:
+    - ' &7&o"Majestic broadsword imbued with the power of'
+    - ' &7&onature, its emerald blade infused with the essence'
+    - ' &7&oof the earth and the strength of the mountains."'
+    abilities_lore:
+    - ' &6Earthquake &7(&eRight Click&7)'
+    - ' &7Deal &e9.8 &7damage in a &e8&7 radius circle'
+    - ' &7Cooldown : &e5.6s&7, Mana Cost : &e6.8'
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    unbreakable: true
+    custom-model-data: 20001.0
+    revision-id: 1
+    item-batch: Starter

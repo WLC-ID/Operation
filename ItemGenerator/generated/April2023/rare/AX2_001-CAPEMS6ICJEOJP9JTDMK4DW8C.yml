@@ -1,18 +1,18 @@
-# Template: AX2_001_XXX. Digest: 655ea465080c5a69188bd1c84b7fe1a8. Base36: 601Q44Y2T66LNAKFKS4JRVKQ0
-# Generated at 02/05/2023 01:48:14. Digest: 40c21103e124a07dfb68d64b5b01c9a0. Base36: 3U0NDXMQE9RAHNL246LLURLWG.
+# Template: AX2_001_XXX. Digest: 40c21103e124a07dfb68d64b5b01c9a0. Base36: 3U0NDXMQE9RAHNL246LLURLWG
+# Generated at 03/05/2023 11:55:05. Digest: cfb7b1311ad0011e80b4e71bf512d86c. Base36: CAPEMS6ICJEOJP9JTDMK4DW8C.
 AX2_001_01:
   base:
     material: STONE_AXE
-    name: <#FF8C00>Berserker Axe <#6B6666>[<#23f108>Lvl.1<#6B6666>]
+    name: <#FF8C00>Berserker Axe <#6B6666>[<#c50029>Lvl.10<#6B6666>]
     displayed-type: Axe
-    attack-damage: 16.71
-    pve-damage: 21.05
-    pvp-damage: -50.0
+    attack-damage: 17.53
+    pve-damage: 21.19
+    pvp-damage: -49.7
     lore:
     - ' &7&o"A fearsome weapon of untold power."'
     attack-speed: 1.3
-    critical-strike-chance: 11.69
-    critical-strike-power: 82.69
+    critical-strike-chance: 12.58
+    critical-strike-power: 83.47
     tier: rare
     disable-enchanting: true
     disable-smithing: true
@@ -44,16 +44,16 @@ AX2_001_01:
 AX2_001_02:
   base:
     material: STONE_AXE
-    name: <#FF8C00>Berserker Axe <#6B6666>[<#73da00>Lvl.2<#6B6666>]
+    name: <#FF8C00>Berserker Axe <#6B6666>[<#cb0045>Lvl.11<#6B6666>]
     displayed-type: Axe
-    attack-damage: 17.37
-    pve-damage: 22.8
-    pvp-damage: -48.25
+    attack-damage: 18.34
+    pve-damage: 22.02
+    pvp-damage: -48.86
     lore:
     - ' &7&o"A fearsome weapon of untold power."'
     attack-speed: 1.3
-    critical-strike-chance: 12.32
-    critical-strike-power: 83.32
+    critical-strike-chance: 13.4
+    critical-strike-power: 84.28
     tier: rare
     disable-enchanting: true
     disable-smithing: true
@@ -85,16 +85,16 @@ AX2_001_02:
 AX2_001_03:
   base:
     material: STONE_AXE
-    name: <#FF8C00>Berserker Axe <#6B6666>[<#96c100>Lvl.3<#6B6666>]
+    name: <#FF8C00>Berserker Axe <#6B6666>[<#c90065>Lvl.12<#6B6666>]
     displayed-type: Axe
-    attack-damage: 18.05
-    pve-damage: 24.75
-    pvp-damage: -46.3
+    attack-damage: 19.18
+    pve-damage: 22.88
+    pvp-damage: -47.99
     lore:
     - ' &7&o"A fearsome weapon of untold power."'
     attack-speed: 1.3
-    critical-strike-chance: 12.98
-    critical-strike-power: 83.98
+    critical-strike-chance: 14.24
+    critical-strike-power: 85.11
     tier: rare
     disable-enchanting: true
     disable-smithing: true
@@ -126,16 +126,16 @@ AX2_001_03:
 AX2_001_04:
   base:
     material: STONE_AXE
-    name: <#FF8C00>Berserker Axe <#6B6666>[<#aca800>Lvl.4<#6B6666>]
+    name: <#FF8C00>Berserker Axe <#6B6666>[<#bc0088>Lvl.13<#6B6666>]
     displayed-type: Axe
-    attack-damage: 18.77
-    pve-damage: 26.88
-    pvp-damage: -44.17
+    attack-damage: 20.05
+    pve-damage: 23.76
+    pvp-damage: -47.09
     lore:
     - ' &7&o"A fearsome weapon of untold power."'
     attack-speed: 1.3
-    critical-strike-chance: 13.68
-    critical-strike-power: 84.68
+    critical-strike-chance: 15.12
+    critical-strike-power: 85.97
     tier: rare
     disable-enchanting: true
     disable-smithing: true
@@ -167,16 +167,16 @@ AX2_001_04:
 AX2_001_05:
   base:
     material: STONE_AXE
-    name: <#FF8C00>Berserker Axe <#6B6666>[<#bb8e00>Lvl.5<#6B6666>]
+    name: <#FF8C00>Berserker Axe <#6B6666>[<#a100ab>Lvl.14<#6B6666>]
     displayed-type: Axe
-    attack-damage: 19.52
-    pve-damage: 29.21
-    pvp-damage: -41.84
+    attack-damage: 20.94
+    pve-damage: 24.68
+    pvp-damage: -46.16
     lore:
     - ' &7&o"A fearsome weapon of untold power."'
     attack-speed: 1.3
-    critical-strike-chance: 14.4
-    critical-strike-power: 85.4
+    critical-strike-chance: 16.02
+    critical-strike-power: 86.86
     tier: rare
     disable-enchanting: true
     disable-smithing: true
@@ -208,16 +208,16 @@ AX2_001_05:
 AX2_001_06:
   base:
     material: STONE_AXE
-    name: <#FF8C00>Berserker Axe <#6B6666>[<#c37300>Lvl.6<#6B6666>]
+    name: <#FF8C00>Berserker Axe <#6B6666>[<#7014cc>Lvl.15<#6B6666>]
     displayed-type: Axe
-    attack-damage: 20.3
-    pve-damage: 31.73
-    pvp-damage: -39.32
+    attack-damage: 21.87
+    pve-damage: 25.63
+    pvp-damage: -45.2
     lore:
     - ' &7&o"A fearsome weapon of untold power."'
     attack-speed: 1.3
-    critical-strike-chance: 15.16
-    critical-strike-power: 86.16
+    critical-strike-chance: 16.95
+    critical-strike-power: 87.78
     tier: rare
     disable-enchanting: true
     disable-smithing: true
@@ -249,16 +249,16 @@ AX2_001_06:
 AX2_001_07:
   base:
     material: STONE_AXE
-    name: <#FF8C00>Berserker Axe <#6B6666>[<#c55700>Lvl.7<#6B6666>]
+    name: <#FF8C00>Berserker Axe <#6B6666>[<#4d31cb>Lvl.16<#6B6666>]
     displayed-type: Axe
-    attack-damage: 21.11
-    pve-damage: 34.44
-    pvp-damage: -36.61
+    attack-damage: 22.82
+    pve-damage: 26.6
+    pvp-damage: -44.21
     lore:
     - ' &7&o"A fearsome weapon of untold power."'
     attack-speed: 1.3
-    critical-strike-chance: 15.94
-    critical-strike-power: 86.94
+    critical-strike-chance: 17.91
+    critical-strike-power: 88.73
     tier: rare
     disable-enchanting: true
     disable-smithing: true
@@ -284,6 +284,170 @@ AX2_001_07:
     - ' &7Increase the next damage dealt by &e100%'
     - ' &7and stun target for &e3.4s'
     - ' &7Cooldown : &e6s&7, Mana Cost : &e6.8'
+    revision-id: 1
+    custom-model-data: 20001.0
+    item-batch: Starter
+AX2_001_08:
+  base:
+    material: STONE_AXE
+    name: <#FF8C00>Berserker Axe <#6B6666>[<#1c3ec6>Lvl.17<#6B6666>]
+    displayed-type: Axe
+    attack-damage: 23.81
+    pve-damage: 27.61
+    pvp-damage: -43.19
+    lore:
+    - ' &7&o"A fearsome weapon of untold power."'
+    attack-speed: 1.3
+    critical-strike-chance: 18.9
+    critical-strike-power: 89.71
+    tier: rare
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    disable-interaction: true
+    unbreakable: true
+    ability:
+      ability1:
+        type: ECHO_ATTACK
+        mode: ATTACK
+        damage-percent: 104.0
+        cooldown: 6
+        mana: 7.0
+      ability2:
+        type: STUN
+        mode: ATTACK
+        duration: 3.6
+        cooldown: 6
+    abilities_lore:
+    - ' &6Heavy Smash &7(&eAttack&7)'
+    - ' &7Increase the next damage dealt by &e104%'
+    - ' &7and stun target for &e3.6s'
+    - ' &7Cooldown : &e6s&7, Mana Cost : &e7.0'
+    revision-id: 1
+    custom-model-data: 20001.0
+    item-batch: Starter
+AX2_001_09:
+  base:
+    material: STONE_AXE
+    name: <#FF8C00>Berserker Axe <#6B6666>[<#0046be>Lvl.18<#6B6666>]
+    displayed-type: Axe
+    attack-damage: 24.82
+    pve-damage: 28.64
+    pvp-damage: -42.14
+    lore:
+    - ' &7&o"A fearsome weapon of untold power."'
+    attack-speed: 1.3
+    critical-strike-chance: 19.92
+    critical-strike-power: 90.71
+    tier: rare
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    disable-interaction: true
+    unbreakable: true
+    ability:
+      ability1:
+        type: ECHO_ATTACK
+        mode: ATTACK
+        damage-percent: 108.0
+        cooldown: 6
+        mana: 7.2
+      ability2:
+        type: STUN
+        mode: ATTACK
+        duration: 3.8
+        cooldown: 6
+    abilities_lore:
+    - ' &6Heavy Smash &7(&eAttack&7)'
+    - ' &7Increase the next damage dealt by &e108%'
+    - ' &7and stun target for &e3.8s'
+    - ' &7Cooldown : &e6s&7, Mana Cost : &e7.2'
+    revision-id: 1
+    custom-model-data: 20001.0
+    item-batch: Starter
+AX2_001_10:
+  base:
+    material: STONE_AXE
+    name: <#FF8C00>Berserker Axe <#6B6666>[<#004ab3>Lvl.19<#6B6666>]
+    displayed-type: Axe
+    attack-damage: 25.86
+    pve-damage: 29.7
+    pvp-damage: -41.07
+    lore:
+    - ' &7&o"A fearsome weapon of untold power."'
+    attack-speed: 1.3
+    critical-strike-chance: 20.97
+    critical-strike-power: 91.74
+    tier: rare
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    disable-interaction: true
+    unbreakable: true
+    ability:
+      ability1:
+        type: ECHO_ATTACK
+        mode: ATTACK
+        damage-percent: 108.0
+        cooldown: 6
+        mana: 7.2
+      ability2:
+        type: STUN
+        mode: ATTACK
+        duration: 3.8
+        cooldown: 6
+    abilities_lore:
+    - ' &6Heavy Smash &7(&eAttack&7)'
+    - ' &7Increase the next damage dealt by &e108%'
+    - ' &7and stun target for &e3.8s'
+    - ' &7Cooldown : &e6s&7, Mana Cost : &e7.2'
+    revision-id: 1
+    custom-model-data: 20001.0
+    item-batch: Starter
+AX2_001_11:
+  base:
+    material: STONE_AXE
+    name: <#FF8C00>Berserker Axe <#6B6666>[<#004da6>Lvl.20<#6B6666>]
+    displayed-type: Axe
+    attack-damage: 26.92
+    pve-damage: 30.79
+    pvp-damage: -39.96
+    lore:
+    - ' &7&o"A fearsome weapon of untold power."'
+    attack-speed: 1.3
+    critical-strike-chance: 22.05
+    critical-strike-power: 92.8
+    tier: rare
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    disable-interaction: true
+    unbreakable: true
+    ability:
+      ability1:
+        type: ECHO_ATTACK
+        mode: ATTACK
+        damage-percent: 108.0
+        cooldown: 6
+        mana: 7.2
+      ability2:
+        type: STUN
+        mode: ATTACK
+        duration: 3.8
+        cooldown: 6
+    abilities_lore:
+    - ' &6Heavy Smash &7(&eAttack&7)'
+    - ' &7Increase the next damage dealt by &e108%'
+    - ' &7and stun target for &e3.8s'
+    - ' &7Cooldown : &e6s&7, Mana Cost : &e7.2'
     revision-id: 1
     custom-model-data: 20001.0
     item-batch: Starter
