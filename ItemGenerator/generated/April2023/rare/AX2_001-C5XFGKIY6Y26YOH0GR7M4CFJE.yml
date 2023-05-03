@@ -1,18 +1,18 @@
-# Template: AX2_001_XXX. Digest: cfb7b1311ad0011e80b4e71bf512d86c. Base36: CAPEMS6ICJEOJP9JTDMK4DW8C
-# Generated at 03/05/2023 13:39:25. Digest: aafde5830e029fdb57cb981e2dd79b6a. Base36: A4FKMRQ2JGDQLSCUIK1GZ8TPM.
+# Template: AX2_001_XXX. Digest: aafde5830e029fdb57cb981e2dd79b6a. Base36: A4FKMRQ2JGDQLSCUIK1GZ8TPM
+# Generated at 03/05/2023 15:16:26. Digest: cd79e29389b5219887d64cb02b83a5aa. Base36: C5XFGKIY6Y26YOH0GR7M4CFJE.
 AX2_001_01:
   base:
     material: STONE_AXE
     name: <#FF8C00>Berserker Axe <#6B6666>[<#ba0909>Lvl.10<#6B6666>]
     displayed-type: Axe
-    attack-damage: 17.53
-    pve-damage: 21.19
-    pvp-damage: -49.7
+    attack-damage: 16.11
+    pve-damage: 19.75
+    pvp-damage: -51.15
     lore:
     - ' &7&o"A fearsome weapon of untold power."'
     attack-speed: 1.3
-    critical-strike-chance: 12.58
-    critical-strike-power: 83.47
+    critical-strike-chance: 11.16
+    critical-strike-power: 82.06
     tier: rare
     disable-enchanting: true
     disable-smithing: true
@@ -46,14 +46,14 @@ AX2_001_02:
     material: STONE_AXE
     name: <#FF8C00>Berserker Axe <#6B6666>[<#c0091f>Lvl.11<#6B6666>]
     displayed-type: Axe
-    attack-damage: 18.34
-    pve-damage: 22.02
-    pvp-damage: -48.86
+    attack-damage: 16.64
+    pve-damage: 20.3
+    pvp-damage: -50.59
     lore:
     - ' &7&o"A fearsome weapon of untold power."'
     attack-speed: 1.3
-    critical-strike-chance: 13.4
-    critical-strike-power: 84.28
+    critical-strike-chance: 11.7
+    critical-strike-power: 82.59
     tier: rare
     disable-enchanting: true
     disable-smithing: true
@@ -87,14 +87,14 @@ AX2_001_03:
     material: STONE_AXE
     name: <#FF8C00>Berserker Axe <#6B6666>[<#c60936>Lvl.12<#6B6666>]
     displayed-type: Axe
-    attack-damage: 19.18
-    pve-damage: 22.88
-    pvp-damage: -47.99
+    attack-damage: 17.18
+    pve-damage: 20.86
+    pvp-damage: -50.01
     lore:
     - ' &7&o"A fearsome weapon of untold power."'
     attack-speed: 1.3
-    critical-strike-chance: 14.24
-    critical-strike-power: 85.11
+    critical-strike-chance: 12.24
+    critical-strike-power: 83.12
     tier: rare
     disable-enchanting: true
     disable-smithing: true
@@ -128,14 +128,14 @@ AX2_001_04:
     material: STONE_AXE
     name: <#FF8C00>Berserker Axe <#6B6666>[<#cd094f>Lvl.13<#6B6666>]
     displayed-type: Axe
-    attack-damage: 20.05
-    pve-damage: 23.76
-    pvp-damage: -47.09
+    attack-damage: 17.72
+    pve-damage: 21.43
+    pvp-damage: -49.43
     lore:
     - ' &7&o"A fearsome weapon of untold power."'
     attack-speed: 1.3
-    critical-strike-chance: 15.12
-    critical-strike-power: 85.97
+    critical-strike-chance: 12.79
+    critical-strike-power: 83.65
     tier: rare
     disable-enchanting: true
     disable-smithing: true
@@ -169,14 +169,14 @@ AX2_001_05:
     material: STONE_AXE
     name: <#FF8C00>Berserker Axe <#6B6666>[<#d3096a>Lvl.14<#6B6666>]
     displayed-type: Axe
-    attack-damage: 20.94
-    pve-damage: 24.68
-    pvp-damage: -46.16
+    attack-damage: 18.26
+    pve-damage: 22.0
+    pvp-damage: -48.84
     lore:
     - ' &7&o"A fearsome weapon of untold power."'
     attack-speed: 1.3
-    critical-strike-chance: 16.02
-    critical-strike-power: 86.86
+    critical-strike-chance: 13.34
+    critical-strike-power: 84.19
     tier: rare
     disable-enchanting: true
     disable-smithing: true
@@ -210,14 +210,14 @@ AX2_001_06:
     material: STONE_AXE
     name: <#FF8C00>Berserker Axe <#6B6666>[<#d90986>Lvl.15<#6B6666>]
     displayed-type: Axe
-    attack-damage: 21.87
-    pve-damage: 25.63
-    pvp-damage: -45.2
+    attack-damage: 18.81
+    pve-damage: 22.57
+    pvp-damage: -48.24
     lore:
     - ' &7&o"A fearsome weapon of untold power."'
     attack-speed: 1.3
-    critical-strike-chance: 16.95
-    critical-strike-power: 87.78
+    critical-strike-chance: 13.89
+    critical-strike-power: 84.73
     tier: rare
     disable-enchanting: true
     disable-smithing: true
@@ -251,14 +251,14 @@ AX2_001_07:
     material: STONE_AXE
     name: <#FF8C00>Berserker Axe <#6B6666>[<#e009a3>Lvl.16<#6B6666>]
     displayed-type: Axe
-    attack-damage: 22.82
-    pve-damage: 26.6
-    pvp-damage: -44.21
+    attack-damage: 19.36
+    pve-damage: 23.15
+    pvp-damage: -47.64
     lore:
     - ' &7&o"A fearsome weapon of untold power."'
     attack-speed: 1.3
-    critical-strike-chance: 17.91
-    critical-strike-power: 88.73
+    critical-strike-chance: 14.45
+    critical-strike-power: 85.26
     tier: rare
     disable-enchanting: true
     disable-smithing: true
@@ -292,14 +292,14 @@ AX2_001_08:
     material: STONE_AXE
     name: <#FF8C00>Berserker Axe <#6B6666>[<#e609c2>Lvl.17<#6B6666>]
     displayed-type: Axe
-    attack-damage: 23.81
-    pve-damage: 27.61
-    pvp-damage: -43.19
+    attack-damage: 19.91
+    pve-damage: 23.73
+    pvp-damage: -47.03
     lore:
     - ' &7&o"A fearsome weapon of untold power."'
     attack-speed: 1.3
-    critical-strike-chance: 18.9
-    critical-strike-power: 89.71
+    critical-strike-chance: 15.01
+    critical-strike-power: 85.8
     tier: rare
     disable-enchanting: true
     disable-smithing: true
@@ -333,14 +333,14 @@ AX2_001_09:
     material: STONE_AXE
     name: <#FF8C00>Berserker Axe <#6B6666>[<#ec08e3>Lvl.18<#6B6666>]
     displayed-type: Axe
-    attack-damage: 24.82
-    pve-damage: 28.64
-    pvp-damage: -42.14
+    attack-damage: 20.46
+    pve-damage: 24.32
+    pvp-damage: -46.41
     lore:
     - ' &7&o"A fearsome weapon of untold power."'
     attack-speed: 1.3
-    critical-strike-chance: 19.92
-    critical-strike-power: 90.71
+    critical-strike-chance: 15.57
+    critical-strike-power: 86.34
     tier: rare
     disable-enchanting: true
     disable-smithing: true
@@ -374,14 +374,14 @@ AX2_001_10:
     material: STONE_AXE
     name: <#FF8C00>Berserker Axe <#6B6666>[<#e008f3>Lvl.19<#6B6666>]
     displayed-type: Axe
-    attack-damage: 25.86
-    pve-damage: 29.7
-    pvp-damage: -41.07
+    attack-damage: 21.01
+    pve-damage: 24.91
+    pvp-damage: -45.79
     lore:
     - ' &7&o"A fearsome weapon of untold power."'
     attack-speed: 1.3
-    critical-strike-chance: 20.97
-    critical-strike-power: 91.74
+    critical-strike-chance: 16.14
+    critical-strike-power: 86.89
     tier: rare
     disable-enchanting: true
     disable-smithing: true
@@ -415,14 +415,14 @@ AX2_001_11:
     material: STONE_AXE
     name: <#FF8C00>Berserker Axe <#6B6666>[<#c80af7>Lvl.20<#6B6666>]
     displayed-type: Axe
-    attack-damage: 26.92
-    pve-damage: 30.79
-    pvp-damage: -39.96
+    attack-damage: 21.56
+    pve-damage: 25.5
+    pvp-damage: -45.17
     lore:
     - ' &7&o"A fearsome weapon of untold power."'
     attack-speed: 1.3
-    critical-strike-chance: 22.05
-    critical-strike-power: 92.8
+    critical-strike-chance: 16.7
+    critical-strike-power: 87.43
     tier: rare
     disable-enchanting: true
     disable-smithing: true

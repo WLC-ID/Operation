@@ -66,7 +66,8 @@ class Generator:
         self.template_file_name = "!multiply-table.yml"
         self.modifier_folder = lambda rarity,item: f"./item/{rarity}/{item}"
         self.lambda_folder = lambda rarity,item: f"./lambda/{rarity}/{item}"
-        self.result_folder =  lambda rarity: f"./generated/{rarity}"
+        self.result_folder = None
+        self.default_result_folder = lambda rarity: f"./generated"
         
     def __load__(self):
         data = []
@@ -225,7 +226,10 @@ class Generator:
             del data[each]['level']
         
         resultDigest = self.__digest__(data)
-        result_file = self.result_folder(self.template_rarity)
+        if self.result_folder != None:
+            result_file = self.result_folder(self.template_rarity)
+        else:
+            result_file = self.default_result_folder(self.template_rarity)
         if not os.path.exists(result_file):
             os.makedirs(result_file)
         with open(f"{result_file}/{self.identifier}-{resultDigest['base36']}.yml", "w") as f:

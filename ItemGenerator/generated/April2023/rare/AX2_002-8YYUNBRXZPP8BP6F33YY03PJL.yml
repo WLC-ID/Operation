@@ -1,20 +1,20 @@
-# Template: AX2_002_XXX. Digest: d5726399cdc31c141b133e57019f42ac. Base36: CMWZRKV15N11HXLY0YFYU8O8C
-# Generated at 03/05/2023 13:39:25. Digest: fa878ad9d33b098b1064bf4bf2d020a9. Base36: ETY7HE87XZL84L8917BR9GHBD.
+# Template: AX2_002_XXX. Digest: fa878ad9d33b098b1064bf4bf2d020a9. Base36: ETY7HE87XZL84L8917BR9GHBD
+# Generated at 03/05/2023 15:16:26. Digest: 9789614f5bf69549f451800093064c11. Base36: 8YYUNBRXZPP8BP6F33YY03PJL.
 AX2_002_01:
   base:
     material: STONE_AXE
     name: <#FF8C00>Warbringer Axe <#6B6666>[<#d90986>Lvl.15<#6B6666>]
     displayed-type: Axe
-    attack-damage: 21.78
-    pve-damage: -50.2
-    pvp-damage: 25.63
-    movement-speed: -0.202
+    attack-damage: 18.59
+    pve-damage: -53.48
+    pvp-damage: 22.38
+    movement-speed: -0.166
     lore:
     - ' &7&o"Mighty weapon of the bravest warriors,'
     - ' &7&ocapable of having a indescribable power."'
     attack-speed: 1.1
-    critical-strike-chance: 16.78
-    critical-strike-power: 87.95
+    critical-strike-chance: 13.59
+    critical-strike-power: 84.73
     tier: rare
     disable-enchanting: true
     disable-smithing: true
@@ -43,16 +43,16 @@ AX2_002_02:
     material: STONE_AXE
     name: <#FF8C00>Warbringer Axe <#6B6666>[<#e009a3>Lvl.16<#6B6666>]
     displayed-type: Axe
-    attack-damage: 22.73
-    pve-damage: -49.21
-    pvp-damage: 26.6
-    movement-speed: -0.214
+    attack-damage: 19.12
+    pve-damage: -52.92
+    pvp-damage: 22.93
+    movement-speed: -0.173
     lore:
     - ' &7&o"Mighty weapon of the bravest warriors,'
     - ' &7&ocapable of having a indescribable power."'
     attack-speed: 1.1
-    critical-strike-chance: 17.73
-    critical-strike-power: 88.91
+    critical-strike-chance: 14.12
+    critical-strike-power: 85.27
     tier: rare
     disable-enchanting: true
     disable-smithing: true
@@ -81,16 +81,16 @@ AX2_002_03:
     material: STONE_AXE
     name: <#FF8C00>Warbringer Axe <#6B6666>[<#e609c2>Lvl.17<#6B6666>]
     displayed-type: Axe
-    attack-damage: 23.71
-    pve-damage: -48.19
-    pvp-damage: 27.61
-    movement-speed: -0.226
+    attack-damage: 19.65
+    pve-damage: -52.34
+    pvp-damage: 23.49
+    movement-speed: -0.181
     lore:
     - ' &7&o"Mighty weapon of the bravest warriors,'
     - ' &7&ocapable of having a indescribable power."'
     attack-speed: 1.1
-    critical-strike-chance: 18.71
-    critical-strike-power: 89.9
+    critical-strike-chance: 14.65
+    critical-strike-power: 85.82
     tier: rare
     disable-enchanting: true
     disable-smithing: true
@@ -119,16 +119,16 @@ AX2_002_04:
     material: STONE_AXE
     name: <#FF8C00>Warbringer Axe <#6B6666>[<#ec08e3>Lvl.18<#6B6666>]
     displayed-type: Axe
-    attack-damage: 24.71
-    pve-damage: -47.14
-    pvp-damage: 28.64
-    movement-speed: -0.238
+    attack-damage: 20.18
+    pve-damage: -51.76
+    pvp-damage: 24.05
+    movement-speed: -0.191
     lore:
     - ' &7&o"Mighty weapon of the bravest warriors,'
     - ' &7&ocapable of having a indescribable power."'
     attack-speed: 1.1
-    critical-strike-chance: 19.71
-    critical-strike-power: 90.92
+    critical-strike-chance: 15.18
+    critical-strike-power: 86.36
     tier: rare
     disable-enchanting: true
     disable-smithing: true
@@ -157,16 +157,16 @@ AX2_002_05:
     material: STONE_AXE
     name: <#FF8C00>Warbringer Axe <#6B6666>[<#e008f3>Lvl.19<#6B6666>]
     displayed-type: Axe
-    attack-damage: 25.74
-    pve-damage: -46.07
-    pvp-damage: 29.7
-    movement-speed: -0.25
+    attack-damage: 20.72
+    pve-damage: -51.17
+    pvp-damage: 24.62
+    movement-speed: -0.201
     lore:
     - ' &7&o"Mighty weapon of the bravest warriors,'
     - ' &7&ocapable of having a indescribable power."'
     attack-speed: 1.1
-    critical-strike-chance: 20.74
-    critical-strike-power: 91.97
+    critical-strike-chance: 15.72
+    critical-strike-power: 86.92
     tier: rare
     disable-enchanting: true
     disable-smithing: true
@@ -195,16 +195,16 @@ AX2_002_06:
     material: STONE_AXE
     name: <#FF8C00>Warbringer Axe <#6B6666>[<#c80af7>Lvl.20<#6B6666>]
     displayed-type: Axe
-    attack-damage: 26.8
-    pve-damage: -44.96
-    pvp-damage: 30.79
-    movement-speed: -0.263
+    attack-damage: 21.26
+    pve-damage: -50.57
+    pvp-damage: 25.19
+    movement-speed: -0.213
     lore:
     - ' &7&o"Mighty weapon of the bravest warriors,'
     - ' &7&ocapable of having a indescribable power."'
     attack-speed: 1.1
-    critical-strike-chance: 21.8
-    critical-strike-power: 93.05
+    critical-strike-chance: 16.26
+    critical-strike-power: 87.47
     tier: rare
     disable-enchanting: true
     disable-smithing: true
@@ -233,16 +233,16 @@ AX2_002_07:
     material: STONE_AXE
     name: <#FF8C00>Warbringer Axe <#6B6666>[<#b50af7>Lvl.21<#6B6666>]
     displayed-type: Axe
-    attack-damage: 27.89
-    pve-damage: -43.83
-    pvp-damage: 31.91
-    movement-speed: -0.276
+    attack-damage: 21.79
+    pve-damage: -49.97
+    pvp-damage: 25.77
+    movement-speed: -0.227
     lore:
     - ' &7&o"Mighty weapon of the bravest warriors,'
     - ' &7&ocapable of having a indescribable power."'
     attack-speed: 1.1
-    critical-strike-chance: 22.89
-    critical-strike-power: 94.15
+    critical-strike-chance: 16.79
+    critical-strike-power: 88.03
     tier: rare
     disable-enchanting: true
     disable-smithing: true
@@ -271,16 +271,16 @@ AX2_002_08:
     material: STONE_AXE
     name: <#FF8C00>Warbringer Axe <#6B6666>[<#a20af7>Lvl.22<#6B6666>]
     displayed-type: Axe
-    attack-damage: 29.01
-    pve-damage: -42.66
-    pvp-damage: 33.06
-    movement-speed: -0.289
+    attack-damage: 22.33
+    pve-damage: -49.36
+    pvp-damage: 26.36
+    movement-speed: -0.242
     lore:
     - ' &7&o"Mighty weapon of the bravest warriors,'
     - ' &7&ocapable of having a indescribable power."'
     attack-speed: 1.1
-    critical-strike-chance: 24.01
-    critical-strike-power: 95.28
+    critical-strike-chance: 17.33
+    critical-strike-power: 88.59
     tier: rare
     disable-enchanting: true
     disable-smithing: true
@@ -309,16 +309,16 @@ AX2_002_09:
     material: STONE_AXE
     name: <#FF8C00>Warbringer Axe <#6B6666>[<#8f0af7>Lvl.23<#6B6666>]
     displayed-type: Axe
-    attack-damage: 30.16
-    pve-damage: -41.47
-    pvp-damage: 34.24
-    movement-speed: -0.303
+    attack-damage: 22.87
+    pve-damage: -48.74
+    pvp-damage: 26.94
+    movement-speed: -0.26
     lore:
     - ' &7&o"Mighty weapon of the bravest warriors,'
     - ' &7&ocapable of having a indescribable power."'
     attack-speed: 1.1
-    critical-strike-chance: 25.16
-    critical-strike-power: 96.45
+    critical-strike-chance: 17.87
+    critical-strike-power: 89.15
     tier: rare
     disable-enchanting: true
     disable-smithing: true
@@ -347,16 +347,16 @@ AX2_002_10:
     material: STONE_AXE
     name: <#FF8C00>Warbringer Axe <#6B6666>[<#7c0af7>Lvl.24<#6B6666>]
     displayed-type: Axe
-    attack-damage: 31.33
-    pve-damage: -40.24
-    pvp-damage: 35.44
-    movement-speed: -0.317
+    attack-damage: 23.42
+    pve-damage: -48.12
+    pvp-damage: 27.53
+    movement-speed: -0.28
     lore:
     - ' &7&o"Mighty weapon of the bravest warriors,'
     - ' &7&ocapable of having a indescribable power."'
     attack-speed: 1.1
-    critical-strike-chance: 26.33
-    critical-strike-power: 97.64
+    critical-strike-chance: 18.42
+    critical-strike-power: 89.71
     tier: rare
     disable-enchanting: true
     disable-smithing: true
@@ -385,16 +385,16 @@ AX2_002_11:
     material: STONE_AXE
     name: <#FF8C00>Warbringer Axe <#6B6666>[<#690af7>Lvl.25<#6B6666>]
     displayed-type: Axe
-    attack-damage: 32.54
-    pve-damage: -38.99
-    pvp-damage: 36.68
-    movement-speed: -0.331
+    attack-damage: 23.96
+    pve-damage: -47.49
+    pvp-damage: 28.13
+    movement-speed: -0.302
     lore:
     - ' &7&o"Mighty weapon of the bravest warriors,'
     - ' &7&ocapable of having a indescribable power."'
     attack-speed: 1.1
-    critical-strike-chance: 27.54
-    critical-strike-power: 98.86
+    critical-strike-chance: 18.96
+    critical-strike-power: 90.28
     tier: rare
     disable-enchanting: true
     disable-smithing: true

@@ -1,13 +1,13 @@
-# Template: SW2_002_XXX. Digest: bddb7a74ada43395c7ea827b923c7232. Base36: B8N234K0HT3AD31FFGZCCFHGY
-# Generated at 03/05/2023 13:39:25. Digest: 156e92cd4527997f92d17a36dd8b2faf. Base36: 19OE5P3RNPWMRL7BZI0S8T3N3.
+# Template: SW2_002_XXX. Digest: 156e92cd4527997f92d17a36dd8b2faf. Base36: 19OE5P3RNPWMRL7BZI0S8T3N3
+# Generated at 03/05/2023 15:16:26. Digest: fdf9811d0131dbd1689de67a00cbc0f9. Base36: F1AJJAYA3ML80UW3W4QMZS4JD.
 SW2_002_01:
   base:
     material: STONE_SWORD
     name: <#F5DEB3>Hallowed Blade <#6B6666>[<#d90986>Lvl.15<#6B6666>]
     displayed-type: Sword
-    attack-damage: 20.45
-    additional-health: 9.9
-    additional-regeneration: 9.0
+    attack-damage: 17.23
+    additional-health: 8.5
+    additional-regeneration: 7.6
     lore:
     - ' &7&o"Forged from pure silver and blessed'
     - ' &7&oby divine magic."'
@@ -42,9 +42,9 @@ SW2_002_02:
     material: STONE_SWORD
     name: <#F5DEB3>Hallowed Blade <#6B6666>[<#e009a3>Lvl.16<#6B6666>]
     displayed-type: Sword
-    attack-damage: 21.41
-    additional-health: 10.7
-    additional-regeneration: 9.8
+    attack-damage: 17.77
+    additional-health: 9.0
+    additional-regeneration: 8.1
     lore:
     - ' &7&o"Forged from pure silver and blessed'
     - ' &7&oby divine magic."'
@@ -79,9 +79,9 @@ SW2_002_03:
     material: STONE_SWORD
     name: <#F5DEB3>Hallowed Blade <#6B6666>[<#e609c2>Lvl.17<#6B6666>]
     displayed-type: Sword
-    attack-damage: 22.4
-    additional-health: 11.5
-    additional-regeneration: 10.6
+    attack-damage: 18.32
+    additional-health: 9.5
+    additional-regeneration: 8.6
     lore:
     - ' &7&o"Forged from pure silver and blessed'
     - ' &7&oby divine magic."'
@@ -116,9 +116,9 @@ SW2_002_04:
     material: STONE_SWORD
     name: <#F5DEB3>Hallowed Blade <#6B6666>[<#ec08e3>Lvl.18<#6B6666>]
     displayed-type: Sword
-    attack-damage: 23.42
-    additional-health: 12.3
-    additional-regeneration: 11.5
+    attack-damage: 18.86
+    additional-health: 10.0
+    additional-regeneration: 9.2
     lore:
     - ' &7&o"Forged from pure silver and blessed'
     - ' &7&oby divine magic."'
@@ -153,9 +153,9 @@ SW2_002_05:
     material: STONE_SWORD
     name: <#F5DEB3>Hallowed Blade <#6B6666>[<#e008f3>Lvl.19<#6B6666>]
     displayed-type: Sword
-    attack-damage: 24.47
-    additional-health: 13.2
-    additional-regeneration: 12.4
+    attack-damage: 19.42
+    additional-health: 10.5
+    additional-regeneration: 9.7
     lore:
     - ' &7&o"Forged from pure silver and blessed'
     - ' &7&oby divine magic."'
@@ -190,9 +190,9 @@ SW2_002_06:
     material: STONE_SWORD
     name: <#F5DEB3>Hallowed Blade <#6B6666>[<#c80af7>Lvl.20<#6B6666>]
     displayed-type: Sword
-    attack-damage: 25.55
-    additional-health: 14.1
-    additional-regeneration: 13.3
+    attack-damage: 19.97
+    additional-health: 11.1
+    additional-regeneration: 10.2
     lore:
     - ' &7&o"Forged from pure silver and blessed'
     - ' &7&oby divine magic."'
@@ -227,9 +227,9 @@ SW2_002_07:
     material: STONE_SWORD
     name: <#F5DEB3>Hallowed Blade <#6B6666>[<#b50af7>Lvl.21<#6B6666>]
     displayed-type: Sword
-    attack-damage: 26.65
-    additional-health: 15.1
-    additional-regeneration: 14.2
+    attack-damage: 20.53
+    additional-health: 11.6
+    additional-regeneration: 10.8
     lore:
     - ' &7&o"Forged from pure silver and blessed'
     - ' &7&oby divine magic."'
@@ -264,9 +264,9 @@ SW2_002_08:
     material: STONE_SWORD
     name: <#F5DEB3>Hallowed Blade <#6B6666>[<#a20af7>Lvl.22<#6B6666>]
     displayed-type: Sword
-    attack-damage: 27.78
-    additional-health: 16.0
-    additional-regeneration: 15.2
+    attack-damage: 21.09
+    additional-health: 12.1
+    additional-regeneration: 11.3
     lore:
     - ' &7&o"Forged from pure silver and blessed'
     - ' &7&oby divine magic."'
@@ -301,9 +301,9 @@ SW2_002_09:
     material: STONE_SWORD
     name: <#F5DEB3>Hallowed Blade <#6B6666>[<#8f0af7>Lvl.23<#6B6666>]
     displayed-type: Sword
-    attack-damage: 28.95
-    additional-health: 17.0
-    additional-regeneration: 16.2
+    attack-damage: 21.65
+    additional-health: 12.6
+    additional-regeneration: 11.8
     lore:
     - ' &7&o"Forged from pure silver and blessed'
     - ' &7&oby divine magic."'
@@ -338,9 +338,9 @@ SW2_002_10:
     material: STONE_SWORD
     name: <#F5DEB3>Hallowed Blade <#6B6666>[<#7c0af7>Lvl.24<#6B6666>]
     displayed-type: Sword
-    attack-damage: 30.14
-    additional-health: 18.0
-    additional-regeneration: 17.2
+    attack-damage: 22.21
+    additional-health: 13.2
+    additional-regeneration: 12.4
     lore:
     - ' &7&o"Forged from pure silver and blessed'
     - ' &7&oby divine magic."'
@@ -375,9 +375,9 @@ SW2_002_11:
     material: STONE_SWORD
     name: <#F5DEB3>Hallowed Blade <#6B6666>[<#690af7>Lvl.25<#6B6666>]
     displayed-type: Sword
-    attack-damage: 31.36
-    additional-health: 19.1
-    additional-regeneration: 18.3
+    attack-damage: 22.78
+    additional-health: 13.7
+    additional-regeneration: 12.9
     lore:
     - ' &7&o"Forged from pure silver and blessed'
     - ' &7&oby divine magic."'

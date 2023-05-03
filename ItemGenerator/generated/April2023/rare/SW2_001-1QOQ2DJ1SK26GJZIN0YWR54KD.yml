@@ -1,14 +1,14 @@
-# Template: SW2_001_XXX. Digest: 44edf325a2804a36547fa98b298ef52f. Base36: 42WPGQHSDB2RNZ7JRKTTN5RFZ
-# Generated at 03/05/2023 13:39:25. Digest: da52a13d1a5aa5e98502765ced581a1d. Base36: CXB3U3HNVGXN0RQ91JR3TVLZX.
+# Template: SW2_001_XXX. Digest: da52a13d1a5aa5e98502765ced581a1d. Base36: CXB3U3HNVGXN0RQ91JR3TVLZX
+# Generated at 03/05/2023 15:16:26. Digest: 1d69a2b8e26a4174fa2c3c0bb0bb415d. Base36: 1QOQ2DJ1SK26GJZIN0YWR54KD.
 SW2_001_01:
   base:
     material: STONE_SWORD
     name: <#A7A7AD>Reforged Edge <#6B6666>[<#ba0909>Lvl.10<#6B6666>]
     displayed-type: Sword
-    attack-damage: 16.08
-    additional-toughness: 11.3
+    attack-damage: 14.66
+    additional-toughness: 9.85
     attack-speed: 1.6
-    defense: 13.8
+    defense: 12.35
     lore:
     - ' &7&o"Once shattered in battle, now restored'
     - ' &7&oto its former glory with renewed strength'
@@ -40,10 +40,10 @@ SW2_001_02:
     material: STONE_SWORD
     name: <#A7A7AD>Reforged Edge <#6B6666>[<#c0091f>Lvl.11<#6B6666>]
     displayed-type: Sword
-    attack-damage: 16.9
-    additional-toughness: 12.14
+    attack-damage: 15.2
+    additional-toughness: 10.41
     attack-speed: 1.6
-    defense: 14.64
+    defense: 12.91
     lore:
     - ' &7&o"Once shattered in battle, now restored'
     - ' &7&oto its former glory with renewed strength'
@@ -75,10 +75,10 @@ SW2_001_03:
     material: STONE_SWORD
     name: <#A7A7AD>Reforged Edge <#6B6666>[<#c60936>Lvl.12<#6B6666>]
     displayed-type: Sword
-    attack-damage: 17.74
-    additional-toughness: 13.01
+    attack-damage: 15.74
+    additional-toughness: 10.99
     attack-speed: 1.6
-    defense: 15.51
+    defense: 13.49
     lore:
     - ' &7&o"Once shattered in battle, now restored'
     - ' &7&oto its former glory with renewed strength'
@@ -110,10 +110,10 @@ SW2_001_04:
     material: STONE_SWORD
     name: <#A7A7AD>Reforged Edge <#6B6666>[<#cd094f>Lvl.13<#6B6666>]
     displayed-type: Sword
-    attack-damage: 18.62
-    additional-toughness: 13.91
+    attack-damage: 16.29
+    additional-toughness: 11.57
     attack-speed: 1.6
-    defense: 16.41
+    defense: 14.07
     lore:
     - ' &7&o"Once shattered in battle, now restored'
     - ' &7&oto its former glory with renewed strength'
@@ -145,10 +145,10 @@ SW2_001_05:
     material: STONE_SWORD
     name: <#A7A7AD>Reforged Edge <#6B6666>[<#d3096a>Lvl.14<#6B6666>]
     displayed-type: Sword
-    attack-damage: 19.52
-    additional-toughness: 14.84
+    attack-damage: 16.84
+    additional-toughness: 12.16
     attack-speed: 1.6
-    defense: 17.34
+    defense: 14.66
     lore:
     - ' &7&o"Once shattered in battle, now restored'
     - ' &7&oto its former glory with renewed strength'
@@ -180,10 +180,10 @@ SW2_001_06:
     material: STONE_SWORD
     name: <#A7A7AD>Reforged Edge <#6B6666>[<#d90986>Lvl.15<#6B6666>]
     displayed-type: Sword
-    attack-damage: 20.45
-    additional-toughness: 15.8
+    attack-damage: 17.39
+    additional-toughness: 12.76
     attack-speed: 1.6
-    defense: 18.3
+    defense: 15.26
     lore:
     - ' &7&o"Once shattered in battle, now restored'
     - ' &7&oto its former glory with renewed strength'
@@ -215,10 +215,10 @@ SW2_001_07:
     material: STONE_SWORD
     name: <#A7A7AD>Reforged Edge <#6B6666>[<#e009a3>Lvl.16<#6B6666>]
     displayed-type: Sword
-    attack-damage: 21.41
-    additional-toughness: 16.79
+    attack-damage: 17.95
+    additional-toughness: 13.36
     attack-speed: 1.6
-    defense: 19.29
+    defense: 15.86
     lore:
     - ' &7&o"Once shattered in battle, now restored'
     - ' &7&oto its former glory with renewed strength'
@@ -250,10 +250,10 @@ SW2_001_08:
     material: STONE_SWORD
     name: <#A7A7AD>Reforged Edge <#6B6666>[<#e609c2>Lvl.17<#6B6666>]
     displayed-type: Sword
-    attack-damage: 22.4
-    additional-toughness: 17.81
+    attack-damage: 18.51
+    additional-toughness: 13.97
     attack-speed: 1.6
-    defense: 20.31
+    defense: 16.47
     lore:
     - ' &7&o"Once shattered in battle, now restored'
     - ' &7&oto its former glory with renewed strength'
@@ -285,10 +285,10 @@ SW2_001_09:
     material: STONE_SWORD
     name: <#A7A7AD>Reforged Edge <#6B6666>[<#ec08e3>Lvl.18<#6B6666>]
     displayed-type: Sword
-    attack-damage: 23.42
-    additional-toughness: 18.86
+    attack-damage: 19.07
+    additional-toughness: 14.59
     attack-speed: 1.6
-    defense: 21.36
+    defense: 17.09
     lore:
     - ' &7&o"Once shattered in battle, now restored'
     - ' &7&oto its former glory with renewed strength'
@@ -320,10 +320,10 @@ SW2_001_10:
     material: STONE_SWORD
     name: <#A7A7AD>Reforged Edge <#6B6666>[<#e008f3>Lvl.19<#6B6666>]
     displayed-type: Sword
-    attack-damage: 24.47
-    additional-toughness: 19.93
+    attack-damage: 19.64
+    additional-toughness: 15.21
     attack-speed: 1.6
-    defense: 22.43
+    defense: 17.71
     lore:
     - ' &7&o"Once shattered in battle, now restored'
     - ' &7&oto its former glory with renewed strength'
@@ -355,10 +355,10 @@ SW2_001_11:
     material: STONE_SWORD
     name: <#A7A7AD>Reforged Edge <#6B6666>[<#c80af7>Lvl.20<#6B6666>]
     displayed-type: Sword
-    attack-damage: 25.55
-    additional-toughness: 21.04
+    attack-damage: 20.2
+    additional-toughness: 15.83
     attack-speed: 1.6
-    defense: 23.54
+    defense: 18.33
     lore:
     - ' &7&o"Once shattered in battle, now restored'
     - ' &7&oto its former glory with renewed strength'

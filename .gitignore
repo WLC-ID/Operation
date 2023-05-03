@@ -7,6 +7,7 @@ generated-*.yml
 *.txt
 **/generated/rare/*.yml
 **/generated/common/*.yml
+**/generated/*.yml
 table.yml
 **/!multiply-table.yml
 **/compiled/**

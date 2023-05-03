@@ -1,5 +1,5 @@
-# Template: SW1_002_XXX. Digest: 3336c9b509f3f8f334daab3df28bd60e. Base36: 315GP20F89Y7HUZ4BYQI72HVY
-# Generated at 03/05/2023 13:39:25. Digest: df6d88437c3e2374563cfb491b0951a8. Base36: D86SUE7PETKB6IBWVO6HSWXIG.
+# Template: SW1_002_XXX. Digest: df6d88437c3e2374563cfb491b0951a8. Base36: D86SUE7PETKB6IBWVO6HSWXIG
+# Generated at 03/05/2023 15:16:25. Digest: 350a52f322f17d500264b3be6342556f. Base36: 351L8QLSXU4B9Y21KV9A7FQZZ.
 SW1_002_01:
   base:
     material: STONE_SWORD
@@ -43,8 +43,8 @@ SW1_002_02:
     material: STONE_SWORD
     name: <#E6AC17>Blazed Sword <#6B6666>[<#52eb08>Lvl.2<#6B6666>]
     displayed-type: Sword
-    attack-damage: 10.54
-    fire-damage-reduction: 10.54
+    attack-damage: 10.52
+    fire-damage-reduction: 10.52
     lore:
     - ' &7&o"Forged from the heart of a volcano.'
     - ' &7&oStrike your enemies with its fiery power."'
@@ -81,8 +81,8 @@ SW1_002_03:
     material: STONE_SWORD
     name: <#E6AC17>Blazed Sword <#6B6666>[<#7ee508>Lvl.3<#6B6666>]
     displayed-type: Sword
-    attack-damage: 11.11
-    fire-damage-reduction: 11.11
+    attack-damage: 11.03
+    fire-damage-reduction: 11.03
     lore:
     - ' &7&o"Forged from the heart of a volcano.'
     - ' &7&oStrike your enemies with its fiery power."'
@@ -119,8 +119,8 @@ SW1_002_04:
     material: STONE_SWORD
     name: <#E6AC17>Blazed Sword <#6B6666>[<#a8de09>Lvl.4<#6B6666>]
     displayed-type: Sword
-    attack-damage: 11.7
-    fire-damage-reduction: 11.7
+    attack-damage: 11.55
+    fire-damage-reduction: 11.55
     lore:
     - ' &7&o"Forged from the heart of a volcano.'
     - ' &7&oStrike your enemies with its fiery power."'
@@ -157,8 +157,8 @@ SW1_002_05:
     material: STONE_SWORD
     name: <#E6AC17>Blazed Sword <#6B6666>[<#cfd809>Lvl.5<#6B6666>]
     displayed-type: Sword
-    attack-damage: 12.33
-    fire-damage-reduction: 12.33
+    attack-damage: 12.07
+    fire-damage-reduction: 12.07
     lore:
     - ' &7&o"Forged from the heart of a volcano.'
     - ' &7&oStrike your enemies with its fiery power."'
@@ -195,8 +195,8 @@ SW1_002_06:
     material: STONE_SWORD
     name: <#E6AC17>Blazed Sword <#6B6666>[<#d2b109>Lvl.6<#6B6666>]
     displayed-type: Sword
-    attack-damage: 12.98
-    fire-damage-reduction: 12.98
+    attack-damage: 12.59
+    fire-damage-reduction: 12.59
     lore:
     - ' &7&o"Forged from the heart of a volcano.'
     - ' &7&oStrike your enemies with its fiery power."'
@@ -233,8 +233,8 @@ SW1_002_07:
     material: STONE_SWORD
     name: <#E6AC17>Blazed Sword <#6B6666>[<#cc8409>Lvl.7<#6B6666>]
     displayed-type: Sword
-    attack-damage: 13.66
-    fire-damage-reduction: 13.66
+    attack-damage: 13.11
+    fire-damage-reduction: 13.11
     lore:
     - ' &7&o"Forged from the heart of a volcano.'
     - ' &7&oStrike your enemies with its fiery power."'
@@ -271,8 +271,8 @@ SW1_002_08:
     material: STONE_SWORD
     name: <#E6AC17>Blazed Sword <#6B6666>[<#c65809>Lvl.8<#6B6666>]
     displayed-type: Sword
-    attack-damage: 14.37
-    fire-damage-reduction: 14.37
+    attack-damage: 13.64
+    fire-damage-reduction: 13.64
     lore:
     - ' &7&o"Forged from the heart of a volcano.'
     - ' &7&oStrike your enemies with its fiery power."'
@@ -309,8 +309,8 @@ SW1_002_09:
     material: STONE_SWORD
     name: <#E6AC17>Blazed Sword <#6B6666>[<#c02f09>Lvl.9<#6B6666>]
     displayed-type: Sword
-    attack-damage: 15.1
-    fire-damage-reduction: 15.1
+    attack-damage: 14.16
+    fire-damage-reduction: 14.16
     lore:
     - ' &7&o"Forged from the heart of a volcano.'
     - ' &7&oStrike your enemies with its fiery power."'
@@ -347,8 +347,8 @@ SW1_002_10:
     material: STONE_SWORD
     name: <#E6AC17>Blazed Sword <#6B6666>[<#ba0909>Lvl.10<#6B6666>]
     displayed-type: Sword
-    attack-damage: 15.87
-    fire-damage-reduction: 15.87
+    attack-damage: 14.68
+    fire-damage-reduction: 14.68
     lore:
     - ' &7&o"Forged from the heart of a volcano.'
     - ' &7&oStrike your enemies with its fiery power."'
@@ -385,8 +385,8 @@ SW1_002_11:
     material: STONE_SWORD
     name: <#E6AC17>Blazed Sword <#6B6666>[<#c0091f>Lvl.11<#6B6666>]
     displayed-type: Sword
-    attack-damage: 16.66
-    fire-damage-reduction: 16.66
+    attack-damage: 15.21
+    fire-damage-reduction: 15.21
     lore:
     - ' &7&o"Forged from the heart of a volcano.'
     - ' &7&oStrike your enemies with its fiery power."'
@@ -423,8 +423,8 @@ SW1_002_12:
     material: STONE_SWORD
     name: <#E6AC17>Blazed Sword <#6B6666>[<#c60936>Lvl.12<#6B6666>]
     displayed-type: Sword
-    attack-damage: 17.48
-    fire-damage-reduction: 17.48
+    attack-damage: 15.73
+    fire-damage-reduction: 15.73
     lore:
     - ' &7&o"Forged from the heart of a volcano.'
     - ' &7&oStrike your enemies with its fiery power."'
@@ -461,8 +461,8 @@ SW1_002_13:
     material: STONE_SWORD
     name: <#E6AC17>Blazed Sword <#6B6666>[<#cd094f>Lvl.13<#6B6666>]
     displayed-type: Sword
-    attack-damage: 18.33
-    fire-damage-reduction: 18.33
+    attack-damage: 16.26
+    fire-damage-reduction: 16.26
     lore:
     - ' &7&o"Forged from the heart of a volcano.'
     - ' &7&oStrike your enemies with its fiery power."'
@@ -499,8 +499,8 @@ SW1_002_14:
     material: STONE_SWORD
     name: <#E6AC17>Blazed Sword <#6B6666>[<#d3096a>Lvl.14<#6B6666>]
     displayed-type: Sword
-    attack-damage: 19.21
-    fire-damage-reduction: 19.21
+    attack-damage: 16.78
+    fire-damage-reduction: 16.78
     lore:
     - ' &7&o"Forged from the heart of a volcano.'
     - ' &7&oStrike your enemies with its fiery power."'
@@ -537,8 +537,8 @@ SW1_002_15:
     material: STONE_SWORD
     name: <#E6AC17>Blazed Sword <#6B6666>[<#d90986>Lvl.15<#6B6666>]
     displayed-type: Sword
-    attack-damage: 20.12
-    fire-damage-reduction: 20.12
+    attack-damage: 17.31
+    fire-damage-reduction: 17.31
     lore:
     - ' &7&o"Forged from the heart of a volcano.'
     - ' &7&oStrike your enemies with its fiery power."'

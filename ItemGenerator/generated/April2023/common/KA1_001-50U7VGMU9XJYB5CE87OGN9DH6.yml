@@ -1,5 +1,5 @@
-# Template: KA1_001_XXX. Digest: f883a0f9c9da653c4953d61d38cf41b1. Base36: EPNKYLBN394HXUECDZXY8X701
-# Generated at 03/05/2023 13:39:25. Digest: 4fd1b332193b4ae4e6374b1206a45945. Base36: 4Q48AEDU46UFYVEP0TMIAB3NP.
+# Template: KA1_001_XXX. Digest: 4fd1b332193b4ae4e6374b1206a45945. Base36: 4Q48AEDU46UFYVEP0TMIAB3NP
+# Generated at 03/05/2023 15:16:25. Digest: 54d990414403b73367a8bf8c4efba37a. Base36: 50U7VGMU9XJYB5CE87OGN9DH6.
 KA1_001_01:
   base:
     material: IRON_SWORD
@@ -41,9 +41,9 @@ KA1_001_02:
     material: IRON_SWORD
     name: <#00AEE6>Bokken <#6B6666>[<#52eb08>Lvl.2<#6B6666>]
     displayed-type: Katana
-    attack-damage: 8.54
-    critical-strike-chance: 11.54
-    critical-strike-power: 60.54
+    attack-damage: 8.52
+    critical-strike-chance: 11.52
+    critical-strike-power: 60.52
     lore:
     - ' &7&o"Passed down through generations of samurai'
     - ' &7&owarriors."'
@@ -77,9 +77,9 @@ KA1_001_03:
     material: IRON_SWORD
     name: <#00AEE6>Bokken <#6B6666>[<#7ee508>Lvl.3<#6B6666>]
     displayed-type: Katana
-    attack-damage: 9.11
-    critical-strike-chance: 12.11
-    critical-strike-power: 61.11
+    attack-damage: 9.03
+    critical-strike-chance: 12.03
+    critical-strike-power: 61.03
     lore:
     - ' &7&o"Passed down through generations of samurai'
     - ' &7&owarriors."'
@@ -113,9 +113,9 @@ KA1_001_04:
     material: IRON_SWORD
     name: <#00AEE6>Bokken <#6B6666>[<#a8de09>Lvl.4<#6B6666>]
     displayed-type: Katana
-    attack-damage: 9.7
-    critical-strike-chance: 12.7
-    critical-strike-power: 61.7
+    attack-damage: 9.55
+    critical-strike-chance: 12.55
+    critical-strike-power: 61.55
     lore:
     - ' &7&o"Passed down through generations of samurai'
     - ' &7&owarriors."'
@@ -149,9 +149,9 @@ KA1_001_05:
     material: IRON_SWORD
     name: <#00AEE6>Bokken <#6B6666>[<#cfd809>Lvl.5<#6B6666>]
     displayed-type: Katana
-    attack-damage: 10.33
-    critical-strike-chance: 13.33
-    critical-strike-power: 62.33
+    attack-damage: 10.07
+    critical-strike-chance: 13.07
+    critical-strike-power: 62.07
     lore:
     - ' &7&o"Passed down through generations of samurai'
     - ' &7&owarriors."'
@@ -185,9 +185,9 @@ KA1_001_06:
     material: IRON_SWORD
     name: <#00AEE6>Bokken <#6B6666>[<#d2b109>Lvl.6<#6B6666>]
     displayed-type: Katana
-    attack-damage: 10.98
-    critical-strike-chance: 13.98
-    critical-strike-power: 62.98
+    attack-damage: 10.59
+    critical-strike-chance: 13.59
+    critical-strike-power: 62.59
     lore:
     - ' &7&o"Passed down through generations of samurai'
     - ' &7&owarriors."'
@@ -221,9 +221,9 @@ KA1_001_07:
     material: IRON_SWORD
     name: <#00AEE6>Bokken <#6B6666>[<#cc8409>Lvl.7<#6B6666>]
     displayed-type: Katana
-    attack-damage: 11.66
-    critical-strike-chance: 14.66
-    critical-strike-power: 63.66
+    attack-damage: 11.11
+    critical-strike-chance: 14.11
+    critical-strike-power: 63.11
     lore:
     - ' &7&o"Passed down through generations of samurai'
     - ' &7&owarriors."'
@@ -257,9 +257,9 @@ KA1_001_08:
     material: IRON_SWORD
     name: <#00AEE6>Bokken <#6B6666>[<#c65809>Lvl.8<#6B6666>]
     displayed-type: Katana
-    attack-damage: 12.37
-    critical-strike-chance: 15.37
-    critical-strike-power: 64.37
+    attack-damage: 11.64
+    critical-strike-chance: 14.64
+    critical-strike-power: 63.64
     lore:
     - ' &7&o"Passed down through generations of samurai'
     - ' &7&owarriors."'
@@ -293,9 +293,9 @@ KA1_001_09:
     material: IRON_SWORD
     name: <#00AEE6>Bokken <#6B6666>[<#c02f09>Lvl.9<#6B6666>]
     displayed-type: Katana
-    attack-damage: 13.1
-    critical-strike-chance: 16.1
-    critical-strike-power: 65.1
+    attack-damage: 12.16
+    critical-strike-chance: 15.16
+    critical-strike-power: 64.16
     lore:
     - ' &7&o"Passed down through generations of samurai'
     - ' &7&owarriors."'
@@ -329,9 +329,9 @@ KA1_001_10:
     material: IRON_SWORD
     name: <#00AEE6>Bokken <#6B6666>[<#ba0909>Lvl.10<#6B6666>]
     displayed-type: Katana
-    attack-damage: 13.87
-    critical-strike-chance: 16.87
-    critical-strike-power: 65.87
+    attack-damage: 12.68
+    critical-strike-chance: 15.68
+    critical-strike-power: 64.68
     lore:
     - ' &7&o"Passed down through generations of samurai'
     - ' &7&owarriors."'
@@ -365,9 +365,9 @@ KA1_001_11:
     material: IRON_SWORD
     name: <#00AEE6>Bokken <#6B6666>[<#c0091f>Lvl.11<#6B6666>]
     displayed-type: Katana
-    attack-damage: 14.66
-    critical-strike-chance: 17.66
-    critical-strike-power: 66.66
+    attack-damage: 13.21
+    critical-strike-chance: 16.21
+    critical-strike-power: 65.21
     lore:
     - ' &7&o"Passed down through generations of samurai'
     - ' &7&owarriors."'
@@ -401,9 +401,9 @@ KA1_001_12:
     material: IRON_SWORD
     name: <#00AEE6>Bokken <#6B6666>[<#c60936>Lvl.12<#6B6666>]
     displayed-type: Katana
-    attack-damage: 15.48
-    critical-strike-chance: 18.48
-    critical-strike-power: 67.48
+    attack-damage: 13.73
+    critical-strike-chance: 16.73
+    critical-strike-power: 65.73
     lore:
     - ' &7&o"Passed down through generations of samurai'
     - ' &7&owarriors."'
@@ -437,9 +437,9 @@ KA1_001_13:
     material: IRON_SWORD
     name: <#00AEE6>Bokken <#6B6666>[<#cd094f>Lvl.13<#6B6666>]
     displayed-type: Katana
-    attack-damage: 16.33
-    critical-strike-chance: 19.33
-    critical-strike-power: 68.33
+    attack-damage: 14.26
+    critical-strike-chance: 17.26
+    critical-strike-power: 66.26
     lore:
     - ' &7&o"Passed down through generations of samurai'
     - ' &7&owarriors."'
@@ -473,9 +473,9 @@ KA1_001_14:
     material: IRON_SWORD
     name: <#00AEE6>Bokken <#6B6666>[<#d3096a>Lvl.14<#6B6666>]
     displayed-type: Katana
-    attack-damage: 17.21
-    critical-strike-chance: 20.21
-    critical-strike-power: 69.21
+    attack-damage: 14.78
+    critical-strike-chance: 17.78
+    critical-strike-power: 66.78
     lore:
     - ' &7&o"Passed down through generations of samurai'
     - ' &7&owarriors."'
@@ -509,9 +509,9 @@ KA1_001_15:
     material: IRON_SWORD
     name: <#00AEE6>Bokken <#6B6666>[<#d90986>Lvl.15<#6B6666>]
     displayed-type: Katana
-    attack-damage: 18.12
-    critical-strike-chance: 21.12
-    critical-strike-power: 70.12
+    attack-damage: 15.31
+    critical-strike-chance: 18.31
+    critical-strike-power: 67.31
     lore:
     - ' &7&o"Passed down through generations of samurai'
     - ' &7&owarriors."'

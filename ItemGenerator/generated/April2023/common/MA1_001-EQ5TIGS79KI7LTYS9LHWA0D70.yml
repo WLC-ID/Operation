@@ -1,5 +1,5 @@
-# Template: MA1_001_XXX. Digest: 7da15b2fa489dcb78cd714edc230186e. Base36: 7FR5HNAA3YXFCAUVQHR13DIZY
-# Generated at 03/05/2023 13:39:25. Digest: e67d38f05b94805cf8c45b6043bfba2d. Base36: DN8L670OVGAYTX5HCEBI540TP.
+# Template: MA1_001_XXX. Digest: e67d38f05b94805cf8c45b6043bfba2d. Base36: DN8L670OVGAYTX5HCEBI540TP
+# Generated at 03/05/2023 15:16:26. Digest: f8c07aa1eb7b5470c22eb2d1b5d95ccc. Base36: EQ5TIGS79KI7LTYS9LHWA0D70.
 MA1_001_01:
   base:
     material: STONE_HOE
@@ -38,7 +38,7 @@ MA1_001_02:
   base:
     material: STONE_HOE
     name: <#7E0C9F>Cursed Book <#6B6666>[<#52eb08>Lvl.2<#6B6666>]
-    attack-damage: 10.04
+    attack-damage: 10.02
     lore:
     - ' &7&o"Penned in an unknown method of writing.'
     - ' &7&oIt has countless forbidden knowledge."'
@@ -72,7 +72,7 @@ MA1_001_03:
   base:
     material: STONE_HOE
     name: <#7E0C9F>Cursed Book <#6B6666>[<#7ee508>Lvl.3<#6B6666>]
-    attack-damage: 10.61
+    attack-damage: 10.53
     lore:
     - ' &7&o"Penned in an unknown method of writing.'
     - ' &7&oIt has countless forbidden knowledge."'
@@ -106,7 +106,7 @@ MA1_001_04:
   base:
     material: STONE_HOE
     name: <#7E0C9F>Cursed Book <#6B6666>[<#a8de09>Lvl.4<#6B6666>]
-    attack-damage: 11.2
+    attack-damage: 11.05
     lore:
     - ' &7&o"Penned in an unknown method of writing.'
     - ' &7&oIt has countless forbidden knowledge."'
@@ -140,7 +140,7 @@ MA1_001_05:
   base:
     material: STONE_HOE
     name: <#7E0C9F>Cursed Book <#6B6666>[<#cfd809>Lvl.5<#6B6666>]
-    attack-damage: 11.83
+    attack-damage: 11.57
     lore:
     - ' &7&o"Penned in an unknown method of writing.'
     - ' &7&oIt has countless forbidden knowledge."'
@@ -174,7 +174,7 @@ MA1_001_06:
   base:
     material: STONE_HOE
     name: <#7E0C9F>Cursed Book <#6B6666>[<#d2b109>Lvl.6<#6B6666>]
-    attack-damage: 12.48
+    attack-damage: 12.09
     lore:
     - ' &7&o"Penned in an unknown method of writing.'
     - ' &7&oIt has countless forbidden knowledge."'
@@ -208,7 +208,7 @@ MA1_001_07:
   base:
     material: STONE_HOE
     name: <#7E0C9F>Cursed Book <#6B6666>[<#cc8409>Lvl.7<#6B6666>]
-    attack-damage: 13.16
+    attack-damage: 12.61
     lore:
     - ' &7&o"Penned in an unknown method of writing.'
     - ' &7&oIt has countless forbidden knowledge."'
@@ -242,7 +242,7 @@ MA1_001_08:
   base:
     material: STONE_HOE
     name: <#7E0C9F>Cursed Book <#6B6666>[<#c65809>Lvl.8<#6B6666>]
-    attack-damage: 13.87
+    attack-damage: 13.14
     lore:
     - ' &7&o"Penned in an unknown method of writing.'
     - ' &7&oIt has countless forbidden knowledge."'
@@ -276,7 +276,7 @@ MA1_001_09:
   base:
     material: STONE_HOE
     name: <#7E0C9F>Cursed Book <#6B6666>[<#c02f09>Lvl.9<#6B6666>]
-    attack-damage: 14.6
+    attack-damage: 13.66
     lore:
     - ' &7&o"Penned in an unknown method of writing.'
     - ' &7&oIt has countless forbidden knowledge."'
@@ -310,7 +310,7 @@ MA1_001_10:
   base:
     material: STONE_HOE
     name: <#7E0C9F>Cursed Book <#6B6666>[<#ba0909>Lvl.10<#6B6666>]
-    attack-damage: 15.37
+    attack-damage: 14.18
     lore:
     - ' &7&o"Penned in an unknown method of writing.'
     - ' &7&oIt has countless forbidden knowledge."'
@@ -344,7 +344,7 @@ MA1_001_11:
   base:
     material: STONE_HOE
     name: <#7E0C9F>Cursed Book <#6B6666>[<#c0091f>Lvl.11<#6B6666>]
-    attack-damage: 16.16
+    attack-damage: 14.71
     lore:
     - ' &7&o"Penned in an unknown method of writing.'
     - ' &7&oIt has countless forbidden knowledge."'
@@ -378,7 +378,7 @@ MA1_001_12:
   base:
     material: STONE_HOE
     name: <#7E0C9F>Cursed Book <#6B6666>[<#c60936>Lvl.12<#6B6666>]
-    attack-damage: 16.98
+    attack-damage: 15.23
     lore:
     - ' &7&o"Penned in an unknown method of writing.'
     - ' &7&oIt has countless forbidden knowledge."'
@@ -412,7 +412,7 @@ MA1_001_13:
   base:
     material: STONE_HOE
     name: <#7E0C9F>Cursed Book <#6B6666>[<#cd094f>Lvl.13<#6B6666>]
-    attack-damage: 17.83
+    attack-damage: 15.76
     lore:
     - ' &7&o"Penned in an unknown method of writing.'
     - ' &7&oIt has countless forbidden knowledge."'
@@ -446,7 +446,7 @@ MA1_001_14:
   base:
     material: STONE_HOE
     name: <#7E0C9F>Cursed Book <#6B6666>[<#d3096a>Lvl.14<#6B6666>]
-    attack-damage: 18.71
+    attack-damage: 16.28
     lore:
     - ' &7&o"Penned in an unknown method of writing.'
     - ' &7&oIt has countless forbidden knowledge."'
@@ -480,7 +480,7 @@ MA1_001_15:
   base:
     material: STONE_HOE
     name: <#7E0C9F>Cursed Book <#6B6666>[<#d90986>Lvl.15<#6B6666>]
-    attack-damage: 19.62
+    attack-damage: 16.81
     lore:
     - ' &7&o"Penned in an unknown method of writing.'
     - ' &7&oIt has countless forbidden knowledge."'

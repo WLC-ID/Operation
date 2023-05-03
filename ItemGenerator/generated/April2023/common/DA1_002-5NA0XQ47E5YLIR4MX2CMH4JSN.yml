@@ -1,5 +1,5 @@
-# Template: DA1_002_XXX. Digest: e198cb6325213e25a2bc4d83af262614. Base36: DCT7X9PYD3I01WYF70OXCW93O
-# Generated at 03/05/2023 13:39:25. Digest: e7918ad9ee51af3f4044314f7a855f96. Base36: DPJEKCQP5X1LUJD4H0ZQCI8IE.
+# Template: DA1_002_XXX. Digest: e7918ad9ee51af3f4044314f7a855f96. Base36: DPJEKCQP5X1LUJD4H0ZQCI8IE
+# Generated at 03/05/2023 15:16:25. Digest: 5f60d6f6979dabb3161a9573c72b4637. Base36: 5NA0XQ47E5YLIR4MX2CMH4JSN.
 DA1_002_01:
   base:
     material: STONE_SWORD
@@ -46,8 +46,8 @@ DA1_002_02:
     - ' &7&o"Mass produced dagger that saw many uses'
     - ' &7&oit can be used for self-defense and attacking."'
     attack-speed: 2.25
-    parry-rating: 5.6
-    parry-cooldown-reduction: 4.54
+    parry-rating: 5.58
+    parry-cooldown-reduction: 4.52
     ability:
       ability1:
         type: FURY_SWIPES
@@ -77,13 +77,13 @@ DA1_002_03:
     material: STONE_SWORD
     name: <#C0C0C0>Main Gauche <#6B6666>[<#7ee508>Lvl.3<#6B6666>]
     displayed-type: Dagger
-    attack-damage: 5.61
+    attack-damage: 5.6
     lore:
     - ' &7&o"Mass produced dagger that saw many uses'
     - ' &7&oit can be used for self-defense and attacking."'
     attack-speed: 2.25
-    parry-rating: 6.2
-    parry-cooldown-reduction: 5.11
+    parry-rating: 6.14
+    parry-cooldown-reduction: 5.03
     ability:
       ability1:
         type: FURY_SWIPES
@@ -113,13 +113,13 @@ DA1_002_04:
     material: STONE_SWORD
     name: <#C0C0C0>Main Gauche <#6B6666>[<#a8de09>Lvl.4<#6B6666>]
     displayed-type: Dagger
-    attack-damage: 5.67
+    attack-damage: 5.65
     lore:
     - ' &7&o"Mass produced dagger that saw many uses'
     - ' &7&oit can be used for self-defense and attacking."'
     attack-speed: 2.25
-    parry-rating: 6.82
-    parry-cooldown-reduction: 5.7
+    parry-rating: 6.7
+    parry-cooldown-reduction: 5.55
     ability:
       ability1:
         type: FURY_SWIPES
@@ -149,13 +149,13 @@ DA1_002_05:
     material: STONE_SWORD
     name: <#C0C0C0>Main Gauche <#6B6666>[<#cfd809>Lvl.5<#6B6666>]
     displayed-type: Dagger
-    attack-damage: 5.73
+    attack-damage: 5.71
     lore:
     - ' &7&o"Mass produced dagger that saw many uses'
     - ' &7&oit can be used for self-defense and attacking."'
     attack-speed: 2.25
-    parry-rating: 7.48
-    parry-cooldown-reduction: 6.33
+    parry-rating: 7.27
+    parry-cooldown-reduction: 6.07
     ability:
       ability1:
         type: FURY_SWIPES
@@ -185,13 +185,13 @@ DA1_002_06:
     material: STONE_SWORD
     name: <#C0C0C0>Main Gauche <#6B6666>[<#d2b109>Lvl.6<#6B6666>]
     displayed-type: Dagger
-    attack-damage: 5.8
+    attack-damage: 5.76
     lore:
     - ' &7&o"Mass produced dagger that saw many uses'
     - ' &7&oit can be used for self-defense and attacking."'
     attack-speed: 2.25
-    parry-rating: 8.16
-    parry-cooldown-reduction: 6.98
+    parry-rating: 7.85
+    parry-cooldown-reduction: 6.59
     ability:
       ability1:
         type: FURY_SWIPES
@@ -221,13 +221,13 @@ DA1_002_07:
     material: STONE_SWORD
     name: <#C0C0C0>Main Gauche <#6B6666>[<#cc8409>Lvl.7<#6B6666>]
     displayed-type: Dagger
-    attack-damage: 5.87
+    attack-damage: 5.81
     lore:
     - ' &7&o"Mass produced dagger that saw many uses'
     - ' &7&oit can be used for self-defense and attacking."'
     attack-speed: 2.25
-    parry-rating: 8.87
-    parry-cooldown-reduction: 7.66
+    parry-rating: 8.42
+    parry-cooldown-reduction: 7.11
     ability:
       ability1:
         type: FURY_SWIPES
@@ -257,13 +257,13 @@ DA1_002_08:
     material: STONE_SWORD
     name: <#C0C0C0>Main Gauche <#6B6666>[<#c65809>Lvl.8<#6B6666>]
     displayed-type: Dagger
-    attack-damage: 5.94
+    attack-damage: 5.86
     lore:
     - ' &7&o"Mass produced dagger that saw many uses'
     - ' &7&oit can be used for self-defense and attacking."'
     attack-speed: 2.25
-    parry-rating: 9.62
-    parry-cooldown-reduction: 8.37
+    parry-rating: 9.01
+    parry-cooldown-reduction: 7.64
     ability:
       ability1:
         type: FURY_SWIPES
@@ -293,13 +293,13 @@ DA1_002_09:
     material: STONE_SWORD
     name: <#C0C0C0>Main Gauche <#6B6666>[<#c02f09>Lvl.9<#6B6666>]
     displayed-type: Dagger
-    attack-damage: 6.01
+    attack-damage: 5.92
     lore:
     - ' &7&o"Mass produced dagger that saw many uses'
     - ' &7&oit can be used for self-defense and attacking."'
     attack-speed: 2.25
-    parry-rating: 10.39
-    parry-cooldown-reduction: 9.1
+    parry-rating: 9.59
+    parry-cooldown-reduction: 8.16
     ability:
       ability1:
         type: FURY_SWIPES
@@ -329,13 +329,13 @@ DA1_002_10:
     material: STONE_SWORD
     name: <#C0C0C0>Main Gauche <#6B6666>[<#ba0909>Lvl.10<#6B6666>]
     displayed-type: Dagger
-    attack-damage: 6.09
+    attack-damage: 5.97
     lore:
     - ' &7&o"Mass produced dagger that saw many uses'
     - ' &7&oit can be used for self-defense and attacking."'
     attack-speed: 2.25
-    parry-rating: 11.19
-    parry-cooldown-reduction: 9.87
+    parry-rating: 10.18
+    parry-cooldown-reduction: 8.68
     ability:
       ability1:
         type: FURY_SWIPES
@@ -365,13 +365,13 @@ DA1_002_11:
     material: STONE_SWORD
     name: <#C0C0C0>Main Gauche <#6B6666>[<#c0091f>Lvl.11<#6B6666>]
     displayed-type: Dagger
-    attack-damage: 6.17
+    attack-damage: 6.02
     lore:
     - ' &7&o"Mass produced dagger that saw many uses'
     - ' &7&oit can be used for self-defense and attacking."'
     attack-speed: 2.25
-    parry-rating: 12.02
-    parry-cooldown-reduction: 10.66
+    parry-rating: 10.78
+    parry-cooldown-reduction: 9.21
     ability:
       ability1:
         type: FURY_SWIPES
@@ -401,13 +401,13 @@ DA1_002_12:
     material: STONE_SWORD
     name: <#C0C0C0>Main Gauche <#6B6666>[<#c60936>Lvl.12<#6B6666>]
     displayed-type: Dagger
-    attack-damage: 6.25
+    attack-damage: 6.07
     lore:
     - ' &7&o"Mass produced dagger that saw many uses'
     - ' &7&oit can be used for self-defense and attacking."'
     attack-speed: 2.25
-    parry-rating: 12.88
-    parry-cooldown-reduction: 11.48
+    parry-rating: 11.37
+    parry-cooldown-reduction: 9.73
     ability:
       ability1:
         type: FURY_SWIPES
@@ -437,13 +437,13 @@ DA1_002_13:
     material: STONE_SWORD
     name: <#C0C0C0>Main Gauche <#6B6666>[<#cd094f>Lvl.13<#6B6666>]
     displayed-type: Dagger
-    attack-damage: 6.33
+    attack-damage: 6.13
     lore:
     - ' &7&o"Mass produced dagger that saw many uses'
     - ' &7&oit can be used for self-defense and attacking."'
     attack-speed: 2.25
-    parry-rating: 13.76
-    parry-cooldown-reduction: 12.33
+    parry-rating: 11.97
+    parry-cooldown-reduction: 10.26
     ability:
       ability1:
         type: FURY_SWIPES
@@ -473,13 +473,13 @@ DA1_002_14:
     material: STONE_SWORD
     name: <#C0C0C0>Main Gauche <#6B6666>[<#d3096a>Lvl.14<#6B6666>]
     displayed-type: Dagger
-    attack-damage: 6.42
+    attack-damage: 6.18
     lore:
     - ' &7&o"Mass produced dagger that saw many uses'
     - ' &7&oit can be used for self-defense and attacking."'
     attack-speed: 2.25
-    parry-rating: 14.68
-    parry-cooldown-reduction: 13.21
+    parry-rating: 12.58
+    parry-cooldown-reduction: 10.78
     ability:
       ability1:
         type: FURY_SWIPES
@@ -509,13 +509,13 @@ DA1_002_15:
     material: STONE_SWORD
     name: <#C0C0C0>Main Gauche <#6B6666>[<#d90986>Lvl.15<#6B6666>]
     displayed-type: Dagger
-    attack-damage: 6.51
+    attack-damage: 6.23
     lore:
     - ' &7&o"Mass produced dagger that saw many uses'
     - ' &7&oit can be used for self-defense and attacking."'
     attack-speed: 2.25
-    parry-rating: 15.63
-    parry-cooldown-reduction: 14.12
+    parry-rating: 13.18
+    parry-cooldown-reduction: 11.31
     ability:
       ability1:
         type: FURY_SWIPES

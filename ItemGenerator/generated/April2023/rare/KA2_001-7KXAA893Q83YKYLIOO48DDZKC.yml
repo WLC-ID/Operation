@@ -1,14 +1,14 @@
-# Template: KA2_001_XXX. Digest: 2123a502c98f1f1361f6e8682d5ea68b. Base36: 1YMNHA5AX5HBEKJFGTQYIVUKR
-# Generated at 03/05/2023 13:39:25. Digest: 2548ffa29102a75741108f594c30c363. Base36: 27GR3WZDFZSX453D4DX45RQEB.
+# Template: KA2_001_XXX. Digest: 2548ffa29102a75741108f594c30c363. Base36: 27GR3WZDFZSX453D4DX45RQEB
+# Generated at 03/05/2023 15:16:26. Digest: 800e655044e7bd3d439b2354a36e824c. Base36: 7KXAA893Q83YKYLIOO48DDZKC.
 KA2_001_01:
   base:
     material: IRON_SWORD
     name: <#D4AF37>Itomaki Tachi <#6B6666>[<#ba0909>Lvl.10<#6B6666>]
     displayed-type: Katana
-    attack-damage: 13.97
-    critical-strike-chance: 17.08
-    critical-strike-power: 65.97
-    movement-speed: 0.141
+    attack-damage: 12.56
+    critical-strike-chance: 15.66
+    critical-strike-power: 64.56
+    movement-speed: 0.127
     lore:
     - ' &7&o"Elegant deadly blade crafted with utmost'
     - ' &7&oprecision and skill."'
@@ -42,10 +42,10 @@ KA2_001_02:
     material: IRON_SWORD
     name: <#D4AF37>Itomaki Tachi <#6B6666>[<#c0091f>Lvl.11<#6B6666>]
     displayed-type: Katana
-    attack-damage: 14.78
-    critical-strike-chance: 17.9
-    critical-strike-power: 66.78
-    movement-speed: 0.149
+    attack-damage: 13.09
+    critical-strike-chance: 16.2
+    critical-strike-power: 65.09
+    movement-speed: 0.132
     lore:
     - ' &7&o"Elegant deadly blade crafted with utmost'
     - ' &7&oprecision and skill."'
@@ -79,10 +79,10 @@ KA2_001_03:
     material: IRON_SWORD
     name: <#D4AF37>Itomaki Tachi <#6B6666>[<#c60936>Lvl.12<#6B6666>]
     displayed-type: Katana
-    attack-damage: 15.61
-    critical-strike-chance: 18.74
-    critical-strike-power: 67.61
-    movement-speed: 0.157
+    attack-damage: 13.62
+    critical-strike-chance: 16.74
+    critical-strike-power: 65.62
+    movement-speed: 0.137
     lore:
     - ' &7&o"Elegant deadly blade crafted with utmost'
     - ' &7&oprecision and skill."'
@@ -116,10 +116,10 @@ KA2_001_04:
     material: IRON_SWORD
     name: <#D4AF37>Itomaki Tachi <#6B6666>[<#cd094f>Lvl.13<#6B6666>]
     displayed-type: Katana
-    attack-damage: 16.47
-    critical-strike-chance: 19.62
-    critical-strike-power: 68.47
-    movement-speed: 0.166
+    attack-damage: 14.15
+    critical-strike-chance: 17.29
+    critical-strike-power: 66.15
+    movement-speed: 0.143
     lore:
     - ' &7&o"Elegant deadly blade crafted with utmost'
     - ' &7&oprecision and skill."'
@@ -153,10 +153,10 @@ KA2_001_05:
     material: IRON_SWORD
     name: <#D4AF37>Itomaki Tachi <#6B6666>[<#d3096a>Lvl.14<#6B6666>]
     displayed-type: Katana
-    attack-damage: 17.36
-    critical-strike-chance: 20.52
-    critical-strike-power: 69.36
-    movement-speed: 0.175
+    attack-damage: 14.69
+    critical-strike-chance: 17.84
+    critical-strike-power: 66.69
+    movement-speed: 0.148
     lore:
     - ' &7&o"Elegant deadly blade crafted with utmost'
     - ' &7&oprecision and skill."'
@@ -190,10 +190,10 @@ KA2_001_06:
     material: IRON_SWORD
     name: <#D4AF37>Itomaki Tachi <#6B6666>[<#d90986>Lvl.15<#6B6666>]
     displayed-type: Katana
-    attack-damage: 18.28
-    critical-strike-chance: 21.45
-    critical-strike-power: 70.28
-    movement-speed: 0.184
+    attack-damage: 15.23
+    critical-strike-chance: 18.39
+    critical-strike-power: 67.23
+    movement-speed: 0.154
     lore:
     - ' &7&o"Elegant deadly blade crafted with utmost'
     - ' &7&oprecision and skill."'
@@ -227,10 +227,10 @@ KA2_001_07:
     material: IRON_SWORD
     name: <#D4AF37>Itomaki Tachi <#6B6666>[<#e009a3>Lvl.16<#6B6666>]
     displayed-type: Katana
-    attack-damage: 19.23
-    critical-strike-chance: 22.41
-    critical-strike-power: 71.23
-    movement-speed: 0.194
+    attack-damage: 15.76
+    critical-strike-chance: 18.95
+    critical-strike-power: 67.76
+    movement-speed: 0.16
     lore:
     - ' &7&o"Elegant deadly blade crafted with utmost'
     - ' &7&oprecision and skill."'
@@ -264,10 +264,10 @@ KA2_001_08:
     material: IRON_SWORD
     name: <#D4AF37>Itomaki Tachi <#6B6666>[<#e609c2>Lvl.17<#6B6666>]
     displayed-type: Katana
-    attack-damage: 20.21
-    critical-strike-chance: 23.4
-    critical-strike-power: 72.21
-    movement-speed: 0.204
+    attack-damage: 16.3
+    critical-strike-chance: 19.51
+    critical-strike-power: 68.3
+    movement-speed: 0.165
     lore:
     - ' &7&o"Elegant deadly blade crafted with utmost'
     - ' &7&oprecision and skill."'
@@ -301,10 +301,10 @@ KA2_001_09:
     material: IRON_SWORD
     name: <#D4AF37>Itomaki Tachi <#6B6666>[<#ec08e3>Lvl.18<#6B6666>]
     displayed-type: Katana
-    attack-damage: 21.21
-    critical-strike-chance: 24.42
-    critical-strike-power: 73.21
-    movement-speed: 0.214
+    attack-damage: 16.84
+    critical-strike-chance: 20.07
+    critical-strike-power: 68.84
+    movement-speed: 0.171
     lore:
     - ' &7&o"Elegant deadly blade crafted with utmost'
     - ' &7&oprecision and skill."'
@@ -338,10 +338,10 @@ KA2_001_10:
     material: IRON_SWORD
     name: <#D4AF37>Itomaki Tachi <#6B6666>[<#e008f3>Lvl.19<#6B6666>]
     displayed-type: Katana
-    attack-damage: 22.24
-    critical-strike-chance: 25.47
-    critical-strike-power: 74.24
-    movement-speed: 0.225
+    attack-damage: 17.39
+    critical-strike-chance: 20.64
+    critical-strike-power: 69.39
+    movement-speed: 0.176
     lore:
     - ' &7&o"Elegant deadly blade crafted with utmost'
     - ' &7&oprecision and skill."'
@@ -375,10 +375,10 @@ KA2_001_11:
     material: IRON_SWORD
     name: <#D4AF37>Itomaki Tachi <#6B6666>[<#c80af7>Lvl.20<#6B6666>]
     displayed-type: Katana
-    attack-damage: 23.3
-    critical-strike-chance: 26.55
-    critical-strike-power: 75.3
-    movement-speed: 0.236
+    attack-damage: 17.93
+    critical-strike-chance: 21.2
+    critical-strike-power: 69.93
+    movement-speed: 0.182
     lore:
     - ' &7&o"Elegant deadly blade crafted with utmost'
     - ' &7&oprecision and skill."'

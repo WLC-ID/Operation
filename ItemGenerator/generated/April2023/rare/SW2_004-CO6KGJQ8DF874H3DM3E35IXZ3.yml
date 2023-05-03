@@ -1,12 +1,12 @@
-# Template: SW2_004_XXX. Digest: 07647990f6a13ef3685a27c17c4b77ea. Base36: FR74HGZ4OVQE75PT1UFABV1M
-# Generated at 03/05/2023 13:39:25. Digest: a3b8b10434e607fd183402cc36b81ee5. Base36: 9OXQWBP09RNB8TMZ5T70OZLD1.
+# Template: SW2_004_XXX. Digest: a3b8b10434e607fd183402cc36b81ee5. Base36: 9OXQWBP09RNB8TMZ5T70OZLD1
+# Generated at 03/05/2023 15:16:26. Digest: d60a7373fa22119d86a9c799b8452d7f. Base36: CO6KGJQ8DF874H3DM3E35IXZ3.
 SW2_004_01:
   base:
     material: STONE_SWORD
     name: <#FFD700>Light Saber <#6B6666>[<#d90986>Lvl.15<#6B6666>]
     displayed-type: Sword
-    attack-damage: 20.28
-    knockback-resistance: 0.156
+    attack-damage: 17.09
+    knockback-resistance: 0.124
     attack-speed: 1.5
     lore:
     - ' &7&o"Radiant and deadly, the humming blade of'
@@ -46,8 +46,8 @@ SW2_004_02:
     material: STONE_SWORD
     name: <#FFD700>Light Saber <#6B6666>[<#e009a3>Lvl.16<#6B6666>]
     displayed-type: Sword
-    attack-damage: 21.23
-    knockback-resistance: 0.166
+    attack-damage: 17.62
+    knockback-resistance: 0.129
     attack-speed: 1.52
     lore:
     - ' &7&o"Radiant and deadly, the humming blade of'
@@ -87,8 +87,8 @@ SW2_004_03:
     material: STONE_SWORD
     name: <#FFD700>Light Saber <#6B6666>[<#e609c2>Lvl.17<#6B6666>]
     displayed-type: Sword
-    attack-damage: 22.21
-    knockback-resistance: 0.176
+    attack-damage: 18.15
+    knockback-resistance: 0.135
     attack-speed: 1.55
     lore:
     - ' &7&o"Radiant and deadly, the humming blade of'
@@ -128,8 +128,8 @@ SW2_004_04:
     material: STONE_SWORD
     name: <#FFD700>Light Saber <#6B6666>[<#ec08e3>Lvl.18<#6B6666>]
     displayed-type: Sword
-    attack-damage: 23.21
-    knockback-resistance: 0.186
+    attack-damage: 18.68
+    knockback-resistance: 0.141
     attack-speed: 1.57
     lore:
     - ' &7&o"Radiant and deadly, the humming blade of'
@@ -169,8 +169,8 @@ SW2_004_05:
     material: STONE_SWORD
     name: <#FFD700>Light Saber <#6B6666>[<#e008f3>Lvl.19<#6B6666>]
     displayed-type: Sword
-    attack-damage: 24.24
-    knockback-resistance: 0.197
+    attack-damage: 19.22
+    knockback-resistance: 0.146
     attack-speed: 1.6
     lore:
     - ' &7&o"Radiant and deadly, the humming blade of'
@@ -210,8 +210,8 @@ SW2_004_06:
     material: STONE_SWORD
     name: <#FFD700>Light Saber <#6B6666>[<#c80af7>Lvl.20<#6B6666>]
     displayed-type: Sword
-    attack-damage: 25.3
-    knockback-resistance: 0.208
+    attack-damage: 19.76
+    knockback-resistance: 0.152
     attack-speed: 1.62
     lore:
     - ' &7&o"Radiant and deadly, the humming blade of'
@@ -251,8 +251,8 @@ SW2_004_07:
     material: STONE_SWORD
     name: <#FFD700>Light Saber <#6B6666>[<#b50af7>Lvl.21<#6B6666>]
     displayed-type: Sword
-    attack-damage: 26.39
-    knockback-resistance: 0.219
+    attack-damage: 20.29
+    knockback-resistance: 0.158
     attack-speed: 1.65
     lore:
     - ' &7&o"Radiant and deadly, the humming blade of'
@@ -292,8 +292,8 @@ SW2_004_08:
     material: STONE_SWORD
     name: <#FFD700>Light Saber <#6B6666>[<#a20af7>Lvl.22<#6B6666>]
     displayed-type: Sword
-    attack-damage: 27.51
-    knockback-resistance: 0.231
+    attack-damage: 20.83
+    knockback-resistance: 0.164
     attack-speed: 1.68
     lore:
     - ' &7&o"Radiant and deadly, the humming blade of'
@@ -333,8 +333,8 @@ SW2_004_09:
     material: STONE_SWORD
     name: <#FFD700>Light Saber <#6B6666>[<#8f0af7>Lvl.23<#6B6666>]
     displayed-type: Sword
-    attack-damage: 28.66
-    knockback-resistance: 0.242
+    attack-damage: 21.37
+    knockback-resistance: 0.169
     attack-speed: 1.7
     lore:
     - ' &7&o"Radiant and deadly, the humming blade of'
@@ -374,8 +374,8 @@ SW2_004_10:
     material: STONE_SWORD
     name: <#FFD700>Light Saber <#6B6666>[<#7c0af7>Lvl.24<#6B6666>]
     displayed-type: Sword
-    attack-damage: 29.83
-    knockback-resistance: 0.254
+    attack-damage: 21.92
+    knockback-resistance: 0.175
     attack-speed: 1.7
     lore:
     - ' &7&o"Radiant and deadly, the humming blade of'
@@ -415,8 +415,8 @@ SW2_004_11:
     material: STONE_SWORD
     name: <#FFD700>Light Saber <#6B6666>[<#690af7>Lvl.25<#6B6666>]
     displayed-type: Sword
-    attack-damage: 31.04
-    knockback-resistance: 0.267
+    attack-damage: 22.46
+    knockback-resistance: 0.181
     attack-speed: 1.7
     lore:
     - ' &7&o"Radiant and deadly, the humming blade of'

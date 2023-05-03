@@ -1,5 +1,5 @@
-# Template: DA1_001_XXX. Digest: 7737fbf2ac9b5f46853acd9ac643c54e. Base36: 7237OB0BW3DANZA53FNKVIN9Q
-# Generated at 03/05/2023 13:39:24. Digest: 49b36c6d6babe0f7527035f009757c96. Base36: 4D2SQ7TUNBFAVWH0TY7OHWZH2.
+# Template: DA1_001_XXX. Digest: 49b36c6d6babe0f7527035f009757c96. Base36: 4D2SQ7TUNBFAVWH0TY7OHWZH2
+# Generated at 03/05/2023 15:16:25. Digest: 1ba9e23da6eb207bdb2d172fd2332bd4. Base36: 1MYIZF5ASII3Y1DIHCHHT46OK.
 DA1_001_01:
   base:
     material: STONE_SWORD
@@ -45,7 +45,7 @@ DA1_001_02:
     material: STONE_SWORD
     name: <#cc6e00>Stilleto <#6B6666>[<#52eb08>Lvl.2<#6B6666>]
     displayed-type: Dagger
-    attack-damage: 6.78
+    attack-damage: 6.77
     lore:
     - ' &7&o"All who seek thrill has this one''s hip'
     - ' &7&osnaking it''s way to every combat."'
@@ -85,12 +85,12 @@ DA1_001_03:
     material: STONE_SWORD
     name: <#cc6e00>Stilleto <#6B6666>[<#7ee508>Lvl.3<#6B6666>]
     displayed-type: Dagger
-    attack-damage: 7.2
+    attack-damage: 7.16
     lore:
     - ' &7&o"All who seek thrill has this one''s hip'
     - ' &7&osnaking it''s way to every combat."'
     attack-speed: 2.25
-    movement-speed: 0.041
+    movement-speed: 0.04
     ability:
       ability1:
         type: BACKSTEP
@@ -125,12 +125,12 @@ DA1_001_04:
     material: STONE_SWORD
     name: <#cc6e00>Stilleto <#6B6666>[<#a8de09>Lvl.4<#6B6666>]
     displayed-type: Dagger
-    attack-damage: 7.63
+    attack-damage: 7.55
     lore:
     - ' &7&o"All who seek thrill has this one''s hip'
     - ' &7&osnaking it''s way to every combat."'
     attack-speed: 2.25
-    movement-speed: 0.047
+    movement-speed: 0.045
     ability:
       ability1:
         type: BACKSTEP
@@ -165,12 +165,12 @@ DA1_001_05:
     material: STONE_SWORD
     name: <#cc6e00>Stilleto <#6B6666>[<#cfd809>Lvl.5<#6B6666>]
     displayed-type: Dagger
-    attack-damage: 8.08
+    attack-damage: 7.95
     lore:
     - ' &7&o"All who seek thrill has this one''s hip'
     - ' &7&osnaking it''s way to every combat."'
     attack-speed: 2.25
-    movement-speed: 0.053
+    movement-speed: 0.051
     ability:
       ability1:
         type: BACKSTEP
@@ -205,12 +205,12 @@ DA1_001_06:
     material: STONE_SWORD
     name: <#cc6e00>Stilleto <#6B6666>[<#d2b109>Lvl.6<#6B6666>]
     displayed-type: Dagger
-    attack-damage: 8.55
+    attack-damage: 8.34
     lore:
     - ' &7&o"All who seek thrill has this one''s hip'
     - ' &7&osnaking it''s way to every combat."'
     attack-speed: 2.25
-    movement-speed: 0.06
+    movement-speed: 0.056
     ability:
       ability1:
         type: BACKSTEP
@@ -245,12 +245,12 @@ DA1_001_07:
     material: STONE_SWORD
     name: <#cc6e00>Stilleto <#6B6666>[<#cc8409>Lvl.7<#6B6666>]
     displayed-type: Dagger
-    attack-damage: 9.03
+    attack-damage: 8.74
     lore:
     - ' &7&o"All who seek thrill has this one''s hip'
     - ' &7&osnaking it''s way to every combat."'
     attack-speed: 2.25
-    movement-speed: 0.067
+    movement-speed: 0.061
     ability:
       ability1:
         type: BACKSTEP
@@ -285,12 +285,12 @@ DA1_001_08:
     material: STONE_SWORD
     name: <#cc6e00>Stilleto <#6B6666>[<#c65809>Lvl.8<#6B6666>]
     displayed-type: Dagger
-    attack-damage: 9.53
+    attack-damage: 9.13
     lore:
     - ' &7&o"All who seek thrill has this one''s hip'
     - ' &7&osnaking it''s way to every combat."'
     attack-speed: 2.25
-    movement-speed: 0.074
+    movement-speed: 0.066
     ability:
       ability1:
         type: BACKSTEP
@@ -325,12 +325,12 @@ DA1_001_09:
     material: STONE_SWORD
     name: <#cc6e00>Stilleto <#6B6666>[<#c02f09>Lvl.9<#6B6666>]
     displayed-type: Dagger
-    attack-damage: 10.05
+    attack-damage: 9.53
     lore:
     - ' &7&o"All who seek thrill has this one''s hip'
     - ' &7&osnaking it''s way to every combat."'
     attack-speed: 2.25
-    movement-speed: 0.081
+    movement-speed: 0.072
     ability:
       ability1:
         type: BACKSTEP
@@ -365,12 +365,12 @@ DA1_001_10:
     material: STONE_SWORD
     name: <#cc6e00>Stilleto <#6B6666>[<#ba0909>Lvl.10<#6B6666>]
     displayed-type: Dagger
-    attack-damage: 10.58
+    attack-damage: 9.93
     lore:
     - ' &7&o"All who seek thrill has this one''s hip'
     - ' &7&osnaking it''s way to every combat."'
     attack-speed: 2.25
-    movement-speed: 0.089
+    movement-speed: 0.077
     ability:
       ability1:
         type: BACKSTEP
@@ -405,12 +405,12 @@ DA1_001_11:
     material: STONE_SWORD
     name: <#cc6e00>Stilleto <#6B6666>[<#c0091f>Lvl.11<#6B6666>]
     displayed-type: Dagger
-    attack-damage: 11.13
+    attack-damage: 10.32
     lore:
     - ' &7&o"All who seek thrill has this one''s hip'
     - ' &7&osnaking it''s way to every combat."'
     attack-speed: 2.25
-    movement-speed: 0.097
+    movement-speed: 0.082
     ability:
       ability1:
         type: BACKSTEP
@@ -445,12 +445,12 @@ DA1_001_12:
     material: STONE_SWORD
     name: <#cc6e00>Stilleto <#6B6666>[<#c60936>Lvl.12<#6B6666>]
     displayed-type: Dagger
-    attack-damage: 11.69
+    attack-damage: 10.72
     lore:
     - ' &7&o"All who seek thrill has this one''s hip'
     - ' &7&osnaking it''s way to every combat."'
     attack-speed: 2.25
-    movement-speed: 0.105
+    movement-speed: 0.087
     ability:
       ability1:
         type: BACKSTEP
@@ -485,12 +485,12 @@ DA1_001_13:
     material: STONE_SWORD
     name: <#cc6e00>Stilleto <#6B6666>[<#cd094f>Lvl.13<#6B6666>]
     displayed-type: Dagger
-    attack-damage: 12.28
+    attack-damage: 11.12
     lore:
     - ' &7&o"All who seek thrill has this one''s hip'
     - ' &7&osnaking it''s way to every combat."'
     attack-speed: 2.25
-    movement-speed: 0.113
+    movement-speed: 0.093
     ability:
       ability1:
         type: BACKSTEP
@@ -525,12 +525,12 @@ DA1_001_14:
     material: STONE_SWORD
     name: <#cc6e00>Stilleto <#6B6666>[<#d3096a>Lvl.14<#6B6666>]
     displayed-type: Dagger
-    attack-damage: 12.87
+    attack-damage: 11.52
     lore:
     - ' &7&o"All who seek thrill has this one''s hip'
     - ' &7&osnaking it''s way to every combat."'
     attack-speed: 2.25
-    movement-speed: 0.122
+    movement-speed: 0.098
     ability:
       ability1:
         type: BACKSTEP
@@ -565,12 +565,12 @@ DA1_001_15:
     material: STONE_SWORD
     name: <#cc6e00>Stilleto <#6B6666>[<#d90986>Lvl.15<#6B6666>]
     displayed-type: Dagger
-    attack-damage: 13.49
+    attack-damage: 11.92
     lore:
     - ' &7&o"All who seek thrill has this one''s hip'
     - ' &7&osnaking it''s way to every combat."'
     attack-speed: 2.25
-    movement-speed: 0.131
+    movement-speed: 0.103
     ability:
       ability1:
         type: BACKSTEP
