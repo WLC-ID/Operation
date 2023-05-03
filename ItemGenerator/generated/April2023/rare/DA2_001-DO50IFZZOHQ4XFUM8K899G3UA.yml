@@ -1,9 +1,9 @@
-# Template: DA2_001_XXX. Digest: 34e5258db58c46799de313882d50f8a0. Base36: 34QG422VB7BYTINAKFXXX1RXC
-# Generated at 03/05/2023 11:55:05. Digest: f052cdf456ca5d92bc64d731250e1dde. Base36: E874Z94CGTXQF6YOL9FME8GYM.
+# Template: DA2_001_XXX. Digest: f052cdf456ca5d92bc64d731250e1dde. Base36: E874Z94CGTXQF6YOL9FME8GYM
+# Generated at 03/05/2023 13:39:25. Digest: e6e969cad33e0449298dedf142776472. Base36: DO50IFZZOHQ4XFUM8K899G3UA.
 DA2_001_01:
   base:
     material: STONE_SWORD
-    name: <#9370DB>Nightshade Dagger <#6B6666>[<#c50029>Lvl.10<#6B6666>]
+    name: <#9370DB>Nightshade Dagger <#6B6666>[<#ba0909>Lvl.10<#6B6666>]
     displayed-type: Dagger
     attack-damage: 10.67
     lore:
@@ -44,7 +44,7 @@ DA2_001_01:
 DA2_001_02:
   base:
     material: STONE_SWORD
-    name: <#9370DB>Nightshade Dagger <#6B6666>[<#cb0045>Lvl.11<#6B6666>]
+    name: <#9370DB>Nightshade Dagger <#6B6666>[<#c0091f>Lvl.11<#6B6666>]
     displayed-type: Dagger
     attack-damage: 16.99
     lore:
@@ -85,7 +85,7 @@ DA2_001_02:
 DA2_001_03:
   base:
     material: STONE_SWORD
-    name: <#9370DB>Nightshade Dagger <#6B6666>[<#c90065>Lvl.12<#6B6666>]
+    name: <#9370DB>Nightshade Dagger <#6B6666>[<#c60936>Lvl.12<#6B6666>]
     displayed-type: Dagger
     attack-damage: 24.96
     lore:
@@ -126,7 +126,7 @@ DA2_001_03:
 DA2_001_04:
   base:
     material: STONE_SWORD
-    name: <#9370DB>Nightshade Dagger <#6B6666>[<#bc0088>Lvl.13<#6B6666>]
+    name: <#9370DB>Nightshade Dagger <#6B6666>[<#cd094f>Lvl.13<#6B6666>]
     displayed-type: Dagger
     attack-damage: 34.58
     lore:
@@ -167,7 +167,7 @@ DA2_001_04:
 DA2_001_05:
   base:
     material: STONE_SWORD
-    name: <#9370DB>Nightshade Dagger <#6B6666>[<#a100ab>Lvl.14<#6B6666>]
+    name: <#9370DB>Nightshade Dagger <#6B6666>[<#d3096a>Lvl.14<#6B6666>]
     displayed-type: Dagger
     attack-damage: 45.85
     lore:
@@ -208,7 +208,7 @@ DA2_001_05:
 DA2_001_06:
   base:
     material: STONE_SWORD
-    name: <#9370DB>Nightshade Dagger <#6B6666>[<#7014cc>Lvl.15<#6B6666>]
+    name: <#9370DB>Nightshade Dagger <#6B6666>[<#d90986>Lvl.15<#6B6666>]
     displayed-type: Dagger
     attack-damage: 58.77
     lore:
@@ -249,7 +249,7 @@ DA2_001_06:
 DA2_001_07:
   base:
     material: STONE_SWORD
-    name: <#9370DB>Nightshade Dagger <#6B6666>[<#4d31cb>Lvl.16<#6B6666>]
+    name: <#9370DB>Nightshade Dagger <#6B6666>[<#e009a3>Lvl.16<#6B6666>]
     displayed-type: Dagger
     attack-damage: 73.34
     lore:
@@ -290,7 +290,7 @@ DA2_001_07:
 DA2_001_08:
   base:
     material: STONE_SWORD
-    name: <#9370DB>Nightshade Dagger <#6B6666>[<#1c3ec6>Lvl.17<#6B6666>]
+    name: <#9370DB>Nightshade Dagger <#6B6666>[<#e609c2>Lvl.17<#6B6666>]
     displayed-type: Dagger
     attack-damage: 89.56
     lore:
@@ -331,7 +331,7 @@ DA2_001_08:
 DA2_001_09:
   base:
     material: STONE_SWORD
-    name: <#9370DB>Nightshade Dagger <#6B6666>[<#0046be>Lvl.18<#6B6666>]
+    name: <#9370DB>Nightshade Dagger <#6B6666>[<#ec08e3>Lvl.18<#6B6666>]
     displayed-type: Dagger
     attack-damage: 107.42
     lore:
@@ -372,7 +372,7 @@ DA2_001_09:
 DA2_001_10:
   base:
     material: STONE_SWORD
-    name: <#9370DB>Nightshade Dagger <#6B6666>[<#004ab3>Lvl.19<#6B6666>]
+    name: <#9370DB>Nightshade Dagger <#6B6666>[<#e008f3>Lvl.19<#6B6666>]
     displayed-type: Dagger
     attack-damage: 126.94
     lore:
@@ -413,7 +413,7 @@ DA2_001_10:
 DA2_001_11:
   base:
     material: STONE_SWORD
-    name: <#9370DB>Nightshade Dagger <#6B6666>[<#004da6>Lvl.20<#6B6666>]
+    name: <#9370DB>Nightshade Dagger <#6B6666>[<#c80af7>Lvl.20<#6B6666>]
     displayed-type: Dagger
     attack-damage: 148.1
     lore:

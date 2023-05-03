@@ -1,5 +1,5 @@
 # Template: DA1_002_XXX. Digest: e198cb6325213e25a2bc4d83af262614. Base36: DCT7X9PYD3I01WYF70OXCW93O
-# Generated at 03/05/2023 11:55:04. Digest: e198cb6325213e25a2bc4d83af262614. Base36: DCT7X9PYD3I01WYF70OXCW93O.
+# Generated at 03/05/2023 13:39:25. Digest: e7918ad9ee51af3f4044314f7a855f96. Base36: DPJEKCQP5X1LUJD4H0ZQCI8IE.
 DA1_002_01:
   base:
     material: STONE_SWORD
@@ -39,7 +39,7 @@ DA1_002_01:
 DA1_002_02:
   base:
     material: STONE_SWORD
-    name: <#C0C0C0>Main Gauche <#6B6666>[<#73da00>Lvl.2<#6B6666>]
+    name: <#C0C0C0>Main Gauche <#6B6666>[<#52eb08>Lvl.2<#6B6666>]
     displayed-type: Dagger
     attack-damage: 5.55
     lore:
@@ -75,7 +75,7 @@ DA1_002_02:
 DA1_002_03:
   base:
     material: STONE_SWORD
-    name: <#C0C0C0>Main Gauche <#6B6666>[<#96c100>Lvl.3<#6B6666>]
+    name: <#C0C0C0>Main Gauche <#6B6666>[<#7ee508>Lvl.3<#6B6666>]
     displayed-type: Dagger
     attack-damage: 5.61
     lore:
@@ -111,7 +111,7 @@ DA1_002_03:
 DA1_002_04:
   base:
     material: STONE_SWORD
-    name: <#C0C0C0>Main Gauche <#6B6666>[<#aca800>Lvl.4<#6B6666>]
+    name: <#C0C0C0>Main Gauche <#6B6666>[<#a8de09>Lvl.4<#6B6666>]
     displayed-type: Dagger
     attack-damage: 5.67
     lore:
@@ -147,7 +147,7 @@ DA1_002_04:
 DA1_002_05:
   base:
     material: STONE_SWORD
-    name: <#C0C0C0>Main Gauche <#6B6666>[<#bb8e00>Lvl.5<#6B6666>]
+    name: <#C0C0C0>Main Gauche <#6B6666>[<#cfd809>Lvl.5<#6B6666>]
     displayed-type: Dagger
     attack-damage: 5.73
     lore:
@@ -183,7 +183,7 @@ DA1_002_05:
 DA1_002_06:
   base:
     material: STONE_SWORD
-    name: <#C0C0C0>Main Gauche <#6B6666>[<#c37300>Lvl.6<#6B6666>]
+    name: <#C0C0C0>Main Gauche <#6B6666>[<#d2b109>Lvl.6<#6B6666>]
     displayed-type: Dagger
     attack-damage: 5.8
     lore:
@@ -219,7 +219,7 @@ DA1_002_06:
 DA1_002_07:
   base:
     material: STONE_SWORD
-    name: <#C0C0C0>Main Gauche <#6B6666>[<#c55700>Lvl.7<#6B6666>]
+    name: <#C0C0C0>Main Gauche <#6B6666>[<#cc8409>Lvl.7<#6B6666>]
     displayed-type: Dagger
     attack-damage: 5.87
     lore:
@@ -255,7 +255,7 @@ DA1_002_07:
 DA1_002_08:
   base:
     material: STONE_SWORD
-    name: <#C0C0C0>Main Gauche <#6B6666>[<#c23700>Lvl.8<#6B6666>]
+    name: <#C0C0C0>Main Gauche <#6B6666>[<#c65809>Lvl.8<#6B6666>]
     displayed-type: Dagger
     attack-damage: 5.94
     lore:
@@ -291,7 +291,7 @@ DA1_002_08:
 DA1_002_09:
   base:
     material: STONE_SWORD
-    name: <#C0C0C0>Main Gauche <#6B6666>[<#ba0909>Lvl.9<#6B6666>]
+    name: <#C0C0C0>Main Gauche <#6B6666>[<#c02f09>Lvl.9<#6B6666>]
     displayed-type: Dagger
     attack-damage: 6.01
     lore:
@@ -327,7 +327,7 @@ DA1_002_09:
 DA1_002_10:
   base:
     material: STONE_SWORD
-    name: <#C0C0C0>Main Gauche <#6B6666>[<#c50029>Lvl.10<#6B6666>]
+    name: <#C0C0C0>Main Gauche <#6B6666>[<#ba0909>Lvl.10<#6B6666>]
     displayed-type: Dagger
     attack-damage: 6.09
     lore:
@@ -363,7 +363,7 @@ DA1_002_10:
 DA1_002_11:
   base:
     material: STONE_SWORD
-    name: <#C0C0C0>Main Gauche <#6B6666>[<#cb0045>Lvl.11<#6B6666>]
+    name: <#C0C0C0>Main Gauche <#6B6666>[<#c0091f>Lvl.11<#6B6666>]
     displayed-type: Dagger
     attack-damage: 6.17
     lore:
@@ -399,7 +399,7 @@ DA1_002_11:
 DA1_002_12:
   base:
     material: STONE_SWORD
-    name: <#C0C0C0>Main Gauche <#6B6666>[<#c90065>Lvl.12<#6B6666>]
+    name: <#C0C0C0>Main Gauche <#6B6666>[<#c60936>Lvl.12<#6B6666>]
     displayed-type: Dagger
     attack-damage: 6.25
     lore:
@@ -435,7 +435,7 @@ DA1_002_12:
 DA1_002_13:
   base:
     material: STONE_SWORD
-    name: <#C0C0C0>Main Gauche <#6B6666>[<#bc0088>Lvl.13<#6B6666>]
+    name: <#C0C0C0>Main Gauche <#6B6666>[<#cd094f>Lvl.13<#6B6666>]
     displayed-type: Dagger
     attack-damage: 6.33
     lore:
@@ -471,7 +471,7 @@ DA1_002_13:
 DA1_002_14:
   base:
     material: STONE_SWORD
-    name: <#C0C0C0>Main Gauche <#6B6666>[<#a100ab>Lvl.14<#6B6666>]
+    name: <#C0C0C0>Main Gauche <#6B6666>[<#d3096a>Lvl.14<#6B6666>]
     displayed-type: Dagger
     attack-damage: 6.42
     lore:
@@ -507,7 +507,7 @@ DA1_002_14:
 DA1_002_15:
   base:
     material: STONE_SWORD
-    name: <#C0C0C0>Main Gauche <#6B6666>[<#7014cc>Lvl.15<#6B6666>]
+    name: <#C0C0C0>Main Gauche <#6B6666>[<#d90986>Lvl.15<#6B6666>]
     displayed-type: Dagger
     attack-damage: 6.51
     lore:

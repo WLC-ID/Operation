@@ -1,9 +1,9 @@
-# Template: BS2_001_XXX. Digest: 40cef8f6b4f45897e50d29b4aa243873. Base36: 3U4IMZR37AMPIX5PWT1HHFWQB
-# Generated at 03/05/2023 11:55:05. Digest: 9364ab9d0f91ad7293f1e754cdc95a6d. Base36: 8Q4XYXPM6RAX141HTYI9ZS0VH.
+# Template: BS2_001_XXX. Digest: 9364ab9d0f91ad7293f1e754cdc95a6d. Base36: 8Q4XYXPM6RAX141HTYI9ZS0VH
+# Generated at 03/05/2023 13:39:26. Digest: 549ea0b0a11b97f4a96c2a0ad9e9a83d. Base36: 50CJZ78OBTB3WHPRVSZSUUFJX.
 BS2_001_01:
   base:
     material: STONE_SWORD
-    name: <#00FF7F>Exalted Hausmarchen <#6B6666>[<#c50029>Lvl.10<#6B6666>]
+    name: <#00FF7F>Exalted Hausmarchen <#6B6666>[<#ba0909>Lvl.10<#6B6666>]
     displayed-type: Broadsword
     tier: rare
     attack-damage: 17.5
@@ -42,7 +42,7 @@ BS2_001_01:
 BS2_001_02:
   base:
     material: STONE_SWORD
-    name: <#00FF7F>Exalted Hausmarchen <#6B6666>[<#cb0045>Lvl.11<#6B6666>]
+    name: <#00FF7F>Exalted Hausmarchen <#6B6666>[<#c0091f>Lvl.11<#6B6666>]
     displayed-type: Broadsword
     tier: rare
     attack-damage: 18.31
@@ -81,7 +81,7 @@ BS2_001_02:
 BS2_001_03:
   base:
     material: STONE_SWORD
-    name: <#00FF7F>Exalted Hausmarchen <#6B6666>[<#c90065>Lvl.12<#6B6666>]
+    name: <#00FF7F>Exalted Hausmarchen <#6B6666>[<#c60936>Lvl.12<#6B6666>]
     displayed-type: Broadsword
     tier: rare
     attack-damage: 19.15
@@ -120,7 +120,7 @@ BS2_001_03:
 BS2_001_04:
   base:
     material: STONE_SWORD
-    name: <#00FF7F>Exalted Hausmarchen <#6B6666>[<#bc0088>Lvl.13<#6B6666>]
+    name: <#00FF7F>Exalted Hausmarchen <#6B6666>[<#cd094f>Lvl.13<#6B6666>]
     displayed-type: Broadsword
     tier: rare
     attack-damage: 20.02
@@ -159,7 +159,7 @@ BS2_001_04:
 BS2_001_05:
   base:
     material: STONE_SWORD
-    name: <#00FF7F>Exalted Hausmarchen <#6B6666>[<#a100ab>Lvl.14<#6B6666>]
+    name: <#00FF7F>Exalted Hausmarchen <#6B6666>[<#d3096a>Lvl.14<#6B6666>]
     displayed-type: Broadsword
     tier: rare
     attack-damage: 20.91
@@ -198,7 +198,7 @@ BS2_001_05:
 BS2_001_06:
   base:
     material: STONE_SWORD
-    name: <#00FF7F>Exalted Hausmarchen <#6B6666>[<#7014cc>Lvl.15<#6B6666>]
+    name: <#00FF7F>Exalted Hausmarchen <#6B6666>[<#d90986>Lvl.15<#6B6666>]
     displayed-type: Broadsword
     tier: rare
     attack-damage: 21.83
@@ -237,7 +237,7 @@ BS2_001_06:
 BS2_001_07:
   base:
     material: STONE_SWORD
-    name: <#00FF7F>Exalted Hausmarchen <#6B6666>[<#4d31cb>Lvl.16<#6B6666>]
+    name: <#00FF7F>Exalted Hausmarchen <#6B6666>[<#e009a3>Lvl.16<#6B6666>]
     displayed-type: Broadsword
     tier: rare
     attack-damage: 22.79
@@ -276,7 +276,7 @@ BS2_001_07:
 BS2_001_08:
   base:
     material: STONE_SWORD
-    name: <#00FF7F>Exalted Hausmarchen <#6B6666>[<#1c3ec6>Lvl.17<#6B6666>]
+    name: <#00FF7F>Exalted Hausmarchen <#6B6666>[<#e609c2>Lvl.17<#6B6666>]
     displayed-type: Broadsword
     tier: rare
     attack-damage: 23.77
@@ -315,7 +315,7 @@ BS2_001_08:
 BS2_001_09:
   base:
     material: STONE_SWORD
-    name: <#00FF7F>Exalted Hausmarchen <#6B6666>[<#0046be>Lvl.18<#6B6666>]
+    name: <#00FF7F>Exalted Hausmarchen <#6B6666>[<#ec08e3>Lvl.18<#6B6666>]
     displayed-type: Broadsword
     tier: rare
     attack-damage: 24.77
@@ -354,7 +354,7 @@ BS2_001_09:
 BS2_001_10:
   base:
     material: STONE_SWORD
-    name: <#00FF7F>Exalted Hausmarchen <#6B6666>[<#004ab3>Lvl.19<#6B6666>]
+    name: <#00FF7F>Exalted Hausmarchen <#6B6666>[<#e008f3>Lvl.19<#6B6666>]
     displayed-type: Broadsword
     tier: rare
     attack-damage: 25.81
@@ -393,7 +393,7 @@ BS2_001_10:
 BS2_001_11:
   base:
     material: STONE_SWORD
-    name: <#00FF7F>Exalted Hausmarchen <#6B6666>[<#004da6>Lvl.20<#6B6666>]
+    name: <#00FF7F>Exalted Hausmarchen <#6B6666>[<#c80af7>Lvl.20<#6B6666>]
     displayed-type: Broadsword
     tier: rare
     attack-damage: 26.88

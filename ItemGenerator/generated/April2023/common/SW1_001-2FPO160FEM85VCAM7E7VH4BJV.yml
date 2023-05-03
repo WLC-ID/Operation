@@ -1,5 +1,5 @@
 # Template: SW1_001_XXX. Digest: 2d333ac4388416131137a53dcfb3050b. Base36: 2OC1EWC2D08RSF4BLW39XLIBV
-# Generated at 03/05/2023 11:55:04. Digest: 2d333ac4388416131137a53dcfb3050b. Base36: 2OC1EWC2D08RSF4BLW39XLIBV.
+# Generated at 03/05/2023 13:39:25. Digest: 2927a9f75ff2977f3d56e42a3a50907b. Base36: 2FPO160FEM85VCAM7E7VH4BJV.
 SW1_001_01:
   base:
     material: STONE_SWORD
@@ -36,7 +36,7 @@ SW1_001_01:
 SW1_001_02:
   base:
     material: STONE_SWORD
-    name: <#817474>Relic Sword <#6B6666>[<#73da00>Lvl.2<#6B6666>]
+    name: <#817474>Relic Sword <#6B6666>[<#52eb08>Lvl.2<#6B6666>]
     displayed-type: Sword
     attack-damage: 10.54
     lore:
@@ -69,7 +69,7 @@ SW1_001_02:
 SW1_001_03:
   base:
     material: STONE_SWORD
-    name: <#817474>Relic Sword <#6B6666>[<#96c100>Lvl.3<#6B6666>]
+    name: <#817474>Relic Sword <#6B6666>[<#7ee508>Lvl.3<#6B6666>]
     displayed-type: Sword
     attack-damage: 11.11
     lore:
@@ -102,7 +102,7 @@ SW1_001_03:
 SW1_001_04:
   base:
     material: STONE_SWORD
-    name: <#817474>Relic Sword <#6B6666>[<#aca800>Lvl.4<#6B6666>]
+    name: <#817474>Relic Sword <#6B6666>[<#a8de09>Lvl.4<#6B6666>]
     displayed-type: Sword
     attack-damage: 11.7
     lore:
@@ -135,7 +135,7 @@ SW1_001_04:
 SW1_001_05:
   base:
     material: STONE_SWORD
-    name: <#817474>Relic Sword <#6B6666>[<#bb8e00>Lvl.5<#6B6666>]
+    name: <#817474>Relic Sword <#6B6666>[<#cfd809>Lvl.5<#6B6666>]
     displayed-type: Sword
     attack-damage: 12.33
     lore:
@@ -168,7 +168,7 @@ SW1_001_05:
 SW1_001_06:
   base:
     material: STONE_SWORD
-    name: <#817474>Relic Sword <#6B6666>[<#c37300>Lvl.6<#6B6666>]
+    name: <#817474>Relic Sword <#6B6666>[<#d2b109>Lvl.6<#6B6666>]
     displayed-type: Sword
     attack-damage: 12.98
     lore:
@@ -201,7 +201,7 @@ SW1_001_06:
 SW1_001_07:
   base:
     material: STONE_SWORD
-    name: <#817474>Relic Sword <#6B6666>[<#c55700>Lvl.7<#6B6666>]
+    name: <#817474>Relic Sword <#6B6666>[<#cc8409>Lvl.7<#6B6666>]
     displayed-type: Sword
     attack-damage: 13.66
     lore:
@@ -234,7 +234,7 @@ SW1_001_07:
 SW1_001_08:
   base:
     material: STONE_SWORD
-    name: <#817474>Relic Sword <#6B6666>[<#c23700>Lvl.8<#6B6666>]
+    name: <#817474>Relic Sword <#6B6666>[<#c65809>Lvl.8<#6B6666>]
     displayed-type: Sword
     attack-damage: 14.37
     lore:
@@ -267,7 +267,7 @@ SW1_001_08:
 SW1_001_09:
   base:
     material: STONE_SWORD
-    name: <#817474>Relic Sword <#6B6666>[<#ba0909>Lvl.9<#6B6666>]
+    name: <#817474>Relic Sword <#6B6666>[<#c02f09>Lvl.9<#6B6666>]
     displayed-type: Sword
     attack-damage: 15.1
     lore:
@@ -300,7 +300,7 @@ SW1_001_09:
 SW1_001_10:
   base:
     material: STONE_SWORD
-    name: <#817474>Relic Sword <#6B6666>[<#c50029>Lvl.10<#6B6666>]
+    name: <#817474>Relic Sword <#6B6666>[<#ba0909>Lvl.10<#6B6666>]
     displayed-type: Sword
     attack-damage: 15.87
     lore:
@@ -333,7 +333,7 @@ SW1_001_10:
 SW1_001_11:
   base:
     material: STONE_SWORD
-    name: <#817474>Relic Sword <#6B6666>[<#cb0045>Lvl.11<#6B6666>]
+    name: <#817474>Relic Sword <#6B6666>[<#c0091f>Lvl.11<#6B6666>]
     displayed-type: Sword
     attack-damage: 16.66
     lore:
@@ -366,7 +366,7 @@ SW1_001_11:
 SW1_001_12:
   base:
     material: STONE_SWORD
-    name: <#817474>Relic Sword <#6B6666>[<#c90065>Lvl.12<#6B6666>]
+    name: <#817474>Relic Sword <#6B6666>[<#c60936>Lvl.12<#6B6666>]
     displayed-type: Sword
     attack-damage: 17.48
     lore:
@@ -399,7 +399,7 @@ SW1_001_12:
 SW1_001_13:
   base:
     material: STONE_SWORD
-    name: <#817474>Relic Sword <#6B6666>[<#bc0088>Lvl.13<#6B6666>]
+    name: <#817474>Relic Sword <#6B6666>[<#cd094f>Lvl.13<#6B6666>]
     displayed-type: Sword
     attack-damage: 18.33
     lore:
@@ -432,7 +432,7 @@ SW1_001_13:
 SW1_001_14:
   base:
     material: STONE_SWORD
-    name: <#817474>Relic Sword <#6B6666>[<#a100ab>Lvl.14<#6B6666>]
+    name: <#817474>Relic Sword <#6B6666>[<#d3096a>Lvl.14<#6B6666>]
     displayed-type: Sword
     attack-damage: 19.21
     lore:
@@ -465,7 +465,7 @@ SW1_001_14:
 SW1_001_15:
   base:
     material: STONE_SWORD
-    name: <#817474>Relic Sword <#6B6666>[<#7014cc>Lvl.15<#6B6666>]
+    name: <#817474>Relic Sword <#6B6666>[<#d90986>Lvl.15<#6B6666>]
     displayed-type: Sword
     attack-damage: 20.12
     lore:

@@ -1,9 +1,9 @@
-# Template: DA2_002_XXX. Digest: d3f980432b072c39c17f054f9cb5dd4c. Base36: CJS1A242UT2VCUCFUZUOOKQX8
-# Generated at 03/05/2023 11:55:05. Digest: f1e04ec9593f681b9cd342d61514c2c0. Base36: EBI9WA2LP2Q8B3E7316J8UT34.
+# Template: DA2_002_XXX. Digest: f1e04ec9593f681b9cd342d61514c2c0. Base36: EBI9WA2LP2Q8B3E7316J8UT34
+# Generated at 03/05/2023 13:39:25. Digest: 9684c3786bfb041eb486adbf36f56f24. Base36: 8WSQOSPOCNQZ1UJLGIGTLO36S.
 DA2_002_01:
   base:
     material: STONE_SWORD
-    name: <#228B22>Serpentine <#6B6666>[<#c50029>Lvl.10<#6B6666>]
+    name: <#228B22>Serpentine <#6B6666>[<#ba0909>Lvl.10<#6B6666>]
     displayed-type: Dagger
     attack-damage: 6.1
     lore:
@@ -38,7 +38,7 @@ DA2_002_01:
 DA2_002_02:
   base:
     material: STONE_SWORD
-    name: <#228B22>Serpentine <#6B6666>[<#cb0045>Lvl.11<#6B6666>]
+    name: <#228B22>Serpentine <#6B6666>[<#c0091f>Lvl.11<#6B6666>]
     displayed-type: Dagger
     attack-damage: 6.18
     lore:
@@ -73,7 +73,7 @@ DA2_002_02:
 DA2_002_03:
   base:
     material: STONE_SWORD
-    name: <#228B22>Serpentine <#6B6666>[<#c90065>Lvl.12<#6B6666>]
+    name: <#228B22>Serpentine <#6B6666>[<#c60936>Lvl.12<#6B6666>]
     displayed-type: Dagger
     attack-damage: 6.26
     lore:
@@ -108,7 +108,7 @@ DA2_002_03:
 DA2_002_04:
   base:
     material: STONE_SWORD
-    name: <#228B22>Serpentine <#6B6666>[<#bc0088>Lvl.13<#6B6666>]
+    name: <#228B22>Serpentine <#6B6666>[<#cd094f>Lvl.13<#6B6666>]
     displayed-type: Dagger
     attack-damage: 6.35
     lore:
@@ -143,7 +143,7 @@ DA2_002_04:
 DA2_002_05:
   base:
     material: STONE_SWORD
-    name: <#228B22>Serpentine <#6B6666>[<#a100ab>Lvl.14<#6B6666>]
+    name: <#228B22>Serpentine <#6B6666>[<#d3096a>Lvl.14<#6B6666>]
     displayed-type: Dagger
     attack-damage: 6.44
     lore:
@@ -178,7 +178,7 @@ DA2_002_05:
 DA2_002_06:
   base:
     material: STONE_SWORD
-    name: <#228B22>Serpentine <#6B6666>[<#7014cc>Lvl.15<#6B6666>]
+    name: <#228B22>Serpentine <#6B6666>[<#d90986>Lvl.15<#6B6666>]
     displayed-type: Dagger
     attack-damage: 6.53
     lore:
@@ -213,7 +213,7 @@ DA2_002_06:
 DA2_002_07:
   base:
     material: STONE_SWORD
-    name: <#228B22>Serpentine <#6B6666>[<#4d31cb>Lvl.16<#6B6666>]
+    name: <#228B22>Serpentine <#6B6666>[<#e009a3>Lvl.16<#6B6666>]
     displayed-type: Dagger
     attack-damage: 6.62
     lore:
@@ -248,7 +248,7 @@ DA2_002_07:
 DA2_002_08:
   base:
     material: STONE_SWORD
-    name: <#228B22>Serpentine <#6B6666>[<#1c3ec6>Lvl.17<#6B6666>]
+    name: <#228B22>Serpentine <#6B6666>[<#e609c2>Lvl.17<#6B6666>]
     displayed-type: Dagger
     attack-damage: 6.72
     lore:
@@ -283,7 +283,7 @@ DA2_002_08:
 DA2_002_09:
   base:
     material: STONE_SWORD
-    name: <#228B22>Serpentine <#6B6666>[<#0046be>Lvl.18<#6B6666>]
+    name: <#228B22>Serpentine <#6B6666>[<#ec08e3>Lvl.18<#6B6666>]
     displayed-type: Dagger
     attack-damage: 6.82
     lore:
@@ -318,7 +318,7 @@ DA2_002_09:
 DA2_002_10:
   base:
     material: STONE_SWORD
-    name: <#228B22>Serpentine <#6B6666>[<#004ab3>Lvl.19<#6B6666>]
+    name: <#228B22>Serpentine <#6B6666>[<#e008f3>Lvl.19<#6B6666>]
     displayed-type: Dagger
     attack-damage: 6.92
     lore:
@@ -353,7 +353,7 @@ DA2_002_10:
 DA2_002_11:
   base:
     material: STONE_SWORD
-    name: <#228B22>Serpentine <#6B6666>[<#004da6>Lvl.20<#6B6666>]
+    name: <#228B22>Serpentine <#6B6666>[<#c80af7>Lvl.20<#6B6666>]
     displayed-type: Dagger
     attack-damage: 7.03
     lore:

@@ -1,9 +1,9 @@
-# Template: KA2_001_XXX. Digest: 60b08b6ad9a928d71f85290a554539de. Base36: 5Q2N2LK1WQ3HB4RM5RR0Q91I6
-# Generated at 03/05/2023 11:55:05. Digest: 2123a502c98f1f1361f6e8682d5ea68b. Base36: 1YMNHA5AX5HBEKJFGTQYIVUKR.
+# Template: KA2_001_XXX. Digest: 2123a502c98f1f1361f6e8682d5ea68b. Base36: 1YMNHA5AX5HBEKJFGTQYIVUKR
+# Generated at 03/05/2023 13:39:25. Digest: 2548ffa29102a75741108f594c30c363. Base36: 27GR3WZDFZSX453D4DX45RQEB.
 KA2_001_01:
   base:
     material: IRON_SWORD
-    name: <#D4AF37>Itomaki Tachi <#6B6666>[<#c50029>Lvl.10<#6B6666>]
+    name: <#D4AF37>Itomaki Tachi <#6B6666>[<#ba0909>Lvl.10<#6B6666>]
     displayed-type: Katana
     attack-damage: 13.97
     critical-strike-chance: 17.08
@@ -40,7 +40,7 @@ KA2_001_01:
 KA2_001_02:
   base:
     material: IRON_SWORD
-    name: <#D4AF37>Itomaki Tachi <#6B6666>[<#cb0045>Lvl.11<#6B6666>]
+    name: <#D4AF37>Itomaki Tachi <#6B6666>[<#c0091f>Lvl.11<#6B6666>]
     displayed-type: Katana
     attack-damage: 14.78
     critical-strike-chance: 17.9
@@ -77,7 +77,7 @@ KA2_001_02:
 KA2_001_03:
   base:
     material: IRON_SWORD
-    name: <#D4AF37>Itomaki Tachi <#6B6666>[<#c90065>Lvl.12<#6B6666>]
+    name: <#D4AF37>Itomaki Tachi <#6B6666>[<#c60936>Lvl.12<#6B6666>]
     displayed-type: Katana
     attack-damage: 15.61
     critical-strike-chance: 18.74
@@ -114,7 +114,7 @@ KA2_001_03:
 KA2_001_04:
   base:
     material: IRON_SWORD
-    name: <#D4AF37>Itomaki Tachi <#6B6666>[<#bc0088>Lvl.13<#6B6666>]
+    name: <#D4AF37>Itomaki Tachi <#6B6666>[<#cd094f>Lvl.13<#6B6666>]
     displayed-type: Katana
     attack-damage: 16.47
     critical-strike-chance: 19.62
@@ -151,7 +151,7 @@ KA2_001_04:
 KA2_001_05:
   base:
     material: IRON_SWORD
-    name: <#D4AF37>Itomaki Tachi <#6B6666>[<#a100ab>Lvl.14<#6B6666>]
+    name: <#D4AF37>Itomaki Tachi <#6B6666>[<#d3096a>Lvl.14<#6B6666>]
     displayed-type: Katana
     attack-damage: 17.36
     critical-strike-chance: 20.52
@@ -188,7 +188,7 @@ KA2_001_05:
 KA2_001_06:
   base:
     material: IRON_SWORD
-    name: <#D4AF37>Itomaki Tachi <#6B6666>[<#7014cc>Lvl.15<#6B6666>]
+    name: <#D4AF37>Itomaki Tachi <#6B6666>[<#d90986>Lvl.15<#6B6666>]
     displayed-type: Katana
     attack-damage: 18.28
     critical-strike-chance: 21.45
@@ -225,7 +225,7 @@ KA2_001_06:
 KA2_001_07:
   base:
     material: IRON_SWORD
-    name: <#D4AF37>Itomaki Tachi <#6B6666>[<#4d31cb>Lvl.16<#6B6666>]
+    name: <#D4AF37>Itomaki Tachi <#6B6666>[<#e009a3>Lvl.16<#6B6666>]
     displayed-type: Katana
     attack-damage: 19.23
     critical-strike-chance: 22.41
@@ -262,7 +262,7 @@ KA2_001_07:
 KA2_001_08:
   base:
     material: IRON_SWORD
-    name: <#D4AF37>Itomaki Tachi <#6B6666>[<#1c3ec6>Lvl.17<#6B6666>]
+    name: <#D4AF37>Itomaki Tachi <#6B6666>[<#e609c2>Lvl.17<#6B6666>]
     displayed-type: Katana
     attack-damage: 20.21
     critical-strike-chance: 23.4
@@ -299,7 +299,7 @@ KA2_001_08:
 KA2_001_09:
   base:
     material: IRON_SWORD
-    name: <#D4AF37>Itomaki Tachi <#6B6666>[<#0046be>Lvl.18<#6B6666>]
+    name: <#D4AF37>Itomaki Tachi <#6B6666>[<#ec08e3>Lvl.18<#6B6666>]
     displayed-type: Katana
     attack-damage: 21.21
     critical-strike-chance: 24.42
@@ -336,7 +336,7 @@ KA2_001_09:
 KA2_001_10:
   base:
     material: IRON_SWORD
-    name: <#D4AF37>Itomaki Tachi <#6B6666>[<#004ab3>Lvl.19<#6B6666>]
+    name: <#D4AF37>Itomaki Tachi <#6B6666>[<#e008f3>Lvl.19<#6B6666>]
     displayed-type: Katana
     attack-damage: 22.24
     critical-strike-chance: 25.47
@@ -373,7 +373,7 @@ KA2_001_10:
 KA2_001_11:
   base:
     material: IRON_SWORD
-    name: <#D4AF37>Itomaki Tachi <#6B6666>[<#004da6>Lvl.20<#6B6666>]
+    name: <#D4AF37>Itomaki Tachi <#6B6666>[<#c80af7>Lvl.20<#6B6666>]
     displayed-type: Katana
     attack-damage: 23.3
     critical-strike-chance: 26.55

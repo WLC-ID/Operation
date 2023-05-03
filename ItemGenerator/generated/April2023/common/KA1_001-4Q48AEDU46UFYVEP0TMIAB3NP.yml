@@ -1,5 +1,5 @@
 # Template: KA1_001_XXX. Digest: f883a0f9c9da653c4953d61d38cf41b1. Base36: EPNKYLBN394HXUECDZXY8X701
-# Generated at 03/05/2023 11:55:04. Digest: f883a0f9c9da653c4953d61d38cf41b1. Base36: EPNKYLBN394HXUECDZXY8X701.
+# Generated at 03/05/2023 13:39:25. Digest: 4fd1b332193b4ae4e6374b1206a45945. Base36: 4Q48AEDU46UFYVEP0TMIAB3NP.
 KA1_001_01:
   base:
     material: IRON_SWORD
@@ -39,7 +39,7 @@ KA1_001_01:
 KA1_001_02:
   base:
     material: IRON_SWORD
-    name: <#00AEE6>Bokken <#6B6666>[<#73da00>Lvl.2<#6B6666>]
+    name: <#00AEE6>Bokken <#6B6666>[<#52eb08>Lvl.2<#6B6666>]
     displayed-type: Katana
     attack-damage: 8.54
     critical-strike-chance: 11.54
@@ -75,7 +75,7 @@ KA1_001_02:
 KA1_001_03:
   base:
     material: IRON_SWORD
-    name: <#00AEE6>Bokken <#6B6666>[<#96c100>Lvl.3<#6B6666>]
+    name: <#00AEE6>Bokken <#6B6666>[<#7ee508>Lvl.3<#6B6666>]
     displayed-type: Katana
     attack-damage: 9.11
     critical-strike-chance: 12.11
@@ -111,7 +111,7 @@ KA1_001_03:
 KA1_001_04:
   base:
     material: IRON_SWORD
-    name: <#00AEE6>Bokken <#6B6666>[<#aca800>Lvl.4<#6B6666>]
+    name: <#00AEE6>Bokken <#6B6666>[<#a8de09>Lvl.4<#6B6666>]
     displayed-type: Katana
     attack-damage: 9.7
     critical-strike-chance: 12.7
@@ -147,7 +147,7 @@ KA1_001_04:
 KA1_001_05:
   base:
     material: IRON_SWORD
-    name: <#00AEE6>Bokken <#6B6666>[<#bb8e00>Lvl.5<#6B6666>]
+    name: <#00AEE6>Bokken <#6B6666>[<#cfd809>Lvl.5<#6B6666>]
     displayed-type: Katana
     attack-damage: 10.33
     critical-strike-chance: 13.33
@@ -183,7 +183,7 @@ KA1_001_05:
 KA1_001_06:
   base:
     material: IRON_SWORD
-    name: <#00AEE6>Bokken <#6B6666>[<#c37300>Lvl.6<#6B6666>]
+    name: <#00AEE6>Bokken <#6B6666>[<#d2b109>Lvl.6<#6B6666>]
     displayed-type: Katana
     attack-damage: 10.98
     critical-strike-chance: 13.98
@@ -219,7 +219,7 @@ KA1_001_06:
 KA1_001_07:
   base:
     material: IRON_SWORD
-    name: <#00AEE6>Bokken <#6B6666>[<#c55700>Lvl.7<#6B6666>]
+    name: <#00AEE6>Bokken <#6B6666>[<#cc8409>Lvl.7<#6B6666>]
     displayed-type: Katana
     attack-damage: 11.66
     critical-strike-chance: 14.66
@@ -255,7 +255,7 @@ KA1_001_07:
 KA1_001_08:
   base:
     material: IRON_SWORD
-    name: <#00AEE6>Bokken <#6B6666>[<#c23700>Lvl.8<#6B6666>]
+    name: <#00AEE6>Bokken <#6B6666>[<#c65809>Lvl.8<#6B6666>]
     displayed-type: Katana
     attack-damage: 12.37
     critical-strike-chance: 15.37
@@ -291,7 +291,7 @@ KA1_001_08:
 KA1_001_09:
   base:
     material: IRON_SWORD
-    name: <#00AEE6>Bokken <#6B6666>[<#ba0909>Lvl.9<#6B6666>]
+    name: <#00AEE6>Bokken <#6B6666>[<#c02f09>Lvl.9<#6B6666>]
     displayed-type: Katana
     attack-damage: 13.1
     critical-strike-chance: 16.1
@@ -327,7 +327,7 @@ KA1_001_09:
 KA1_001_10:
   base:
     material: IRON_SWORD
-    name: <#00AEE6>Bokken <#6B6666>[<#c50029>Lvl.10<#6B6666>]
+    name: <#00AEE6>Bokken <#6B6666>[<#ba0909>Lvl.10<#6B6666>]
     displayed-type: Katana
     attack-damage: 13.87
     critical-strike-chance: 16.87
@@ -363,7 +363,7 @@ KA1_001_10:
 KA1_001_11:
   base:
     material: IRON_SWORD
-    name: <#00AEE6>Bokken <#6B6666>[<#cb0045>Lvl.11<#6B6666>]
+    name: <#00AEE6>Bokken <#6B6666>[<#c0091f>Lvl.11<#6B6666>]
     displayed-type: Katana
     attack-damage: 14.66
     critical-strike-chance: 17.66
@@ -399,7 +399,7 @@ KA1_001_11:
 KA1_001_12:
   base:
     material: IRON_SWORD
-    name: <#00AEE6>Bokken <#6B6666>[<#c90065>Lvl.12<#6B6666>]
+    name: <#00AEE6>Bokken <#6B6666>[<#c60936>Lvl.12<#6B6666>]
     displayed-type: Katana
     attack-damage: 15.48
     critical-strike-chance: 18.48
@@ -435,7 +435,7 @@ KA1_001_12:
 KA1_001_13:
   base:
     material: IRON_SWORD
-    name: <#00AEE6>Bokken <#6B6666>[<#bc0088>Lvl.13<#6B6666>]
+    name: <#00AEE6>Bokken <#6B6666>[<#cd094f>Lvl.13<#6B6666>]
     displayed-type: Katana
     attack-damage: 16.33
     critical-strike-chance: 19.33
@@ -471,7 +471,7 @@ KA1_001_13:
 KA1_001_14:
   base:
     material: IRON_SWORD
-    name: <#00AEE6>Bokken <#6B6666>[<#a100ab>Lvl.14<#6B6666>]
+    name: <#00AEE6>Bokken <#6B6666>[<#d3096a>Lvl.14<#6B6666>]
     displayed-type: Katana
     attack-damage: 17.21
     critical-strike-chance: 20.21
@@ -507,7 +507,7 @@ KA1_001_14:
 KA1_001_15:
   base:
     material: IRON_SWORD
-    name: <#00AEE6>Bokken <#6B6666>[<#7014cc>Lvl.15<#6B6666>]
+    name: <#00AEE6>Bokken <#6B6666>[<#d90986>Lvl.15<#6B6666>]
     displayed-type: Katana
     attack-damage: 18.12
     critical-strike-chance: 21.12

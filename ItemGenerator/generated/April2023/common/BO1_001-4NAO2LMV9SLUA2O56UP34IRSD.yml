@@ -1,5 +1,5 @@
 # Template: BO1_001_XXX. Digest: 799af197256f23b2490c971558a27b1a. Base36: 776BPJAARHDGKOJRBE2A1P15M
-# Generated at 03/05/2023 11:55:04. Digest: 799af197256f23b2490c971558a27b1a. Base36: 776BPJAARHDGKOJRBE2A1P15M.
+# Generated at 03/05/2023 13:39:25. Digest: 4e7ed61d2bb1a5b1b7e418c43231dd2d. Base36: 4NAO2LMV9SLUA2O56UP34IRSD.
 BO1_001_01:
   base:
     material: BOW
@@ -37,7 +37,7 @@ BO1_001_01:
 BO1_001_02:
   base:
     material: BOW
-    name: <#8C3B05>Hunting Bow <#6B6666>[<#73da00>Lvl.2<#6B6666>]
+    name: <#8C3B05>Hunting Bow <#6B6666>[<#52eb08>Lvl.2<#6B6666>]
     displayed-type: Bow
     tier: common
     attack-damage: 12.54
@@ -71,7 +71,7 @@ BO1_001_02:
 BO1_001_03:
   base:
     material: BOW
-    name: <#8C3B05>Hunting Bow <#6B6666>[<#96c100>Lvl.3<#6B6666>]
+    name: <#8C3B05>Hunting Bow <#6B6666>[<#7ee508>Lvl.3<#6B6666>]
     displayed-type: Bow
     tier: common
     attack-damage: 13.11
@@ -105,7 +105,7 @@ BO1_001_03:
 BO1_001_04:
   base:
     material: BOW
-    name: <#8C3B05>Hunting Bow <#6B6666>[<#aca800>Lvl.4<#6B6666>]
+    name: <#8C3B05>Hunting Bow <#6B6666>[<#a8de09>Lvl.4<#6B6666>]
     displayed-type: Bow
     tier: common
     attack-damage: 13.7
@@ -139,7 +139,7 @@ BO1_001_04:
 BO1_001_05:
   base:
     material: BOW
-    name: <#8C3B05>Hunting Bow <#6B6666>[<#bb8e00>Lvl.5<#6B6666>]
+    name: <#8C3B05>Hunting Bow <#6B6666>[<#cfd809>Lvl.5<#6B6666>]
     displayed-type: Bow
     tier: common
     attack-damage: 14.33
@@ -173,7 +173,7 @@ BO1_001_05:
 BO1_001_06:
   base:
     material: BOW
-    name: <#8C3B05>Hunting Bow <#6B6666>[<#c37300>Lvl.6<#6B6666>]
+    name: <#8C3B05>Hunting Bow <#6B6666>[<#d2b109>Lvl.6<#6B6666>]
     displayed-type: Bow
     tier: common
     attack-damage: 14.98
@@ -207,7 +207,7 @@ BO1_001_06:
 BO1_001_07:
   base:
     material: BOW
-    name: <#8C3B05>Hunting Bow <#6B6666>[<#c55700>Lvl.7<#6B6666>]
+    name: <#8C3B05>Hunting Bow <#6B6666>[<#cc8409>Lvl.7<#6B6666>]
     displayed-type: Bow
     tier: common
     attack-damage: 15.66
@@ -241,7 +241,7 @@ BO1_001_07:
 BO1_001_08:
   base:
     material: BOW
-    name: <#8C3B05>Hunting Bow <#6B6666>[<#c23700>Lvl.8<#6B6666>]
+    name: <#8C3B05>Hunting Bow <#6B6666>[<#c65809>Lvl.8<#6B6666>]
     displayed-type: Bow
     tier: common
     attack-damage: 16.37
@@ -275,7 +275,7 @@ BO1_001_08:
 BO1_001_09:
   base:
     material: BOW
-    name: <#8C3B05>Hunting Bow <#6B6666>[<#ba0909>Lvl.9<#6B6666>]
+    name: <#8C3B05>Hunting Bow <#6B6666>[<#c02f09>Lvl.9<#6B6666>]
     displayed-type: Bow
     tier: common
     attack-damage: 17.1
@@ -309,7 +309,7 @@ BO1_001_09:
 BO1_001_10:
   base:
     material: BOW
-    name: <#8C3B05>Hunting Bow <#6B6666>[<#c50029>Lvl.10<#6B6666>]
+    name: <#8C3B05>Hunting Bow <#6B6666>[<#ba0909>Lvl.10<#6B6666>]
     displayed-type: Bow
     tier: common
     attack-damage: 17.87
@@ -343,7 +343,7 @@ BO1_001_10:
 BO1_001_11:
   base:
     material: BOW
-    name: <#8C3B05>Hunting Bow <#6B6666>[<#cb0045>Lvl.11<#6B6666>]
+    name: <#8C3B05>Hunting Bow <#6B6666>[<#c0091f>Lvl.11<#6B6666>]
     displayed-type: Bow
     tier: common
     attack-damage: 18.66
@@ -377,7 +377,7 @@ BO1_001_11:
 BO1_001_12:
   base:
     material: BOW
-    name: <#8C3B05>Hunting Bow <#6B6666>[<#c90065>Lvl.12<#6B6666>]
+    name: <#8C3B05>Hunting Bow <#6B6666>[<#c60936>Lvl.12<#6B6666>]
     displayed-type: Bow
     tier: common
     attack-damage: 19.48
@@ -411,7 +411,7 @@ BO1_001_12:
 BO1_001_13:
   base:
     material: BOW
-    name: <#8C3B05>Hunting Bow <#6B6666>[<#bc0088>Lvl.13<#6B6666>]
+    name: <#8C3B05>Hunting Bow <#6B6666>[<#cd094f>Lvl.13<#6B6666>]
     displayed-type: Bow
     tier: common
     attack-damage: 20.33
@@ -445,7 +445,7 @@ BO1_001_13:
 BO1_001_14:
   base:
     material: BOW
-    name: <#8C3B05>Hunting Bow <#6B6666>[<#a100ab>Lvl.14<#6B6666>]
+    name: <#8C3B05>Hunting Bow <#6B6666>[<#d3096a>Lvl.14<#6B6666>]
     displayed-type: Bow
     tier: common
     attack-damage: 21.21
@@ -479,7 +479,7 @@ BO1_001_14:
 BO1_001_15:
   base:
     material: BOW
-    name: <#8C3B05>Hunting Bow <#6B6666>[<#7014cc>Lvl.15<#6B6666>]
+    name: <#8C3B05>Hunting Bow <#6B6666>[<#d90986>Lvl.15<#6B6666>]
     displayed-type: Bow
     tier: common
     attack-damage: 22.12

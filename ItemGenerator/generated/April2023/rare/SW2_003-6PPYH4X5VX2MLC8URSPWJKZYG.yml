@@ -1,9 +1,9 @@
-# Template: SW2_003_XXX. Digest: 14f7760cc3585eabc87e02043f3d92af. Base36: 18OOZ8ZOGPLL37BIYXVENXN73
-# Generated at 03/05/2023 11:55:05. Digest: 48338be9fe49876e1c5f44d50395ecdc. Base36: 49VQTZRM5V2L918VSVOJKMDB0.
+# Template: SW2_003_XXX. Digest: 48338be9fe49876e1c5f44d50395ecdc. Base36: 49VQTZRM5V2L918VSVOJKMDB0
+# Generated at 03/05/2023 13:39:26. Digest: 716a5fc6fddd1642eb0483b6cfd4f608. Base36: 6PPYH4X5VX2MLC8URSPWJKZYG.
 SW2_003_01:
   base:
     material: STONE_SWORD
-    name: <#FF4500>Starblazed Fury <#6B6666>[<#c50029>Lvl.10<#6B6666>]
+    name: <#FF4500>Starblazed Fury <#6B6666>[<#ba0909>Lvl.10<#6B6666>]
     displayed-type: Sword
     attack-damage: 15.87
     fire-damage-reduction: 15.97
@@ -43,7 +43,7 @@ SW2_003_01:
 SW2_003_02:
   base:
     material: STONE_SWORD
-    name: <#FF4500>Starblazed Fury <#6B6666>[<#cb0045>Lvl.11<#6B6666>]
+    name: <#FF4500>Starblazed Fury <#6B6666>[<#c0091f>Lvl.11<#6B6666>]
     displayed-type: Sword
     attack-damage: 16.66
     fire-damage-reduction: 16.78
@@ -83,7 +83,7 @@ SW2_003_02:
 SW2_003_03:
   base:
     material: STONE_SWORD
-    name: <#FF4500>Starblazed Fury <#6B6666>[<#c90065>Lvl.12<#6B6666>]
+    name: <#FF4500>Starblazed Fury <#6B6666>[<#c60936>Lvl.12<#6B6666>]
     displayed-type: Sword
     attack-damage: 17.48
     fire-damage-reduction: 17.61
@@ -123,7 +123,7 @@ SW2_003_03:
 SW2_003_04:
   base:
     material: STONE_SWORD
-    name: <#FF4500>Starblazed Fury <#6B6666>[<#bc0088>Lvl.13<#6B6666>]
+    name: <#FF4500>Starblazed Fury <#6B6666>[<#cd094f>Lvl.13<#6B6666>]
     displayed-type: Sword
     attack-damage: 18.33
     fire-damage-reduction: 18.47
@@ -163,7 +163,7 @@ SW2_003_04:
 SW2_003_05:
   base:
     material: STONE_SWORD
-    name: <#FF4500>Starblazed Fury <#6B6666>[<#a100ab>Lvl.14<#6B6666>]
+    name: <#FF4500>Starblazed Fury <#6B6666>[<#d3096a>Lvl.14<#6B6666>]
     displayed-type: Sword
     attack-damage: 19.21
     fire-damage-reduction: 19.36
@@ -203,7 +203,7 @@ SW2_003_05:
 SW2_003_06:
   base:
     material: STONE_SWORD
-    name: <#FF4500>Starblazed Fury <#6B6666>[<#7014cc>Lvl.15<#6B6666>]
+    name: <#FF4500>Starblazed Fury <#6B6666>[<#d90986>Lvl.15<#6B6666>]
     displayed-type: Sword
     attack-damage: 20.12
     fire-damage-reduction: 20.28
@@ -243,7 +243,7 @@ SW2_003_06:
 SW2_003_07:
   base:
     material: STONE_SWORD
-    name: <#FF4500>Starblazed Fury <#6B6666>[<#4d31cb>Lvl.16<#6B6666>]
+    name: <#FF4500>Starblazed Fury <#6B6666>[<#e009a3>Lvl.16<#6B6666>]
     displayed-type: Sword
     attack-damage: 21.05
     fire-damage-reduction: 21.23
@@ -283,7 +283,7 @@ SW2_003_07:
 SW2_003_08:
   base:
     material: STONE_SWORD
-    name: <#FF4500>Starblazed Fury <#6B6666>[<#1c3ec6>Lvl.17<#6B6666>]
+    name: <#FF4500>Starblazed Fury <#6B6666>[<#e609c2>Lvl.17<#6B6666>]
     displayed-type: Sword
     attack-damage: 22.01
     fire-damage-reduction: 22.21
@@ -323,7 +323,7 @@ SW2_003_08:
 SW2_003_09:
   base:
     material: STONE_SWORD
-    name: <#FF4500>Starblazed Fury <#6B6666>[<#0046be>Lvl.18<#6B6666>]
+    name: <#FF4500>Starblazed Fury <#6B6666>[<#ec08e3>Lvl.18<#6B6666>]
     displayed-type: Sword
     attack-damage: 23.0
     fire-damage-reduction: 23.21
@@ -363,7 +363,7 @@ SW2_003_09:
 SW2_003_10:
   base:
     material: STONE_SWORD
-    name: <#FF4500>Starblazed Fury <#6B6666>[<#004ab3>Lvl.19<#6B6666>]
+    name: <#FF4500>Starblazed Fury <#6B6666>[<#e008f3>Lvl.19<#6B6666>]
     displayed-type: Sword
     attack-damage: 24.02
     fire-damage-reduction: 24.24
@@ -403,7 +403,7 @@ SW2_003_10:
 SW2_003_11:
   base:
     material: STONE_SWORD
-    name: <#FF4500>Starblazed Fury <#6B6666>[<#004da6>Lvl.20<#6B6666>]
+    name: <#FF4500>Starblazed Fury <#6B6666>[<#c80af7>Lvl.20<#6B6666>]
     displayed-type: Sword
     attack-damage: 25.07
     fire-damage-reduction: 25.3

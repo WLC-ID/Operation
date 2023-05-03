@@ -1,9 +1,9 @@
-# Template: AX2_002_XXX. Digest: 6a3575c18f0d44ceffbe2118d8d191df. Base36: 6AD0IIV4T51XX6IDVK9CVM867
-# Generated at 03/05/2023 11:55:05. Digest: d5726399cdc31c141b133e57019f42ac. Base36: CMWZRKV15N11HXLY0YFYU8O8C.
+# Template: AX2_002_XXX. Digest: d5726399cdc31c141b133e57019f42ac. Base36: CMWZRKV15N11HXLY0YFYU8O8C
+# Generated at 03/05/2023 13:39:25. Digest: fa878ad9d33b098b1064bf4bf2d020a9. Base36: ETY7HE87XZL84L8917BR9GHBD.
 AX2_002_01:
   base:
     material: STONE_AXE
-    name: <#FF8C00>Warbringer Axe <#6B6666>[<#7014cc>Lvl.15<#6B6666>]
+    name: <#FF8C00>Warbringer Axe <#6B6666>[<#d90986>Lvl.15<#6B6666>]
     displayed-type: Axe
     attack-damage: 21.78
     pve-damage: -50.2
@@ -41,7 +41,7 @@ AX2_002_01:
 AX2_002_02:
   base:
     material: STONE_AXE
-    name: <#FF8C00>Warbringer Axe <#6B6666>[<#4d31cb>Lvl.16<#6B6666>]
+    name: <#FF8C00>Warbringer Axe <#6B6666>[<#e009a3>Lvl.16<#6B6666>]
     displayed-type: Axe
     attack-damage: 22.73
     pve-damage: -49.21
@@ -79,7 +79,7 @@ AX2_002_02:
 AX2_002_03:
   base:
     material: STONE_AXE
-    name: <#FF8C00>Warbringer Axe <#6B6666>[<#1c3ec6>Lvl.17<#6B6666>]
+    name: <#FF8C00>Warbringer Axe <#6B6666>[<#e609c2>Lvl.17<#6B6666>]
     displayed-type: Axe
     attack-damage: 23.71
     pve-damage: -48.19
@@ -117,7 +117,7 @@ AX2_002_03:
 AX2_002_04:
   base:
     material: STONE_AXE
-    name: <#FF8C00>Warbringer Axe <#6B6666>[<#0046be>Lvl.18<#6B6666>]
+    name: <#FF8C00>Warbringer Axe <#6B6666>[<#ec08e3>Lvl.18<#6B6666>]
     displayed-type: Axe
     attack-damage: 24.71
     pve-damage: -47.14
@@ -155,7 +155,7 @@ AX2_002_04:
 AX2_002_05:
   base:
     material: STONE_AXE
-    name: <#FF8C00>Warbringer Axe <#6B6666>[<#004ab3>Lvl.19<#6B6666>]
+    name: <#FF8C00>Warbringer Axe <#6B6666>[<#e008f3>Lvl.19<#6B6666>]
     displayed-type: Axe
     attack-damage: 25.74
     pve-damage: -46.07
@@ -193,7 +193,7 @@ AX2_002_05:
 AX2_002_06:
   base:
     material: STONE_AXE
-    name: <#FF8C00>Warbringer Axe <#6B6666>[<#004da6>Lvl.20<#6B6666>]
+    name: <#FF8C00>Warbringer Axe <#6B6666>[<#c80af7>Lvl.20<#6B6666>]
     displayed-type: Axe
     attack-damage: 26.8
     pve-damage: -44.96
@@ -231,7 +231,7 @@ AX2_002_06:
 AX2_002_07:
   base:
     material: STONE_AXE
-    name: <#FF8C00>Warbringer Axe <#6B6666>[<#004e97>Lvl.21<#6B6666>]
+    name: <#FF8C00>Warbringer Axe <#6B6666>[<#b50af7>Lvl.21<#6B6666>]
     displayed-type: Axe
     attack-damage: 27.89
     pve-damage: -43.83
@@ -269,7 +269,7 @@ AX2_002_07:
 AX2_002_08:
   base:
     material: STONE_AXE
-    name: <#FF8C00>Warbringer Axe <#6B6666>[<#004e87>Lvl.22<#6B6666>]
+    name: <#FF8C00>Warbringer Axe <#6B6666>[<#a20af7>Lvl.22<#6B6666>]
     displayed-type: Axe
     attack-damage: 29.01
     pve-damage: -42.66
@@ -307,7 +307,7 @@ AX2_002_08:
 AX2_002_09:
   base:
     material: STONE_AXE
-    name: <#FF8C00>Warbringer Axe <#6B6666>[<#004c77>Lvl.23<#6B6666>]
+    name: <#FF8C00>Warbringer Axe <#6B6666>[<#8f0af7>Lvl.23<#6B6666>]
     displayed-type: Axe
     attack-damage: 30.16
     pve-damage: -41.47
@@ -345,7 +345,7 @@ AX2_002_09:
 AX2_002_10:
   base:
     material: STONE_AXE
-    name: <#FF8C00>Warbringer Axe <#6B6666>[<#0f4b67>Lvl.24<#6B6666>]
+    name: <#FF8C00>Warbringer Axe <#6B6666>[<#7c0af7>Lvl.24<#6B6666>]
     displayed-type: Axe
     attack-damage: 31.33
     pve-damage: -40.24
@@ -383,7 +383,7 @@ AX2_002_10:
 AX2_002_11:
   base:
     material: STONE_AXE
-    name: <#FF8C00>Warbringer Axe <#6B6666>[<#2a4858>Lvl.25<#6B6666>]
+    name: <#FF8C00>Warbringer Axe <#6B6666>[<#690af7>Lvl.25<#6B6666>]
     displayed-type: Axe
     attack-damage: 32.54
     pve-damage: -38.99

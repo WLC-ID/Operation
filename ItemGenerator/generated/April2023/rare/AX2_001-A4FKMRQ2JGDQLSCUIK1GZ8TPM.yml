@@ -1,9 +1,9 @@
-# Template: AX2_001_XXX. Digest: 40c21103e124a07dfb68d64b5b01c9a0. Base36: 3U0NDXMQE9RAHNL246LLURLWG
-# Generated at 03/05/2023 11:55:05. Digest: cfb7b1311ad0011e80b4e71bf512d86c. Base36: CAPEMS6ICJEOJP9JTDMK4DW8C.
+# Template: AX2_001_XXX. Digest: cfb7b1311ad0011e80b4e71bf512d86c. Base36: CAPEMS6ICJEOJP9JTDMK4DW8C
+# Generated at 03/05/2023 13:39:25. Digest: aafde5830e029fdb57cb981e2dd79b6a. Base36: A4FKMRQ2JGDQLSCUIK1GZ8TPM.
 AX2_001_01:
   base:
     material: STONE_AXE
-    name: <#FF8C00>Berserker Axe <#6B6666>[<#c50029>Lvl.10<#6B6666>]
+    name: <#FF8C00>Berserker Axe <#6B6666>[<#ba0909>Lvl.10<#6B6666>]
     displayed-type: Axe
     attack-damage: 17.53
     pve-damage: 21.19
@@ -44,7 +44,7 @@ AX2_001_01:
 AX2_001_02:
   base:
     material: STONE_AXE
-    name: <#FF8C00>Berserker Axe <#6B6666>[<#cb0045>Lvl.11<#6B6666>]
+    name: <#FF8C00>Berserker Axe <#6B6666>[<#c0091f>Lvl.11<#6B6666>]
     displayed-type: Axe
     attack-damage: 18.34
     pve-damage: 22.02
@@ -85,7 +85,7 @@ AX2_001_02:
 AX2_001_03:
   base:
     material: STONE_AXE
-    name: <#FF8C00>Berserker Axe <#6B6666>[<#c90065>Lvl.12<#6B6666>]
+    name: <#FF8C00>Berserker Axe <#6B6666>[<#c60936>Lvl.12<#6B6666>]
     displayed-type: Axe
     attack-damage: 19.18
     pve-damage: 22.88
@@ -126,7 +126,7 @@ AX2_001_03:
 AX2_001_04:
   base:
     material: STONE_AXE
-    name: <#FF8C00>Berserker Axe <#6B6666>[<#bc0088>Lvl.13<#6B6666>]
+    name: <#FF8C00>Berserker Axe <#6B6666>[<#cd094f>Lvl.13<#6B6666>]
     displayed-type: Axe
     attack-damage: 20.05
     pve-damage: 23.76
@@ -167,7 +167,7 @@ AX2_001_04:
 AX2_001_05:
   base:
     material: STONE_AXE
-    name: <#FF8C00>Berserker Axe <#6B6666>[<#a100ab>Lvl.14<#6B6666>]
+    name: <#FF8C00>Berserker Axe <#6B6666>[<#d3096a>Lvl.14<#6B6666>]
     displayed-type: Axe
     attack-damage: 20.94
     pve-damage: 24.68
@@ -208,7 +208,7 @@ AX2_001_05:
 AX2_001_06:
   base:
     material: STONE_AXE
-    name: <#FF8C00>Berserker Axe <#6B6666>[<#7014cc>Lvl.15<#6B6666>]
+    name: <#FF8C00>Berserker Axe <#6B6666>[<#d90986>Lvl.15<#6B6666>]
     displayed-type: Axe
     attack-damage: 21.87
     pve-damage: 25.63
@@ -249,7 +249,7 @@ AX2_001_06:
 AX2_001_07:
   base:
     material: STONE_AXE
-    name: <#FF8C00>Berserker Axe <#6B6666>[<#4d31cb>Lvl.16<#6B6666>]
+    name: <#FF8C00>Berserker Axe <#6B6666>[<#e009a3>Lvl.16<#6B6666>]
     displayed-type: Axe
     attack-damage: 22.82
     pve-damage: 26.6
@@ -290,7 +290,7 @@ AX2_001_07:
 AX2_001_08:
   base:
     material: STONE_AXE
-    name: <#FF8C00>Berserker Axe <#6B6666>[<#1c3ec6>Lvl.17<#6B6666>]
+    name: <#FF8C00>Berserker Axe <#6B6666>[<#e609c2>Lvl.17<#6B6666>]
     displayed-type: Axe
     attack-damage: 23.81
     pve-damage: 27.61
@@ -331,7 +331,7 @@ AX2_001_08:
 AX2_001_09:
   base:
     material: STONE_AXE
-    name: <#FF8C00>Berserker Axe <#6B6666>[<#0046be>Lvl.18<#6B6666>]
+    name: <#FF8C00>Berserker Axe <#6B6666>[<#ec08e3>Lvl.18<#6B6666>]
     displayed-type: Axe
     attack-damage: 24.82
     pve-damage: 28.64
@@ -372,7 +372,7 @@ AX2_001_09:
 AX2_001_10:
   base:
     material: STONE_AXE
-    name: <#FF8C00>Berserker Axe <#6B6666>[<#004ab3>Lvl.19<#6B6666>]
+    name: <#FF8C00>Berserker Axe <#6B6666>[<#e008f3>Lvl.19<#6B6666>]
     displayed-type: Axe
     attack-damage: 25.86
     pve-damage: 29.7
@@ -413,7 +413,7 @@ AX2_001_10:
 AX2_001_11:
   base:
     material: STONE_AXE
-    name: <#FF8C00>Berserker Axe <#6B6666>[<#004da6>Lvl.20<#6B6666>]
+    name: <#FF8C00>Berserker Axe <#6B6666>[<#c80af7>Lvl.20<#6B6666>]
     displayed-type: Axe
     attack-damage: 26.92
     pve-damage: 30.79

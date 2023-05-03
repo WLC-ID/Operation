@@ -1,5 +1,5 @@
 # Template: AX1_001_XXX. Digest: bc9ec9703ba75e21b4f65cb1a267cb31. Base36: B6053KYNXHYJ3X93IMP8K2UK1
-# Generated at 03/05/2023 11:55:04. Digest: bc9ec9703ba75e21b4f65cb1a267cb31. Base36: B6053KYNXHYJ3X93IMP8K2UK1.
+# Generated at 03/05/2023 13:39:25. Digest: a12a2dfd7ab4e75cace637b6a84d99b6. Base36: 9JHKY7JXX7VV2C6ZZVU1M3ID2.
 AX1_001_01:
   base:
     material: STONE_AXE
@@ -43,7 +43,7 @@ AX1_001_01:
 AX1_001_02:
   base:
     material: STONE_AXE
-    name: <#804B28>Wedged Axe <#6B6666>[<#73da00>Lvl.2<#6B6666>]
+    name: <#804B28>Wedged Axe <#6B6666>[<#52eb08>Lvl.2<#6B6666>]
     displayed-type: Axe
     attack-damage: 12.04
     lore:
@@ -83,7 +83,7 @@ AX1_001_02:
 AX1_001_03:
   base:
     material: STONE_AXE
-    name: <#804B28>Wedged Axe <#6B6666>[<#96c100>Lvl.3<#6B6666>]
+    name: <#804B28>Wedged Axe <#6B6666>[<#7ee508>Lvl.3<#6B6666>]
     displayed-type: Axe
     attack-damage: 12.61
     lore:
@@ -123,7 +123,7 @@ AX1_001_03:
 AX1_001_04:
   base:
     material: STONE_AXE
-    name: <#804B28>Wedged Axe <#6B6666>[<#aca800>Lvl.4<#6B6666>]
+    name: <#804B28>Wedged Axe <#6B6666>[<#a8de09>Lvl.4<#6B6666>]
     displayed-type: Axe
     attack-damage: 13.2
     lore:
@@ -163,7 +163,7 @@ AX1_001_04:
 AX1_001_05:
   base:
     material: STONE_AXE
-    name: <#804B28>Wedged Axe <#6B6666>[<#bb8e00>Lvl.5<#6B6666>]
+    name: <#804B28>Wedged Axe <#6B6666>[<#cfd809>Lvl.5<#6B6666>]
     displayed-type: Axe
     attack-damage: 13.83
     lore:
@@ -203,7 +203,7 @@ AX1_001_05:
 AX1_001_06:
   base:
     material: STONE_AXE
-    name: <#804B28>Wedged Axe <#6B6666>[<#c37300>Lvl.6<#6B6666>]
+    name: <#804B28>Wedged Axe <#6B6666>[<#d2b109>Lvl.6<#6B6666>]
     displayed-type: Axe
     attack-damage: 14.48
     lore:
@@ -243,7 +243,7 @@ AX1_001_06:
 AX1_001_07:
   base:
     material: STONE_AXE
-    name: <#804B28>Wedged Axe <#6B6666>[<#c55700>Lvl.7<#6B6666>]
+    name: <#804B28>Wedged Axe <#6B6666>[<#cc8409>Lvl.7<#6B6666>]
     displayed-type: Axe
     attack-damage: 15.16
     lore:
@@ -283,7 +283,7 @@ AX1_001_07:
 AX1_001_08:
   base:
     material: STONE_AXE
-    name: <#804B28>Wedged Axe <#6B6666>[<#c23700>Lvl.8<#6B6666>]
+    name: <#804B28>Wedged Axe <#6B6666>[<#c65809>Lvl.8<#6B6666>]
     displayed-type: Axe
     attack-damage: 15.87
     lore:
@@ -323,7 +323,7 @@ AX1_001_08:
 AX1_001_09:
   base:
     material: STONE_AXE
-    name: <#804B28>Wedged Axe <#6B6666>[<#ba0909>Lvl.9<#6B6666>]
+    name: <#804B28>Wedged Axe <#6B6666>[<#c02f09>Lvl.9<#6B6666>]
     displayed-type: Axe
     attack-damage: 16.6
     lore:
@@ -363,7 +363,7 @@ AX1_001_09:
 AX1_001_10:
   base:
     material: STONE_AXE
-    name: <#804B28>Wedged Axe <#6B6666>[<#c50029>Lvl.10<#6B6666>]
+    name: <#804B28>Wedged Axe <#6B6666>[<#ba0909>Lvl.10<#6B6666>]
     displayed-type: Axe
     attack-damage: 17.37
     lore:
@@ -403,7 +403,7 @@ AX1_001_10:
 AX1_001_11:
   base:
     material: STONE_AXE
-    name: <#804B28>Wedged Axe <#6B6666>[<#cb0045>Lvl.11<#6B6666>]
+    name: <#804B28>Wedged Axe <#6B6666>[<#c0091f>Lvl.11<#6B6666>]
     displayed-type: Axe
     attack-damage: 18.16
     lore:
@@ -443,7 +443,7 @@ AX1_001_11:
 AX1_001_12:
   base:
     material: STONE_AXE
-    name: <#804B28>Wedged Axe <#6B6666>[<#c90065>Lvl.12<#6B6666>]
+    name: <#804B28>Wedged Axe <#6B6666>[<#c60936>Lvl.12<#6B6666>]
     displayed-type: Axe
     attack-damage: 18.98
     lore:
@@ -483,7 +483,7 @@ AX1_001_12:
 AX1_001_13:
   base:
     material: STONE_AXE
-    name: <#804B28>Wedged Axe <#6B6666>[<#bc0088>Lvl.13<#6B6666>]
+    name: <#804B28>Wedged Axe <#6B6666>[<#cd094f>Lvl.13<#6B6666>]
     displayed-type: Axe
     attack-damage: 19.83
     lore:
@@ -523,7 +523,7 @@ AX1_001_13:
 AX1_001_14:
   base:
     material: STONE_AXE
-    name: <#804B28>Wedged Axe <#6B6666>[<#a100ab>Lvl.14<#6B6666>]
+    name: <#804B28>Wedged Axe <#6B6666>[<#d3096a>Lvl.14<#6B6666>]
     displayed-type: Axe
     attack-damage: 20.71
     lore:
@@ -563,7 +563,7 @@ AX1_001_14:
 AX1_001_15:
   base:
     material: STONE_AXE
-    name: <#804B28>Wedged Axe <#6B6666>[<#7014cc>Lvl.15<#6B6666>]
+    name: <#804B28>Wedged Axe <#6B6666>[<#d90986>Lvl.15<#6B6666>]
     displayed-type: Axe
     attack-damage: 21.62
     lore:

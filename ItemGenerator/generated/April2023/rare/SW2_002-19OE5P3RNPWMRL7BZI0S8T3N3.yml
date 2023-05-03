@@ -1,9 +1,9 @@
-# Template: SW2_002_XXX. Digest: 9db4adf16906864eb01cc84ed2ee2088. Base36: 9C46PYJUMJ6RN55XC2HO7KRRC
-# Generated at 03/05/2023 11:55:05. Digest: bddb7a74ada43395c7ea827b923c7232. Base36: B8N234K0HT3AD31FFGZCCFHGY.
+# Template: SW2_002_XXX. Digest: bddb7a74ada43395c7ea827b923c7232. Base36: B8N234K0HT3AD31FFGZCCFHGY
+# Generated at 03/05/2023 13:39:25. Digest: 156e92cd4527997f92d17a36dd8b2faf. Base36: 19OE5P3RNPWMRL7BZI0S8T3N3.
 SW2_002_01:
   base:
     material: STONE_SWORD
-    name: <#F5DEB3>Hallowed Blade <#6B6666>[<#7014cc>Lvl.15<#6B6666>]
+    name: <#F5DEB3>Hallowed Blade <#6B6666>[<#d90986>Lvl.15<#6B6666>]
     displayed-type: Sword
     attack-damage: 20.45
     additional-health: 9.9
@@ -40,7 +40,7 @@ SW2_002_01:
 SW2_002_02:
   base:
     material: STONE_SWORD
-    name: <#F5DEB3>Hallowed Blade <#6B6666>[<#4d31cb>Lvl.16<#6B6666>]
+    name: <#F5DEB3>Hallowed Blade <#6B6666>[<#e009a3>Lvl.16<#6B6666>]
     displayed-type: Sword
     attack-damage: 21.41
     additional-health: 10.7
@@ -77,7 +77,7 @@ SW2_002_02:
 SW2_002_03:
   base:
     material: STONE_SWORD
-    name: <#F5DEB3>Hallowed Blade <#6B6666>[<#1c3ec6>Lvl.17<#6B6666>]
+    name: <#F5DEB3>Hallowed Blade <#6B6666>[<#e609c2>Lvl.17<#6B6666>]
     displayed-type: Sword
     attack-damage: 22.4
     additional-health: 11.5
@@ -114,7 +114,7 @@ SW2_002_03:
 SW2_002_04:
   base:
     material: STONE_SWORD
-    name: <#F5DEB3>Hallowed Blade <#6B6666>[<#0046be>Lvl.18<#6B6666>]
+    name: <#F5DEB3>Hallowed Blade <#6B6666>[<#ec08e3>Lvl.18<#6B6666>]
     displayed-type: Sword
     attack-damage: 23.42
     additional-health: 12.3
@@ -151,7 +151,7 @@ SW2_002_04:
 SW2_002_05:
   base:
     material: STONE_SWORD
-    name: <#F5DEB3>Hallowed Blade <#6B6666>[<#004ab3>Lvl.19<#6B6666>]
+    name: <#F5DEB3>Hallowed Blade <#6B6666>[<#e008f3>Lvl.19<#6B6666>]
     displayed-type: Sword
     attack-damage: 24.47
     additional-health: 13.2
@@ -188,7 +188,7 @@ SW2_002_05:
 SW2_002_06:
   base:
     material: STONE_SWORD
-    name: <#F5DEB3>Hallowed Blade <#6B6666>[<#004da6>Lvl.20<#6B6666>]
+    name: <#F5DEB3>Hallowed Blade <#6B6666>[<#c80af7>Lvl.20<#6B6666>]
     displayed-type: Sword
     attack-damage: 25.55
     additional-health: 14.1
@@ -225,7 +225,7 @@ SW2_002_06:
 SW2_002_07:
   base:
     material: STONE_SWORD
-    name: <#F5DEB3>Hallowed Blade <#6B6666>[<#004e97>Lvl.21<#6B6666>]
+    name: <#F5DEB3>Hallowed Blade <#6B6666>[<#b50af7>Lvl.21<#6B6666>]
     displayed-type: Sword
     attack-damage: 26.65
     additional-health: 15.1
@@ -262,7 +262,7 @@ SW2_002_07:
 SW2_002_08:
   base:
     material: STONE_SWORD
-    name: <#F5DEB3>Hallowed Blade <#6B6666>[<#004e87>Lvl.22<#6B6666>]
+    name: <#F5DEB3>Hallowed Blade <#6B6666>[<#a20af7>Lvl.22<#6B6666>]
     displayed-type: Sword
     attack-damage: 27.78
     additional-health: 16.0
@@ -299,7 +299,7 @@ SW2_002_08:
 SW2_002_09:
   base:
     material: STONE_SWORD
-    name: <#F5DEB3>Hallowed Blade <#6B6666>[<#004c77>Lvl.23<#6B6666>]
+    name: <#F5DEB3>Hallowed Blade <#6B6666>[<#8f0af7>Lvl.23<#6B6666>]
     displayed-type: Sword
     attack-damage: 28.95
     additional-health: 17.0
@@ -336,7 +336,7 @@ SW2_002_09:
 SW2_002_10:
   base:
     material: STONE_SWORD
-    name: <#F5DEB3>Hallowed Blade <#6B6666>[<#0f4b67>Lvl.24<#6B6666>]
+    name: <#F5DEB3>Hallowed Blade <#6B6666>[<#7c0af7>Lvl.24<#6B6666>]
     displayed-type: Sword
     attack-damage: 30.14
     additional-health: 18.0
@@ -373,7 +373,7 @@ SW2_002_10:
 SW2_002_11:
   base:
     material: STONE_SWORD
-    name: <#F5DEB3>Hallowed Blade <#6B6666>[<#2a4858>Lvl.25<#6B6666>]
+    name: <#F5DEB3>Hallowed Blade <#6B6666>[<#690af7>Lvl.25<#6B6666>]
     displayed-type: Sword
     attack-damage: 31.36
     additional-health: 19.1

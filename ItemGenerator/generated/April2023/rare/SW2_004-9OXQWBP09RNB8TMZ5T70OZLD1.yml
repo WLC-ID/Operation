@@ -1,9 +1,9 @@
-# Template: SW2_004_XXX. Digest: 0c29589fe25ee85e977e7cd77b8de00b. Base36: PX3VYSS438KFQ696U4RZGLJF
-# Generated at 03/05/2023 11:55:05. Digest: 07647990f6a13ef3685a27c17c4b77ea. Base36: FR74HGZ4OVQE75PT1UFABV1M.
+# Template: SW2_004_XXX. Digest: 07647990f6a13ef3685a27c17c4b77ea. Base36: FR74HGZ4OVQE75PT1UFABV1M
+# Generated at 03/05/2023 13:39:25. Digest: a3b8b10434e607fd183402cc36b81ee5. Base36: 9OXQWBP09RNB8TMZ5T70OZLD1.
 SW2_004_01:
   base:
     material: STONE_SWORD
-    name: <#FFD700>Light Saber <#6B6666>[<#7014cc>Lvl.15<#6B6666>]
+    name: <#FFD700>Light Saber <#6B6666>[<#d90986>Lvl.15<#6B6666>]
     displayed-type: Sword
     attack-damage: 20.28
     knockback-resistance: 0.156
@@ -44,7 +44,7 @@ SW2_004_01:
 SW2_004_02:
   base:
     material: STONE_SWORD
-    name: <#FFD700>Light Saber <#6B6666>[<#4d31cb>Lvl.16<#6B6666>]
+    name: <#FFD700>Light Saber <#6B6666>[<#e009a3>Lvl.16<#6B6666>]
     displayed-type: Sword
     attack-damage: 21.23
     knockback-resistance: 0.166
@@ -85,7 +85,7 @@ SW2_004_02:
 SW2_004_03:
   base:
     material: STONE_SWORD
-    name: <#FFD700>Light Saber <#6B6666>[<#1c3ec6>Lvl.17<#6B6666>]
+    name: <#FFD700>Light Saber <#6B6666>[<#e609c2>Lvl.17<#6B6666>]
     displayed-type: Sword
     attack-damage: 22.21
     knockback-resistance: 0.176
@@ -126,7 +126,7 @@ SW2_004_03:
 SW2_004_04:
   base:
     material: STONE_SWORD
-    name: <#FFD700>Light Saber <#6B6666>[<#0046be>Lvl.18<#6B6666>]
+    name: <#FFD700>Light Saber <#6B6666>[<#ec08e3>Lvl.18<#6B6666>]
     displayed-type: Sword
     attack-damage: 23.21
     knockback-resistance: 0.186
@@ -167,7 +167,7 @@ SW2_004_04:
 SW2_004_05:
   base:
     material: STONE_SWORD
-    name: <#FFD700>Light Saber <#6B6666>[<#004ab3>Lvl.19<#6B6666>]
+    name: <#FFD700>Light Saber <#6B6666>[<#e008f3>Lvl.19<#6B6666>]
     displayed-type: Sword
     attack-damage: 24.24
     knockback-resistance: 0.197
@@ -208,7 +208,7 @@ SW2_004_05:
 SW2_004_06:
   base:
     material: STONE_SWORD
-    name: <#FFD700>Light Saber <#6B6666>[<#004da6>Lvl.20<#6B6666>]
+    name: <#FFD700>Light Saber <#6B6666>[<#c80af7>Lvl.20<#6B6666>]
     displayed-type: Sword
     attack-damage: 25.3
     knockback-resistance: 0.208
@@ -249,7 +249,7 @@ SW2_004_06:
 SW2_004_07:
   base:
     material: STONE_SWORD
-    name: <#FFD700>Light Saber <#6B6666>[<#004e97>Lvl.21<#6B6666>]
+    name: <#FFD700>Light Saber <#6B6666>[<#b50af7>Lvl.21<#6B6666>]
     displayed-type: Sword
     attack-damage: 26.39
     knockback-resistance: 0.219
@@ -290,7 +290,7 @@ SW2_004_07:
 SW2_004_08:
   base:
     material: STONE_SWORD
-    name: <#FFD700>Light Saber <#6B6666>[<#004e87>Lvl.22<#6B6666>]
+    name: <#FFD700>Light Saber <#6B6666>[<#a20af7>Lvl.22<#6B6666>]
     displayed-type: Sword
     attack-damage: 27.51
     knockback-resistance: 0.231
@@ -331,7 +331,7 @@ SW2_004_08:
 SW2_004_09:
   base:
     material: STONE_SWORD
-    name: <#FFD700>Light Saber <#6B6666>[<#004c77>Lvl.23<#6B6666>]
+    name: <#FFD700>Light Saber <#6B6666>[<#8f0af7>Lvl.23<#6B6666>]
     displayed-type: Sword
     attack-damage: 28.66
     knockback-resistance: 0.242
@@ -372,7 +372,7 @@ SW2_004_09:
 SW2_004_10:
   base:
     material: STONE_SWORD
-    name: <#FFD700>Light Saber <#6B6666>[<#0f4b67>Lvl.24<#6B6666>]
+    name: <#FFD700>Light Saber <#6B6666>[<#7c0af7>Lvl.24<#6B6666>]
     displayed-type: Sword
     attack-damage: 29.83
     knockback-resistance: 0.254
@@ -413,7 +413,7 @@ SW2_004_10:
 SW2_004_11:
   base:
     material: STONE_SWORD
-    name: <#FFD700>Light Saber <#6B6666>[<#2a4858>Lvl.25<#6B6666>]
+    name: <#FFD700>Light Saber <#6B6666>[<#690af7>Lvl.25<#6B6666>]
     displayed-type: Sword
     attack-damage: 31.04
     knockback-resistance: 0.267

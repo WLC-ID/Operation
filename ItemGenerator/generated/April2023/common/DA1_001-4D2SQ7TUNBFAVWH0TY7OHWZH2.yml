@@ -1,5 +1,5 @@
 # Template: DA1_001_XXX. Digest: 7737fbf2ac9b5f46853acd9ac643c54e. Base36: 7237OB0BW3DANZA53FNKVIN9Q
-# Generated at 03/05/2023 11:55:04. Digest: 7737fbf2ac9b5f46853acd9ac643c54e. Base36: 7237OB0BW3DANZA53FNKVIN9Q.
+# Generated at 03/05/2023 13:39:24. Digest: 49b36c6d6babe0f7527035f009757c96. Base36: 4D2SQ7TUNBFAVWH0TY7OHWZH2.
 DA1_001_01:
   base:
     material: STONE_SWORD
@@ -43,7 +43,7 @@ DA1_001_01:
 DA1_001_02:
   base:
     material: STONE_SWORD
-    name: <#cc6e00>Stilleto <#6B6666>[<#73da00>Lvl.2<#6B6666>]
+    name: <#cc6e00>Stilleto <#6B6666>[<#52eb08>Lvl.2<#6B6666>]
     displayed-type: Dagger
     attack-damage: 6.78
     lore:
@@ -83,7 +83,7 @@ DA1_001_02:
 DA1_001_03:
   base:
     material: STONE_SWORD
-    name: <#cc6e00>Stilleto <#6B6666>[<#96c100>Lvl.3<#6B6666>]
+    name: <#cc6e00>Stilleto <#6B6666>[<#7ee508>Lvl.3<#6B6666>]
     displayed-type: Dagger
     attack-damage: 7.2
     lore:
@@ -123,7 +123,7 @@ DA1_001_03:
 DA1_001_04:
   base:
     material: STONE_SWORD
-    name: <#cc6e00>Stilleto <#6B6666>[<#aca800>Lvl.4<#6B6666>]
+    name: <#cc6e00>Stilleto <#6B6666>[<#a8de09>Lvl.4<#6B6666>]
     displayed-type: Dagger
     attack-damage: 7.63
     lore:
@@ -163,7 +163,7 @@ DA1_001_04:
 DA1_001_05:
   base:
     material: STONE_SWORD
-    name: <#cc6e00>Stilleto <#6B6666>[<#bb8e00>Lvl.5<#6B6666>]
+    name: <#cc6e00>Stilleto <#6B6666>[<#cfd809>Lvl.5<#6B6666>]
     displayed-type: Dagger
     attack-damage: 8.08
     lore:
@@ -203,7 +203,7 @@ DA1_001_05:
 DA1_001_06:
   base:
     material: STONE_SWORD
-    name: <#cc6e00>Stilleto <#6B6666>[<#c37300>Lvl.6<#6B6666>]
+    name: <#cc6e00>Stilleto <#6B6666>[<#d2b109>Lvl.6<#6B6666>]
     displayed-type: Dagger
     attack-damage: 8.55
     lore:
@@ -243,7 +243,7 @@ DA1_001_06:
 DA1_001_07:
   base:
     material: STONE_SWORD
-    name: <#cc6e00>Stilleto <#6B6666>[<#c55700>Lvl.7<#6B6666>]
+    name: <#cc6e00>Stilleto <#6B6666>[<#cc8409>Lvl.7<#6B6666>]
     displayed-type: Dagger
     attack-damage: 9.03
     lore:
@@ -283,7 +283,7 @@ DA1_001_07:
 DA1_001_08:
   base:
     material: STONE_SWORD
-    name: <#cc6e00>Stilleto <#6B6666>[<#c23700>Lvl.8<#6B6666>]
+    name: <#cc6e00>Stilleto <#6B6666>[<#c65809>Lvl.8<#6B6666>]
     displayed-type: Dagger
     attack-damage: 9.53
     lore:
@@ -323,7 +323,7 @@ DA1_001_08:
 DA1_001_09:
   base:
     material: STONE_SWORD
-    name: <#cc6e00>Stilleto <#6B6666>[<#ba0909>Lvl.9<#6B6666>]
+    name: <#cc6e00>Stilleto <#6B6666>[<#c02f09>Lvl.9<#6B6666>]
     displayed-type: Dagger
     attack-damage: 10.05
     lore:
@@ -363,7 +363,7 @@ DA1_001_09:
 DA1_001_10:
   base:
     material: STONE_SWORD
-    name: <#cc6e00>Stilleto <#6B6666>[<#c50029>Lvl.10<#6B6666>]
+    name: <#cc6e00>Stilleto <#6B6666>[<#ba0909>Lvl.10<#6B6666>]
     displayed-type: Dagger
     attack-damage: 10.58
     lore:
@@ -403,7 +403,7 @@ DA1_001_10:
 DA1_001_11:
   base:
     material: STONE_SWORD
-    name: <#cc6e00>Stilleto <#6B6666>[<#cb0045>Lvl.11<#6B6666>]
+    name: <#cc6e00>Stilleto <#6B6666>[<#c0091f>Lvl.11<#6B6666>]
     displayed-type: Dagger
     attack-damage: 11.13
     lore:
@@ -443,7 +443,7 @@ DA1_001_11:
 DA1_001_12:
   base:
     material: STONE_SWORD
-    name: <#cc6e00>Stilleto <#6B6666>[<#c90065>Lvl.12<#6B6666>]
+    name: <#cc6e00>Stilleto <#6B6666>[<#c60936>Lvl.12<#6B6666>]
     displayed-type: Dagger
     attack-damage: 11.69
     lore:
@@ -483,7 +483,7 @@ DA1_001_12:
 DA1_001_13:
   base:
     material: STONE_SWORD
-    name: <#cc6e00>Stilleto <#6B6666>[<#bc0088>Lvl.13<#6B6666>]
+    name: <#cc6e00>Stilleto <#6B6666>[<#cd094f>Lvl.13<#6B6666>]
     displayed-type: Dagger
     attack-damage: 12.28
     lore:
@@ -523,7 +523,7 @@ DA1_001_13:
 DA1_001_14:
   base:
     material: STONE_SWORD
-    name: <#cc6e00>Stilleto <#6B6666>[<#a100ab>Lvl.14<#6B6666>]
+    name: <#cc6e00>Stilleto <#6B6666>[<#d3096a>Lvl.14<#6B6666>]
     displayed-type: Dagger
     attack-damage: 12.87
     lore:
@@ -563,7 +563,7 @@ DA1_001_14:
 DA1_001_15:
   base:
     material: STONE_SWORD
-    name: <#cc6e00>Stilleto <#6B6666>[<#7014cc>Lvl.15<#6B6666>]
+    name: <#cc6e00>Stilleto <#6B6666>[<#d90986>Lvl.15<#6B6666>]
     displayed-type: Dagger
     attack-damage: 13.49
     lore:

@@ -1,9 +1,9 @@
-# Template: SW2_001_XXX. Digest: e47a9626be78688c0c585a948b5fb664. Base36: DIYCFOH3NL61QSCN5T4ZS4GV8
-# Generated at 03/05/2023 11:55:05. Digest: 44edf325a2804a36547fa98b298ef52f. Base36: 42WPGQHSDB2RNZ7JRKTTN5RFZ.
+# Template: SW2_001_XXX. Digest: 44edf325a2804a36547fa98b298ef52f. Base36: 42WPGQHSDB2RNZ7JRKTTN5RFZ
+# Generated at 03/05/2023 13:39:25. Digest: da52a13d1a5aa5e98502765ced581a1d. Base36: CXB3U3HNVGXN0RQ91JR3TVLZX.
 SW2_001_01:
   base:
     material: STONE_SWORD
-    name: <#A7A7AD>Reforged Edge <#6B6666>[<#c50029>Lvl.10<#6B6666>]
+    name: <#A7A7AD>Reforged Edge <#6B6666>[<#ba0909>Lvl.10<#6B6666>]
     displayed-type: Sword
     attack-damage: 16.08
     additional-toughness: 11.3
@@ -38,7 +38,7 @@ SW2_001_01:
 SW2_001_02:
   base:
     material: STONE_SWORD
-    name: <#A7A7AD>Reforged Edge <#6B6666>[<#cb0045>Lvl.11<#6B6666>]
+    name: <#A7A7AD>Reforged Edge <#6B6666>[<#c0091f>Lvl.11<#6B6666>]
     displayed-type: Sword
     attack-damage: 16.9
     additional-toughness: 12.14
@@ -73,7 +73,7 @@ SW2_001_02:
 SW2_001_03:
   base:
     material: STONE_SWORD
-    name: <#A7A7AD>Reforged Edge <#6B6666>[<#c90065>Lvl.12<#6B6666>]
+    name: <#A7A7AD>Reforged Edge <#6B6666>[<#c60936>Lvl.12<#6B6666>]
     displayed-type: Sword
     attack-damage: 17.74
     additional-toughness: 13.01
@@ -108,7 +108,7 @@ SW2_001_03:
 SW2_001_04:
   base:
     material: STONE_SWORD
-    name: <#A7A7AD>Reforged Edge <#6B6666>[<#bc0088>Lvl.13<#6B6666>]
+    name: <#A7A7AD>Reforged Edge <#6B6666>[<#cd094f>Lvl.13<#6B6666>]
     displayed-type: Sword
     attack-damage: 18.62
     additional-toughness: 13.91
@@ -143,7 +143,7 @@ SW2_001_04:
 SW2_001_05:
   base:
     material: STONE_SWORD
-    name: <#A7A7AD>Reforged Edge <#6B6666>[<#a100ab>Lvl.14<#6B6666>]
+    name: <#A7A7AD>Reforged Edge <#6B6666>[<#d3096a>Lvl.14<#6B6666>]
     displayed-type: Sword
     attack-damage: 19.52
     additional-toughness: 14.84
@@ -178,7 +178,7 @@ SW2_001_05:
 SW2_001_06:
   base:
     material: STONE_SWORD
-    name: <#A7A7AD>Reforged Edge <#6B6666>[<#7014cc>Lvl.15<#6B6666>]
+    name: <#A7A7AD>Reforged Edge <#6B6666>[<#d90986>Lvl.15<#6B6666>]
     displayed-type: Sword
     attack-damage: 20.45
     additional-toughness: 15.8
@@ -213,7 +213,7 @@ SW2_001_06:
 SW2_001_07:
   base:
     material: STONE_SWORD
-    name: <#A7A7AD>Reforged Edge <#6B6666>[<#4d31cb>Lvl.16<#6B6666>]
+    name: <#A7A7AD>Reforged Edge <#6B6666>[<#e009a3>Lvl.16<#6B6666>]
     displayed-type: Sword
     attack-damage: 21.41
     additional-toughness: 16.79
@@ -248,7 +248,7 @@ SW2_001_07:
 SW2_001_08:
   base:
     material: STONE_SWORD
-    name: <#A7A7AD>Reforged Edge <#6B6666>[<#1c3ec6>Lvl.17<#6B6666>]
+    name: <#A7A7AD>Reforged Edge <#6B6666>[<#e609c2>Lvl.17<#6B6666>]
     displayed-type: Sword
     attack-damage: 22.4
     additional-toughness: 17.81
@@ -283,7 +283,7 @@ SW2_001_08:
 SW2_001_09:
   base:
     material: STONE_SWORD
-    name: <#A7A7AD>Reforged Edge <#6B6666>[<#0046be>Lvl.18<#6B6666>]
+    name: <#A7A7AD>Reforged Edge <#6B6666>[<#ec08e3>Lvl.18<#6B6666>]
     displayed-type: Sword
     attack-damage: 23.42
     additional-toughness: 18.86
@@ -318,7 +318,7 @@ SW2_001_09:
 SW2_001_10:
   base:
     material: STONE_SWORD
-    name: <#A7A7AD>Reforged Edge <#6B6666>[<#004ab3>Lvl.19<#6B6666>]
+    name: <#A7A7AD>Reforged Edge <#6B6666>[<#e008f3>Lvl.19<#6B6666>]
     displayed-type: Sword
     attack-damage: 24.47
     additional-toughness: 19.93
@@ -353,7 +353,7 @@ SW2_001_10:
 SW2_001_11:
   base:
     material: STONE_SWORD
-    name: <#A7A7AD>Reforged Edge <#6B6666>[<#004da6>Lvl.20<#6B6666>]
+    name: <#A7A7AD>Reforged Edge <#6B6666>[<#c80af7>Lvl.20<#6B6666>]
     displayed-type: Sword
     attack-damage: 25.55
     additional-toughness: 21.04
