@@ -1,5 +1,5 @@
-# Template: AX1_001_XXX. Digest: bc9ec9703ba75e21b4f65cb1a267cb31. Base36: B6053KYNXHYJ3X93IMP8K2UK1
-# Generated at 03/05/2023 13:39:25. Digest: a12a2dfd7ab4e75cace637b6a84d99b6. Base36: 9JHKY7JXX7VV2C6ZZVU1M3ID2.
+# Template: AX1_001_XXX. Digest: 290e808df27deb92da4d0ffb85d46fc8. Base36: 2FI4JNMCKMBRD3OCKNUJTR93C
+# Generated at 04/05/2023 17:16:17. Digest: bdd84e70eabe534e5a6520469ce94c10. Base36: B8M3V28I8GWNGCMRDEXGJVNKG.
 AX1_001_01:
   base:
     material: STONE_AXE
@@ -45,13 +45,13 @@ AX1_001_02:
     material: STONE_AXE
     name: <#804B28>Wedged Axe <#6B6666>[<#52eb08>Lvl.2<#6B6666>]
     displayed-type: Axe
-    attack-damage: 12.04
+    attack-damage: 12.03
     lore:
     - ' &7&o"An axe so heavy that it sinks '
     - ' &7&ointo the ground."'
     attack-speed: 1.2
-    critical-strike-chance: 7.04
-    critical-strike-power: 78.04
+    critical-strike-chance: 7.03
+    critical-strike-power: 78.03
     tier: COMMON
     disable-enchanting: true
     disable-smithing: true
@@ -85,13 +85,13 @@ AX1_001_03:
     material: STONE_AXE
     name: <#804B28>Wedged Axe <#6B6666>[<#7ee508>Lvl.3<#6B6666>]
     displayed-type: Axe
-    attack-damage: 12.61
+    attack-damage: 12.58
     lore:
     - ' &7&o"An axe so heavy that it sinks '
     - ' &7&ointo the ground."'
     attack-speed: 1.2
-    critical-strike-chance: 7.61
-    critical-strike-power: 78.61
+    critical-strike-chance: 7.58
+    critical-strike-power: 78.58
     tier: COMMON
     disable-enchanting: true
     disable-smithing: true
@@ -125,13 +125,13 @@ AX1_001_04:
     material: STONE_AXE
     name: <#804B28>Wedged Axe <#6B6666>[<#a8de09>Lvl.4<#6B6666>]
     displayed-type: Axe
-    attack-damage: 13.2
+    attack-damage: 13.14
     lore:
     - ' &7&o"An axe so heavy that it sinks '
     - ' &7&ointo the ground."'
     attack-speed: 1.2
-    critical-strike-chance: 8.2
-    critical-strike-power: 79.2
+    critical-strike-chance: 8.14
+    critical-strike-power: 79.14
     tier: COMMON
     disable-enchanting: true
     disable-smithing: true
@@ -165,13 +165,13 @@ AX1_001_05:
     material: STONE_AXE
     name: <#804B28>Wedged Axe <#6B6666>[<#cfd809>Lvl.5<#6B6666>]
     displayed-type: Axe
-    attack-damage: 13.83
+    attack-damage: 13.71
     lore:
     - ' &7&o"An axe so heavy that it sinks '
     - ' &7&ointo the ground."'
     attack-speed: 1.2
-    critical-strike-chance: 8.83
-    critical-strike-power: 79.83
+    critical-strike-chance: 8.71
+    critical-strike-power: 79.71
     tier: COMMON
     disable-enchanting: true
     disable-smithing: true
@@ -205,13 +205,13 @@ AX1_001_06:
     material: STONE_AXE
     name: <#804B28>Wedged Axe <#6B6666>[<#d2b109>Lvl.6<#6B6666>]
     displayed-type: Axe
-    attack-damage: 14.48
+    attack-damage: 14.3
     lore:
     - ' &7&o"An axe so heavy that it sinks '
     - ' &7&ointo the ground."'
     attack-speed: 1.2
-    critical-strike-chance: 9.48
-    critical-strike-power: 80.48
+    critical-strike-chance: 9.3
+    critical-strike-power: 80.3
     tier: COMMON
     disable-enchanting: true
     disable-smithing: true
@@ -245,13 +245,13 @@ AX1_001_07:
     material: STONE_AXE
     name: <#804B28>Wedged Axe <#6B6666>[<#cc8409>Lvl.7<#6B6666>]
     displayed-type: Axe
-    attack-damage: 15.16
+    attack-damage: 14.89
     lore:
     - ' &7&o"An axe so heavy that it sinks '
     - ' &7&ointo the ground."'
     attack-speed: 1.2
-    critical-strike-chance: 10.16
-    critical-strike-power: 81.16
+    critical-strike-chance: 9.89
+    critical-strike-power: 80.89
     tier: COMMON
     disable-enchanting: true
     disable-smithing: true
@@ -285,13 +285,13 @@ AX1_001_08:
     material: STONE_AXE
     name: <#804B28>Wedged Axe <#6B6666>[<#c65809>Lvl.8<#6B6666>]
     displayed-type: Axe
-    attack-damage: 15.87
+    attack-damage: 15.5
     lore:
     - ' &7&o"An axe so heavy that it sinks '
     - ' &7&ointo the ground."'
     attack-speed: 1.2
-    critical-strike-chance: 10.87
-    critical-strike-power: 81.87
+    critical-strike-chance: 10.5
+    critical-strike-power: 81.5
     tier: COMMON
     disable-enchanting: true
     disable-smithing: true
@@ -325,13 +325,13 @@ AX1_001_09:
     material: STONE_AXE
     name: <#804B28>Wedged Axe <#6B6666>[<#c02f09>Lvl.9<#6B6666>]
     displayed-type: Axe
-    attack-damage: 16.6
+    attack-damage: 16.12
     lore:
     - ' &7&o"An axe so heavy that it sinks '
     - ' &7&ointo the ground."'
     attack-speed: 1.2
-    critical-strike-chance: 11.6
-    critical-strike-power: 82.6
+    critical-strike-chance: 11.12
+    critical-strike-power: 82.12
     tier: COMMON
     disable-enchanting: true
     disable-smithing: true
@@ -365,13 +365,13 @@ AX1_001_10:
     material: STONE_AXE
     name: <#804B28>Wedged Axe <#6B6666>[<#ba0909>Lvl.10<#6B6666>]
     displayed-type: Axe
-    attack-damage: 17.37
+    attack-damage: 16.75
     lore:
     - ' &7&o"An axe so heavy that it sinks '
     - ' &7&ointo the ground."'
     attack-speed: 1.2
-    critical-strike-chance: 12.37
-    critical-strike-power: 83.37
+    critical-strike-chance: 11.75
+    critical-strike-power: 82.75
     tier: COMMON
     disable-enchanting: true
     disable-smithing: true
@@ -405,13 +405,13 @@ AX1_001_11:
     material: STONE_AXE
     name: <#804B28>Wedged Axe <#6B6666>[<#c0091f>Lvl.11<#6B6666>]
     displayed-type: Axe
-    attack-damage: 18.16
+    attack-damage: 17.39
     lore:
     - ' &7&o"An axe so heavy that it sinks '
     - ' &7&ointo the ground."'
     attack-speed: 1.2
-    critical-strike-chance: 13.16
-    critical-strike-power: 84.16
+    critical-strike-chance: 12.39
+    critical-strike-power: 83.39
     tier: COMMON
     disable-enchanting: true
     disable-smithing: true
@@ -445,13 +445,13 @@ AX1_001_12:
     material: STONE_AXE
     name: <#804B28>Wedged Axe <#6B6666>[<#c60936>Lvl.12<#6B6666>]
     displayed-type: Axe
-    attack-damage: 18.98
+    attack-damage: 18.04
     lore:
     - ' &7&o"An axe so heavy that it sinks '
     - ' &7&ointo the ground."'
     attack-speed: 1.2
-    critical-strike-chance: 13.98
-    critical-strike-power: 84.98
+    critical-strike-chance: 13.04
+    critical-strike-power: 84.04
     tier: COMMON
     disable-enchanting: true
     disable-smithing: true
@@ -485,13 +485,13 @@ AX1_001_13:
     material: STONE_AXE
     name: <#804B28>Wedged Axe <#6B6666>[<#cd094f>Lvl.13<#6B6666>]
     displayed-type: Axe
-    attack-damage: 19.83
+    attack-damage: 18.7
     lore:
     - ' &7&o"An axe so heavy that it sinks '
     - ' &7&ointo the ground."'
     attack-speed: 1.2
-    critical-strike-chance: 14.83
-    critical-strike-power: 85.83
+    critical-strike-chance: 13.7
+    critical-strike-power: 84.7
     tier: COMMON
     disable-enchanting: true
     disable-smithing: true
@@ -525,13 +525,13 @@ AX1_001_14:
     material: STONE_AXE
     name: <#804B28>Wedged Axe <#6B6666>[<#d3096a>Lvl.14<#6B6666>]
     displayed-type: Axe
-    attack-damage: 20.71
+    attack-damage: 19.38
     lore:
     - ' &7&o"An axe so heavy that it sinks '
     - ' &7&ointo the ground."'
     attack-speed: 1.2
-    critical-strike-chance: 15.71
-    critical-strike-power: 86.71
+    critical-strike-chance: 14.38
+    critical-strike-power: 85.38
     tier: COMMON
     disable-enchanting: true
     disable-smithing: true
@@ -565,13 +565,13 @@ AX1_001_15:
     material: STONE_AXE
     name: <#804B28>Wedged Axe <#6B6666>[<#d90986>Lvl.15<#6B6666>]
     displayed-type: Axe
-    attack-damage: 21.62
+    attack-damage: 20.06
     lore:
     - ' &7&o"An axe so heavy that it sinks '
     - ' &7&ointo the ground."'
     attack-speed: 1.2
-    critical-strike-chance: 16.62
-    critical-strike-power: 87.62
+    critical-strike-chance: 15.06
+    critical-strike-power: 86.06
     tier: COMMON
     disable-enchanting: true
     disable-smithing: true

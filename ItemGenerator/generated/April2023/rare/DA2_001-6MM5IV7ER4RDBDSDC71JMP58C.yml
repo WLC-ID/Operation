@@ -1,16 +1,16 @@
-# Template: DA2_001_XXX. Digest: f052cdf456ca5d92bc64d731250e1dde. Base36: E874Z94CGTXQF6YOL9FME8GYM
-# Generated at 03/05/2023 13:39:25. Digest: e6e969cad33e0449298dedf142776472. Base36: DO50IFZZOHQ4XFUM8K899G3UA.
+# Template: DA2_001_XXX. Digest: 4b5b52de4dba1a5c9ba600ef0c744b4f. Base36: 4GLUGINW92IT05IQEH5ET6CSV
+# Generated at 04/05/2023 17:16:17. Digest: 6ff555e95650b4a2f69625765872b8bc. Base36: 6MM5IV7ER4RDBDSDC71JMP58C.
 DA2_001_01:
   base:
     material: STONE_SWORD
     name: <#9370DB>Nightshade Dagger <#6B6666>[<#ba0909>Lvl.10<#6B6666>]
     displayed-type: Dagger
-    attack-damage: 10.67
+    attack-damage: 11.06
     lore:
     - ' &7&o"As dark as the night, as mysterious'
     - ' &7&oas the shadow."'
     attack-speed: 2.4
-    movement-speed: 0.093
+    movement-speed: 0.079
     ability:
       ability1:
         type: TRICKSTER
@@ -20,7 +20,7 @@ DA2_001_01:
         range: 100.0
       ability2:
         type: BACKSTAB
-        extra: 150.0
+        extra: 200.0
         cooldown: 0.4
         mode: ATTACK
     abilities_lore:
@@ -28,7 +28,7 @@ DA2_001_01:
     - ' &7Teleport to the back of the targeted enemy'
     - ' &7Cooldown : &e10s&7, Mana Cost : &e8.0'
     - ' &6Backstab &7(&ePassive&7)'
-    - ' &7Deal &e150% &7more damage'
+    - ' &7Deal &e200% &7more damage'
     - ' &7When damaging enemy from behind'
     - ' &7Cooldown : &e0.4s'
     disable-enchanting: true
@@ -46,12 +46,12 @@ DA2_001_02:
     material: STONE_SWORD
     name: <#9370DB>Nightshade Dagger <#6B6666>[<#c0091f>Lvl.11<#6B6666>]
     displayed-type: Dagger
-    attack-damage: 16.99
+    attack-damage: 11.61
     lore:
     - ' &7&o"As dark as the night, as mysterious'
     - ' &7&oas the shadow."'
     attack-speed: 2.4
-    movement-speed: 0.101
+    movement-speed: 0.084
     ability:
       ability1:
         type: TRICKSTER
@@ -61,7 +61,7 @@ DA2_001_02:
         range: 100.0
       ability2:
         type: BACKSTAB
-        extra: 175.0
+        extra: 225.0
         cooldown: 0.4
         mode: ATTACK
     abilities_lore:
@@ -69,7 +69,7 @@ DA2_001_02:
     - ' &7Teleport to the back of the targeted enemy'
     - ' &7Cooldown : &e9s&7, Mana Cost : &e7.5'
     - ' &6Backstab &7(&ePassive&7)'
-    - ' &7Deal &e175% &7more damage'
+    - ' &7Deal &e225% &7more damage'
     - ' &7When damaging enemy from behind'
     - ' &7Cooldown : &e0.4s'
     disable-enchanting: true
@@ -87,12 +87,12 @@ DA2_001_03:
     material: STONE_SWORD
     name: <#9370DB>Nightshade Dagger <#6B6666>[<#c60936>Lvl.12<#6B6666>]
     displayed-type: Dagger
-    attack-damage: 24.96
+    attack-damage: 12.17
     lore:
     - ' &7&o"As dark as the night, as mysterious'
     - ' &7&oas the shadow."'
     attack-speed: 2.4
-    movement-speed: 0.11
+    movement-speed: 0.091
     ability:
       ability1:
         type: TRICKSTER
@@ -102,7 +102,7 @@ DA2_001_03:
         range: 100.0
       ability2:
         type: BACKSTAB
-        extra: 200.0
+        extra: 250.0
         cooldown: 0.4
         mode: ATTACK
     abilities_lore:
@@ -110,7 +110,7 @@ DA2_001_03:
     - ' &7Teleport to the back of the targeted enemy'
     - ' &7Cooldown : &e8s&7, Mana Cost : &e7.0'
     - ' &6Backstab &7(&ePassive&7)'
-    - ' &7Deal &e200% &7more damage'
+    - ' &7Deal &e250% &7more damage'
     - ' &7When damaging enemy from behind'
     - ' &7Cooldown : &e0.4s'
     disable-enchanting: true
@@ -128,12 +128,12 @@ DA2_001_04:
     material: STONE_SWORD
     name: <#9370DB>Nightshade Dagger <#6B6666>[<#cd094f>Lvl.13<#6B6666>]
     displayed-type: Dagger
-    attack-damage: 34.58
+    attack-damage: 12.75
     lore:
     - ' &7&o"As dark as the night, as mysterious'
     - ' &7&oas the shadow."'
     attack-speed: 2.4
-    movement-speed: 0.119
+    movement-speed: 0.097
     ability:
       ability1:
         type: TRICKSTER
@@ -143,7 +143,7 @@ DA2_001_04:
         range: 100.0
       ability2:
         type: BACKSTAB
-        extra: 225.0
+        extra: 275.0
         cooldown: 0.4
         mode: ATTACK
     abilities_lore:
@@ -151,7 +151,7 @@ DA2_001_04:
     - ' &7Teleport to the back of the targeted enemy'
     - ' &7Cooldown : &e7s&7, Mana Cost : &e6.5'
     - ' &6Backstab &7(&ePassive&7)'
-    - ' &7Deal &e225% &7more damage'
+    - ' &7Deal &e275% &7more damage'
     - ' &7When damaging enemy from behind'
     - ' &7Cooldown : &e0.4s'
     disable-enchanting: true
@@ -169,12 +169,12 @@ DA2_001_05:
     material: STONE_SWORD
     name: <#9370DB>Nightshade Dagger <#6B6666>[<#d3096a>Lvl.14<#6B6666>]
     displayed-type: Dagger
-    attack-damage: 45.85
+    attack-damage: 13.35
     lore:
     - ' &7&o"As dark as the night, as mysterious'
     - ' &7&oas the shadow."'
     attack-speed: 2.4
-    movement-speed: 0.128
+    movement-speed: 0.104
     ability:
       ability1:
         type: TRICKSTER
@@ -184,7 +184,7 @@ DA2_001_05:
         range: 100.0
       ability2:
         type: BACKSTAB
-        extra: 250.0
+        extra: 300.0
         cooldown: 0.4
         mode: ATTACK
     abilities_lore:
@@ -192,7 +192,7 @@ DA2_001_05:
     - ' &7Teleport to the back of the targeted enemy'
     - ' &7Cooldown : &e6s&7, Mana Cost : &e6.0'
     - ' &6Backstab &7(&ePassive&7)'
-    - ' &7Deal &e250% &7more damage'
+    - ' &7Deal &e300% &7more damage'
     - ' &7When damaging enemy from behind'
     - ' &7Cooldown : &e0.4s'
     disable-enchanting: true
@@ -210,12 +210,12 @@ DA2_001_06:
     material: STONE_SWORD
     name: <#9370DB>Nightshade Dagger <#6B6666>[<#d90986>Lvl.15<#6B6666>]
     displayed-type: Dagger
-    attack-damage: 58.77
+    attack-damage: 13.97
     lore:
     - ' &7&o"As dark as the night, as mysterious'
     - ' &7&oas the shadow."'
     attack-speed: 2.4
-    movement-speed: 0.138
+    movement-speed: 0.112
     ability:
       ability1:
         type: TRICKSTER
@@ -225,7 +225,7 @@ DA2_001_06:
         range: 100.0
       ability2:
         type: BACKSTAB
-        extra: 275.0
+        extra: 325.0
         cooldown: 0.4
         mode: ATTACK
     abilities_lore:
@@ -233,7 +233,7 @@ DA2_001_06:
     - ' &7Teleport to the back of the targeted enemy'
     - ' &7Cooldown : &e5s&7, Mana Cost : &e5.5'
     - ' &6Backstab &7(&ePassive&7)'
-    - ' &7Deal &e275% &7more damage'
+    - ' &7Deal &e325% &7more damage'
     - ' &7When damaging enemy from behind'
     - ' &7Cooldown : &e0.4s'
     disable-enchanting: true
@@ -251,12 +251,12 @@ DA2_001_07:
     material: STONE_SWORD
     name: <#9370DB>Nightshade Dagger <#6B6666>[<#e009a3>Lvl.16<#6B6666>]
     displayed-type: Dagger
-    attack-damage: 73.34
+    attack-damage: 14.6
     lore:
     - ' &7&o"As dark as the night, as mysterious'
     - ' &7&oas the shadow."'
     attack-speed: 2.4
-    movement-speed: 0.148
+    movement-speed: 0.12
     ability:
       ability1:
         type: TRICKSTER
@@ -266,7 +266,7 @@ DA2_001_07:
         range: 100.0
       ability2:
         type: BACKSTAB
-        extra: 300.0
+        extra: 350.0
         cooldown: 0.4
         mode: ATTACK
     abilities_lore:
@@ -274,7 +274,7 @@ DA2_001_07:
     - ' &7Teleport to the back of the targeted enemy'
     - ' &7Cooldown : &e4s&7, Mana Cost : &e5.0'
     - ' &6Backstab &7(&ePassive&7)'
-    - ' &7Deal &e300% &7more damage'
+    - ' &7Deal &e350% &7more damage'
     - ' &7When damaging enemy from behind'
     - ' &7Cooldown : &e0.4s'
     disable-enchanting: true
@@ -292,12 +292,12 @@ DA2_001_08:
     material: STONE_SWORD
     name: <#9370DB>Nightshade Dagger <#6B6666>[<#e609c2>Lvl.17<#6B6666>]
     displayed-type: Dagger
-    attack-damage: 89.56
+    attack-damage: 15.25
     lore:
     - ' &7&o"As dark as the night, as mysterious'
     - ' &7&oas the shadow."'
     attack-speed: 2.4
-    movement-speed: 0.158
+    movement-speed: 0.128
     ability:
       ability1:
         type: TRICKSTER
@@ -307,7 +307,7 @@ DA2_001_08:
         range: 100.0
       ability2:
         type: BACKSTAB
-        extra: 325.0
+        extra: 375.0
         cooldown: 0.4
         mode: ATTACK
     abilities_lore:
@@ -315,7 +315,7 @@ DA2_001_08:
     - ' &7Teleport to the back of the targeted enemy'
     - ' &7Cooldown : &e3s&7, Mana Cost : &e4.5'
     - ' &6Backstab &7(&ePassive&7)'
-    - ' &7Deal &e325% &7more damage'
+    - ' &7Deal &e375% &7more damage'
     - ' &7When damaging enemy from behind'
     - ' &7Cooldown : &e0.4s'
     disable-enchanting: true
@@ -333,12 +333,12 @@ DA2_001_09:
     material: STONE_SWORD
     name: <#9370DB>Nightshade Dagger <#6B6666>[<#ec08e3>Lvl.18<#6B6666>]
     displayed-type: Dagger
-    attack-damage: 107.42
+    attack-damage: 15.92
     lore:
     - ' &7&o"As dark as the night, as mysterious'
     - ' &7&oas the shadow."'
     attack-speed: 2.4
-    movement-speed: 0.169
+    movement-speed: 0.137
     ability:
       ability1:
         type: TRICKSTER
@@ -348,7 +348,7 @@ DA2_001_09:
         range: 100.0
       ability2:
         type: BACKSTAB
-        extra: 350.0
+        extra: 400.0
         cooldown: 0.4
         mode: ATTACK
     abilities_lore:
@@ -356,7 +356,7 @@ DA2_001_09:
     - ' &7Teleport to the back of the targeted enemy'
     - ' &7Cooldown : &e2s&7, Mana Cost : &e4.0'
     - ' &6Backstab &7(&ePassive&7)'
-    - ' &7Deal &e350% &7more damage'
+    - ' &7Deal &e400% &7more damage'
     - ' &7When damaging enemy from behind'
     - ' &7Cooldown : &e0.4s'
     disable-enchanting: true
@@ -374,12 +374,12 @@ DA2_001_10:
     material: STONE_SWORD
     name: <#9370DB>Nightshade Dagger <#6B6666>[<#e008f3>Lvl.19<#6B6666>]
     displayed-type: Dagger
-    attack-damage: 126.94
+    attack-damage: 16.6
     lore:
     - ' &7&o"As dark as the night, as mysterious'
     - ' &7&oas the shadow."'
     attack-speed: 2.4
-    movement-speed: 0.179
+    movement-speed: 0.146
     ability:
       ability1:
         type: TRICKSTER
@@ -389,7 +389,7 @@ DA2_001_10:
         range: 100.0
       ability2:
         type: BACKSTAB
-        extra: 350.0
+        extra: 400.0
         cooldown: 0.4
         mode: ATTACK
     abilities_lore:
@@ -397,7 +397,7 @@ DA2_001_10:
     - ' &7Teleport to the back of the targeted enemy'
     - ' &7Cooldown : &e2s&7, Mana Cost : &e4.0'
     - ' &6Backstab &7(&ePassive&7)'
-    - ' &7Deal &e350% &7more damage'
+    - ' &7Deal &e400% &7more damage'
     - ' &7When damaging enemy from behind'
     - ' &7Cooldown : &e0.4s'
     disable-enchanting: true
@@ -415,12 +415,12 @@ DA2_001_11:
     material: STONE_SWORD
     name: <#9370DB>Nightshade Dagger <#6B6666>[<#c80af7>Lvl.20<#6B6666>]
     displayed-type: Dagger
-    attack-damage: 148.1
+    attack-damage: 17.3
     lore:
     - ' &7&o"As dark as the night, as mysterious'
     - ' &7&oas the shadow."'
     attack-speed: 2.4
-    movement-speed: 0.19
+    movement-speed: 0.156
     ability:
       ability1:
         type: TRICKSTER
@@ -430,7 +430,7 @@ DA2_001_11:
         range: 100.0
       ability2:
         type: BACKSTAB
-        extra: 350.0
+        extra: 400.0
         cooldown: 0.4
         mode: ATTACK
     abilities_lore:
@@ -438,7 +438,7 @@ DA2_001_11:
     - ' &7Teleport to the back of the targeted enemy'
     - ' &7Cooldown : &e2s&7, Mana Cost : &e4.0'
     - ' &6Backstab &7(&ePassive&7)'
-    - ' &7Deal &e350% &7more damage'
+    - ' &7Deal &e400% &7more damage'
     - ' &7When damaging enemy from behind'
     - ' &7Cooldown : &e0.4s'
     disable-enchanting: true

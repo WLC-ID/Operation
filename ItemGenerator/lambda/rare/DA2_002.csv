@@ -1,7 +1,7 @@
 directory,function
 attack-damage,"round(pio(x,9,55,2,2)/10,2)"
-parry-rating,"pio(x,9,5,7.5,7.5)"
-parry-cooldown-reduction,"pio(x,9,4,2,2)"
+parry-rating,"pio(x,9,10,2,2)"
+parry-cooldown-reduction,"pio(x,9,8,2,2)"
 ability@1.max-combo,"26-(min(x,9)-1)"
 ability@1.combo-damage,"(14+(min(x,9)-1))/10"
 attack-speed,"(230+(min(x,9)-1)*5)/100"

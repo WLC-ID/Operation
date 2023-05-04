@@ -1,0 +1,6 @@
+directory,function
+attack-damage,"pio(x,14,11.5,1,1)"
+critical-strike-chance,"pio(x,14,7,1.5,1.5)"
+critical-strike-power,"pio(x,14,85,4,4)"
+movement-speed,"round(pio(x,3,1,10,10)/100,3)"
+name,"lambda x,y: f""<#773399>Telemetry <#6B6666>[{color(x+14)}Lvl.{x+14}<#6B6666>]"""

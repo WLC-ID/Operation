@@ -1,6 +1,6 @@
 directory,function
 attack-damage,"pio(x,9,10,3,3)"
-defense,"pio(x,9,7.5,5,5)"
+defense,"pio(x,9,8,5,5)"
 additional-toughness,"pio(x,9,5,5,5)"
 ability@1.cooldown,"(640-((min(x,9)-1)*40))/100"
 ability@1.damage-percent,"(100+((min(x,9)-1)*6))"

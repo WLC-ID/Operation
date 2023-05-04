@@ -1,11 +1,11 @@
-# Template: DA1_001_XXX. Digest: 7737fbf2ac9b5f46853acd9ac643c54e. Base36: 7237OB0BW3DANZA53FNKVIN9Q
-# Generated at 03/05/2023 13:39:24. Digest: 49b36c6d6babe0f7527035f009757c96. Base36: 4D2SQ7TUNBFAVWH0TY7OHWZH2.
+# Template: DA1_001_XXX. Digest: 1ba9e23da6eb207bdb2d172fd2332bd4. Base36: 1MYIZF5ASII3Y1DIHCHHT46OK
+# Generated at 04/05/2023 17:16:16. Digest: f6da95af171b0646ad88e461c8d182f1. Base36: EM46VY85WCOWY68ZMHHGBZ5RL.
 DA1_001_01:
   base:
     material: STONE_SWORD
     name: <#cc6e00>Stilleto <#6B6666>[<#23f108>Lvl.1<#6B6666>]
     displayed-type: Dagger
-    attack-damage: 6.38
+    attack-damage: 6.5
     lore:
     - ' &7&o"All who seek thrill has this one''s hip'
     - ' &7&osnaking it''s way to every combat."'
@@ -45,7 +45,7 @@ DA1_001_02:
     material: STONE_SWORD
     name: <#cc6e00>Stilleto <#6B6666>[<#52eb08>Lvl.2<#6B6666>]
     displayed-type: Dagger
-    attack-damage: 6.78
+    attack-damage: 7.03
     lore:
     - ' &7&o"All who seek thrill has this one''s hip'
     - ' &7&osnaking it''s way to every combat."'
@@ -59,7 +59,7 @@ DA1_001_02:
         mana: 5.0
       ability2:
         type: BACKSTAB
-        extra: 35.0
+        extra: 40.0
         cooldown: 0.85
         mode: ATTACK
     abilities_lore:
@@ -67,7 +67,7 @@ DA1_001_02:
     - ' &7Dash back and gain &fSPEED II&7 for &e3s'
     - ' &7Cooldown : &e7.75s&7, Mana Cost : &e5.0'
     - ' &6Backstab &7(&ePassive&7)'
-    - ' &7Deal &e35% &7&7more damage'
+    - ' &7Deal &e40% &7&7more damage'
     - ' &7When damaging enemy from behind'
     - ' &7Cooldown : &e0.85s'
     disable-enchanting: true
@@ -85,7 +85,7 @@ DA1_001_03:
     material: STONE_SWORD
     name: <#cc6e00>Stilleto <#6B6666>[<#7ee508>Lvl.3<#6B6666>]
     displayed-type: Dagger
-    attack-damage: 7.2
+    attack-damage: 7.58
     lore:
     - ' &7&o"All who seek thrill has this one''s hip'
     - ' &7&osnaking it''s way to every combat."'
@@ -99,7 +99,7 @@ DA1_001_03:
         mana: 5.0
       ability2:
         type: BACKSTAB
-        extra: 50.0
+        extra: 60.0
         cooldown: 0.8
         mode: ATTACK
     abilities_lore:
@@ -107,7 +107,7 @@ DA1_001_03:
     - ' &7Dash back and gain &fSPEED II&7 for &e3s'
     - ' &7Cooldown : &e7.5s&7, Mana Cost : &e5.0'
     - ' &6Backstab &7(&ePassive&7)'
-    - ' &7Deal &e50% &7&7more damage'
+    - ' &7Deal &e60% &7&7more damage'
     - ' &7When damaging enemy from behind'
     - ' &7Cooldown : &e0.8s'
     disable-enchanting: true
@@ -125,12 +125,12 @@ DA1_001_04:
     material: STONE_SWORD
     name: <#cc6e00>Stilleto <#6B6666>[<#a8de09>Lvl.4<#6B6666>]
     displayed-type: Dagger
-    attack-damage: 7.63
+    attack-damage: 8.14
     lore:
     - ' &7&o"All who seek thrill has this one''s hip'
     - ' &7&osnaking it''s way to every combat."'
     attack-speed: 2.25
-    movement-speed: 0.047
+    movement-speed: 0.046
     ability:
       ability1:
         type: BACKSTEP
@@ -139,7 +139,7 @@ DA1_001_04:
         mana: 5.0
       ability2:
         type: BACKSTAB
-        extra: 65.0
+        extra: 80.0
         cooldown: 0.75
         mode: ATTACK
     abilities_lore:
@@ -147,7 +147,7 @@ DA1_001_04:
     - ' &7Dash back and gain &fSPEED II&7 for &e3s'
     - ' &7Cooldown : &e7.25s&7, Mana Cost : &e5.0'
     - ' &6Backstab &7(&ePassive&7)'
-    - ' &7Deal &e65% &7&7more damage'
+    - ' &7Deal &e80% &7&7more damage'
     - ' &7When damaging enemy from behind'
     - ' &7Cooldown : &e0.75s'
     disable-enchanting: true
@@ -165,12 +165,12 @@ DA1_001_05:
     material: STONE_SWORD
     name: <#cc6e00>Stilleto <#6B6666>[<#cfd809>Lvl.5<#6B6666>]
     displayed-type: Dagger
-    attack-damage: 8.08
+    attack-damage: 8.71
     lore:
     - ' &7&o"All who seek thrill has this one''s hip'
     - ' &7&osnaking it''s way to every combat."'
     attack-speed: 2.25
-    movement-speed: 0.053
+    movement-speed: 0.052
     ability:
       ability1:
         type: BACKSTEP
@@ -179,7 +179,7 @@ DA1_001_05:
         mana: 5.0
       ability2:
         type: BACKSTAB
-        extra: 80.0
+        extra: 100.0
         cooldown: 0.7
         mode: ATTACK
     abilities_lore:
@@ -187,7 +187,7 @@ DA1_001_05:
     - ' &7Dash back and gain &fSPEED II&7 for &e3s'
     - ' &7Cooldown : &e7.0s&7, Mana Cost : &e5.0'
     - ' &6Backstab &7(&ePassive&7)'
-    - ' &7Deal &e80% &7&7more damage'
+    - ' &7Deal &e100% &7&7more damage'
     - ' &7When damaging enemy from behind'
     - ' &7Cooldown : &e0.7s'
     disable-enchanting: true
@@ -205,12 +205,12 @@ DA1_001_06:
     material: STONE_SWORD
     name: <#cc6e00>Stilleto <#6B6666>[<#d2b109>Lvl.6<#6B6666>]
     displayed-type: Dagger
-    attack-damage: 8.55
+    attack-damage: 9.3
     lore:
     - ' &7&o"All who seek thrill has this one''s hip'
     - ' &7&osnaking it''s way to every combat."'
     attack-speed: 2.25
-    movement-speed: 0.06
+    movement-speed: 0.058
     ability:
       ability1:
         type: BACKSTEP
@@ -219,7 +219,7 @@ DA1_001_06:
         mana: 5.0
       ability2:
         type: BACKSTAB
-        extra: 95.0
+        extra: 120.0
         cooldown: 0.65
         mode: ATTACK
     abilities_lore:
@@ -227,7 +227,7 @@ DA1_001_06:
     - ' &7Dash back and gain &fSPEED II&7 for &e3s'
     - ' &7Cooldown : &e6.75s&7, Mana Cost : &e5.0'
     - ' &6Backstab &7(&ePassive&7)'
-    - ' &7Deal &e95% &7&7more damage'
+    - ' &7Deal &e120% &7&7more damage'
     - ' &7When damaging enemy from behind'
     - ' &7Cooldown : &e0.65s'
     disable-enchanting: true
@@ -245,12 +245,12 @@ DA1_001_07:
     material: STONE_SWORD
     name: <#cc6e00>Stilleto <#6B6666>[<#cc8409>Lvl.7<#6B6666>]
     displayed-type: Dagger
-    attack-damage: 9.03
+    attack-damage: 9.89
     lore:
     - ' &7&o"All who seek thrill has this one''s hip'
     - ' &7&osnaking it''s way to every combat."'
     attack-speed: 2.25
-    movement-speed: 0.067
+    movement-speed: 0.064
     ability:
       ability1:
         type: BACKSTEP
@@ -259,7 +259,7 @@ DA1_001_07:
         mana: 5.0
       ability2:
         type: BACKSTAB
-        extra: 110.0
+        extra: 140.0
         cooldown: 0.6
         mode: ATTACK
     abilities_lore:
@@ -267,7 +267,7 @@ DA1_001_07:
     - ' &7Dash back and gain &fSPEED II&7 for &e3s'
     - ' &7Cooldown : &e6.5s&7, Mana Cost : &e5.0'
     - ' &6Backstab &7(&ePassive&7)'
-    - ' &7Deal &e110% &7&7more damage'
+    - ' &7Deal &e140% &7&7more damage'
     - ' &7When damaging enemy from behind'
     - ' &7Cooldown : &e0.6s'
     disable-enchanting: true
@@ -285,12 +285,12 @@ DA1_001_08:
     material: STONE_SWORD
     name: <#cc6e00>Stilleto <#6B6666>[<#c65809>Lvl.8<#6B6666>]
     displayed-type: Dagger
-    attack-damage: 9.53
+    attack-damage: 10.5
     lore:
     - ' &7&o"All who seek thrill has this one''s hip'
     - ' &7&osnaking it''s way to every combat."'
     attack-speed: 2.25
-    movement-speed: 0.074
+    movement-speed: 0.07
     ability:
       ability1:
         type: BACKSTEP
@@ -299,7 +299,7 @@ DA1_001_08:
         mana: 5.0
       ability2:
         type: BACKSTAB
-        extra: 125.0
+        extra: 160.0
         cooldown: 0.55
         mode: ATTACK
     abilities_lore:
@@ -307,7 +307,7 @@ DA1_001_08:
     - ' &7Dash back and gain &fSPEED II&7 for &e3s'
     - ' &7Cooldown : &e6.25s&7, Mana Cost : &e5.0'
     - ' &6Backstab &7(&ePassive&7)'
-    - ' &7Deal &e125% &7&7more damage'
+    - ' &7Deal &e160% &7&7more damage'
     - ' &7When damaging enemy from behind'
     - ' &7Cooldown : &e0.55s'
     disable-enchanting: true
@@ -325,12 +325,12 @@ DA1_001_09:
     material: STONE_SWORD
     name: <#cc6e00>Stilleto <#6B6666>[<#c02f09>Lvl.9<#6B6666>]
     displayed-type: Dagger
-    attack-damage: 10.05
+    attack-damage: 11.12
     lore:
     - ' &7&o"All who seek thrill has this one''s hip'
     - ' &7&osnaking it''s way to every combat."'
     attack-speed: 2.25
-    movement-speed: 0.081
+    movement-speed: 0.076
     ability:
       ability1:
         type: BACKSTEP
@@ -339,7 +339,7 @@ DA1_001_09:
         mana: 5.0
       ability2:
         type: BACKSTAB
-        extra: 140.0
+        extra: 180.0
         cooldown: 0.5
         mode: ATTACK
     abilities_lore:
@@ -347,7 +347,7 @@ DA1_001_09:
     - ' &7Dash back and gain &fSPEED II&7 for &e3s'
     - ' &7Cooldown : &e6.0s&7, Mana Cost : &e5.0'
     - ' &6Backstab &7(&ePassive&7)'
-    - ' &7Deal &e140% &7&7more damage'
+    - ' &7Deal &e180% &7&7more damage'
     - ' &7When damaging enemy from behind'
     - ' &7Cooldown : &e0.5s'
     disable-enchanting: true
@@ -365,12 +365,12 @@ DA1_001_10:
     material: STONE_SWORD
     name: <#cc6e00>Stilleto <#6B6666>[<#ba0909>Lvl.10<#6B6666>]
     displayed-type: Dagger
-    attack-damage: 10.58
+    attack-damage: 11.75
     lore:
     - ' &7&o"All who seek thrill has this one''s hip'
     - ' &7&osnaking it''s way to every combat."'
     attack-speed: 2.25
-    movement-speed: 0.089
+    movement-speed: 0.083
     ability:
       ability1:
         type: BACKSTEP
@@ -379,7 +379,7 @@ DA1_001_10:
         mana: 5.0
       ability2:
         type: BACKSTAB
-        extra: 140.0
+        extra: 180.0
         cooldown: 0.5
         mode: ATTACK
     abilities_lore:
@@ -387,7 +387,7 @@ DA1_001_10:
     - ' &7Dash back and gain &fSPEED II&7 for &e3s'
     - ' &7Cooldown : &e6.0s&7, Mana Cost : &e5.0'
     - ' &6Backstab &7(&ePassive&7)'
-    - ' &7Deal &e140% &7&7more damage'
+    - ' &7Deal &e180% &7&7more damage'
     - ' &7When damaging enemy from behind'
     - ' &7Cooldown : &e0.5s'
     disable-enchanting: true
@@ -405,12 +405,12 @@ DA1_001_11:
     material: STONE_SWORD
     name: <#cc6e00>Stilleto <#6B6666>[<#c0091f>Lvl.11<#6B6666>]
     displayed-type: Dagger
-    attack-damage: 11.13
+    attack-damage: 12.39
     lore:
     - ' &7&o"All who seek thrill has this one''s hip'
     - ' &7&osnaking it''s way to every combat."'
     attack-speed: 2.25
-    movement-speed: 0.097
+    movement-speed: 0.089
     ability:
       ability1:
         type: BACKSTEP
@@ -419,7 +419,7 @@ DA1_001_11:
         mana: 5.0
       ability2:
         type: BACKSTAB
-        extra: 140.0
+        extra: 180.0
         cooldown: 0.5
         mode: ATTACK
     abilities_lore:
@@ -427,7 +427,7 @@ DA1_001_11:
     - ' &7Dash back and gain &fSPEED II&7 for &e3s'
     - ' &7Cooldown : &e6.0s&7, Mana Cost : &e5.0'
     - ' &6Backstab &7(&ePassive&7)'
-    - ' &7Deal &e140% &7&7more damage'
+    - ' &7Deal &e180% &7&7more damage'
     - ' &7When damaging enemy from behind'
     - ' &7Cooldown : &e0.5s'
     disable-enchanting: true
@@ -445,12 +445,12 @@ DA1_001_12:
     material: STONE_SWORD
     name: <#cc6e00>Stilleto <#6B6666>[<#c60936>Lvl.12<#6B6666>]
     displayed-type: Dagger
-    attack-damage: 11.69
+    attack-damage: 13.04
     lore:
     - ' &7&o"All who seek thrill has this one''s hip'
     - ' &7&osnaking it''s way to every combat."'
     attack-speed: 2.25
-    movement-speed: 0.105
+    movement-speed: 0.095
     ability:
       ability1:
         type: BACKSTEP
@@ -459,7 +459,7 @@ DA1_001_12:
         mana: 5.0
       ability2:
         type: BACKSTAB
-        extra: 140.0
+        extra: 180.0
         cooldown: 0.5
         mode: ATTACK
     abilities_lore:
@@ -467,7 +467,7 @@ DA1_001_12:
     - ' &7Dash back and gain &fSPEED II&7 for &e3s'
     - ' &7Cooldown : &e6.0s&7, Mana Cost : &e5.0'
     - ' &6Backstab &7(&ePassive&7)'
-    - ' &7Deal &e140% &7&7more damage'
+    - ' &7Deal &e180% &7&7more damage'
     - ' &7When damaging enemy from behind'
     - ' &7Cooldown : &e0.5s'
     disable-enchanting: true
@@ -485,12 +485,12 @@ DA1_001_13:
     material: STONE_SWORD
     name: <#cc6e00>Stilleto <#6B6666>[<#cd094f>Lvl.13<#6B6666>]
     displayed-type: Dagger
-    attack-damage: 12.28
+    attack-damage: 13.7
     lore:
     - ' &7&o"All who seek thrill has this one''s hip'
     - ' &7&osnaking it''s way to every combat."'
     attack-speed: 2.25
-    movement-speed: 0.113
+    movement-speed: 0.102
     ability:
       ability1:
         type: BACKSTEP
@@ -499,7 +499,7 @@ DA1_001_13:
         mana: 5.0
       ability2:
         type: BACKSTAB
-        extra: 140.0
+        extra: 180.0
         cooldown: 0.5
         mode: ATTACK
     abilities_lore:
@@ -507,7 +507,7 @@ DA1_001_13:
     - ' &7Dash back and gain &fSPEED II&7 for &e3s'
     - ' &7Cooldown : &e6.0s&7, Mana Cost : &e5.0'
     - ' &6Backstab &7(&ePassive&7)'
-    - ' &7Deal &e140% &7&7more damage'
+    - ' &7Deal &e180% &7&7more damage'
     - ' &7When damaging enemy from behind'
     - ' &7Cooldown : &e0.5s'
     disable-enchanting: true
@@ -525,12 +525,12 @@ DA1_001_14:
     material: STONE_SWORD
     name: <#cc6e00>Stilleto <#6B6666>[<#d3096a>Lvl.14<#6B6666>]
     displayed-type: Dagger
-    attack-damage: 12.87
+    attack-damage: 14.38
     lore:
     - ' &7&o"All who seek thrill has this one''s hip'
     - ' &7&osnaking it''s way to every combat."'
     attack-speed: 2.25
-    movement-speed: 0.122
+    movement-speed: 0.109
     ability:
       ability1:
         type: BACKSTEP
@@ -539,7 +539,7 @@ DA1_001_14:
         mana: 5.0
       ability2:
         type: BACKSTAB
-        extra: 140.0
+        extra: 180.0
         cooldown: 0.5
         mode: ATTACK
     abilities_lore:
@@ -547,7 +547,7 @@ DA1_001_14:
     - ' &7Dash back and gain &fSPEED II&7 for &e3s'
     - ' &7Cooldown : &e6.0s&7, Mana Cost : &e5.0'
     - ' &6Backstab &7(&ePassive&7)'
-    - ' &7Deal &e140% &7&7more damage'
+    - ' &7Deal &e180% &7&7more damage'
     - ' &7When damaging enemy from behind'
     - ' &7Cooldown : &e0.5s'
     disable-enchanting: true
@@ -565,12 +565,12 @@ DA1_001_15:
     material: STONE_SWORD
     name: <#cc6e00>Stilleto <#6B6666>[<#d90986>Lvl.15<#6B6666>]
     displayed-type: Dagger
-    attack-damage: 13.49
+    attack-damage: 15.06
     lore:
     - ' &7&o"All who seek thrill has this one''s hip'
     - ' &7&osnaking it''s way to every combat."'
     attack-speed: 2.25
-    movement-speed: 0.131
+    movement-speed: 0.116
     ability:
       ability1:
         type: BACKSTEP
@@ -579,7 +579,7 @@ DA1_001_15:
         mana: 5.0
       ability2:
         type: BACKSTAB
-        extra: 140.0
+        extra: 180.0
         cooldown: 0.5
         mode: ATTACK
     abilities_lore:
@@ -587,7 +587,7 @@ DA1_001_15:
     - ' &7Dash back and gain &fSPEED II&7 for &e3s'
     - ' &7Cooldown : &e6.0s&7, Mana Cost : &e5.0'
     - ' &6Backstab &7(&ePassive&7)'
-    - ' &7Deal &e140% &7&7more damage'
+    - ' &7Deal &e180% &7&7more damage'
     - ' &7When damaging enemy from behind'
     - ' &7Cooldown : &e0.5s'
     disable-enchanting: true

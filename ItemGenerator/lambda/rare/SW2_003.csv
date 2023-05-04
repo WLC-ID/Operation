@@ -1,7 +1,7 @@
 directory,function
-attack-damage,"pio(x,9,10,1,1)"
-fire-damage-reduction,"pio(x,9,10,2,2)"
-movement-speed,"round(pio(x,9,3,4,4)/100,3)"
+attack-damage,"pio(x,9,10,2,2)"
+fire-damage-reduction,"pio(x,9,11,2,2.5)"
+movement-speed,"round(pio(x,9,3,3,3)/100,3)"
 ability@1.cooldown,"(120-((min(x,9)-1)*10))/100"
 ability@1.damage-percent,"(110+((min(x,9)-1)*15))"
 name,"f""<#FF4500>Starblazed Fury <#6B6666>[{color(x+9)}Lvl.{x+9}<#6B6666>]"""
