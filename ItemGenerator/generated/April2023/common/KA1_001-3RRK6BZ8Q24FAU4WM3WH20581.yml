@@ -1,19 +1,19 @@
-# Template: KA1_001_XXX. Digest: 4fd1b332193b4ae4e6374b1206a45945. Base36: 4Q48AEDU46UFYVEP0TMIAB3NP
-# Generated at 03/05/2023 15:16:25. Digest: 54d990414403b73367a8bf8c4efba37a. Base36: 50U7VGMU9XJYB5CE87OGN9DH6.
+# Template: KA1_001_XXX. Digest: 54d990414403b73367a8bf8c4efba37a. Base36: 50U7VGMU9XJYB5CE87OGN9DH6
+# Generated at 04/05/2023 17:16:16. Digest: 3fb3827716a455c881b506541bcb0071. Base36: 3RRK6BZ8Q24FAU4WM3WH20581.
 KA1_001_01:
   base:
     material: IRON_SWORD
     name: <#00AEE6>Bokken <#6B6666>[<#23f108>Lvl.1<#6B6666>]
     displayed-type: Katana
-    attack-damage: 8.0
-    critical-strike-chance: 11.0
+    attack-damage: 9.5
+    critical-strike-chance: 15.01
     critical-strike-power: 60.0
     lore:
     - ' &7&o"Passed down through generations of samurai'
     - ' &7&owarriors."'
     abilities_lore:
     - ' &6Slash &7(&eRight Click&7)'
-    - ' &7Charge 1s then dash forward for &e0.25s&7 and'
+    - ' &7Charge &e1s&7 then dash forward for &e0.25s&7 and'
     - ' &7deal &e8.0&7 damage to enemies passed through.'
     - ' &7Cooldown : &e8.0s&7, Mana Cost : &e8.0'
     attack-speed: 1.6
@@ -41,17 +41,17 @@ KA1_001_02:
     material: IRON_SWORD
     name: <#00AEE6>Bokken <#6B6666>[<#52eb08>Lvl.2<#6B6666>]
     displayed-type: Katana
-    attack-damage: 8.52
-    critical-strike-chance: 11.52
-    critical-strike-power: 60.52
+    attack-damage: 10.03
+    critical-strike-chance: 15.55
+    critical-strike-power: 60.53
     lore:
     - ' &7&o"Passed down through generations of samurai'
     - ' &7&owarriors."'
     abilities_lore:
     - ' &6Slash &7(&eRight Click&7)'
-    - ' &7Charge 1s then dash forward for &e0.3s&7 and'
+    - ' &7Charge &e1s&7 then dash forward for &e0.3s&7 and'
     - ' &7deal &e8.75&7 damage to enemies passed through.'
-    - ' &7Cooldown : &e8.0s&7, Mana Cost : &e8.0'
+    - ' &7Cooldown : &e8.0s&7, Mana Cost : &e8.2'
     attack-speed: 1.6
     tier: common
     ability:
@@ -60,7 +60,7 @@ KA1_001_02:
         mode: RIGHT_CLICK
         damage: 8.75
         cooldown: 8.0
-        mana: 8.0
+        mana: 8.2
         delay: 1.0
         length: 0.3
     disable-enchanting: true
@@ -77,17 +77,17 @@ KA1_001_03:
     material: IRON_SWORD
     name: <#00AEE6>Bokken <#6B6666>[<#7ee508>Lvl.3<#6B6666>]
     displayed-type: Katana
-    attack-damage: 9.03
-    critical-strike-chance: 12.03
-    critical-strike-power: 61.03
+    attack-damage: 10.58
+    critical-strike-chance: 16.12
+    critical-strike-power: 61.08
     lore:
     - ' &7&o"Passed down through generations of samurai'
     - ' &7&owarriors."'
     abilities_lore:
     - ' &6Slash &7(&eRight Click&7)'
-    - ' &7Charge 1s then dash forward for &e0.35s&7 and'
+    - ' &7Charge &e1s&7 then dash forward for &e0.35s&7 and'
     - ' &7deal &e9.5&7 damage to enemies passed through.'
-    - ' &7Cooldown : &e8.0s&7, Mana Cost : &e8.0'
+    - ' &7Cooldown : &e8.0s&7, Mana Cost : &e8.4'
     attack-speed: 1.6
     tier: common
     ability:
@@ -96,7 +96,7 @@ KA1_001_03:
         mode: RIGHT_CLICK
         damage: 9.5
         cooldown: 8.0
-        mana: 8.0
+        mana: 8.4
         delay: 1.0
         length: 0.35
     disable-enchanting: true
@@ -113,17 +113,17 @@ KA1_001_04:
     material: IRON_SWORD
     name: <#00AEE6>Bokken <#6B6666>[<#a8de09>Lvl.4<#6B6666>]
     displayed-type: Katana
-    attack-damage: 9.55
-    critical-strike-chance: 12.55
-    critical-strike-power: 61.55
+    attack-damage: 11.14
+    critical-strike-chance: 16.7
+    critical-strike-power: 61.64
     lore:
     - ' &7&o"Passed down through generations of samurai'
     - ' &7&owarriors."'
     abilities_lore:
     - ' &6Slash &7(&eRight Click&7)'
-    - ' &7Charge 1s then dash forward for &e0.4s&7 and'
+    - ' &7Charge &e1s&7 then dash forward for &e0.4s&7 and'
     - ' &7deal &e10.25&7 damage to enemies passed through.'
-    - ' &7Cooldown : &e8.0s&7, Mana Cost : &e8.0'
+    - ' &7Cooldown : &e8.0s&7, Mana Cost : &e8.6'
     attack-speed: 1.6
     tier: common
     ability:
@@ -132,7 +132,7 @@ KA1_001_04:
         mode: RIGHT_CLICK
         damage: 10.25
         cooldown: 8.0
-        mana: 8.0
+        mana: 8.6
         delay: 1.0
         length: 0.4
     disable-enchanting: true
@@ -149,17 +149,17 @@ KA1_001_05:
     material: IRON_SWORD
     name: <#00AEE6>Bokken <#6B6666>[<#cfd809>Lvl.5<#6B6666>]
     displayed-type: Katana
-    attack-damage: 10.07
-    critical-strike-chance: 13.07
-    critical-strike-power: 62.07
+    attack-damage: 11.71
+    critical-strike-chance: 17.3
+    critical-strike-power: 62.21
     lore:
     - ' &7&o"Passed down through generations of samurai'
     - ' &7&owarriors."'
     abilities_lore:
     - ' &6Slash &7(&eRight Click&7)'
-    - ' &7Charge 1s then dash forward for &e0.45s&7 and'
+    - ' &7Charge &e1s&7 then dash forward for &e0.45s&7 and'
     - ' &7deal &e11.0&7 damage to enemies passed through.'
-    - ' &7Cooldown : &e8.0s&7, Mana Cost : &e8.0'
+    - ' &7Cooldown : &e8.0s&7, Mana Cost : &e8.8'
     attack-speed: 1.6
     tier: common
     ability:
@@ -168,7 +168,7 @@ KA1_001_05:
         mode: RIGHT_CLICK
         damage: 11.0
         cooldown: 8.0
-        mana: 8.0
+        mana: 8.8
         delay: 1.0
         length: 0.45
     disable-enchanting: true
@@ -185,17 +185,17 @@ KA1_001_06:
     material: IRON_SWORD
     name: <#00AEE6>Bokken <#6B6666>[<#d2b109>Lvl.6<#6B6666>]
     displayed-type: Katana
-    attack-damage: 10.59
-    critical-strike-chance: 13.59
-    critical-strike-power: 62.59
+    attack-damage: 12.3
+    critical-strike-chance: 17.91
+    critical-strike-power: 62.8
     lore:
     - ' &7&o"Passed down through generations of samurai'
     - ' &7&owarriors."'
     abilities_lore:
     - ' &6Slash &7(&eRight Click&7)'
-    - ' &7Charge 1s then dash forward for &e0.5s&7 and'
+    - ' &7Charge &e1s&7 then dash forward for &e0.5s&7 and'
     - ' &7deal &e11.75&7 damage to enemies passed through.'
-    - ' &7Cooldown : &e8.0s&7, Mana Cost : &e8.0'
+    - ' &7Cooldown : &e8.0s&7, Mana Cost : &e9.0'
     attack-speed: 1.6
     tier: common
     ability:
@@ -204,7 +204,7 @@ KA1_001_06:
         mode: RIGHT_CLICK
         damage: 11.75
         cooldown: 8.0
-        mana: 8.0
+        mana: 9.0
         delay: 1.0
         length: 0.5
     disable-enchanting: true
@@ -221,17 +221,17 @@ KA1_001_07:
     material: IRON_SWORD
     name: <#00AEE6>Bokken <#6B6666>[<#cc8409>Lvl.7<#6B6666>]
     displayed-type: Katana
-    attack-damage: 11.11
-    critical-strike-chance: 14.11
-    critical-strike-power: 63.11
+    attack-damage: 12.89
+    critical-strike-chance: 18.55
+    critical-strike-power: 63.39
     lore:
     - ' &7&o"Passed down through generations of samurai'
     - ' &7&owarriors."'
     abilities_lore:
     - ' &6Slash &7(&eRight Click&7)'
-    - ' &7Charge 1s then dash forward for &e0.55s&7 and'
+    - ' &7Charge &e1s&7 then dash forward for &e0.55s&7 and'
     - ' &7deal &e12.5&7 damage to enemies passed through.'
-    - ' &7Cooldown : &e8.0s&7, Mana Cost : &e8.0'
+    - ' &7Cooldown : &e8.0s&7, Mana Cost : &e9.2'
     attack-speed: 1.6
     tier: common
     ability:
@@ -240,7 +240,7 @@ KA1_001_07:
         mode: RIGHT_CLICK
         damage: 12.5
         cooldown: 8.0
-        mana: 8.0
+        mana: 9.2
         delay: 1.0
         length: 0.55
     disable-enchanting: true
@@ -257,17 +257,17 @@ KA1_001_08:
     material: IRON_SWORD
     name: <#00AEE6>Bokken <#6B6666>[<#c65809>Lvl.8<#6B6666>]
     displayed-type: Katana
-    attack-damage: 11.64
-    critical-strike-chance: 14.64
-    critical-strike-power: 63.64
+    attack-damage: 13.5
+    critical-strike-chance: 19.2
+    critical-strike-power: 64.0
     lore:
     - ' &7&o"Passed down through generations of samurai'
     - ' &7&owarriors."'
     abilities_lore:
     - ' &6Slash &7(&eRight Click&7)'
-    - ' &7Charge 1s then dash forward for &e0.6s&7 and'
+    - ' &7Charge &e1s&7 then dash forward for &e0.6s&7 and'
     - ' &7deal &e13.25&7 damage to enemies passed through.'
-    - ' &7Cooldown : &e8.0s&7, Mana Cost : &e8.0'
+    - ' &7Cooldown : &e8.0s&7, Mana Cost : &e9.4'
     attack-speed: 1.6
     tier: common
     ability:
@@ -276,7 +276,7 @@ KA1_001_08:
         mode: RIGHT_CLICK
         damage: 13.25
         cooldown: 8.0
-        mana: 8.0
+        mana: 9.4
         delay: 1.0
         length: 0.6
     disable-enchanting: true
@@ -293,17 +293,17 @@ KA1_001_09:
     material: IRON_SWORD
     name: <#00AEE6>Bokken <#6B6666>[<#c02f09>Lvl.9<#6B6666>]
     displayed-type: Katana
-    attack-damage: 12.16
-    critical-strike-chance: 15.16
-    critical-strike-power: 64.16
+    attack-damage: 14.12
+    critical-strike-chance: 19.87
+    critical-strike-power: 64.62
     lore:
     - ' &7&o"Passed down through generations of samurai'
     - ' &7&owarriors."'
     abilities_lore:
     - ' &6Slash &7(&eRight Click&7)'
-    - ' &7Charge 1s then dash forward for &e0.65s&7 and'
+    - ' &7Charge &e1s&7 then dash forward for &e0.65s&7 and'
     - ' &7deal &e14.0&7 damage to enemies passed through.'
-    - ' &7Cooldown : &e8.0s&7, Mana Cost : &e8.0'
+    - ' &7Cooldown : &e8.0s&7, Mana Cost : &e9.6'
     attack-speed: 1.6
     tier: common
     ability:
@@ -312,7 +312,7 @@ KA1_001_09:
         mode: RIGHT_CLICK
         damage: 14.0
         cooldown: 8.0
-        mana: 8.0
+        mana: 9.6
         delay: 1.0
         length: 0.65
     disable-enchanting: true
@@ -329,17 +329,17 @@ KA1_001_10:
     material: IRON_SWORD
     name: <#00AEE6>Bokken <#6B6666>[<#ba0909>Lvl.10<#6B6666>]
     displayed-type: Katana
-    attack-damage: 12.68
-    critical-strike-chance: 15.68
-    critical-strike-power: 64.68
+    attack-damage: 14.75
+    critical-strike-chance: 20.55
+    critical-strike-power: 65.25
     lore:
     - ' &7&o"Passed down through generations of samurai'
     - ' &7&owarriors."'
     abilities_lore:
     - ' &6Slash &7(&eRight Click&7)'
-    - ' &7Charge 1s then dash forward for &e0.65s&7 and'
+    - ' &7Charge &e1s&7 then dash forward for &e0.65s&7 and'
     - ' &7deal &e14.0&7 damage to enemies passed through.'
-    - ' &7Cooldown : &e8.0s&7, Mana Cost : &e8.0'
+    - ' &7Cooldown : &e8.0s&7, Mana Cost : &e9.6'
     attack-speed: 1.6
     tier: common
     ability:
@@ -348,7 +348,7 @@ KA1_001_10:
         mode: RIGHT_CLICK
         damage: 14.0
         cooldown: 8.0
-        mana: 8.0
+        mana: 9.6
         delay: 1.0
         length: 0.65
     disable-enchanting: true
@@ -365,17 +365,17 @@ KA1_001_11:
     material: IRON_SWORD
     name: <#00AEE6>Bokken <#6B6666>[<#c0091f>Lvl.11<#6B6666>]
     displayed-type: Katana
-    attack-damage: 13.21
-    critical-strike-chance: 16.21
-    critical-strike-power: 65.21
+    attack-damage: 15.39
+    critical-strike-chance: 21.25
+    critical-strike-power: 65.89
     lore:
     - ' &7&o"Passed down through generations of samurai'
     - ' &7&owarriors."'
     abilities_lore:
     - ' &6Slash &7(&eRight Click&7)'
-    - ' &7Charge 1s then dash forward for &e0.65s&7 and'
+    - ' &7Charge &e1s&7 then dash forward for &e0.65s&7 and'
     - ' &7deal &e14.0&7 damage to enemies passed through.'
-    - ' &7Cooldown : &e8.0s&7, Mana Cost : &e8.0'
+    - ' &7Cooldown : &e8.0s&7, Mana Cost : &e9.6'
     attack-speed: 1.6
     tier: common
     ability:
@@ -384,7 +384,7 @@ KA1_001_11:
         mode: RIGHT_CLICK
         damage: 14.0
         cooldown: 8.0
-        mana: 8.0
+        mana: 9.6
         delay: 1.0
         length: 0.65
     disable-enchanting: true
@@ -401,17 +401,17 @@ KA1_001_12:
     material: IRON_SWORD
     name: <#00AEE6>Bokken <#6B6666>[<#c60936>Lvl.12<#6B6666>]
     displayed-type: Katana
-    attack-damage: 13.73
-    critical-strike-chance: 16.73
-    critical-strike-power: 65.73
+    attack-damage: 16.04
+    critical-strike-chance: 21.96
+    critical-strike-power: 66.54
     lore:
     - ' &7&o"Passed down through generations of samurai'
     - ' &7&owarriors."'
     abilities_lore:
     - ' &6Slash &7(&eRight Click&7)'
-    - ' &7Charge 1s then dash forward for &e0.65s&7 and'
+    - ' &7Charge &e1s&7 then dash forward for &e0.65s&7 and'
     - ' &7deal &e14.0&7 damage to enemies passed through.'
-    - ' &7Cooldown : &e8.0s&7, Mana Cost : &e8.0'
+    - ' &7Cooldown : &e8.0s&7, Mana Cost : &e9.6'
     attack-speed: 1.6
     tier: common
     ability:
@@ -420,7 +420,7 @@ KA1_001_12:
         mode: RIGHT_CLICK
         damage: 14.0
         cooldown: 8.0
-        mana: 8.0
+        mana: 9.6
         delay: 1.0
         length: 0.65
     disable-enchanting: true
@@ -437,17 +437,17 @@ KA1_001_13:
     material: IRON_SWORD
     name: <#00AEE6>Bokken <#6B6666>[<#cd094f>Lvl.13<#6B6666>]
     displayed-type: Katana
-    attack-damage: 14.26
-    critical-strike-chance: 17.26
-    critical-strike-power: 66.26
+    attack-damage: 16.7
+    critical-strike-chance: 22.69
+    critical-strike-power: 67.2
     lore:
     - ' &7&o"Passed down through generations of samurai'
     - ' &7&owarriors."'
     abilities_lore:
     - ' &6Slash &7(&eRight Click&7)'
-    - ' &7Charge 1s then dash forward for &e0.65s&7 and'
+    - ' &7Charge &e1s&7 then dash forward for &e0.65s&7 and'
     - ' &7deal &e14.0&7 damage to enemies passed through.'
-    - ' &7Cooldown : &e8.0s&7, Mana Cost : &e8.0'
+    - ' &7Cooldown : &e8.0s&7, Mana Cost : &e9.6'
     attack-speed: 1.6
     tier: common
     ability:
@@ -456,7 +456,7 @@ KA1_001_13:
         mode: RIGHT_CLICK
         damage: 14.0
         cooldown: 8.0
-        mana: 8.0
+        mana: 9.6
         delay: 1.0
         length: 0.65
     disable-enchanting: true
@@ -473,17 +473,17 @@ KA1_001_14:
     material: IRON_SWORD
     name: <#00AEE6>Bokken <#6B6666>[<#d3096a>Lvl.14<#6B6666>]
     displayed-type: Katana
-    attack-damage: 14.78
-    critical-strike-chance: 17.78
-    critical-strike-power: 66.78
+    attack-damage: 17.38
+    critical-strike-chance: 23.43
+    critical-strike-power: 67.88
     lore:
     - ' &7&o"Passed down through generations of samurai'
     - ' &7&owarriors."'
     abilities_lore:
     - ' &6Slash &7(&eRight Click&7)'
-    - ' &7Charge 1s then dash forward for &e0.65s&7 and'
+    - ' &7Charge &e1s&7 then dash forward for &e0.65s&7 and'
     - ' &7deal &e14.0&7 damage to enemies passed through.'
-    - ' &7Cooldown : &e8.0s&7, Mana Cost : &e8.0'
+    - ' &7Cooldown : &e8.0s&7, Mana Cost : &e9.6'
     attack-speed: 1.6
     tier: common
     ability:
@@ -492,7 +492,7 @@ KA1_001_14:
         mode: RIGHT_CLICK
         damage: 14.0
         cooldown: 8.0
-        mana: 8.0
+        mana: 9.6
         delay: 1.0
         length: 0.65
     disable-enchanting: true
@@ -509,17 +509,17 @@ KA1_001_15:
     material: IRON_SWORD
     name: <#00AEE6>Bokken <#6B6666>[<#d90986>Lvl.15<#6B6666>]
     displayed-type: Katana
-    attack-damage: 15.31
-    critical-strike-chance: 18.31
-    critical-strike-power: 67.31
+    attack-damage: 18.06
+    critical-strike-chance: 24.19
+    critical-strike-power: 68.56
     lore:
     - ' &7&o"Passed down through generations of samurai'
     - ' &7&owarriors."'
     abilities_lore:
     - ' &6Slash &7(&eRight Click&7)'
-    - ' &7Charge 1s then dash forward for &e0.65s&7 and'
+    - ' &7Charge &e1s&7 then dash forward for &e0.65s&7 and'
     - ' &7deal &e14.0&7 damage to enemies passed through.'
-    - ' &7Cooldown : &e8.0s&7, Mana Cost : &e8.0'
+    - ' &7Cooldown : &e8.0s&7, Mana Cost : &e9.6'
     attack-speed: 1.6
     tier: common
     ability:
@@ -528,7 +528,7 @@ KA1_001_15:
         mode: RIGHT_CLICK
         damage: 14.0
         cooldown: 8.0
-        mana: 8.0
+        mana: 9.6
         delay: 1.0
         length: 0.65
     disable-enchanting: true

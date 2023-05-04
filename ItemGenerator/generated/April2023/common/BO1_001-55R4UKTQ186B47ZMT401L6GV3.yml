@@ -1,5 +1,5 @@
-# Template: BO1_001_XXX. Digest: 4e7ed61d2bb1a5b1b7e418c43231dd2d. Base36: 4NAO2LMV9SLUA2O56UP34IRSD
-# Generated at 03/05/2023 15:16:25. Digest: 139550ff5fc87177f82e865b87829195. Base36: 15QJVUEJ6HDC0Q9R7JBFL1UHH.
+# Template: BO1_001_XXX. Digest: 139550ff5fc87177f82e865b87829195. Base36: 15QJVUEJ6HDC0Q9R7JBFL1UHH
+# Generated at 04/05/2023 17:16:17. Digest: 5727d980eea03c2cfba1a576bd9773df. Base36: 55R4UKTQ186B47ZMT401L6GV3.
 BO1_001_01:
   base:
     material: BOW
@@ -40,7 +40,7 @@ BO1_001_02:
     name: <#8C3B05>Hunting Bow <#6B6666>[<#52eb08>Lvl.2<#6B6666>]
     displayed-type: Bow
     tier: common
-    attack-damage: 12.52
+    attack-damage: 12.53
     attack-speed: 1
     movement-speed: 0.035
     disable-enchanting: true
@@ -74,9 +74,9 @@ BO1_001_03:
     name: <#8C3B05>Hunting Bow <#6B6666>[<#7ee508>Lvl.3<#6B6666>]
     displayed-type: Bow
     tier: common
-    attack-damage: 13.03
+    attack-damage: 13.08
     attack-speed: 1
-    movement-speed: 0.04
+    movement-speed: 0.041
     disable-enchanting: true
     disable-smithing: true
     disable-smelting: true
@@ -108,9 +108,9 @@ BO1_001_04:
     name: <#8C3B05>Hunting Bow <#6B6666>[<#a8de09>Lvl.4<#6B6666>]
     displayed-type: Bow
     tier: common
-    attack-damage: 13.55
+    attack-damage: 13.64
     attack-speed: 1
-    movement-speed: 0.045
+    movement-speed: 0.046
     disable-enchanting: true
     disable-smithing: true
     disable-smelting: true
@@ -142,9 +142,9 @@ BO1_001_05:
     name: <#8C3B05>Hunting Bow <#6B6666>[<#cfd809>Lvl.5<#6B6666>]
     displayed-type: Bow
     tier: common
-    attack-damage: 14.07
+    attack-damage: 14.21
     attack-speed: 1
-    movement-speed: 0.051
+    movement-speed: 0.052
     disable-enchanting: true
     disable-smithing: true
     disable-smelting: true
@@ -176,9 +176,9 @@ BO1_001_06:
     name: <#8C3B05>Hunting Bow <#6B6666>[<#d2b109>Lvl.6<#6B6666>]
     displayed-type: Bow
     tier: common
-    attack-damage: 14.59
+    attack-damage: 14.8
     attack-speed: 1
-    movement-speed: 0.056
+    movement-speed: 0.058
     disable-enchanting: true
     disable-smithing: true
     disable-smelting: true
@@ -210,9 +210,9 @@ BO1_001_07:
     name: <#8C3B05>Hunting Bow <#6B6666>[<#cc8409>Lvl.7<#6B6666>]
     displayed-type: Bow
     tier: common
-    attack-damage: 15.11
+    attack-damage: 15.39
     attack-speed: 1
-    movement-speed: 0.061
+    movement-speed: 0.064
     disable-enchanting: true
     disable-smithing: true
     disable-smelting: true
@@ -244,9 +244,9 @@ BO1_001_08:
     name: <#8C3B05>Hunting Bow <#6B6666>[<#c65809>Lvl.8<#6B6666>]
     displayed-type: Bow
     tier: common
-    attack-damage: 15.64
+    attack-damage: 16.0
     attack-speed: 1
-    movement-speed: 0.066
+    movement-speed: 0.07
     disable-enchanting: true
     disable-smithing: true
     disable-smelting: true
@@ -278,9 +278,9 @@ BO1_001_09:
     name: <#8C3B05>Hunting Bow <#6B6666>[<#c02f09>Lvl.9<#6B6666>]
     displayed-type: Bow
     tier: common
-    attack-damage: 16.16
+    attack-damage: 16.62
     attack-speed: 1
-    movement-speed: 0.072
+    movement-speed: 0.076
     disable-enchanting: true
     disable-smithing: true
     disable-smelting: true
@@ -312,9 +312,9 @@ BO1_001_10:
     name: <#8C3B05>Hunting Bow <#6B6666>[<#ba0909>Lvl.10<#6B6666>]
     displayed-type: Bow
     tier: common
-    attack-damage: 16.68
+    attack-damage: 17.25
     attack-speed: 1
-    movement-speed: 0.077
+    movement-speed: 0.083
     disable-enchanting: true
     disable-smithing: true
     disable-smelting: true
@@ -346,9 +346,9 @@ BO1_001_11:
     name: <#8C3B05>Hunting Bow <#6B6666>[<#c0091f>Lvl.11<#6B6666>]
     displayed-type: Bow
     tier: common
-    attack-damage: 17.21
+    attack-damage: 17.89
     attack-speed: 1
-    movement-speed: 0.082
+    movement-speed: 0.089
     disable-enchanting: true
     disable-smithing: true
     disable-smelting: true
@@ -380,9 +380,9 @@ BO1_001_12:
     name: <#8C3B05>Hunting Bow <#6B6666>[<#c60936>Lvl.12<#6B6666>]
     displayed-type: Bow
     tier: common
-    attack-damage: 17.73
+    attack-damage: 18.54
     attack-speed: 1
-    movement-speed: 0.087
+    movement-speed: 0.095
     disable-enchanting: true
     disable-smithing: true
     disable-smelting: true
@@ -414,9 +414,9 @@ BO1_001_13:
     name: <#8C3B05>Hunting Bow <#6B6666>[<#cd094f>Lvl.13<#6B6666>]
     displayed-type: Bow
     tier: common
-    attack-damage: 18.26
+    attack-damage: 19.2
     attack-speed: 1
-    movement-speed: 0.093
+    movement-speed: 0.102
     disable-enchanting: true
     disable-smithing: true
     disable-smelting: true
@@ -448,9 +448,9 @@ BO1_001_14:
     name: <#8C3B05>Hunting Bow <#6B6666>[<#d3096a>Lvl.14<#6B6666>]
     displayed-type: Bow
     tier: common
-    attack-damage: 18.78
+    attack-damage: 19.88
     attack-speed: 1
-    movement-speed: 0.098
+    movement-speed: 0.109
     disable-enchanting: true
     disable-smithing: true
     disable-smelting: true
@@ -482,9 +482,9 @@ BO1_001_15:
     name: <#8C3B05>Hunting Bow <#6B6666>[<#d90986>Lvl.15<#6B6666>]
     displayed-type: Bow
     tier: common
-    attack-damage: 19.31
+    attack-damage: 20.56
     attack-speed: 1
-    movement-speed: 0.103
+    movement-speed: 0.116
     disable-enchanting: true
     disable-smithing: true
     disable-smelting: true

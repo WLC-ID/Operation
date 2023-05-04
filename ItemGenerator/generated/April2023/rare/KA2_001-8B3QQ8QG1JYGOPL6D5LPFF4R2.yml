@@ -1,12 +1,12 @@
-# Template: KA2_001_XXX. Digest: 2548ffa29102a75741108f594c30c363. Base36: 27GR3WZDFZSX453D4DX45RQEB
-# Generated at 03/05/2023 15:16:26. Digest: 800e655044e7bd3d439b2354a36e824c. Base36: 7KXAA893Q83YKYLIOO48DDZKC.
+# Template: KA2_001_XXX. Digest: 800e655044e7bd3d439b2354a36e824c. Base36: 7KXAA893Q83YKYLIOO48DDZKC
+# Generated at 04/05/2023 17:16:17. Digest: 8c56ef3dbfe449664080e2d0ca5dc8ce. Base36: 8B3QQ8QG1JYGOPL6D5LPFF4R2.
 KA2_001_01:
   base:
     material: IRON_SWORD
     name: <#D4AF37>Itomaki Tachi <#6B6666>[<#ba0909>Lvl.10<#6B6666>]
     displayed-type: Katana
-    attack-damage: 12.56
-    critical-strike-chance: 15.66
+    attack-damage: 14.06
+    critical-strike-chance: 19.66
     critical-strike-power: 64.56
     movement-speed: 0.127
     lore:
@@ -14,9 +14,9 @@ KA2_001_01:
     - ' &7&oprecision and skill."'
     abilities_lore:
     - ' &6Slash &7(&eRight Click&7)'
-    - ' &7Charge 1s then dash forward for &e0.75s&7 and'
+    - ' &7Charge &e1s&7 then dash forward for &e0.75s&7 and'
     - ' &7deal &e14.0&7 damage to enemies passed through.'
-    - ' &7Cooldown : &e8.0s&7, Mana Cost : &e8.0'
+    - ' &7Cooldown : &e8.0s&7, Mana Cost : &e9.6'
     attack-speed: 1.6
     tier: rare
     ability:
@@ -25,7 +25,7 @@ KA2_001_01:
         mode: RIGHT_CLICK
         damage: 14.0
         cooldown: 8.0
-        mana: 8.0
+        mana: 9.6
         delay: 1.0
         length: 0.75
     disable-enchanting: true
@@ -42,18 +42,18 @@ KA2_001_02:
     material: IRON_SWORD
     name: <#D4AF37>Itomaki Tachi <#6B6666>[<#c0091f>Lvl.11<#6B6666>]
     displayed-type: Katana
-    attack-damage: 13.09
-    critical-strike-chance: 16.2
-    critical-strike-power: 65.09
+    attack-damage: 14.61
+    critical-strike-chance: 20.22
+    critical-strike-power: 65.11
     movement-speed: 0.132
     lore:
     - ' &7&o"Elegant deadly blade crafted with utmost'
     - ' &7&oprecision and skill."'
     abilities_lore:
     - ' &6Slash &7(&eRight Click&7)'
-    - ' &7Charge 1s then dash forward for &e0.75s&7 and'
+    - ' &7Charge &e1s&7 then dash forward for &e0.75s&7 and'
     - ' &7deal &e15.5&7 damage to enemies passed through.'
-    - ' &7Cooldown : &e8.0s&7, Mana Cost : &e8.0'
+    - ' &7Cooldown : &e7.75s&7, Mana Cost : &e9.8'
     attack-speed: 1.6
     tier: rare
     ability:
@@ -61,8 +61,8 @@ KA2_001_02:
         type: LIGHT_DASH
         mode: RIGHT_CLICK
         damage: 15.5
-        cooldown: 8.0
-        mana: 8.0
+        cooldown: 7.75
+        mana: 9.8
         delay: 1.0
         length: 0.75
     disable-enchanting: true
@@ -79,18 +79,18 @@ KA2_001_03:
     material: IRON_SWORD
     name: <#D4AF37>Itomaki Tachi <#6B6666>[<#c60936>Lvl.12<#6B6666>]
     displayed-type: Katana
-    attack-damage: 13.62
-    critical-strike-chance: 16.74
-    critical-strike-power: 65.62
-    movement-speed: 0.137
+    attack-damage: 15.17
+    critical-strike-chance: 20.8
+    critical-strike-power: 65.67
+    movement-speed: 0.138
     lore:
     - ' &7&o"Elegant deadly blade crafted with utmost'
     - ' &7&oprecision and skill."'
     abilities_lore:
     - ' &6Slash &7(&eRight Click&7)'
-    - ' &7Charge 1s then dash forward for &e0.75s&7 and'
+    - ' &7Charge &e1s&7 then dash forward for &e0.75s&7 and'
     - ' &7deal &e17.0&7 damage to enemies passed through.'
-    - ' &7Cooldown : &e8.0s&7, Mana Cost : &e8.0'
+    - ' &7Cooldown : &e7.5s&7, Mana Cost : &e10.0'
     attack-speed: 1.6
     tier: rare
     ability:
@@ -98,8 +98,8 @@ KA2_001_03:
         type: LIGHT_DASH
         mode: RIGHT_CLICK
         damage: 17.0
-        cooldown: 8.0
-        mana: 8.0
+        cooldown: 7.5
+        mana: 10.0
         delay: 1.0
         length: 0.75
     disable-enchanting: true
@@ -116,18 +116,18 @@ KA2_001_04:
     material: IRON_SWORD
     name: <#D4AF37>Itomaki Tachi <#6B6666>[<#cd094f>Lvl.13<#6B6666>]
     displayed-type: Katana
-    attack-damage: 14.15
-    critical-strike-chance: 17.29
-    critical-strike-power: 66.15
-    movement-speed: 0.143
+    attack-damage: 15.75
+    critical-strike-chance: 21.42
+    critical-strike-power: 66.25
+    movement-speed: 0.144
     lore:
     - ' &7&o"Elegant deadly blade crafted with utmost'
     - ' &7&oprecision and skill."'
     abilities_lore:
     - ' &6Slash &7(&eRight Click&7)'
-    - ' &7Charge 1s then dash forward for &e0.75s&7 and'
+    - ' &7Charge &e1s&7 then dash forward for &e0.75s&7 and'
     - ' &7deal &e18.5&7 damage to enemies passed through.'
-    - ' &7Cooldown : &e8.0s&7, Mana Cost : &e8.0'
+    - ' &7Cooldown : &e7.25s&7, Mana Cost : &e10.2'
     attack-speed: 1.6
     tier: rare
     ability:
@@ -135,8 +135,8 @@ KA2_001_04:
         type: LIGHT_DASH
         mode: RIGHT_CLICK
         damage: 18.5
-        cooldown: 8.0
-        mana: 8.0
+        cooldown: 7.25
+        mana: 10.2
         delay: 1.0
         length: 0.75
     disable-enchanting: true
@@ -153,18 +153,18 @@ KA2_001_05:
     material: IRON_SWORD
     name: <#D4AF37>Itomaki Tachi <#6B6666>[<#d3096a>Lvl.14<#6B6666>]
     displayed-type: Katana
-    attack-damage: 14.69
-    critical-strike-chance: 17.84
-    critical-strike-power: 66.69
-    movement-speed: 0.148
+    attack-damage: 16.35
+    critical-strike-chance: 22.06
+    critical-strike-power: 66.85
+    movement-speed: 0.15
     lore:
     - ' &7&o"Elegant deadly blade crafted with utmost'
     - ' &7&oprecision and skill."'
     abilities_lore:
     - ' &6Slash &7(&eRight Click&7)'
-    - ' &7Charge 1s then dash forward for &e0.75s&7 and'
+    - ' &7Charge &e1s&7 then dash forward for &e0.75s&7 and'
     - ' &7deal &e20.0&7 damage to enemies passed through.'
-    - ' &7Cooldown : &e8.0s&7, Mana Cost : &e8.0'
+    - ' &7Cooldown : &e7.0s&7, Mana Cost : &e10.4'
     attack-speed: 1.6
     tier: rare
     ability:
@@ -172,8 +172,8 @@ KA2_001_05:
         type: LIGHT_DASH
         mode: RIGHT_CLICK
         damage: 20.0
-        cooldown: 8.0
-        mana: 8.0
+        cooldown: 7.0
+        mana: 10.4
         delay: 1.0
         length: 0.75
     disable-enchanting: true
@@ -190,18 +190,18 @@ KA2_001_06:
     material: IRON_SWORD
     name: <#D4AF37>Itomaki Tachi <#6B6666>[<#d90986>Lvl.15<#6B6666>]
     displayed-type: Katana
-    attack-damage: 15.23
-    critical-strike-chance: 18.39
-    critical-strike-power: 67.23
-    movement-speed: 0.154
+    attack-damage: 16.97
+    critical-strike-chance: 22.73
+    critical-strike-power: 67.47
+    movement-speed: 0.157
     lore:
     - ' &7&o"Elegant deadly blade crafted with utmost'
     - ' &7&oprecision and skill."'
     abilities_lore:
     - ' &6Slash &7(&eRight Click&7)'
-    - ' &7Charge 1s then dash forward for &e0.75s&7 and'
+    - ' &7Charge &e1s&7 then dash forward for &e0.75s&7 and'
     - ' &7deal &e21.5&7 damage to enemies passed through.'
-    - ' &7Cooldown : &e8.0s&7, Mana Cost : &e8.0'
+    - ' &7Cooldown : &e6.75s&7, Mana Cost : &e10.6'
     attack-speed: 1.6
     tier: rare
     ability:
@@ -209,8 +209,8 @@ KA2_001_06:
         type: LIGHT_DASH
         mode: RIGHT_CLICK
         damage: 21.5
-        cooldown: 8.0
-        mana: 8.0
+        cooldown: 6.75
+        mana: 10.6
         delay: 1.0
         length: 0.75
     disable-enchanting: true
@@ -227,18 +227,18 @@ KA2_001_07:
     material: IRON_SWORD
     name: <#D4AF37>Itomaki Tachi <#6B6666>[<#e009a3>Lvl.16<#6B6666>]
     displayed-type: Katana
-    attack-damage: 15.76
-    critical-strike-chance: 18.95
-    critical-strike-power: 67.76
-    movement-speed: 0.16
+    attack-damage: 17.6
+    critical-strike-chance: 23.43
+    critical-strike-power: 68.1
+    movement-speed: 0.164
     lore:
     - ' &7&o"Elegant deadly blade crafted with utmost'
     - ' &7&oprecision and skill."'
     abilities_lore:
     - ' &6Slash &7(&eRight Click&7)'
-    - ' &7Charge 1s then dash forward for &e0.75s&7 and'
+    - ' &7Charge &e1s&7 then dash forward for &e0.75s&7 and'
     - ' &7deal &e23.0&7 damage to enemies passed through.'
-    - ' &7Cooldown : &e8.0s&7, Mana Cost : &e8.0'
+    - ' &7Cooldown : &e6.5s&7, Mana Cost : &e10.8'
     attack-speed: 1.6
     tier: rare
     ability:
@@ -246,8 +246,8 @@ KA2_001_07:
         type: LIGHT_DASH
         mode: RIGHT_CLICK
         damage: 23.0
-        cooldown: 8.0
-        mana: 8.0
+        cooldown: 6.5
+        mana: 10.8
         delay: 1.0
         length: 0.75
     disable-enchanting: true
@@ -264,18 +264,18 @@ KA2_001_08:
     material: IRON_SWORD
     name: <#D4AF37>Itomaki Tachi <#6B6666>[<#e609c2>Lvl.17<#6B6666>]
     displayed-type: Katana
-    attack-damage: 16.3
-    critical-strike-chance: 19.51
-    critical-strike-power: 68.3
-    movement-speed: 0.165
+    attack-damage: 18.25
+    critical-strike-chance: 24.15
+    critical-strike-power: 68.75
+    movement-speed: 0.171
     lore:
     - ' &7&o"Elegant deadly blade crafted with utmost'
     - ' &7&oprecision and skill."'
     abilities_lore:
     - ' &6Slash &7(&eRight Click&7)'
-    - ' &7Charge 1s then dash forward for &e0.75s&7 and'
+    - ' &7Charge &e1s&7 then dash forward for &e0.75s&7 and'
     - ' &7deal &e24.5&7 damage to enemies passed through.'
-    - ' &7Cooldown : &e8.0s&7, Mana Cost : &e8.0'
+    - ' &7Cooldown : &e6.25s&7, Mana Cost : &e11.0'
     attack-speed: 1.6
     tier: rare
     ability:
@@ -283,8 +283,8 @@ KA2_001_08:
         type: LIGHT_DASH
         mode: RIGHT_CLICK
         damage: 24.5
-        cooldown: 8.0
-        mana: 8.0
+        cooldown: 6.25
+        mana: 11.0
         delay: 1.0
         length: 0.75
     disable-enchanting: true
@@ -301,18 +301,18 @@ KA2_001_09:
     material: IRON_SWORD
     name: <#D4AF37>Itomaki Tachi <#6B6666>[<#ec08e3>Lvl.18<#6B6666>]
     displayed-type: Katana
-    attack-damage: 16.84
-    critical-strike-chance: 20.07
-    critical-strike-power: 68.84
-    movement-speed: 0.171
+    attack-damage: 18.92
+    critical-strike-chance: 24.91
+    critical-strike-power: 69.42
+    movement-speed: 0.178
     lore:
     - ' &7&o"Elegant deadly blade crafted with utmost'
     - ' &7&oprecision and skill."'
     abilities_lore:
     - ' &6Slash &7(&eRight Click&7)'
-    - ' &7Charge 1s then dash forward for &e0.75s&7 and'
+    - ' &7Charge &e1s&7 then dash forward for &e0.75s&7 and'
     - ' &7deal &e26.0&7 damage to enemies passed through.'
-    - ' &7Cooldown : &e8.0s&7, Mana Cost : &e8.0'
+    - ' &7Cooldown : &e6.0s&7, Mana Cost : &e11.2'
     attack-speed: 1.6
     tier: rare
     ability:
@@ -320,8 +320,8 @@ KA2_001_09:
         type: LIGHT_DASH
         mode: RIGHT_CLICK
         damage: 26.0
-        cooldown: 8.0
-        mana: 8.0
+        cooldown: 6.0
+        mana: 11.2
         delay: 1.0
         length: 0.75
     disable-enchanting: true
@@ -338,18 +338,18 @@ KA2_001_10:
     material: IRON_SWORD
     name: <#D4AF37>Itomaki Tachi <#6B6666>[<#e008f3>Lvl.19<#6B6666>]
     displayed-type: Katana
-    attack-damage: 17.39
-    critical-strike-chance: 20.64
-    critical-strike-power: 69.39
-    movement-speed: 0.176
+    attack-damage: 19.6
+    critical-strike-chance: 25.69
+    critical-strike-power: 70.1
+    movement-speed: 0.185
     lore:
     - ' &7&o"Elegant deadly blade crafted with utmost'
     - ' &7&oprecision and skill."'
     abilities_lore:
     - ' &6Slash &7(&eRight Click&7)'
-    - ' &7Charge 1s then dash forward for &e0.75s&7 and'
+    - ' &7Charge &e1s&7 then dash forward for &e0.75s&7 and'
     - ' &7deal &e26.0&7 damage to enemies passed through.'
-    - ' &7Cooldown : &e8.0s&7, Mana Cost : &e8.0'
+    - ' &7Cooldown : &e6.0s&7, Mana Cost : &e11.2'
     attack-speed: 1.6
     tier: rare
     ability:
@@ -357,8 +357,8 @@ KA2_001_10:
         type: LIGHT_DASH
         mode: RIGHT_CLICK
         damage: 26.0
-        cooldown: 8.0
-        mana: 8.0
+        cooldown: 6.0
+        mana: 11.2
         delay: 1.0
         length: 0.75
     disable-enchanting: true
@@ -375,18 +375,18 @@ KA2_001_11:
     material: IRON_SWORD
     name: <#D4AF37>Itomaki Tachi <#6B6666>[<#c80af7>Lvl.20<#6B6666>]
     displayed-type: Katana
-    attack-damage: 17.93
-    critical-strike-chance: 21.2
-    critical-strike-power: 69.93
-    movement-speed: 0.182
+    attack-damage: 20.3
+    critical-strike-chance: 26.5
+    critical-strike-power: 70.8
+    movement-speed: 0.193
     lore:
     - ' &7&o"Elegant deadly blade crafted with utmost'
     - ' &7&oprecision and skill."'
     abilities_lore:
     - ' &6Slash &7(&eRight Click&7)'
-    - ' &7Charge 1s then dash forward for &e0.75s&7 and'
+    - ' &7Charge &e1s&7 then dash forward for &e0.75s&7 and'
     - ' &7deal &e26.0&7 damage to enemies passed through.'
-    - ' &7Cooldown : &e8.0s&7, Mana Cost : &e8.0'
+    - ' &7Cooldown : &e6.0s&7, Mana Cost : &e11.2'
     attack-speed: 1.6
     tier: rare
     ability:
@@ -394,8 +394,8 @@ KA2_001_11:
         type: LIGHT_DASH
         mode: RIGHT_CLICK
         damage: 26.0
-        cooldown: 8.0
-        mana: 8.0
+        cooldown: 6.0
+        mana: 11.2
         delay: 1.0
         length: 0.75
     disable-enchanting: true

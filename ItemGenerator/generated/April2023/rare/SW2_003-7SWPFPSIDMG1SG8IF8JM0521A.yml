@@ -1,12 +1,12 @@
-# Template: SW2_003_XXX. Digest: 716a5fc6fddd1642eb0483b6cfd4f608. Base36: 6PPYH4X5VX2MLC8URSPWJKZYG
-# Generated at 03/05/2023 15:16:26. Digest: 5c3a1ce95bfbd0cdbc2712ca3f2499b7. Base36: 5GK8N7DC6WTS2CLJ2X8KTGKON.
+# Template: SW2_003_XXX. Digest: 5c3a1ce95bfbd0cdbc2712ca3f2499b7. Base36: 5GK8N7DC6WTS2CLJ2X8KTGKON
+# Generated at 04/05/2023 17:16:17. Digest: 83cd629f9b30eb021ee8591f4d44e18e. Base36: 7SWPFPSIDMG1SG8IF8JM0521A.
 SW2_003_01:
   base:
     material: STONE_SWORD
     name: <#FF4500>Starblazed Fury <#6B6666>[<#ba0909>Lvl.10<#6B6666>]
     displayed-type: Sword
-    attack-damage: 14.47
-    fire-damage-reduction: 14.56
+    attack-damage: 14.56
+    fire-damage-reduction: 15.56
     movement-speed: 0.077
     lore:
     - ' &7&o"Engulfed in flames that can melt even'
@@ -45,9 +45,9 @@ SW2_003_02:
     material: STONE_SWORD
     name: <#FF4500>Starblazed Fury <#6B6666>[<#c0091f>Lvl.11<#6B6666>]
     displayed-type: Sword
-    attack-damage: 14.99
-    fire-damage-reduction: 15.09
-    movement-speed: 0.083
+    attack-damage: 15.11
+    fire-damage-reduction: 16.11
+    movement-speed: 0.082
     lore:
     - ' &7&o"Engulfed in flames that can melt even'
     - ' &7&othe hardest of metals and strike fear into'
@@ -85,9 +85,9 @@ SW2_003_03:
     material: STONE_SWORD
     name: <#FF4500>Starblazed Fury <#6B6666>[<#c60936>Lvl.12<#6B6666>]
     displayed-type: Sword
-    attack-damage: 15.51
-    fire-damage-reduction: 15.62
-    movement-speed: 0.089
+    attack-damage: 15.67
+    fire-damage-reduction: 16.68
+    movement-speed: 0.088
     lore:
     - ' &7&o"Engulfed in flames that can melt even'
     - ' &7&othe hardest of metals and strike fear into'
@@ -125,8 +125,8 @@ SW2_003_04:
     material: STONE_SWORD
     name: <#FF4500>Starblazed Fury <#6B6666>[<#cd094f>Lvl.13<#6B6666>]
     displayed-type: Sword
-    attack-damage: 16.02
-    fire-damage-reduction: 16.15
+    attack-damage: 16.25
+    fire-damage-reduction: 17.26
     movement-speed: 0.094
     lore:
     - ' &7&o"Engulfed in flames that can melt even'
@@ -165,8 +165,8 @@ SW2_003_05:
     material: STONE_SWORD
     name: <#FF4500>Starblazed Fury <#6B6666>[<#d3096a>Lvl.14<#6B6666>]
     displayed-type: Sword
-    attack-damage: 16.54
-    fire-damage-reduction: 16.69
+    attack-damage: 16.85
+    fire-damage-reduction: 17.87
     movement-speed: 0.1
     lore:
     - ' &7&o"Engulfed in flames that can melt even'
@@ -205,9 +205,9 @@ SW2_003_06:
     material: STONE_SWORD
     name: <#FF4500>Starblazed Fury <#6B6666>[<#d90986>Lvl.15<#6B6666>]
     displayed-type: Sword
-    attack-damage: 17.06
-    fire-damage-reduction: 17.23
-    movement-speed: 0.106
+    attack-damage: 17.47
+    fire-damage-reduction: 18.5
+    movement-speed: 0.107
     lore:
     - ' &7&o"Engulfed in flames that can melt even'
     - ' &7&othe hardest of metals and strike fear into'
@@ -245,9 +245,9 @@ SW2_003_07:
     material: STONE_SWORD
     name: <#FF4500>Starblazed Fury <#6B6666>[<#e009a3>Lvl.16<#6B6666>]
     displayed-type: Sword
-    attack-damage: 17.59
-    fire-damage-reduction: 17.76
-    movement-speed: 0.112
+    attack-damage: 18.1
+    fire-damage-reduction: 19.16
+    movement-speed: 0.114
     lore:
     - ' &7&o"Engulfed in flames that can melt even'
     - ' &7&othe hardest of metals and strike fear into'
@@ -285,9 +285,9 @@ SW2_003_08:
     material: STONE_SWORD
     name: <#FF4500>Starblazed Fury <#6B6666>[<#e609c2>Lvl.17<#6B6666>]
     displayed-type: Sword
-    attack-damage: 18.11
-    fire-damage-reduction: 18.3
-    movement-speed: 0.117
+    attack-damage: 18.75
+    fire-damage-reduction: 19.83
+    movement-speed: 0.121
     lore:
     - ' &7&o"Engulfed in flames that can melt even'
     - ' &7&othe hardest of metals and strike fear into'
@@ -325,9 +325,9 @@ SW2_003_09:
     material: STONE_SWORD
     name: <#FF4500>Starblazed Fury <#6B6666>[<#ec08e3>Lvl.18<#6B6666>]
     displayed-type: Sword
-    attack-damage: 18.63
-    fire-damage-reduction: 18.84
-    movement-speed: 0.123
+    attack-damage: 19.42
+    fire-damage-reduction: 20.52
+    movement-speed: 0.128
     lore:
     - ' &7&o"Engulfed in flames that can melt even'
     - ' &7&othe hardest of metals and strike fear into'
@@ -365,9 +365,9 @@ SW2_003_10:
     material: STONE_SWORD
     name: <#FF4500>Starblazed Fury <#6B6666>[<#e008f3>Lvl.19<#6B6666>]
     displayed-type: Sword
-    attack-damage: 19.15
-    fire-damage-reduction: 19.39
-    movement-speed: 0.129
+    attack-damage: 20.1
+    fire-damage-reduction: 21.22
+    movement-speed: 0.135
     lore:
     - ' &7&o"Engulfed in flames that can melt even'
     - ' &7&othe hardest of metals and strike fear into'
@@ -405,9 +405,9 @@ SW2_003_11:
     material: STONE_SWORD
     name: <#FF4500>Starblazed Fury <#6B6666>[<#c80af7>Lvl.20<#6B6666>]
     displayed-type: Sword
-    attack-damage: 19.68
-    fire-damage-reduction: 19.93
-    movement-speed: 0.135
+    attack-damage: 20.8
+    fire-damage-reduction: 21.95
+    movement-speed: 0.143
     lore:
     - ' &7&o"Engulfed in flames that can melt even'
     - ' &7&othe hardest of metals and strike fear into'

@@ -1,5 +1,5 @@
-# Template: SW1_001_XXX. Digest: 2927a9f75ff2977f3d56e42a3a50907b. Base36: 2FPO160FEM85VCAM7E7VH4BJV
-# Generated at 03/05/2023 15:16:25. Digest: 27371b17c7c7c21fef53abb6ec62e0e7. Base36: 2BKUCJZ52YRSQRUGDSWI1GGKN.
+# Template: SW1_001_XXX. Digest: 27371b17c7c7c21fef53abb6ec62e0e7. Base36: 2BKUCJZ52YRSQRUGDSWI1GGKN
+# Generated at 04/05/2023 17:16:17. Digest: 0b4535e7c95108316b9b7aede7227cf0. Base36: O0QDWVWTZHEGEUTJX27EUNLC.
 SW1_001_01:
   base:
     material: STONE_SWORD
@@ -14,7 +14,7 @@ SW1_001_01:
     - ' &7Increase the next damage dealt by &e75%'
     - ' &7Cooldown : &e10.0s&7, Mana Cost : &e6.0'
     attack-speed: 1.6
-    defense: 7.5
+    defense: 8.0
     tier: common
     ability:
       ability1:
@@ -38,7 +38,7 @@ SW1_001_02:
     material: STONE_SWORD
     name: <#817474>Relic Sword <#6B6666>[<#52eb08>Lvl.2<#6B6666>]
     displayed-type: Sword
-    attack-damage: 10.52
+    attack-damage: 10.53
     lore:
     - ' &7&o"A sword that once belonged to a hero,'
     - ' &7&othe glory fading, now naught but rust."'
@@ -47,7 +47,7 @@ SW1_001_02:
     - ' &7Increase the next damage dealt by &e78%'
     - ' &7Cooldown : &e9.6s&7, Mana Cost : &e6.2'
     attack-speed: 1.6
-    defense: 8.02
+    defense: 8.53
     tier: common
     ability:
       ability1:
@@ -71,7 +71,7 @@ SW1_001_03:
     material: STONE_SWORD
     name: <#817474>Relic Sword <#6B6666>[<#7ee508>Lvl.3<#6B6666>]
     displayed-type: Sword
-    attack-damage: 11.03
+    attack-damage: 11.08
     lore:
     - ' &7&o"A sword that once belonged to a hero,'
     - ' &7&othe glory fading, now naught but rust."'
@@ -80,7 +80,7 @@ SW1_001_03:
     - ' &7Increase the next damage dealt by &e81%'
     - ' &7Cooldown : &e9.2s&7, Mana Cost : &e6.4'
     attack-speed: 1.6
-    defense: 8.53
+    defense: 9.08
     tier: common
     ability:
       ability1:
@@ -104,7 +104,7 @@ SW1_001_04:
     material: STONE_SWORD
     name: <#817474>Relic Sword <#6B6666>[<#a8de09>Lvl.4<#6B6666>]
     displayed-type: Sword
-    attack-damage: 11.55
+    attack-damage: 11.64
     lore:
     - ' &7&o"A sword that once belonged to a hero,'
     - ' &7&othe glory fading, now naught but rust."'
@@ -113,7 +113,7 @@ SW1_001_04:
     - ' &7Increase the next damage dealt by &e84%'
     - ' &7Cooldown : &e8.8s&7, Mana Cost : &e6.6'
     attack-speed: 1.6
-    defense: 9.05
+    defense: 9.64
     tier: common
     ability:
       ability1:
@@ -137,7 +137,7 @@ SW1_001_05:
     material: STONE_SWORD
     name: <#817474>Relic Sword <#6B6666>[<#cfd809>Lvl.5<#6B6666>]
     displayed-type: Sword
-    attack-damage: 12.07
+    attack-damage: 12.21
     lore:
     - ' &7&o"A sword that once belonged to a hero,'
     - ' &7&othe glory fading, now naught but rust."'
@@ -146,7 +146,7 @@ SW1_001_05:
     - ' &7Increase the next damage dealt by &e87%'
     - ' &7Cooldown : &e8.4s&7, Mana Cost : &e6.8'
     attack-speed: 1.6
-    defense: 9.57
+    defense: 10.21
     tier: common
     ability:
       ability1:
@@ -170,7 +170,7 @@ SW1_001_06:
     material: STONE_SWORD
     name: <#817474>Relic Sword <#6B6666>[<#d2b109>Lvl.6<#6B6666>]
     displayed-type: Sword
-    attack-damage: 12.59
+    attack-damage: 12.8
     lore:
     - ' &7&o"A sword that once belonged to a hero,'
     - ' &7&othe glory fading, now naught but rust."'
@@ -179,7 +179,7 @@ SW1_001_06:
     - ' &7Increase the next damage dealt by &e90%'
     - ' &7Cooldown : &e8.0s&7, Mana Cost : &e7.0'
     attack-speed: 1.6
-    defense: 10.09
+    defense: 10.8
     tier: common
     ability:
       ability1:
@@ -203,7 +203,7 @@ SW1_001_07:
     material: STONE_SWORD
     name: <#817474>Relic Sword <#6B6666>[<#cc8409>Lvl.7<#6B6666>]
     displayed-type: Sword
-    attack-damage: 13.11
+    attack-damage: 13.39
     lore:
     - ' &7&o"A sword that once belonged to a hero,'
     - ' &7&othe glory fading, now naught but rust."'
@@ -212,7 +212,7 @@ SW1_001_07:
     - ' &7Increase the next damage dealt by &e93%'
     - ' &7Cooldown : &e7.6s&7, Mana Cost : &e7.2'
     attack-speed: 1.6
-    defense: 10.61
+    defense: 11.39
     tier: common
     ability:
       ability1:
@@ -236,7 +236,7 @@ SW1_001_08:
     material: STONE_SWORD
     name: <#817474>Relic Sword <#6B6666>[<#c65809>Lvl.8<#6B6666>]
     displayed-type: Sword
-    attack-damage: 13.64
+    attack-damage: 14.0
     lore:
     - ' &7&o"A sword that once belonged to a hero,'
     - ' &7&othe glory fading, now naught but rust."'
@@ -245,7 +245,7 @@ SW1_001_08:
     - ' &7Increase the next damage dealt by &e96%'
     - ' &7Cooldown : &e7.2s&7, Mana Cost : &e7.4'
     attack-speed: 1.6
-    defense: 11.14
+    defense: 12.0
     tier: common
     ability:
       ability1:
@@ -269,7 +269,7 @@ SW1_001_09:
     material: STONE_SWORD
     name: <#817474>Relic Sword <#6B6666>[<#c02f09>Lvl.9<#6B6666>]
     displayed-type: Sword
-    attack-damage: 14.16
+    attack-damage: 14.62
     lore:
     - ' &7&o"A sword that once belonged to a hero,'
     - ' &7&othe glory fading, now naught but rust."'
@@ -278,7 +278,7 @@ SW1_001_09:
     - ' &7Increase the next damage dealt by &e99%'
     - ' &7Cooldown : &e6.8s&7, Mana Cost : &e7.6'
     attack-speed: 1.6
-    defense: 11.66
+    defense: 12.62
     tier: common
     ability:
       ability1:
@@ -302,7 +302,7 @@ SW1_001_10:
     material: STONE_SWORD
     name: <#817474>Relic Sword <#6B6666>[<#ba0909>Lvl.10<#6B6666>]
     displayed-type: Sword
-    attack-damage: 14.68
+    attack-damage: 15.25
     lore:
     - ' &7&o"A sword that once belonged to a hero,'
     - ' &7&othe glory fading, now naught but rust."'
@@ -311,7 +311,7 @@ SW1_001_10:
     - ' &7Increase the next damage dealt by &e99%'
     - ' &7Cooldown : &e6.8s&7, Mana Cost : &e7.6'
     attack-speed: 1.6
-    defense: 12.18
+    defense: 13.25
     tier: common
     ability:
       ability1:
@@ -335,7 +335,7 @@ SW1_001_11:
     material: STONE_SWORD
     name: <#817474>Relic Sword <#6B6666>[<#c0091f>Lvl.11<#6B6666>]
     displayed-type: Sword
-    attack-damage: 15.21
+    attack-damage: 15.89
     lore:
     - ' &7&o"A sword that once belonged to a hero,'
     - ' &7&othe glory fading, now naught but rust."'
@@ -344,7 +344,7 @@ SW1_001_11:
     - ' &7Increase the next damage dealt by &e99%'
     - ' &7Cooldown : &e6.8s&7, Mana Cost : &e7.6'
     attack-speed: 1.6
-    defense: 12.71
+    defense: 13.89
     tier: common
     ability:
       ability1:
@@ -368,7 +368,7 @@ SW1_001_12:
     material: STONE_SWORD
     name: <#817474>Relic Sword <#6B6666>[<#c60936>Lvl.12<#6B6666>]
     displayed-type: Sword
-    attack-damage: 15.73
+    attack-damage: 16.54
     lore:
     - ' &7&o"A sword that once belonged to a hero,'
     - ' &7&othe glory fading, now naught but rust."'
@@ -377,7 +377,7 @@ SW1_001_12:
     - ' &7Increase the next damage dealt by &e99%'
     - ' &7Cooldown : &e6.8s&7, Mana Cost : &e7.6'
     attack-speed: 1.6
-    defense: 13.23
+    defense: 14.54
     tier: common
     ability:
       ability1:
@@ -401,7 +401,7 @@ SW1_001_13:
     material: STONE_SWORD
     name: <#817474>Relic Sword <#6B6666>[<#cd094f>Lvl.13<#6B6666>]
     displayed-type: Sword
-    attack-damage: 16.26
+    attack-damage: 17.2
     lore:
     - ' &7&o"A sword that once belonged to a hero,'
     - ' &7&othe glory fading, now naught but rust."'
@@ -410,7 +410,7 @@ SW1_001_13:
     - ' &7Increase the next damage dealt by &e99%'
     - ' &7Cooldown : &e6.8s&7, Mana Cost : &e7.6'
     attack-speed: 1.6
-    defense: 13.76
+    defense: 15.2
     tier: common
     ability:
       ability1:
@@ -434,7 +434,7 @@ SW1_001_14:
     material: STONE_SWORD
     name: <#817474>Relic Sword <#6B6666>[<#d3096a>Lvl.14<#6B6666>]
     displayed-type: Sword
-    attack-damage: 16.78
+    attack-damage: 17.88
     lore:
     - ' &7&o"A sword that once belonged to a hero,'
     - ' &7&othe glory fading, now naught but rust."'
@@ -443,7 +443,7 @@ SW1_001_14:
     - ' &7Increase the next damage dealt by &e99%'
     - ' &7Cooldown : &e6.8s&7, Mana Cost : &e7.6'
     attack-speed: 1.6
-    defense: 14.28
+    defense: 15.88
     tier: common
     ability:
       ability1:
@@ -467,7 +467,7 @@ SW1_001_15:
     material: STONE_SWORD
     name: <#817474>Relic Sword <#6B6666>[<#d90986>Lvl.15<#6B6666>]
     displayed-type: Sword
-    attack-damage: 17.31
+    attack-damage: 18.56
     lore:
     - ' &7&o"A sword that once belonged to a hero,'
     - ' &7&othe glory fading, now naught but rust."'
@@ -476,7 +476,7 @@ SW1_001_15:
     - ' &7Increase the next damage dealt by &e99%'
     - ' &7Cooldown : &e6.8s&7, Mana Cost : &e7.6'
     attack-speed: 1.6
-    defense: 14.81
+    defense: 16.56
     tier: common
     ability:
       ability1:

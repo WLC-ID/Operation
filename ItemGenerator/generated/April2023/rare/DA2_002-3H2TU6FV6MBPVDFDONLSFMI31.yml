@@ -1,5 +1,5 @@
-# Template: DA2_002_XXX. Digest: 9684c3786bfb041eb486adbf36f56f24. Base36: 8WSQOSPOCNQZ1UJLGIGTLO36S
-# Generated at 03/05/2023 15:16:26. Digest: 57921ebd04a10d3ca37c25b2bdde1189. Base36: 56MZGWC42EDE3KCMY1BM08HAH.
+# Template: DA2_002_XXX. Digest: 57921ebd04a10d3ca37c25b2bdde1189. Base36: 56MZGWC42EDE3KCMY1BM08HAH
+# Generated at 04/05/2023 17:16:18. Digest: 3aafd6f7d63c4f4991f073a3fe3a740d. Base36: 3H2TU6FV6MBPVDFDONLSFMI31.
 DA2_002_01:
   base:
     material: STONE_SWORD
@@ -9,8 +9,8 @@ DA2_002_01:
     lore:
     - ' &7&o"As quick and deadly as a serpent''s strike."'
     attack-speed: 2.3
-    parry-rating: 10.1
-    parry-cooldown-reduction: 8.56
+    parry-rating: 14.56
+    parry-cooldown-reduction: 12.56
     ability:
       ability1:
         type: FURY_SWIPES
@@ -44,8 +44,8 @@ DA2_002_02:
     lore:
     - ' &7&o"As quick and deadly as a serpent''s strike."'
     attack-speed: 2.35
-    parry-rating: 10.69
-    parry-cooldown-reduction: 9.09
+    parry-rating: 15.11
+    parry-cooldown-reduction: 13.11
     ability:
       ability1:
         type: FURY_SWIPES
@@ -75,12 +75,12 @@ DA2_002_03:
     material: STONE_SWORD
     name: <#228B22>Serpentine <#6B6666>[<#c60936>Lvl.12<#6B6666>]
     displayed-type: Dagger
-    attack-damage: 6.06
+    attack-damage: 6.07
     lore:
     - ' &7&o"As quick and deadly as a serpent''s strike."'
     attack-speed: 2.4
-    parry-rating: 11.29
-    parry-cooldown-reduction: 9.62
+    parry-rating: 15.67
+    parry-cooldown-reduction: 13.67
     ability:
       ability1:
         type: FURY_SWIPES
@@ -114,8 +114,8 @@ DA2_002_04:
     lore:
     - ' &7&o"As quick and deadly as a serpent''s strike."'
     attack-speed: 2.45
-    parry-rating: 11.91
-    parry-cooldown-reduction: 10.15
+    parry-rating: 16.25
+    parry-cooldown-reduction: 14.25
     ability:
       ability1:
         type: FURY_SWIPES
@@ -145,12 +145,12 @@ DA2_002_05:
     material: STONE_SWORD
     name: <#228B22>Serpentine <#6B6666>[<#d3096a>Lvl.14<#6B6666>]
     displayed-type: Dagger
-    attack-damage: 6.17
+    attack-damage: 6.19
     lore:
     - ' &7&o"As quick and deadly as a serpent''s strike."'
     attack-speed: 2.5
-    parry-rating: 12.54
-    parry-cooldown-reduction: 10.69
+    parry-rating: 16.85
+    parry-cooldown-reduction: 14.85
     ability:
       ability1:
         type: FURY_SWIPES
@@ -180,12 +180,12 @@ DA2_002_06:
     material: STONE_SWORD
     name: <#228B22>Serpentine <#6B6666>[<#d90986>Lvl.15<#6B6666>]
     displayed-type: Dagger
-    attack-damage: 6.22
+    attack-damage: 6.25
     lore:
     - ' &7&o"As quick and deadly as a serpent''s strike."'
     attack-speed: 2.55
-    parry-rating: 13.18
-    parry-cooldown-reduction: 11.23
+    parry-rating: 17.47
+    parry-cooldown-reduction: 15.47
     ability:
       ability1:
         type: FURY_SWIPES
@@ -215,12 +215,12 @@ DA2_002_07:
     material: STONE_SWORD
     name: <#228B22>Serpentine <#6B6666>[<#e009a3>Lvl.16<#6B6666>]
     displayed-type: Dagger
-    attack-damage: 6.28
+    attack-damage: 6.31
     lore:
     - ' &7&o"As quick and deadly as a serpent''s strike."'
     attack-speed: 2.6
-    parry-rating: 13.83
-    parry-cooldown-reduction: 11.76
+    parry-rating: 18.1
+    parry-cooldown-reduction: 16.1
     ability:
       ability1:
         type: FURY_SWIPES
@@ -250,12 +250,12 @@ DA2_002_08:
     material: STONE_SWORD
     name: <#228B22>Serpentine <#6B6666>[<#e609c2>Lvl.17<#6B6666>]
     displayed-type: Dagger
-    attack-damage: 6.33
+    attack-damage: 6.38
     lore:
     - ' &7&o"As quick and deadly as a serpent''s strike."'
     attack-speed: 2.65
-    parry-rating: 14.48
-    parry-cooldown-reduction: 12.3
+    parry-rating: 18.75
+    parry-cooldown-reduction: 16.75
     ability:
       ability1:
         type: FURY_SWIPES
@@ -285,12 +285,12 @@ DA2_002_09:
     material: STONE_SWORD
     name: <#228B22>Serpentine <#6B6666>[<#ec08e3>Lvl.18<#6B6666>]
     displayed-type: Dagger
-    attack-damage: 6.38
+    attack-damage: 6.44
     lore:
     - ' &7&o"As quick and deadly as a serpent''s strike."'
     attack-speed: 2.7
-    parry-rating: 15.15
-    parry-cooldown-reduction: 12.84
+    parry-rating: 19.42
+    parry-cooldown-reduction: 17.42
     ability:
       ability1:
         type: FURY_SWIPES
@@ -320,12 +320,12 @@ DA2_002_10:
     material: STONE_SWORD
     name: <#228B22>Serpentine <#6B6666>[<#e008f3>Lvl.19<#6B6666>]
     displayed-type: Dagger
-    attack-damage: 6.44
+    attack-damage: 6.51
     lore:
     - ' &7&o"As quick and deadly as a serpent''s strike."'
     attack-speed: 2.7
-    parry-rating: 15.83
-    parry-cooldown-reduction: 13.39
+    parry-rating: 20.1
+    parry-cooldown-reduction: 18.1
     ability:
       ability1:
         type: FURY_SWIPES
@@ -355,12 +355,12 @@ DA2_002_11:
     material: STONE_SWORD
     name: <#228B22>Serpentine <#6B6666>[<#c80af7>Lvl.20<#6B6666>]
     displayed-type: Dagger
-    attack-damage: 6.49
+    attack-damage: 6.58
     lore:
     - ' &7&o"As quick and deadly as a serpent''s strike."'
     attack-speed: 2.7
-    parry-rating: 16.51
-    parry-cooldown-reduction: 13.93
+    parry-rating: 20.8
+    parry-cooldown-reduction: 18.8
     ability:
       ability1:
         type: FURY_SWIPES

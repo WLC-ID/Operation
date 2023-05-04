@@ -1,6 +1,6 @@
 directory,function
 attack-damage,"pi(x,10,1,1)"
-fire-damage-reduction,"pi(x,10,1,1)"
+fire-damage-reduction,"pi(x,11,1,1)"
 ability@1.cooldown,"(200-((min(x,9)-1)*10))/100"
 ability@1.damage-percent,"(20+((min(x,9)-1)*10))"
 name,"f""<#E6AC17>Blazed Sword <#6B6666>[{color(x)}Lvl.{x}<#6B6666>]"""

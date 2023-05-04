@@ -1,10 +1,8 @@
 directory,function
 attack-damage,"pio(x,14,11.5,2,2)"
-critical-strike-chance,"pio(x,14,6.5,2,2)"
-critical-strike-power,"pio(x,14,77.5,3,3)"
-movement-speed,"-round((pio(x,14,7.5,15,15)/100),3)"
-pve-damage,"round(-66+pio(x,14,5,5,5),2)"
-pvp-damage,"pio(x,14,15,4,4)"
+movement-speed,"-round((pio(x,14,7.5,10,10)/100),4)"
+pve-damage,"round(-70+pio(x,14,10,4,4),2)"
+pvp-damage,"pio(x,14,10,5,5)"
 ability@1.pvp-percent,"80+((min(x,9)-1)*20)"
 ability@1.pve-percent,"(80+((min(x,9)-1)*20))/2"
 name,"f""<#FF8C00>Warbringer Axe <#6B6666>[{color(x+14)}Lvl.{x+14}<#6B6666>]"""

@@ -1,6 +1,6 @@
 directory,function
 attack-damage,"pi(x,9.5,1,1)"
-range,"11.5+(x/2)"
+range,"12+((min(x,9)-1)/2)"
 ability@1.cooldown,"(1000-((min(x,9)-1)*30))/100"
 ability@1.ratio,"(20+((min(x,9)-1)*5))"
 ability@1.duration,"2.5+((min(x,9)-1)/4)"

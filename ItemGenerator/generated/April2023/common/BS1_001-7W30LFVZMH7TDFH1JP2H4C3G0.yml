@@ -1,5 +1,5 @@
-# Template: BS1_001_XXX. Digest: 643245867e4ce5a5d61b27f587cea568. Base36: 5XJP82HLWXDECS3A2E0JUPFMW
-# Generated at 03/05/2023 15:16:25. Digest: c2dba34e5c20ecf04855c3081206b835. Base36: BJAQJRPJJ53R87EQA6G00JZ1X.
+# Template: BS1_001_XXX. Digest: c2dba34e5c20ecf04855c3081206b835. Base36: BJAQJRPJJ53R87EQA6G00JZ1X
+# Generated at 04/05/2023 17:16:17. Digest: 854ac8c8c00c9d9a871db0a9fcad6470. Base36: 7W30LFVZMH7TDFH1JP2H4C3G0.
 BS1_001_01:
   base:
     material: STONE_SWORD
@@ -40,13 +40,13 @@ BS1_001_02:
     material: STONE_SWORD
     name: <#2B6B97>Broken Broadsword <#6B6666>[<#52eb08>Lvl.2<#6B6666>]
     displayed-type: Broadsword
-    attack-damage: 12.02
+    attack-damage: 12.03
     lore:
     - ' &7&o"The glory of combat has long gone'
     - ' &7&oit has yet to reach its true potential."'
     attack-speed: 1.2
-    critical-strike-chance: 7.52
-    critical-strike-power: 85.52
+    critical-strike-chance: 7.53
+    critical-strike-power: 85.53
     movement-speed: -0.055
     ability:
       ability1:
@@ -75,14 +75,14 @@ BS1_001_03:
     material: STONE_SWORD
     name: <#2B6B97>Broken Broadsword <#6B6666>[<#7ee508>Lvl.3<#6B6666>]
     displayed-type: Broadsword
-    attack-damage: 12.53
+    attack-damage: 12.58
     lore:
     - ' &7&o"The glory of combat has long gone'
     - ' &7&oit has yet to reach its true potential."'
     attack-speed: 1.2
-    critical-strike-chance: 8.03
-    critical-strike-power: 86.03
-    movement-speed: -0.06
+    critical-strike-chance: 8.08
+    critical-strike-power: 86.08
+    movement-speed: -0.061
     ability:
       ability1:
         type: CIRCULAR_SLASH
@@ -110,13 +110,13 @@ BS1_001_04:
     material: STONE_SWORD
     name: <#2B6B97>Broken Broadsword <#6B6666>[<#a8de09>Lvl.4<#6B6666>]
     displayed-type: Broadsword
-    attack-damage: 13.05
+    attack-damage: 13.14
     lore:
     - ' &7&o"The glory of combat has long gone'
     - ' &7&oit has yet to reach its true potential."'
     attack-speed: 1.2
-    critical-strike-chance: 8.55
-    critical-strike-power: 86.55
+    critical-strike-chance: 8.64
+    critical-strike-power: 86.64
     movement-speed: -0.066
     ability:
       ability1:
@@ -145,14 +145,14 @@ BS1_001_05:
     material: STONE_SWORD
     name: <#2B6B97>Broken Broadsword <#6B6666>[<#cfd809>Lvl.5<#6B6666>]
     displayed-type: Broadsword
-    attack-damage: 13.57
+    attack-damage: 13.71
     lore:
     - ' &7&o"The glory of combat has long gone'
     - ' &7&oit has yet to reach its true potential."'
     attack-speed: 1.2
-    critical-strike-chance: 9.07
-    critical-strike-power: 87.07
-    movement-speed: -0.071
+    critical-strike-chance: 9.21
+    critical-strike-power: 87.21
+    movement-speed: -0.072
     ability:
       ability1:
         type: CIRCULAR_SLASH
@@ -180,14 +180,14 @@ BS1_001_06:
     material: STONE_SWORD
     name: <#2B6B97>Broken Broadsword <#6B6666>[<#d2b109>Lvl.6<#6B6666>]
     displayed-type: Broadsword
-    attack-damage: 14.09
+    attack-damage: 14.3
     lore:
     - ' &7&o"The glory of combat has long gone'
     - ' &7&oit has yet to reach its true potential."'
     attack-speed: 1.2
-    critical-strike-chance: 9.59
-    critical-strike-power: 87.59
-    movement-speed: -0.076
+    critical-strike-chance: 9.8
+    critical-strike-power: 87.8
+    movement-speed: -0.078
     ability:
       ability1:
         type: CIRCULAR_SLASH
@@ -215,14 +215,14 @@ BS1_001_07:
     material: STONE_SWORD
     name: <#2B6B97>Broken Broadsword <#6B6666>[<#cc8409>Lvl.7<#6B6666>]
     displayed-type: Broadsword
-    attack-damage: 14.61
+    attack-damage: 14.89
     lore:
     - ' &7&o"The glory of combat has long gone'
     - ' &7&oit has yet to reach its true potential."'
     attack-speed: 1.2
-    critical-strike-chance: 10.11
-    critical-strike-power: 88.11
-    movement-speed: -0.081
+    critical-strike-chance: 10.39
+    critical-strike-power: 88.39
+    movement-speed: -0.084
     ability:
       ability1:
         type: CIRCULAR_SLASH
@@ -250,14 +250,14 @@ BS1_001_08:
     material: STONE_SWORD
     name: <#2B6B97>Broken Broadsword <#6B6666>[<#c65809>Lvl.8<#6B6666>]
     displayed-type: Broadsword
-    attack-damage: 15.14
+    attack-damage: 15.5
     lore:
     - ' &7&o"The glory of combat has long gone'
     - ' &7&oit has yet to reach its true potential."'
     attack-speed: 1.2
-    critical-strike-chance: 10.64
-    critical-strike-power: 88.64
-    movement-speed: -0.086
+    critical-strike-chance: 11.0
+    critical-strike-power: 89.0
+    movement-speed: -0.09
     ability:
       ability1:
         type: CIRCULAR_SLASH
@@ -285,14 +285,14 @@ BS1_001_09:
     material: STONE_SWORD
     name: <#2B6B97>Broken Broadsword <#6B6666>[<#c02f09>Lvl.9<#6B6666>]
     displayed-type: Broadsword
-    attack-damage: 15.66
+    attack-damage: 16.12
     lore:
     - ' &7&o"The glory of combat has long gone'
     - ' &7&oit has yet to reach its true potential."'
     attack-speed: 1.2
-    critical-strike-chance: 11.16
-    critical-strike-power: 89.16
-    movement-speed: -0.092
+    critical-strike-chance: 11.62
+    critical-strike-power: 89.62
+    movement-speed: -0.096
     ability:
       ability1:
         type: CIRCULAR_SLASH
@@ -320,14 +320,14 @@ BS1_001_10:
     material: STONE_SWORD
     name: <#2B6B97>Broken Broadsword <#6B6666>[<#ba0909>Lvl.10<#6B6666>]
     displayed-type: Broadsword
-    attack-damage: 16.18
+    attack-damage: 16.75
     lore:
     - ' &7&o"The glory of combat has long gone'
     - ' &7&oit has yet to reach its true potential."'
     attack-speed: 1.2
-    critical-strike-chance: 11.68
-    critical-strike-power: 89.68
-    movement-speed: -0.097
+    critical-strike-chance: 12.25
+    critical-strike-power: 90.25
+    movement-speed: -0.102
     ability:
       ability1:
         type: CIRCULAR_SLASH
@@ -355,14 +355,14 @@ BS1_001_11:
     material: STONE_SWORD
     name: <#2B6B97>Broken Broadsword <#6B6666>[<#c0091f>Lvl.11<#6B6666>]
     displayed-type: Broadsword
-    attack-damage: 16.71
+    attack-damage: 17.39
     lore:
     - ' &7&o"The glory of combat has long gone'
     - ' &7&oit has yet to reach its true potential."'
     attack-speed: 1.2
-    critical-strike-chance: 12.21
-    critical-strike-power: 90.21
-    movement-speed: -0.102
+    critical-strike-chance: 12.89
+    critical-strike-power: 90.89
+    movement-speed: -0.109
     ability:
       ability1:
         type: CIRCULAR_SLASH
@@ -390,14 +390,14 @@ BS1_001_12:
     material: STONE_SWORD
     name: <#2B6B97>Broken Broadsword <#6B6666>[<#c60936>Lvl.12<#6B6666>]
     displayed-type: Broadsword
-    attack-damage: 17.23
+    attack-damage: 18.04
     lore:
     - ' &7&o"The glory of combat has long gone'
     - ' &7&oit has yet to reach its true potential."'
     attack-speed: 1.2
-    critical-strike-chance: 12.73
-    critical-strike-power: 90.73
-    movement-speed: -0.107
+    critical-strike-chance: 13.54
+    critical-strike-power: 91.54
+    movement-speed: -0.115
     ability:
       ability1:
         type: CIRCULAR_SLASH
@@ -425,14 +425,14 @@ BS1_001_13:
     material: STONE_SWORD
     name: <#2B6B97>Broken Broadsword <#6B6666>[<#cd094f>Lvl.13<#6B6666>]
     displayed-type: Broadsword
-    attack-damage: 17.76
+    attack-damage: 18.7
     lore:
     - ' &7&o"The glory of combat has long gone'
     - ' &7&oit has yet to reach its true potential."'
     attack-speed: 1.2
-    critical-strike-chance: 13.26
-    critical-strike-power: 91.26
-    movement-speed: -0.113
+    critical-strike-chance: 14.2
+    critical-strike-power: 92.2
+    movement-speed: -0.122
     ability:
       ability1:
         type: CIRCULAR_SLASH
@@ -460,14 +460,14 @@ BS1_001_14:
     material: STONE_SWORD
     name: <#2B6B97>Broken Broadsword <#6B6666>[<#d3096a>Lvl.14<#6B6666>]
     displayed-type: Broadsword
-    attack-damage: 18.28
+    attack-damage: 19.38
     lore:
     - ' &7&o"The glory of combat has long gone'
     - ' &7&oit has yet to reach its true potential."'
     attack-speed: 1.2
-    critical-strike-chance: 13.78
-    critical-strike-power: 91.78
-    movement-speed: -0.118
+    critical-strike-chance: 14.88
+    critical-strike-power: 92.88
+    movement-speed: -0.129
     ability:
       ability1:
         type: CIRCULAR_SLASH
@@ -495,14 +495,14 @@ BS1_001_15:
     material: STONE_SWORD
     name: <#2B6B97>Broken Broadsword <#6B6666>[<#d90986>Lvl.15<#6B6666>]
     displayed-type: Broadsword
-    attack-damage: 18.81
+    attack-damage: 20.06
     lore:
     - ' &7&o"The glory of combat has long gone'
     - ' &7&oit has yet to reach its true potential."'
     attack-speed: 1.2
-    critical-strike-chance: 14.31
-    critical-strike-power: 92.31
-    movement-speed: -0.123
+    critical-strike-chance: 15.56
+    critical-strike-power: 93.56
+    movement-speed: -0.136
     ability:
       ability1:
         type: CIRCULAR_SLASH

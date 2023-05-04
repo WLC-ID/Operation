@@ -1,9 +1,7 @@
 directory,function
-attack-damage,"pio(x,9,11.5,2.5,2.5)"
-critical-strike-chance,"pio(x,9,6.5,3,3)"
-critical-strike-power,"pio(x,9,77.5,2,2)"
-pve-damage,"pio(x,9,15,4,4)"
-pvp-damage,"round(-66+pio(x,9,10,5,5),2)"
+attack-damage,"pio(x,9,11.5,2,2)"
+pve-damage,"pio(x,9,15,5,5)"
+pvp-damage,"round(-70+pio(x,9,10,4,4),2)"
 ability@2.duration,"(220+((min(x,9)-1)*20))/100"
 ability@1.damage-percent,"(76+((min(x,9)-1)*4))"
 ability@1.mana,"(560+((min(x,9)-1)*20))/100"

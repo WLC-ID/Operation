@@ -1,18 +1,18 @@
-# Template: BS2_001_XXX. Digest: 549ea0b0a11b97f4a96c2a0ad9e9a83d. Base36: 50CJZ78OBTB3WHPRVSZSUUFJX
-# Generated at 03/05/2023 15:16:26. Digest: da9e0bc1ea56c2d6ad95e251973e40ad. Base36: CXXPJQXLR6L6PYY97CGCTMXM5.
+# Template: BS2_001_XXX. Digest: da9e0bc1ea56c2d6ad95e251973e40ad. Base36: CXXPJQXLR6L6PYY97CGCTMXM5
+# Generated at 04/05/2023 17:16:17. Digest: 39ddfb9f279d4acd98928f729477ba8b. Base36: 3FBXK3U2N69719M9D1KKDZGCR.
 BS2_001_01:
   base:
     material: STONE_SWORD
     name: <#00FF7F>Exalted Hausmarchen <#6B6666>[<#ba0909>Lvl.10<#6B6666>]
     displayed-type: Broadsword
     tier: rare
-    attack-damage: 16.09
+    attack-damage: 16.06
     attack-speed: 1.3
     critical-strike-chance: 11.52
-    critical-strike-power: 89.75
-    skill-critical-strike-chance: 14.75
-    skill-critical-strike-power: 55.92
-    movement-speed: -0.102
+    critical-strike-power: 89.56
+    skill-critical-strike-chance: 14.56
+    skill-critical-strike-power: 54.56
+    movement-speed: -0.104
     ability:
       ability1:
         type: CIRCULAR_SLASH
@@ -45,13 +45,13 @@ BS2_001_02:
     name: <#00FF7F>Exalted Hausmarchen <#6B6666>[<#c0091f>Lvl.11<#6B6666>]
     displayed-type: Broadsword
     tier: rare
-    attack-damage: 16.62
+    attack-damage: 16.61
     attack-speed: 1.3
-    critical-strike-chance: 12.04
-    critical-strike-power: 90.3
-    skill-critical-strike-chance: 15.3
-    skill-critical-strike-power: 56.6
-    movement-speed: -0.107
+    critical-strike-chance: 12.06
+    critical-strike-power: 90.11
+    skill-critical-strike-chance: 15.11
+    skill-critical-strike-power: 55.11
+    movement-speed: -0.11
     ability:
       ability1:
         type: CIRCULAR_SLASH
@@ -84,13 +84,13 @@ BS2_001_03:
     name: <#00FF7F>Exalted Hausmarchen <#6B6666>[<#c60936>Lvl.12<#6B6666>]
     displayed-type: Broadsword
     tier: rare
-    attack-damage: 17.15
+    attack-damage: 17.17
     attack-speed: 1.3
-    critical-strike-chance: 12.56
-    critical-strike-power: 90.86
-    skill-critical-strike-chance: 15.86
-    skill-critical-strike-power: 57.3
-    movement-speed: -0.114
+    critical-strike-chance: 12.62
+    critical-strike-power: 90.67
+    skill-critical-strike-chance: 15.67
+    skill-critical-strike-power: 55.67
+    movement-speed: -0.118
     ability:
       ability1:
         type: CIRCULAR_SLASH
@@ -123,13 +123,13 @@ BS2_001_04:
     name: <#00FF7F>Exalted Hausmarchen <#6B6666>[<#cd094f>Lvl.13<#6B6666>]
     displayed-type: Broadsword
     tier: rare
-    attack-damage: 17.69
+    attack-damage: 17.75
     attack-speed: 1.3
-    critical-strike-chance: 13.09
-    critical-strike-power: 91.43
-    skill-critical-strike-chance: 16.43
-    skill-critical-strike-power: 58.02
-    movement-speed: -0.12
+    critical-strike-chance: 13.19
+    critical-strike-power: 91.25
+    skill-critical-strike-chance: 16.25
+    skill-critical-strike-power: 56.25
+    movement-speed: -0.127
     ability:
       ability1:
         type: CIRCULAR_SLASH
@@ -162,13 +162,13 @@ BS2_001_05:
     name: <#00FF7F>Exalted Hausmarchen <#6B6666>[<#d3096a>Lvl.14<#6B6666>]
     displayed-type: Broadsword
     tier: rare
-    attack-damage: 18.23
+    attack-damage: 18.35
     attack-speed: 1.3
-    critical-strike-chance: 13.62
-    critical-strike-power: 92.0
-    skill-critical-strike-chance: 17.0
-    skill-critical-strike-power: 58.77
-    movement-speed: -0.127
+    critical-strike-chance: 13.79
+    critical-strike-power: 91.85
+    skill-critical-strike-chance: 16.85
+    skill-critical-strike-power: 56.85
+    movement-speed: -0.137
     ability:
       ability1:
         type: CIRCULAR_SLASH
@@ -201,13 +201,13 @@ BS2_001_06:
     name: <#00FF7F>Exalted Hausmarchen <#6B6666>[<#d90986>Lvl.15<#6B6666>]
     displayed-type: Broadsword
     tier: rare
-    attack-damage: 18.77
+    attack-damage: 18.97
     attack-speed: 1.3
-    critical-strike-chance: 14.14
-    critical-strike-power: 92.57
-    skill-critical-strike-chance: 17.57
-    skill-critical-strike-power: 59.54
-    movement-speed: -0.134
+    critical-strike-chance: 14.4
+    critical-strike-power: 92.47
+    skill-critical-strike-chance: 17.47
+    skill-critical-strike-power: 57.47
+    movement-speed: -0.149
     ability:
       ability1:
         type: CIRCULAR_SLASH
@@ -240,13 +240,13 @@ BS2_001_07:
     name: <#00FF7F>Exalted Hausmarchen <#6B6666>[<#e009a3>Lvl.16<#6B6666>]
     displayed-type: Broadsword
     tier: rare
-    attack-damage: 19.32
+    attack-damage: 19.6
     attack-speed: 1.3
-    critical-strike-chance: 14.67
-    critical-strike-power: 93.15
-    skill-critical-strike-chance: 18.15
-    skill-critical-strike-power: 60.32
-    movement-speed: -0.141
+    critical-strike-chance: 15.03
+    critical-strike-power: 93.1
+    skill-critical-strike-chance: 18.1
+    skill-critical-strike-power: 58.1
+    movement-speed: -0.163
     ability:
       ability1:
         type: CIRCULAR_SLASH
@@ -279,13 +279,13 @@ BS2_001_08:
     name: <#00FF7F>Exalted Hausmarchen <#6B6666>[<#e609c2>Lvl.17<#6B6666>]
     displayed-type: Broadsword
     tier: rare
-    attack-damage: 19.87
+    attack-damage: 20.25
     attack-speed: 1.3
-    critical-strike-chance: 15.2
-    critical-strike-power: 93.73
-    skill-critical-strike-chance: 18.73
-    skill-critical-strike-power: 61.13
-    movement-speed: -0.148
+    critical-strike-chance: 15.68
+    critical-strike-power: 93.75
+    skill-critical-strike-chance: 18.75
+    skill-critical-strike-power: 58.75
+    movement-speed: -0.179
     ability:
       ability1:
         type: CIRCULAR_SLASH
@@ -318,13 +318,13 @@ BS2_001_09:
     name: <#00FF7F>Exalted Hausmarchen <#6B6666>[<#ec08e3>Lvl.18<#6B6666>]
     displayed-type: Broadsword
     tier: rare
-    attack-damage: 20.41
+    attack-damage: 20.92
     attack-speed: 1.3
-    critical-strike-chance: 15.74
-    critical-strike-power: 94.32
-    skill-critical-strike-chance: 19.32
-    skill-critical-strike-power: 61.95
-    movement-speed: -0.156
+    critical-strike-chance: 16.34
+    critical-strike-power: 94.42
+    skill-critical-strike-chance: 19.42
+    skill-critical-strike-power: 59.42
+    movement-speed: -0.198
     ability:
       ability1:
         type: CIRCULAR_SLASH
@@ -357,13 +357,13 @@ BS2_001_10:
     name: <#00FF7F>Exalted Hausmarchen <#6B6666>[<#e008f3>Lvl.19<#6B6666>]
     displayed-type: Broadsword
     tier: rare
-    attack-damage: 20.96
+    attack-damage: 21.6
     attack-speed: 1.3
-    critical-strike-chance: 16.27
-    critical-strike-power: 94.91
-    skill-critical-strike-chance: 19.91
-    skill-critical-strike-power: 62.8
-    movement-speed: -0.163
+    critical-strike-chance: 17.02
+    critical-strike-power: 95.1
+    skill-critical-strike-chance: 20.1
+    skill-critical-strike-power: 60.1
+    movement-speed: -0.219
     ability:
       ability1:
         type: CIRCULAR_SLASH
@@ -396,13 +396,13 @@ BS2_001_11:
     name: <#00FF7F>Exalted Hausmarchen <#6B6666>[<#c80af7>Lvl.20<#6B6666>]
     displayed-type: Broadsword
     tier: rare
-    attack-damage: 21.52
+    attack-damage: 22.3
     attack-speed: 1.3
-    critical-strike-chance: 16.8
-    critical-strike-power: 95.5
-    skill-critical-strike-chance: 20.5
-    skill-critical-strike-power: 63.66
-    movement-speed: -0.171
+    critical-strike-chance: 17.71
+    critical-strike-power: 95.8
+    skill-critical-strike-chance: 20.8
+    skill-critical-strike-power: 60.8
+    movement-speed: -0.243
     ability:
       ability1:
         type: CIRCULAR_SLASH

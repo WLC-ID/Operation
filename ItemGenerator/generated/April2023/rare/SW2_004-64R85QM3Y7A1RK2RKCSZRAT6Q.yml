@@ -1,5 +1,5 @@
-# Template: SW2_004_XXX. Digest: a3b8b10434e607fd183402cc36b81ee5. Base36: 9OXQWBP09RNB8TMZ5T70OZLD1
-# Generated at 03/05/2023 15:16:26. Digest: d60a7373fa22119d86a9c799b8452d7f. Base36: CO6KGJQ8DF874H3DM3E35IXZ3.
+# Template: SW2_004_XXX. Digest: d60a7373fa22119d86a9c799b8452d7f. Base36: CO6KGJQ8DF874H3DM3E35IXZ3
+# Generated at 04/05/2023 17:16:17. Digest: 67943050f9b04188a073ec376e30d942. Base36: 64R85QM3Y7A1RK2RKCSZRAT6Q.
 SW2_004_01:
   base:
     material: STONE_SWORD
@@ -46,8 +46,8 @@ SW2_004_02:
     material: STONE_SWORD
     name: <#FFD700>Light Saber <#6B6666>[<#e009a3>Lvl.16<#6B6666>]
     displayed-type: Sword
-    attack-damage: 17.62
-    knockback-resistance: 0.129
+    attack-damage: 17.64
+    knockback-resistance: 0.13
     attack-speed: 1.52
     lore:
     - ' &7&o"Radiant and deadly, the humming blade of'
@@ -87,8 +87,8 @@ SW2_004_03:
     material: STONE_SWORD
     name: <#FFD700>Light Saber <#6B6666>[<#e609c2>Lvl.17<#6B6666>]
     displayed-type: Sword
-    attack-damage: 18.15
-    knockback-resistance: 0.135
+    attack-damage: 18.2
+    knockback-resistance: 0.136
     attack-speed: 1.55
     lore:
     - ' &7&o"Radiant and deadly, the humming blade of'
@@ -128,8 +128,8 @@ SW2_004_04:
     material: STONE_SWORD
     name: <#FFD700>Light Saber <#6B6666>[<#ec08e3>Lvl.18<#6B6666>]
     displayed-type: Sword
-    attack-damage: 18.68
-    knockback-resistance: 0.141
+    attack-damage: 18.78
+    knockback-resistance: 0.142
     attack-speed: 1.57
     lore:
     - ' &7&o"Radiant and deadly, the humming blade of'
@@ -169,8 +169,8 @@ SW2_004_05:
     material: STONE_SWORD
     name: <#FFD700>Light Saber <#6B6666>[<#e008f3>Lvl.19<#6B6666>]
     displayed-type: Sword
-    attack-damage: 19.22
-    knockback-resistance: 0.146
+    attack-damage: 19.38
+    knockback-resistance: 0.148
     attack-speed: 1.6
     lore:
     - ' &7&o"Radiant and deadly, the humming blade of'
@@ -210,8 +210,8 @@ SW2_004_06:
     material: STONE_SWORD
     name: <#FFD700>Light Saber <#6B6666>[<#c80af7>Lvl.20<#6B6666>]
     displayed-type: Sword
-    attack-damage: 19.76
-    knockback-resistance: 0.152
+    attack-damage: 20.0
+    knockback-resistance: 0.155
     attack-speed: 1.62
     lore:
     - ' &7&o"Radiant and deadly, the humming blade of'
@@ -251,8 +251,8 @@ SW2_004_07:
     material: STONE_SWORD
     name: <#FFD700>Light Saber <#6B6666>[<#b50af7>Lvl.21<#6B6666>]
     displayed-type: Sword
-    attack-damage: 20.29
-    knockback-resistance: 0.158
+    attack-damage: 20.63
+    knockback-resistance: 0.163
     attack-speed: 1.65
     lore:
     - ' &7&o"Radiant and deadly, the humming blade of'
@@ -292,8 +292,8 @@ SW2_004_08:
     material: STONE_SWORD
     name: <#FFD700>Light Saber <#6B6666>[<#a20af7>Lvl.22<#6B6666>]
     displayed-type: Sword
-    attack-damage: 20.83
-    knockback-resistance: 0.164
+    attack-damage: 21.28
+    knockback-resistance: 0.17
     attack-speed: 1.68
     lore:
     - ' &7&o"Radiant and deadly, the humming blade of'
@@ -333,8 +333,8 @@ SW2_004_09:
     material: STONE_SWORD
     name: <#FFD700>Light Saber <#6B6666>[<#8f0af7>Lvl.23<#6B6666>]
     displayed-type: Sword
-    attack-damage: 21.37
-    knockback-resistance: 0.169
+    attack-damage: 21.95
+    knockback-resistance: 0.178
     attack-speed: 1.7
     lore:
     - ' &7&o"Radiant and deadly, the humming blade of'
@@ -374,8 +374,8 @@ SW2_004_10:
     material: STONE_SWORD
     name: <#FFD700>Light Saber <#6B6666>[<#7c0af7>Lvl.24<#6B6666>]
     displayed-type: Sword
-    attack-damage: 21.92
-    knockback-resistance: 0.175
+    attack-damage: 22.63
+    knockback-resistance: 0.187
     attack-speed: 1.7
     lore:
     - ' &7&o"Radiant and deadly, the humming blade of'
@@ -415,8 +415,8 @@ SW2_004_11:
     material: STONE_SWORD
     name: <#FFD700>Light Saber <#6B6666>[<#690af7>Lvl.25<#6B6666>]
     displayed-type: Sword
-    attack-damage: 22.46
-    knockback-resistance: 0.181
+    attack-damage: 23.33
+    knockback-resistance: 0.195
     attack-speed: 1.7
     lore:
     - ' &7&o"Radiant and deadly, the humming blade of'
