@@ -1,29 +1,19 @@
-# Template: MA1_001_XXX. Digest: 7445c9874e26a9406988d3d1dbb71d0f. Base36: 6VT65SC4V2A8VM1J5VG35FV9R
-# Generated at 06/05/2023 12:39:18. Digest: 7445c9874e26a9406988d3d1dbb71d0f. Base36: 6VT65SC4V2A8VM1J5VG35FV9R.
+# Template: MA1_001_XXX. Digest: 55d0585a3e6e22f7686c28e28bcb713c. Base36: 52W6K4ORSKN86U7F6A4O0LIKC
+# Generated at 06/05/2023 14:41:02. Digest: a90740c66811003ebb752da53a3ec76a. Base36: A08XAF76KZNTY5MOIDR487DD6.
 MA1_001_01:
   base:
     material: STONE_HOE
     name: <#7E0C9F>Cursed Book <#6B6666>[<#23f108>Lvl.1<#6B6666>]
-    attack-damage: 9.5
+    attack-damage: 8.0
     lore:
     - ' &7&o"Penned in an unknown method of writing.'
     - ' &7&oIt has countless forbidden knowledge."'
     attack-speed: 1.6
+    element:
+      darkness:
+        damage: 6.0
     range: 12
     tier: COMMON
-    ability:
-      ability1:
-        type: WEAKEN
-        duration: 2.5
-        ratio: 20.0
-        mode: RIGHT_CLICK
-        mana: 8.0
-        cooldown: 10
-    abilities_lore:
-    - ' &6Weaken &7(&eRight Click&7)'
-    - ' &7Weaken target for &e2.5s&7,'
-    - ' &7increasing damage taken by &e20%'
-    - ' &7Cooldown : &e10s&7, Mana Cost : &e8.0'
     custom-model-data: 10001.0
     revision-id: 3
     disable-enchanting: true
@@ -38,26 +28,16 @@ MA1_001_02:
   base:
     material: STONE_HOE
     name: <#7E0C9F>Cursed Book <#6B6666>[<#52eb08>Lvl.2<#6B6666>]
-    attack-damage: 10.03
+    attack-damage: 8.53
     lore:
     - ' &7&o"Penned in an unknown method of writing.'
     - ' &7&oIt has countless forbidden knowledge."'
     attack-speed: 1.6
+    element:
+      darkness:
+        damage: 6.53
     range: 12
     tier: COMMON
-    ability:
-      ability1:
-        type: WEAKEN
-        duration: 2.75
-        ratio: 25.0
-        mode: RIGHT_CLICK
-        mana: 8.0
-        cooldown: 9
-    abilities_lore:
-    - ' &6Weaken &7(&eRight Click&7)'
-    - ' &7Weaken target for &e2.75s&7,'
-    - ' &7increasing damage taken by &e25%'
-    - ' &7Cooldown : &e9s&7, Mana Cost : &e8.0'
     custom-model-data: 10001.0
     revision-id: 3
     disable-enchanting: true
@@ -72,26 +52,16 @@ MA1_001_03:
   base:
     material: STONE_HOE
     name: <#7E0C9F>Cursed Book <#6B6666>[<#7ee508>Lvl.3<#6B6666>]
-    attack-damage: 10.58
+    attack-damage: 9.08
     lore:
     - ' &7&o"Penned in an unknown method of writing.'
     - ' &7&oIt has countless forbidden knowledge."'
     attack-speed: 1.6
+    element:
+      darkness:
+        damage: 7.08
     range: 13
     tier: COMMON
-    ability:
-      ability1:
-        type: WEAKEN
-        duration: 3.0
-        ratio: 30.0
-        mode: RIGHT_CLICK
-        mana: 8.0
-        cooldown: 9
-    abilities_lore:
-    - ' &6Weaken &7(&eRight Click&7)'
-    - ' &7Weaken target for &e3.0s&7,'
-    - ' &7increasing damage taken by &e30%'
-    - ' &7Cooldown : &e9s&7, Mana Cost : &e8.0'
     custom-model-data: 10001.0
     revision-id: 3
     disable-enchanting: true
@@ -106,26 +76,16 @@ MA1_001_04:
   base:
     material: STONE_HOE
     name: <#7E0C9F>Cursed Book <#6B6666>[<#a8de09>Lvl.4<#6B6666>]
-    attack-damage: 11.14
+    attack-damage: 9.64
     lore:
     - ' &7&o"Penned in an unknown method of writing.'
     - ' &7&oIt has countless forbidden knowledge."'
     attack-speed: 1.6
+    element:
+      darkness:
+        damage: 7.64
     range: 13
     tier: COMMON
-    ability:
-      ability1:
-        type: WEAKEN
-        duration: 3.25
-        ratio: 35.0
-        mode: RIGHT_CLICK
-        mana: 8.0
-        cooldown: 9
-    abilities_lore:
-    - ' &6Weaken &7(&eRight Click&7)'
-    - ' &7Weaken target for &e3.25s&7,'
-    - ' &7increasing damage taken by &e35%'
-    - ' &7Cooldown : &e9s&7, Mana Cost : &e8.0'
     custom-model-data: 10001.0
     revision-id: 3
     disable-enchanting: true
@@ -140,26 +100,16 @@ MA1_001_05:
   base:
     material: STONE_HOE
     name: <#7E0C9F>Cursed Book <#6B6666>[<#cfd809>Lvl.5<#6B6666>]
-    attack-damage: 11.71
+    attack-damage: 10.21
     lore:
     - ' &7&o"Penned in an unknown method of writing.'
     - ' &7&oIt has countless forbidden knowledge."'
     attack-speed: 1.6
+    element:
+      darkness:
+        damage: 8.21
     range: 14
     tier: COMMON
-    ability:
-      ability1:
-        type: WEAKEN
-        duration: 3.5
-        ratio: 40.0
-        mode: RIGHT_CLICK
-        mana: 8.0
-        cooldown: 8
-    abilities_lore:
-    - ' &6Weaken &7(&eRight Click&7)'
-    - ' &7Weaken target for &e3.5s&7,'
-    - ' &7increasing damage taken by &e40%'
-    - ' &7Cooldown : &e8s&7, Mana Cost : &e8.0'
     custom-model-data: 10001.0
     revision-id: 3
     disable-enchanting: true
@@ -174,26 +124,16 @@ MA1_001_06:
   base:
     material: STONE_HOE
     name: <#7E0C9F>Cursed Book <#6B6666>[<#d2b109>Lvl.6<#6B6666>]
-    attack-damage: 12.3
+    attack-damage: 10.8
     lore:
     - ' &7&o"Penned in an unknown method of writing.'
     - ' &7&oIt has countless forbidden knowledge."'
     attack-speed: 1.6
+    element:
+      darkness:
+        damage: 8.8
     range: 14
     tier: COMMON
-    ability:
-      ability1:
-        type: WEAKEN
-        duration: 3.75
-        ratio: 45.0
-        mode: RIGHT_CLICK
-        mana: 8.0
-        cooldown: 8
-    abilities_lore:
-    - ' &6Weaken &7(&eRight Click&7)'
-    - ' &7Weaken target for &e3.75s&7,'
-    - ' &7increasing damage taken by &e45%'
-    - ' &7Cooldown : &e8s&7, Mana Cost : &e8.0'
     custom-model-data: 10001.0
     revision-id: 3
     disable-enchanting: true
@@ -208,26 +148,16 @@ MA1_001_07:
   base:
     material: STONE_HOE
     name: <#7E0C9F>Cursed Book <#6B6666>[<#cc8409>Lvl.7<#6B6666>]
-    attack-damage: 12.89
+    attack-damage: 11.39
     lore:
     - ' &7&o"Penned in an unknown method of writing.'
     - ' &7&oIt has countless forbidden knowledge."'
     attack-speed: 1.6
+    element:
+      darkness:
+        damage: 9.39
     range: 15
     tier: COMMON
-    ability:
-      ability1:
-        type: WEAKEN
-        duration: 4.0
-        ratio: 50.0
-        mode: RIGHT_CLICK
-        mana: 8.0
-        cooldown: 8
-    abilities_lore:
-    - ' &6Weaken &7(&eRight Click&7)'
-    - ' &7Weaken target for &e4.0s&7,'
-    - ' &7increasing damage taken by &e50%'
-    - ' &7Cooldown : &e8s&7, Mana Cost : &e8.0'
     custom-model-data: 10001.0
     revision-id: 3
     disable-enchanting: true
@@ -242,26 +172,16 @@ MA1_001_08:
   base:
     material: STONE_HOE
     name: <#7E0C9F>Cursed Book <#6B6666>[<#c65809>Lvl.8<#6B6666>]
-    attack-damage: 13.5
+    attack-damage: 12.0
     lore:
     - ' &7&o"Penned in an unknown method of writing.'
     - ' &7&oIt has countless forbidden knowledge."'
     attack-speed: 1.6
+    element:
+      darkness:
+        damage: 10.0
     range: 15
     tier: COMMON
-    ability:
-      ability1:
-        type: WEAKEN
-        duration: 4.25
-        ratio: 55.0
-        mode: RIGHT_CLICK
-        mana: 8.0
-        cooldown: 7
-    abilities_lore:
-    - ' &6Weaken &7(&eRight Click&7)'
-    - ' &7Weaken target for &e4.25s&7,'
-    - ' &7increasing damage taken by &e55%'
-    - ' &7Cooldown : &e7s&7, Mana Cost : &e8.0'
     custom-model-data: 10001.0
     revision-id: 3
     disable-enchanting: true
@@ -276,26 +196,16 @@ MA1_001_09:
   base:
     material: STONE_HOE
     name: <#7E0C9F>Cursed Book <#6B6666>[<#c02f09>Lvl.9<#6B6666>]
-    attack-damage: 14.12
+    attack-damage: 12.62
     lore:
     - ' &7&o"Penned in an unknown method of writing.'
     - ' &7&oIt has countless forbidden knowledge."'
     attack-speed: 1.6
+    element:
+      darkness:
+        damage: 10.62
     range: 16
     tier: COMMON
-    ability:
-      ability1:
-        type: WEAKEN
-        duration: 4.5
-        ratio: 60.0
-        mode: RIGHT_CLICK
-        mana: 8.0
-        cooldown: 7
-    abilities_lore:
-    - ' &6Weaken &7(&eRight Click&7)'
-    - ' &7Weaken target for &e4.5s&7,'
-    - ' &7increasing damage taken by &e60%'
-    - ' &7Cooldown : &e7s&7, Mana Cost : &e8.0'
     custom-model-data: 10001.0
     revision-id: 3
     disable-enchanting: true
@@ -310,26 +220,16 @@ MA1_001_10:
   base:
     material: STONE_HOE
     name: <#7E0C9F>Cursed Book <#6B6666>[<#ba0909>Lvl.10<#6B6666>]
-    attack-damage: 14.75
+    attack-damage: 13.25
     lore:
     - ' &7&o"Penned in an unknown method of writing.'
     - ' &7&oIt has countless forbidden knowledge."'
     attack-speed: 1.6
+    element:
+      darkness:
+        damage: 11.25
     range: 16
     tier: COMMON
-    ability:
-      ability1:
-        type: WEAKEN
-        duration: 4.5
-        ratio: 60.0
-        mode: RIGHT_CLICK
-        mana: 8.0
-        cooldown: 7
-    abilities_lore:
-    - ' &6Weaken &7(&eRight Click&7)'
-    - ' &7Weaken target for &e4.5s&7,'
-    - ' &7increasing damage taken by &e60%'
-    - ' &7Cooldown : &e7s&7, Mana Cost : &e8.0'
     custom-model-data: 10001.0
     revision-id: 3
     disable-enchanting: true
@@ -344,26 +244,16 @@ MA1_001_11:
   base:
     material: STONE_HOE
     name: <#7E0C9F>Cursed Book <#6B6666>[<#c0091f>Lvl.11<#6B6666>]
-    attack-damage: 15.39
+    attack-damage: 13.89
     lore:
     - ' &7&o"Penned in an unknown method of writing.'
     - ' &7&oIt has countless forbidden knowledge."'
     attack-speed: 1.6
+    element:
+      darkness:
+        damage: 11.89
     range: 16
     tier: COMMON
-    ability:
-      ability1:
-        type: WEAKEN
-        duration: 4.5
-        ratio: 60.0
-        mode: RIGHT_CLICK
-        mana: 8.0
-        cooldown: 7
-    abilities_lore:
-    - ' &6Weaken &7(&eRight Click&7)'
-    - ' &7Weaken target for &e4.5s&7,'
-    - ' &7increasing damage taken by &e60%'
-    - ' &7Cooldown : &e7s&7, Mana Cost : &e8.0'
     custom-model-data: 10001.0
     revision-id: 3
     disable-enchanting: true
@@ -378,26 +268,16 @@ MA1_001_12:
   base:
     material: STONE_HOE
     name: <#7E0C9F>Cursed Book <#6B6666>[<#c60936>Lvl.12<#6B6666>]
-    attack-damage: 16.04
+    attack-damage: 14.54
     lore:
     - ' &7&o"Penned in an unknown method of writing.'
     - ' &7&oIt has countless forbidden knowledge."'
     attack-speed: 1.6
+    element:
+      darkness:
+        damage: 12.54
     range: 16
     tier: COMMON
-    ability:
-      ability1:
-        type: WEAKEN
-        duration: 4.5
-        ratio: 60.0
-        mode: RIGHT_CLICK
-        mana: 8.0
-        cooldown: 7
-    abilities_lore:
-    - ' &6Weaken &7(&eRight Click&7)'
-    - ' &7Weaken target for &e4.5s&7,'
-    - ' &7increasing damage taken by &e60%'
-    - ' &7Cooldown : &e7s&7, Mana Cost : &e8.0'
     custom-model-data: 10001.0
     revision-id: 3
     disable-enchanting: true
@@ -412,26 +292,16 @@ MA1_001_13:
   base:
     material: STONE_HOE
     name: <#7E0C9F>Cursed Book <#6B6666>[<#cd094f>Lvl.13<#6B6666>]
-    attack-damage: 16.7
+    attack-damage: 15.2
     lore:
     - ' &7&o"Penned in an unknown method of writing.'
     - ' &7&oIt has countless forbidden knowledge."'
     attack-speed: 1.6
+    element:
+      darkness:
+        damage: 13.2
     range: 16
     tier: COMMON
-    ability:
-      ability1:
-        type: WEAKEN
-        duration: 4.5
-        ratio: 60.0
-        mode: RIGHT_CLICK
-        mana: 8.0
-        cooldown: 7
-    abilities_lore:
-    - ' &6Weaken &7(&eRight Click&7)'
-    - ' &7Weaken target for &e4.5s&7,'
-    - ' &7increasing damage taken by &e60%'
-    - ' &7Cooldown : &e7s&7, Mana Cost : &e8.0'
     custom-model-data: 10001.0
     revision-id: 3
     disable-enchanting: true
@@ -446,26 +316,16 @@ MA1_001_14:
   base:
     material: STONE_HOE
     name: <#7E0C9F>Cursed Book <#6B6666>[<#d3096a>Lvl.14<#6B6666>]
-    attack-damage: 17.38
+    attack-damage: 15.88
     lore:
     - ' &7&o"Penned in an unknown method of writing.'
     - ' &7&oIt has countless forbidden knowledge."'
     attack-speed: 1.6
+    element:
+      darkness:
+        damage: 13.88
     range: 16
     tier: COMMON
-    ability:
-      ability1:
-        type: WEAKEN
-        duration: 4.5
-        ratio: 60.0
-        mode: RIGHT_CLICK
-        mana: 8.0
-        cooldown: 7
-    abilities_lore:
-    - ' &6Weaken &7(&eRight Click&7)'
-    - ' &7Weaken target for &e4.5s&7,'
-    - ' &7increasing damage taken by &e60%'
-    - ' &7Cooldown : &e7s&7, Mana Cost : &e8.0'
     custom-model-data: 10001.0
     revision-id: 3
     disable-enchanting: true
@@ -480,26 +340,16 @@ MA1_001_15:
   base:
     material: STONE_HOE
     name: <#7E0C9F>Cursed Book <#6B6666>[<#d90986>Lvl.15<#6B6666>]
-    attack-damage: 18.06
+    attack-damage: 16.56
     lore:
     - ' &7&o"Penned in an unknown method of writing.'
     - ' &7&oIt has countless forbidden knowledge."'
     attack-speed: 1.6
+    element:
+      darkness:
+        damage: 14.56
     range: 16
     tier: COMMON
-    ability:
-      ability1:
-        type: WEAKEN
-        duration: 4.5
-        ratio: 60.0
-        mode: RIGHT_CLICK
-        mana: 8.0
-        cooldown: 7
-    abilities_lore:
-    - ' &6Weaken &7(&eRight Click&7)'
-    - ' &7Weaken target for &e4.5s&7,'
-    - ' &7increasing damage taken by &e60%'
-    - ' &7Cooldown : &e7s&7, Mana Cost : &e8.0'
     custom-model-data: 10001.0
     revision-id: 3
     disable-enchanting: true

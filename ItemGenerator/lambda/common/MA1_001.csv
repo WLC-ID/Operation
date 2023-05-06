@@ -1,10 +1,6 @@
 directory,function
-attack-damage,"pi(x,9.5,1,1)"
+attack-damage,"pi(x,7,-10,-5.5)"
+element.darkness.damage,"pi(x,6,1,1)"
+attack-speed,"(160+(min(x,9)-1)*5)/100"
 range,"12+((min(x,9)-1)/2)"
-ability@1.cooldown,"(1000-((min(x,9)-1)*30))/100"
-ability@1.ratio,"(20+((min(x,9)-1)*5))"
-ability@1.duration,"2.5+((min(x,9)-1)/4)"
 name,"f""<#7E0C9F>Cursed Book <#6B6666>[{color(x)}Lvl.{x}<#6B6666>]"""
-abilities_lore.3,"f"" &7Cooldown : &e{$ability@1.cooldown$}s&7, Mana Cost : &e{$ability@1.mana$}"""
-abilities_lore.2,"f"" &7increasing damage taken by &e{int($ability@1.ratio$)}%"""
-abilities_lore.1,"f"" &7Weaken target for &e{$ability@1.duration$}s&7,"""
