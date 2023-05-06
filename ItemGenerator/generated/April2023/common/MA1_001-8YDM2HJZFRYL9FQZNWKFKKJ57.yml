@@ -1,5 +1,5 @@
-# Template: MA1_001_XXX. Digest: abde03a4b781e8de8d8994d971c223d4. Base36: A6AQS5JRRIXXYIHM69RHNF8IC
-# Generated at 06/05/2023 14:50:09. Digest: f8733af0f81a9947bf18f074c6368405. Base36: EPIO0XXYABPG13I9E4FWP6491.
+# Template: MA1_001_XXX. Digest: c2e71391d23b5adcba379443d2228232. Base36: BJE5YSYBR8OALIXP1E09C3SC2
+# Generated at 06/05/2023 14:53:55. Digest: 9742848f1d7108b3506be81467f70deb. Base36: 8YDM2HJZFRYL9FQZNWKFKKJ57.
 MA1_001_01:
   base:
     material: STONE_HOE
@@ -9,6 +9,7 @@ MA1_001_01:
     - ' &7&o"Penned in an unknown method of writing.'
     - ' &7&oIt has countless forbidden knowledge."'
     attack-speed: 1.6
+    mana-cost: 4.0
     element:
       darkness:
         damage: 6.0
@@ -33,6 +34,7 @@ MA1_001_02:
     - ' &7&o"Penned in an unknown method of writing.'
     - ' &7&oIt has countless forbidden knowledge."'
     attack-speed: 1.65
+    mana-cost: 4.0
     element:
       darkness:
         damage: 6.53
@@ -57,6 +59,7 @@ MA1_001_03:
     - ' &7&o"Penned in an unknown method of writing.'
     - ' &7&oIt has countless forbidden knowledge."'
     attack-speed: 1.7
+    mana-cost: 4.0
     element:
       darkness:
         damage: 7.08
@@ -81,6 +84,7 @@ MA1_001_04:
     - ' &7&o"Penned in an unknown method of writing.'
     - ' &7&oIt has countless forbidden knowledge."'
     attack-speed: 1.75
+    mana-cost: 4.0
     element:
       darkness:
         damage: 7.64
@@ -105,6 +109,7 @@ MA1_001_05:
     - ' &7&o"Penned in an unknown method of writing.'
     - ' &7&oIt has countless forbidden knowledge."'
     attack-speed: 1.8
+    mana-cost: 4.0
     element:
       darkness:
         damage: 8.21
@@ -129,6 +134,7 @@ MA1_001_06:
     - ' &7&o"Penned in an unknown method of writing.'
     - ' &7&oIt has countless forbidden knowledge."'
     attack-speed: 1.85
+    mana-cost: 4.0
     element:
       darkness:
         damage: 8.8
@@ -153,6 +159,7 @@ MA1_001_07:
     - ' &7&o"Penned in an unknown method of writing.'
     - ' &7&oIt has countless forbidden knowledge."'
     attack-speed: 1.9
+    mana-cost: 4.0
     element:
       darkness:
         damage: 9.39
@@ -177,6 +184,7 @@ MA1_001_08:
     - ' &7&o"Penned in an unknown method of writing.'
     - ' &7&oIt has countless forbidden knowledge."'
     attack-speed: 1.95
+    mana-cost: 4.0
     element:
       darkness:
         damage: 10.0
@@ -201,6 +209,7 @@ MA1_001_09:
     - ' &7&o"Penned in an unknown method of writing.'
     - ' &7&oIt has countless forbidden knowledge."'
     attack-speed: 2.0
+    mana-cost: 4.0
     element:
       darkness:
         damage: 10.62
@@ -225,6 +234,7 @@ MA1_001_10:
     - ' &7&o"Penned in an unknown method of writing.'
     - ' &7&oIt has countless forbidden knowledge."'
     attack-speed: 2.0
+    mana-cost: 4.0
     element:
       darkness:
         damage: 11.25
@@ -249,6 +259,7 @@ MA1_001_11:
     - ' &7&o"Penned in an unknown method of writing.'
     - ' &7&oIt has countless forbidden knowledge."'
     attack-speed: 2.0
+    mana-cost: 4.0
     element:
       darkness:
         damage: 11.89
@@ -273,6 +284,7 @@ MA1_001_12:
     - ' &7&o"Penned in an unknown method of writing.'
     - ' &7&oIt has countless forbidden knowledge."'
     attack-speed: 2.0
+    mana-cost: 4.0
     element:
       darkness:
         damage: 12.54
@@ -297,6 +309,7 @@ MA1_001_13:
     - ' &7&o"Penned in an unknown method of writing.'
     - ' &7&oIt has countless forbidden knowledge."'
     attack-speed: 2.0
+    mana-cost: 4.0
     element:
       darkness:
         damage: 13.2
@@ -321,6 +334,7 @@ MA1_001_14:
     - ' &7&o"Penned in an unknown method of writing.'
     - ' &7&oIt has countless forbidden knowledge."'
     attack-speed: 2.0
+    mana-cost: 4.0
     element:
       darkness:
         damage: 13.88
@@ -345,6 +359,7 @@ MA1_001_15:
     - ' &7&o"Penned in an unknown method of writing.'
     - ' &7&oIt has countless forbidden knowledge."'
     attack-speed: 2.0
+    mana-cost: 4.0
     element:
       darkness:
         damage: 14.56

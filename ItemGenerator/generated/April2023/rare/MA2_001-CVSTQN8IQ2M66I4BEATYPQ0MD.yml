@@ -1,0 +1,299 @@
+# Template: MA2_001_XXX. Digest: 878551bbd0b3c1a9a400af7e22a64ce0. Base36: 80U0GO2YGF0007O7LZ1F8W3C0
+# Generated at 07/05/2023 01:13:26. Digest: d99d857575f402cd88dc5996b54a56a5. Base36: CVSTQN8IQ2M66I4BEATYPQ0MD.
+MA2_001_01:
+  base:
+    material: STONE_HOE
+    name: <#E3E3E3>Purified Book <#6B6666>[<#ba0909>Lvl.10<#6B6666>]
+    attack-damage: 10.72
+    lore:
+    - ' &7&o"A tome filled with divine knowledge and holy'
+    - ' &7&oscriptures, radiates a gleaming gold hue."'
+    attack-speed: 2.0
+    mana-cost: 4.0
+    additional-health: 7.0
+    additional-regeneration: 5.5
+    element:
+      lightness:
+        damage: 10.47
+    range: 16
+    tier: rare
+    custom-model-data: 20001.0
+    revision-id: 1
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    disable-interaction: true
+    unbreakable: true
+    item-batch: Starter
+MA2_001_02:
+  base:
+    material: STONE_HOE
+    name: <#E3E3E3>Purified Book <#6B6666>[<#c0091f>Lvl.11<#6B6666>]
+    attack-damage: 11.16
+    lore:
+    - ' &7&o"A tome filled with divine knowledge and holy'
+    - ' &7&oscriptures, radiates a gleaming gold hue."'
+    attack-speed: 2.05
+    mana-cost: 4.0
+    additional-health: 7.5
+    additional-regeneration: 6.0
+    element:
+      lightness:
+        damage: 11.0
+    range: 16
+    tier: rare
+    custom-model-data: 20001.0
+    revision-id: 1
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    disable-interaction: true
+    unbreakable: true
+    item-batch: Starter
+MA2_001_03:
+  base:
+    material: STONE_HOE
+    name: <#E3E3E3>Purified Book <#6B6666>[<#c60936>Lvl.12<#6B6666>]
+    attack-damage: 11.61
+    lore:
+    - ' &7&o"A tome filled with divine knowledge and holy'
+    - ' &7&oscriptures, radiates a gleaming gold hue."'
+    attack-speed: 2.1
+    mana-cost: 4.0
+    additional-health: 8.1
+    additional-regeneration: 6.5
+    element:
+      lightness:
+        damage: 11.55
+    range: 17
+    tier: rare
+    custom-model-data: 20001.0
+    revision-id: 1
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    disable-interaction: true
+    unbreakable: true
+    item-batch: Starter
+MA2_001_04:
+  base:
+    material: STONE_HOE
+    name: <#E3E3E3>Purified Book <#6B6666>[<#cd094f>Lvl.13<#6B6666>]
+    attack-damage: 12.06
+    lore:
+    - ' &7&o"A tome filled with divine knowledge and holy'
+    - ' &7&oscriptures, radiates a gleaming gold hue."'
+    attack-speed: 2.15
+    mana-cost: 4.0
+    additional-health: 8.6
+    additional-regeneration: 7.1
+    element:
+      lightness:
+        damage: 12.11
+    range: 17
+    tier: rare
+    custom-model-data: 20001.0
+    revision-id: 1
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    disable-interaction: true
+    unbreakable: true
+    item-batch: Starter
+MA2_001_05:
+  base:
+    material: STONE_HOE
+    name: <#E3E3E3>Purified Book <#6B6666>[<#d3096a>Lvl.14<#6B6666>]
+    attack-damage: 12.51
+    lore:
+    - ' &7&o"A tome filled with divine knowledge and holy'
+    - ' &7&oscriptures, radiates a gleaming gold hue."'
+    attack-speed: 2.2
+    mana-cost: 4.0
+    additional-health: 9.2
+    additional-regeneration: 7.7
+    element:
+      lightness:
+        damage: 12.68
+    range: 18
+    tier: rare
+    custom-model-data: 20001.0
+    revision-id: 1
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    disable-interaction: true
+    unbreakable: true
+    item-batch: Starter
+MA2_001_06:
+  base:
+    material: STONE_HOE
+    name: <#E3E3E3>Purified Book <#6B6666>[<#d90986>Lvl.15<#6B6666>]
+    attack-damage: 12.96
+    lore:
+    - ' &7&o"A tome filled with divine knowledge and holy'
+    - ' &7&oscriptures, radiates a gleaming gold hue."'
+    attack-speed: 2.25
+    mana-cost: 4.0
+    additional-health: 9.8
+    additional-regeneration: 8.3
+    element:
+      lightness:
+        damage: 13.27
+    range: 18
+    tier: rare
+    custom-model-data: 20001.0
+    revision-id: 1
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    disable-interaction: true
+    unbreakable: true
+    item-batch: Starter
+MA2_001_07:
+  base:
+    material: STONE_HOE
+    name: <#E3E3E3>Purified Book <#6B6666>[<#e009a3>Lvl.16<#6B6666>]
+    attack-damage: 13.41
+    lore:
+    - ' &7&o"A tome filled with divine knowledge and holy'
+    - ' &7&oscriptures, radiates a gleaming gold hue."'
+    attack-speed: 2.3
+    mana-cost: 4.0
+    additional-health: 10.4
+    additional-regeneration: 8.9
+    element:
+      lightness:
+        damage: 13.87
+    range: 19
+    tier: rare
+    custom-model-data: 20001.0
+    revision-id: 1
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    disable-interaction: true
+    unbreakable: true
+    item-batch: Starter
+MA2_001_08:
+  base:
+    material: STONE_HOE
+    name: <#E3E3E3>Purified Book <#6B6666>[<#e609c2>Lvl.17<#6B6666>]
+    attack-damage: 13.87
+    lore:
+    - ' &7&o"A tome filled with divine knowledge and holy'
+    - ' &7&oscriptures, radiates a gleaming gold hue."'
+    attack-speed: 2.35
+    mana-cost: 4.0
+    additional-health: 11.0
+    additional-regeneration: 9.5
+    element:
+      lightness:
+        damage: 14.47
+    range: 19
+    tier: rare
+    custom-model-data: 20001.0
+    revision-id: 1
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    disable-interaction: true
+    unbreakable: true
+    item-batch: Starter
+MA2_001_09:
+  base:
+    material: STONE_HOE
+    name: <#E3E3E3>Purified Book <#6B6666>[<#ec08e3>Lvl.18<#6B6666>]
+    attack-damage: 14.33
+    lore:
+    - ' &7&o"A tome filled with divine knowledge and holy'
+    - ' &7&oscriptures, radiates a gleaming gold hue."'
+    attack-speed: 2.4
+    mana-cost: 4.0
+    additional-health: 11.6
+    additional-regeneration: 10.1
+    element:
+      lightness:
+        damage: 15.09
+    range: 20
+    tier: rare
+    custom-model-data: 20001.0
+    revision-id: 1
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    disable-interaction: true
+    unbreakable: true
+    item-batch: Starter
+MA2_001_10:
+  base:
+    material: STONE_HOE
+    name: <#E3E3E3>Purified Book <#6B6666>[<#e008f3>Lvl.19<#6B6666>]
+    attack-damage: 14.78
+    lore:
+    - ' &7&o"A tome filled with divine knowledge and holy'
+    - ' &7&oscriptures, radiates a gleaming gold hue."'
+    attack-speed: 2.4
+    mana-cost: 4.0
+    additional-health: 12.2
+    additional-regeneration: 10.7
+    element:
+      lightness:
+        damage: 15.72
+    range: 20
+    tier: rare
+    custom-model-data: 20001.0
+    revision-id: 1
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    disable-interaction: true
+    unbreakable: true
+    item-batch: Starter
+MA2_001_11:
+  base:
+    material: STONE_HOE
+    name: <#E3E3E3>Purified Book <#6B6666>[<#c80af7>Lvl.20<#6B6666>]
+    attack-damage: 15.24
+    lore:
+    - ' &7&o"A tome filled with divine knowledge and holy'
+    - ' &7&oscriptures, radiates a gleaming gold hue."'
+    attack-speed: 2.4
+    mana-cost: 4.0
+    additional-health: 12.9
+    additional-regeneration: 11.4
+    element:
+      lightness:
+        damage: 16.36
+    range: 20
+    tier: rare
+    custom-model-data: 20001.0
+    revision-id: 1
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    disable-interaction: true
+    unbreakable: true
+    item-batch: Starter
