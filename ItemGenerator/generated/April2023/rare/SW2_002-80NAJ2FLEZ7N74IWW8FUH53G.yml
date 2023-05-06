@@ -1,5 +1,5 @@
-# Template: SW2_002_XXX. Digest: fdf9811d0131dbd1689de67a00cbc0f9. Base36: F1AJJAYA3ML80UW3W4QMZS4JD
-# Generated at 04/05/2023 17:16:17. Digest: fb84498ccb363f18eb5bc7b055913b17. Base36: EW1YID5UELZKD7N47K3WV1GYF.
+# Template: SW2_002_XXX. Digest: 2090456986fa4c7828c8c2407a70032f. Base36: 1XEHDG785AC38BXLB1FR51XYN
+# Generated at 06/05/2023 12:39:19. Digest: 03c31498f7712c3574500bae5a852e0c. Base36: 80NAJ2FLEZ7N74IWW8FUH53G.
 SW2_002_01:
   base:
     material: STONE_SWORD
@@ -36,7 +36,7 @@ SW2_002_01:
     unbreakable: true
     revision-id: 1
     item-batch: Altered Starter
-    custom-model-data: 20001.0
+    custom-model-data: 20005.0
 SW2_002_02:
   base:
     material: STONE_SWORD
@@ -73,7 +73,7 @@ SW2_002_02:
     unbreakable: true
     revision-id: 1
     item-batch: Altered Starter
-    custom-model-data: 20001.0
+    custom-model-data: 20005.0
 SW2_002_03:
   base:
     material: STONE_SWORD
@@ -110,7 +110,7 @@ SW2_002_03:
     unbreakable: true
     revision-id: 1
     item-batch: Altered Starter
-    custom-model-data: 20001.0
+    custom-model-data: 20005.0
 SW2_002_04:
   base:
     material: STONE_SWORD
@@ -147,7 +147,7 @@ SW2_002_04:
     unbreakable: true
     revision-id: 1
     item-batch: Altered Starter
-    custom-model-data: 20001.0
+    custom-model-data: 20005.0
 SW2_002_05:
   base:
     material: STONE_SWORD
@@ -184,7 +184,7 @@ SW2_002_05:
     unbreakable: true
     revision-id: 1
     item-batch: Altered Starter
-    custom-model-data: 20001.0
+    custom-model-data: 20005.0
 SW2_002_06:
   base:
     material: STONE_SWORD
@@ -221,7 +221,7 @@ SW2_002_06:
     unbreakable: true
     revision-id: 1
     item-batch: Altered Starter
-    custom-model-data: 20001.0
+    custom-model-data: 20005.0
 SW2_002_07:
   base:
     material: STONE_SWORD
@@ -258,7 +258,7 @@ SW2_002_07:
     unbreakable: true
     revision-id: 1
     item-batch: Altered Starter
-    custom-model-data: 20001.0
+    custom-model-data: 20005.0
 SW2_002_08:
   base:
     material: STONE_SWORD
@@ -295,7 +295,7 @@ SW2_002_08:
     unbreakable: true
     revision-id: 1
     item-batch: Altered Starter
-    custom-model-data: 20001.0
+    custom-model-data: 20005.0
 SW2_002_09:
   base:
     material: STONE_SWORD
@@ -332,7 +332,7 @@ SW2_002_09:
     unbreakable: true
     revision-id: 1
     item-batch: Altered Starter
-    custom-model-data: 20001.0
+    custom-model-data: 20005.0
 SW2_002_10:
   base:
     material: STONE_SWORD
@@ -369,7 +369,7 @@ SW2_002_10:
     unbreakable: true
     revision-id: 1
     item-batch: Altered Starter
-    custom-model-data: 20001.0
+    custom-model-data: 20005.0
 SW2_002_11:
   base:
     material: STONE_SWORD
@@ -406,4 +406,4 @@ SW2_002_11:
     unbreakable: true
     revision-id: 1
     item-batch: Altered Starter
-    custom-model-data: 20001.0
+    custom-model-data: 20005.0

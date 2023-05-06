@@ -1,0 +1,563 @@
+# Template: BS2_002_XXX. Digest: 125dba67ab78989825033ce7583b3506. Base36: 1355YJ2N3XQ064T1VDQUFX9FQ
+# Generated at 06/05/2023 12:39:19. Digest: 832ef77335be8d24098c2489e1dea50a. Base36: 7RL85MH9I993BDLIX9NZWPUYY.
+BS2_002_01:
+  base:
+    material: STONE_SWORD
+    name: <#773399>Telemetry <#6B6666>[<#d90986>Lvl.15<#6B6666>]
+    displayed-type: Broadsword
+    tier: rare
+    attack-damage: 18.59
+    attack-speed: 1.3
+    critical-strike-chance: 14.03
+    critical-strike-power: 92.03
+    movement-speed: 0.0809
+    ability:
+      ability1:
+        type: SWITCH_POSITION
+        mode: DAMAGED_BY_ENTITY
+        range: 5.0
+        cooldown: 5.0
+        chance: 10.0
+        cooldown-group: 20021.0
+      ability2:
+        type: SWITCH_POSITION
+        mode: RIGHT_CLICK
+        range: 10.0
+        cooldown: 10.0
+        chance: 100.0
+        mana: 10.0
+        cooldown-group: 20022.0
+    lore:
+    - ' &7&o"The ancient broadsword imbued with the arcane power'
+    - ' &7&oof interdimensional entities. It opens up an opportunity'
+    - ' &7&oto turned the tide of battle with its spatial manipulation."'
+    abilities_lore:
+    - ' &6Translocate &7(&eAttacked&7)'
+    - ' &7Chance &e10%&7 to apply &6Substitute'
+    - ' &7to attacker when attacked.'
+    - ' &7Max Range : &e5 blocks'
+    - ' &7Cooldown : &e5.0s'
+    - ' &6Substitute &7(&eRight Click&7)'
+    - ' &7Swap your position and grants &9Disorientation'
+    - ' &7to the targeted opponent.'
+    - ' &7Max Range : &e10 blocks'
+    - ' &7Cooldown : &e10.0s&7, Mana Cost : &e10.0'
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    unbreakable: true
+    custom-model-data: 20002.0
+    revision-id: 1
+    item-batch: Altered Starter
+BS2_002_02:
+  base:
+    material: STONE_SWORD
+    name: <#773399>Telemetry <#6B6666>[<#e009a3>Lvl.16<#6B6666>]
+    displayed-type: Broadsword
+    tier: rare
+    attack-damage: 19.14
+    attack-speed: 1.33
+    critical-strike-chance: 14.56
+    critical-strike-power: 92.57
+    movement-speed: 0.0809
+    ability:
+      ability1:
+        type: SWITCH_POSITION
+        mode: DAMAGED_BY_ENTITY
+        range: 6.0
+        cooldown: 4.5
+        chance: 15.0
+        cooldown-group: 20021.0
+      ability2:
+        type: SWITCH_POSITION
+        mode: RIGHT_CLICK
+        range: 11.0
+        cooldown: 9.5
+        chance: 100.0
+        mana: 9.7
+        cooldown-group: 20022.0
+    lore:
+    - ' &7&o"The ancient broadsword imbued with the arcane power'
+    - ' &7&oof interdimensional entities. It opens up an opportunity'
+    - ' &7&oto turned the tide of battle with its spatial manipulation."'
+    abilities_lore:
+    - ' &6Translocate &7(&eAttacked&7)'
+    - ' &7Chance &e15%&7 to apply &6Substitute'
+    - ' &7to attacker when attacked.'
+    - ' &7Max Range : &e6 blocks'
+    - ' &7Cooldown : &e4.5s'
+    - ' &6Substitute &7(&eRight Click&7)'
+    - ' &7Swap your position and grants &9Disorientation'
+    - ' &7to the targeted opponent.'
+    - ' &7Max Range : &e11 blocks'
+    - ' &7Cooldown : &e9.5s&7, Mana Cost : &e9.7'
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    unbreakable: true
+    custom-model-data: 20002.0
+    revision-id: 1
+    item-batch: Altered Starter
+BS2_002_03:
+  base:
+    material: STONE_SWORD
+    name: <#773399>Telemetry <#6B6666>[<#e609c2>Lvl.17<#6B6666>]
+    displayed-type: Broadsword
+    tier: rare
+    attack-damage: 19.7
+    attack-speed: 1.36
+    critical-strike-chance: 15.12
+    critical-strike-power: 93.13
+    movement-speed: 0.0809
+    ability:
+      ability1:
+        type: SWITCH_POSITION
+        mode: DAMAGED_BY_ENTITY
+        range: 7.0
+        cooldown: 4.0
+        chance: 20.0
+        cooldown-group: 20021.0
+      ability2:
+        type: SWITCH_POSITION
+        mode: RIGHT_CLICK
+        range: 12.0
+        cooldown: 9.0
+        chance: 100.0
+        mana: 9.4
+        cooldown-group: 20022.0
+    lore:
+    - ' &7&o"The ancient broadsword imbued with the arcane power'
+    - ' &7&oof interdimensional entities. It opens up an opportunity'
+    - ' &7&oto turned the tide of battle with its spatial manipulation."'
+    abilities_lore:
+    - ' &6Translocate &7(&eAttacked&7)'
+    - ' &7Chance &e20%&7 to apply &6Substitute'
+    - ' &7to attacker when attacked.'
+    - ' &7Max Range : &e7 blocks'
+    - ' &7Cooldown : &e4.0s'
+    - ' &6Substitute &7(&eRight Click&7)'
+    - ' &7Swap your position and grants &9Disorientation'
+    - ' &7to the targeted opponent.'
+    - ' &7Max Range : &e12 blocks'
+    - ' &7Cooldown : &e9.0s&7, Mana Cost : &e9.4'
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    unbreakable: true
+    custom-model-data: 20002.0
+    revision-id: 1
+    item-batch: Altered Starter
+BS2_002_04:
+  base:
+    material: STONE_SWORD
+    name: <#773399>Telemetry <#6B6666>[<#ec08e3>Lvl.18<#6B6666>]
+    displayed-type: Broadsword
+    tier: rare
+    attack-damage: 20.28
+    attack-speed: 1.39
+    critical-strike-chance: 15.7
+    critical-strike-power: 93.73
+    movement-speed: 0.0809
+    ability:
+      ability1:
+        type: SWITCH_POSITION
+        mode: DAMAGED_BY_ENTITY
+        range: 8.0
+        cooldown: 3.5
+        chance: 25.0
+        cooldown-group: 20021.0
+      ability2:
+        type: SWITCH_POSITION
+        mode: RIGHT_CLICK
+        range: 13.0
+        cooldown: 8.5
+        chance: 100.0
+        mana: 9.1
+        cooldown-group: 20022.0
+    lore:
+    - ' &7&o"The ancient broadsword imbued with the arcane power'
+    - ' &7&oof interdimensional entities. It opens up an opportunity'
+    - ' &7&oto turned the tide of battle with its spatial manipulation."'
+    abilities_lore:
+    - ' &6Translocate &7(&eAttacked&7)'
+    - ' &7Chance &e25%&7 to apply &6Substitute'
+    - ' &7to attacker when attacked.'
+    - ' &7Max Range : &e8 blocks'
+    - ' &7Cooldown : &e3.5s'
+    - ' &6Substitute &7(&eRight Click&7)'
+    - ' &7Swap your position and grants &9Disorientation'
+    - ' &7to the targeted opponent.'
+    - ' &7Max Range : &e13 blocks'
+    - ' &7Cooldown : &e8.5s&7, Mana Cost : &e9.1'
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    unbreakable: true
+    custom-model-data: 20002.0
+    revision-id: 1
+    item-batch: Altered Starter
+BS2_002_05:
+  base:
+    material: STONE_SWORD
+    name: <#773399>Telemetry <#6B6666>[<#e008f3>Lvl.19<#6B6666>]
+    displayed-type: Broadsword
+    tier: rare
+    attack-damage: 20.88
+    attack-speed: 1.42
+    critical-strike-chance: 16.29
+    critical-strike-power: 94.34
+    movement-speed: 0.0809
+    ability:
+      ability1:
+        type: SWITCH_POSITION
+        mode: DAMAGED_BY_ENTITY
+        range: 9.0
+        cooldown: 3.0
+        chance: 30.0
+        cooldown-group: 20021.0
+      ability2:
+        type: SWITCH_POSITION
+        mode: RIGHT_CLICK
+        range: 14.0
+        cooldown: 8.0
+        chance: 100.0
+        mana: 8.8
+        cooldown-group: 20022.0
+    lore:
+    - ' &7&o"The ancient broadsword imbued with the arcane power'
+    - ' &7&oof interdimensional entities. It opens up an opportunity'
+    - ' &7&oto turned the tide of battle with its spatial manipulation."'
+    abilities_lore:
+    - ' &6Translocate &7(&eAttacked&7)'
+    - ' &7Chance &e30%&7 to apply &6Substitute'
+    - ' &7to attacker when attacked.'
+    - ' &7Max Range : &e9 blocks'
+    - ' &7Cooldown : &e3.0s'
+    - ' &6Substitute &7(&eRight Click&7)'
+    - ' &7Swap your position and grants &9Disorientation'
+    - ' &7to the targeted opponent.'
+    - ' &7Max Range : &e14 blocks'
+    - ' &7Cooldown : &e8.0s&7, Mana Cost : &e8.8'
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    unbreakable: true
+    custom-model-data: 20002.0
+    revision-id: 1
+    item-batch: Altered Starter
+BS2_002_06:
+  base:
+    material: STONE_SWORD
+    name: <#773399>Telemetry <#6B6666>[<#c80af7>Lvl.20<#6B6666>]
+    displayed-type: Broadsword
+    tier: rare
+    attack-damage: 21.5
+    attack-speed: 1.45
+    critical-strike-chance: 16.91
+    critical-strike-power: 94.98
+    movement-speed: 0.0809
+    ability:
+      ability1:
+        type: SWITCH_POSITION
+        mode: DAMAGED_BY_ENTITY
+        range: 10.0
+        cooldown: 2.5
+        chance: 35.0
+        cooldown-group: 20021.0
+      ability2:
+        type: SWITCH_POSITION
+        mode: RIGHT_CLICK
+        range: 15.0
+        cooldown: 7.5
+        chance: 100.0
+        mana: 8.5
+        cooldown-group: 20022.0
+    lore:
+    - ' &7&o"The ancient broadsword imbued with the arcane power'
+    - ' &7&oof interdimensional entities. It opens up an opportunity'
+    - ' &7&oto turned the tide of battle with its spatial manipulation."'
+    abilities_lore:
+    - ' &6Translocate &7(&eAttacked&7)'
+    - ' &7Chance &e35%&7 to apply &6Substitute'
+    - ' &7to attacker when attacked.'
+    - ' &7Max Range : &e10 blocks'
+    - ' &7Cooldown : &e2.5s'
+    - ' &6Substitute &7(&eRight Click&7)'
+    - ' &7Swap your position and grants &9Disorientation'
+    - ' &7to the targeted opponent.'
+    - ' &7Max Range : &e15 blocks'
+    - ' &7Cooldown : &e7.5s&7, Mana Cost : &e8.5'
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    unbreakable: true
+    custom-model-data: 20002.0
+    revision-id: 1
+    item-batch: Altered Starter
+BS2_002_07:
+  base:
+    material: STONE_SWORD
+    name: <#773399>Telemetry <#6B6666>[<#b50af7>Lvl.21<#6B6666>]
+    displayed-type: Broadsword
+    tier: rare
+    attack-damage: 22.13
+    attack-speed: 1.48
+    critical-strike-chance: 17.54
+    critical-strike-power: 95.65
+    movement-speed: 0.0809
+    ability:
+      ability1:
+        type: SWITCH_POSITION
+        mode: DAMAGED_BY_ENTITY
+        range: 11.0
+        cooldown: 2.0
+        chance: 40.0
+        cooldown-group: 20021.0
+      ability2:
+        type: SWITCH_POSITION
+        mode: RIGHT_CLICK
+        range: 16.0
+        cooldown: 7.0
+        chance: 100.0
+        mana: 8.2
+        cooldown-group: 20022.0
+    lore:
+    - ' &7&o"The ancient broadsword imbued with the arcane power'
+    - ' &7&oof interdimensional entities. It opens up an opportunity'
+    - ' &7&oto turned the tide of battle with its spatial manipulation."'
+    abilities_lore:
+    - ' &6Translocate &7(&eAttacked&7)'
+    - ' &7Chance &e40%&7 to apply &6Substitute'
+    - ' &7to attacker when attacked.'
+    - ' &7Max Range : &e11 blocks'
+    - ' &7Cooldown : &e2.0s'
+    - ' &6Substitute &7(&eRight Click&7)'
+    - ' &7Swap your position and grants &9Disorientation'
+    - ' &7to the targeted opponent.'
+    - ' &7Max Range : &e16 blocks'
+    - ' &7Cooldown : &e7.0s&7, Mana Cost : &e8.2'
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    unbreakable: true
+    custom-model-data: 20002.0
+    revision-id: 1
+    item-batch: Altered Starter
+BS2_002_08:
+  base:
+    material: STONE_SWORD
+    name: <#773399>Telemetry <#6B6666>[<#a20af7>Lvl.22<#6B6666>]
+    displayed-type: Broadsword
+    tier: rare
+    attack-damage: 22.78
+    attack-speed: 1.51
+    critical-strike-chance: 18.18
+    critical-strike-power: 96.34
+    movement-speed: 0.0809
+    ability:
+      ability1:
+        type: SWITCH_POSITION
+        mode: DAMAGED_BY_ENTITY
+        range: 12.0
+        cooldown: 1.5
+        chance: 45.0
+        cooldown-group: 20021.0
+      ability2:
+        type: SWITCH_POSITION
+        mode: RIGHT_CLICK
+        range: 17.0
+        cooldown: 6.5
+        chance: 100.0
+        mana: 7.9
+        cooldown-group: 20022.0
+    lore:
+    - ' &7&o"The ancient broadsword imbued with the arcane power'
+    - ' &7&oof interdimensional entities. It opens up an opportunity'
+    - ' &7&oto turned the tide of battle with its spatial manipulation."'
+    abilities_lore:
+    - ' &6Translocate &7(&eAttacked&7)'
+    - ' &7Chance &e45%&7 to apply &6Substitute'
+    - ' &7to attacker when attacked.'
+    - ' &7Max Range : &e12 blocks'
+    - ' &7Cooldown : &e1.5s'
+    - ' &6Substitute &7(&eRight Click&7)'
+    - ' &7Swap your position and grants &9Disorientation'
+    - ' &7to the targeted opponent.'
+    - ' &7Max Range : &e17 blocks'
+    - ' &7Cooldown : &e6.5s&7, Mana Cost : &e7.9'
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    unbreakable: true
+    custom-model-data: 20002.0
+    revision-id: 1
+    item-batch: Altered Starter
+BS2_002_09:
+  base:
+    material: STONE_SWORD
+    name: <#773399>Telemetry <#6B6666>[<#8f0af7>Lvl.23<#6B6666>]
+    displayed-type: Broadsword
+    tier: rare
+    attack-damage: 23.45
+    attack-speed: 1.54
+    critical-strike-chance: 18.84
+    critical-strike-power: 97.05
+    movement-speed: 0.0809
+    ability:
+      ability1:
+        type: SWITCH_POSITION
+        mode: DAMAGED_BY_ENTITY
+        range: 13.0
+        cooldown: 1.0
+        chance: 50.0
+        cooldown-group: 20021.0
+      ability2:
+        type: SWITCH_POSITION
+        mode: RIGHT_CLICK
+        range: 18.0
+        cooldown: 6.0
+        chance: 100.0
+        mana: 7.6
+        cooldown-group: 20022.0
+    lore:
+    - ' &7&o"The ancient broadsword imbued with the arcane power'
+    - ' &7&oof interdimensional entities. It opens up an opportunity'
+    - ' &7&oto turned the tide of battle with its spatial manipulation."'
+    abilities_lore:
+    - ' &6Translocate &7(&eAttacked&7)'
+    - ' &7Chance &e50%&7 to apply &6Substitute'
+    - ' &7to attacker when attacked.'
+    - ' &7Max Range : &e13 blocks'
+    - ' &7Cooldown : &e1.0s'
+    - ' &6Substitute &7(&eRight Click&7)'
+    - ' &7Swap your position and grants &9Disorientation'
+    - ' &7to the targeted opponent.'
+    - ' &7Max Range : &e18 blocks'
+    - ' &7Cooldown : &e6.0s&7, Mana Cost : &e7.6'
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    unbreakable: true
+    custom-model-data: 20002.0
+    revision-id: 1
+    item-batch: Altered Starter
+BS2_002_10:
+  base:
+    material: STONE_SWORD
+    name: <#773399>Telemetry <#6B6666>[<#7c0af7>Lvl.24<#6B6666>]
+    displayed-type: Broadsword
+    tier: rare
+    attack-damage: 24.13
+    attack-speed: 1.54
+    critical-strike-chance: 19.52
+    critical-strike-power: 97.78
+    movement-speed: 0.0809
+    ability:
+      ability1:
+        type: SWITCH_POSITION
+        mode: DAMAGED_BY_ENTITY
+        range: 13.0
+        cooldown: 1.0
+        chance: 50.0
+        cooldown-group: 20021.0
+      ability2:
+        type: SWITCH_POSITION
+        mode: RIGHT_CLICK
+        range: 18.0
+        cooldown: 6.0
+        chance: 100.0
+        mana: 7.6
+        cooldown-group: 20022.0
+    lore:
+    - ' &7&o"The ancient broadsword imbued with the arcane power'
+    - ' &7&oof interdimensional entities. It opens up an opportunity'
+    - ' &7&oto turned the tide of battle with its spatial manipulation."'
+    abilities_lore:
+    - ' &6Translocate &7(&eAttacked&7)'
+    - ' &7Chance &e50%&7 to apply &6Substitute'
+    - ' &7to attacker when attacked.'
+    - ' &7Max Range : &e13 blocks'
+    - ' &7Cooldown : &e1.0s'
+    - ' &6Substitute &7(&eRight Click&7)'
+    - ' &7Swap your position and grants &9Disorientation'
+    - ' &7to the targeted opponent.'
+    - ' &7Max Range : &e18 blocks'
+    - ' &7Cooldown : &e6.0s&7, Mana Cost : &e7.6'
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    unbreakable: true
+    custom-model-data: 20002.0
+    revision-id: 1
+    item-batch: Altered Starter
+BS2_002_11:
+  base:
+    material: STONE_SWORD
+    name: <#773399>Telemetry <#6B6666>[<#690af7>Lvl.25<#6B6666>]
+    displayed-type: Broadsword
+    tier: rare
+    attack-damage: 24.83
+    attack-speed: 1.54
+    critical-strike-chance: 20.22
+    critical-strike-power: 98.54
+    movement-speed: 0.0809
+    ability:
+      ability1:
+        type: SWITCH_POSITION
+        mode: DAMAGED_BY_ENTITY
+        range: 13.0
+        cooldown: 1.0
+        chance: 50.0
+        cooldown-group: 20021.0
+      ability2:
+        type: SWITCH_POSITION
+        mode: RIGHT_CLICK
+        range: 18.0
+        cooldown: 6.0
+        chance: 100.0
+        mana: 7.6
+        cooldown-group: 20022.0
+    lore:
+    - ' &7&o"The ancient broadsword imbued with the arcane power'
+    - ' &7&oof interdimensional entities. It opens up an opportunity'
+    - ' &7&oto turned the tide of battle with its spatial manipulation."'
+    abilities_lore:
+    - ' &6Translocate &7(&eAttacked&7)'
+    - ' &7Chance &e50%&7 to apply &6Substitute'
+    - ' &7to attacker when attacked.'
+    - ' &7Max Range : &e13 blocks'
+    - ' &7Cooldown : &e1.0s'
+    - ' &6Substitute &7(&eRight Click&7)'
+    - ' &7Swap your position and grants &9Disorientation'
+    - ' &7to the targeted opponent.'
+    - ' &7Max Range : &e18 blocks'
+    - ' &7Cooldown : &e6.0s&7, Mana Cost : &e7.6'
+    disable-enchanting: true
+    disable-smithing: true
+    disable-smelting: true
+    disable-crafting: true
+    disable-repairing: true
+    unbreakable: true
+    custom-model-data: 20002.0
+    revision-id: 1
+    item-batch: Altered Starter

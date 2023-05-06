@@ -1,5 +1,5 @@
-# Template: SW2_003_XXX. Digest: 5c3a1ce95bfbd0cdbc2712ca3f2499b7. Base36: 5GK8N7DC6WTS2CLJ2X8KTGKON
-# Generated at 04/05/2023 17:16:17. Digest: 83cd629f9b30eb021ee8591f4d44e18e. Base36: 7SWPFPSIDMG1SG8IF8JM0521A.
+# Template: SW2_003_XXX. Digest: 83cd629f9b30eb021ee8591f4d44e18e. Base36: 7SWPFPSIDMG1SG8IF8JM0521A
+# Generated at 06/05/2023 12:39:19. Digest: faee716b489cc21bd9771c1c91472a8b. Base36: EUT1QSOR0WF7DUVBGT7YCWIOB.
 SW2_003_01:
   base:
     material: STONE_SWORD
@@ -16,7 +16,7 @@ SW2_003_01:
     - ' &6Fiery Sword &7(&ePassive&7)'
     - ' &7Grants &fFire Aspect II'
     - ' &6Burning Spirit &7(&eAttack&7)'
-    - ' &7Deal &e110% &7more damage while on fire'
+    - ' &7Deal &e110% &7more damage while enemy on fire'
     - ' &7Cooldown : &e1.2s&7, Mana Cost : &e6.0'
     attack-speed: 1.6
     ability:
@@ -56,7 +56,7 @@ SW2_003_02:
     - ' &6Fiery Sword &7(&ePassive&7)'
     - ' &7Grants &fFire Aspect II'
     - ' &6Burning Spirit &7(&eAttack&7)'
-    - ' &7Deal &e125% &7more damage while on fire'
+    - ' &7Deal &e125% &7more damage while enemy on fire'
     - ' &7Cooldown : &e1.1s&7, Mana Cost : &e6.0'
     attack-speed: 1.6
     ability:
@@ -96,7 +96,7 @@ SW2_003_03:
     - ' &6Fiery Sword &7(&ePassive&7)'
     - ' &7Grants &fFire Aspect II'
     - ' &6Burning Spirit &7(&eAttack&7)'
-    - ' &7Deal &e140% &7more damage while on fire'
+    - ' &7Deal &e140% &7more damage while enemy on fire'
     - ' &7Cooldown : &e1.0s&7, Mana Cost : &e6.0'
     attack-speed: 1.6
     ability:
@@ -136,7 +136,7 @@ SW2_003_04:
     - ' &6Fiery Sword &7(&ePassive&7)'
     - ' &7Grants &fFire Aspect II'
     - ' &6Burning Spirit &7(&eAttack&7)'
-    - ' &7Deal &e155% &7more damage while on fire'
+    - ' &7Deal &e155% &7more damage while enemy on fire'
     - ' &7Cooldown : &e0.9s&7, Mana Cost : &e6.0'
     attack-speed: 1.6
     ability:
@@ -176,7 +176,7 @@ SW2_003_05:
     - ' &6Fiery Sword &7(&ePassive&7)'
     - ' &7Grants &fFire Aspect II'
     - ' &6Burning Spirit &7(&eAttack&7)'
-    - ' &7Deal &e170% &7more damage while on fire'
+    - ' &7Deal &e170% &7more damage while enemy on fire'
     - ' &7Cooldown : &e0.8s&7, Mana Cost : &e6.0'
     attack-speed: 1.6
     ability:
@@ -216,7 +216,7 @@ SW2_003_06:
     - ' &6Fiery Sword &7(&ePassive&7)'
     - ' &7Grants &fFire Aspect II'
     - ' &6Burning Spirit &7(&eAttack&7)'
-    - ' &7Deal &e185% &7more damage while on fire'
+    - ' &7Deal &e185% &7more damage while enemy on fire'
     - ' &7Cooldown : &e0.7s&7, Mana Cost : &e6.0'
     attack-speed: 1.6
     ability:
@@ -256,7 +256,7 @@ SW2_003_07:
     - ' &6Fiery Sword &7(&ePassive&7)'
     - ' &7Grants &fFire Aspect II'
     - ' &6Burning Spirit &7(&eAttack&7)'
-    - ' &7Deal &e200% &7more damage while on fire'
+    - ' &7Deal &e200% &7more damage while enemy on fire'
     - ' &7Cooldown : &e0.6s&7, Mana Cost : &e6.0'
     attack-speed: 1.6
     ability:
@@ -296,7 +296,7 @@ SW2_003_08:
     - ' &6Fiery Sword &7(&ePassive&7)'
     - ' &7Grants &fFire Aspect II'
     - ' &6Burning Spirit &7(&eAttack&7)'
-    - ' &7Deal &e215% &7more damage while on fire'
+    - ' &7Deal &e215% &7more damage while enemy on fire'
     - ' &7Cooldown : &e0.5s&7, Mana Cost : &e6.0'
     attack-speed: 1.6
     ability:
@@ -336,7 +336,7 @@ SW2_003_09:
     - ' &6Fiery Sword &7(&ePassive&7)'
     - ' &7Grants &fFire Aspect II'
     - ' &6Burning Spirit &7(&eAttack&7)'
-    - ' &7Deal &e230% &7more damage while on fire'
+    - ' &7Deal &e230% &7more damage while enemy on fire'
     - ' &7Cooldown : &e0.4s&7, Mana Cost : &e6.0'
     attack-speed: 1.6
     ability:
@@ -376,7 +376,7 @@ SW2_003_10:
     - ' &6Fiery Sword &7(&ePassive&7)'
     - ' &7Grants &fFire Aspect II'
     - ' &6Burning Spirit &7(&eAttack&7)'
-    - ' &7Deal &e230% &7more damage while on fire'
+    - ' &7Deal &e230% &7more damage while enemy on fire'
     - ' &7Cooldown : &e0.4s&7, Mana Cost : &e6.0'
     attack-speed: 1.6
     ability:
@@ -416,7 +416,7 @@ SW2_003_11:
     - ' &6Fiery Sword &7(&ePassive&7)'
     - ' &7Grants &fFire Aspect II'
     - ' &6Burning Spirit &7(&eAttack&7)'
-    - ' &7Deal &e230% &7more damage while on fire'
+    - ' &7Deal &e230% &7more damage while enemy on fire'
     - ' &7Cooldown : &e0.4s&7, Mana Cost : &e6.0'
     attack-speed: 1.6
     ability:
